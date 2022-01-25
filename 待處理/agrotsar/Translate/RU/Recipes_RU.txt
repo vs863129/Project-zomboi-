@@ -1,0 +1,7 @@
+Recipes_EN = {
+    Recipe_Make_ASeederTankSmall = "Сделать бак для семян (маленький)",
+    Recipe_Make_ASeederTankMedium = "Сделать бак для семян (средний)",
+    Recipe_Make_ASeederTankLarge = "Сделать бак для семян (большой)",
+    Recipe_Make_ASeederPlate = "Сделать заслонки высыпные",
+    Recipe_Make_APlowshare = "Сделать стойки плуга",
+}

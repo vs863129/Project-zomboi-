@@ -1,0 +1,9 @@
+ItemName_RU = {
+/************ Agrotsar Farming Company ************/
+    ItemName_Agrotsar.AgrotsarMag = "Журнал «Агроцарь. Техника в сельском хозяйстве. Выпуск 1»",
+    ItemName_Agrotsar.ASeederTankSmall = "Бак для семян (маленький)",
+    ItemName_Agrotsar.ASeederTankMedium = "Бак для семян (средний)",
+    ItemName_Agrotsar.ASeederTankLarge = "Бак для семян (большой)",
+    ItemName_Agrotsar.ASeederPlate = "Заслонки высыпные",
+    ItemName_Agrotsar.APlowshare = "Стойки плуга",
+}

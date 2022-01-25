@@ -1,0 +1,17 @@
+IGUI_RU = {
+	/************ Agrotsar Farming Company ************/
+
+    IGUI_VehiclePartAgroSeederTankLeft = "Баки для семян (левые)",
+    IGUI_VehiclePartAgroSeederTankRight = "Баки для семян (правые)",
+    IGUI_VehiclePartAgroSeederPlateLeft= "Заслонки высыпные (левые)",
+    IGUI_VehiclePartAgroSeederPlateRight = "Заслонки высыпные (правые)",
+    IGUI_VehiclePartAgroPlowshareLeft= "Стойки плуга (левые)",
+    IGUI_VehiclePartAgroPlowshareRight = "Стойки плуга (правые)",
+	
+    IGUI_Agro_Plow_TurnOn = "Опустить плуг",
+    IGUI_Agro_Plow_TurnOff = "Поднять плуг",
+    IGUI_Agro_Seeder_TurnOn = "Включить сеялку",
+    IGUI_Agro_Seeder_TurnOff = "Выключить сеялку",
+    IGUI_Agro_Trailer_RequireEngine = "Двигатель должен быть запущен",
+    IGUI_Agro_Trailer_Broken = "Детали прицепа повреждены",
+}
