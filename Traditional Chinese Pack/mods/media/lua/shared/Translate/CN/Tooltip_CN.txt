@@ -1,0 +1,20 @@
+Tooltip_CN = {
+       --Extra Map Symbols UI--
+	Tooltip_Map_CantWrite = "需要鋼筆、鉛筆或蠟筆",
+	Tooltip_Map_CantEdit = "需要橡皮擦和鋼筆、鉛筆或蠟筆",
+	Tooltip_ExtraMapSymbolsUI_NeedCrayons = "需要一包蠟筆"
+
+       --Easy Heater Repair--
+	Tooltip_EHR_NewCondition = "新條件"
+
+       --Antiserum--
+	Tooltip_AntiserumChemicals = "一桶用於醫學的化學品",
+	Tooltip_AntiserumChemicalWorkstation = "移動式化學工作站. 專門為提取殭屍病毒的抗體所設計",
+	Tooltip_AntiserumSample = "受感染樣本. 含有少量抗體,可提取抗體並製作抗血清甚至治癒藥物",
+	Tooltip_AntiserumWeak = "緩解殭屍病毒症狀,但成效不佳",
+	Tooltip_AntiserumRegular = "抑制殭屍病毒一段時間",
+	Tooltip_AntiserumCure = "消除體內的殭屍病毒",
+	Tooltip_AntiserumUsedInjector = "你發了瘋才會再使用他",
+	Tooltip_AntiserumEmptyInjector = "用於製作抗血清注射劑",
+	Tooltip_AntiserumEmptyInjectorPack = "裝有數個注射劑",
+}

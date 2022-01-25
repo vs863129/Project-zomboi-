@@ -1,0 +1,21 @@
+UI_CN = {
+       --Stigs RemoteDoor Control--
+	 UI_optionscreen_binding_Hot key = "遠端開門熱鍵",
+       --HasBeenRead--
+	UI_P4HasBeenRead_Options_ShowNR_Name = "顯示 "未閱讀" 標記 (?)",
+	UI_P4HasBeenRead_Options_ShowNR_Tooltip = "如果要顯示 "未閱讀" 標記，請勾選該框",
+	UI_P4HasBeenRead_Options_ShowNC_Name = "顯示 "未完成" 標記 (!)",
+	UI_P4HasBeenRead_Options_ShowNC_Tooltip = "如果要顯示 "未完成" 標記，請勾選該框",
+	UI_P4HasBeenRead_Options_ShowAR_Name = "顯示 "已閱讀" 標記 (v)",
+	UI_P4HasBeenRead_Options_ShowAR_Tooltip = "如果要顯示 "已閱讀" 標記，請勾選該框",
+	UI_P4HasBeenRead_Options_ShowNCasNR_Name = ""未完成" 標記變更成 "未閱讀" 標記 (! -> ?)",
+	UI_P4HasBeenRead_Options_ShowNCasNR_Tooltip = "如果要將"未完成"的標記變更成"未讀"的標記，請勾選該框",
+	UI_P4HasBeenRead_Options_ShowCT_Name = "顯示 "當前階段" 標記 (o)",
+	UI_P4HasBeenRead_Options_ShowCT_Tooltip = "如果要顯示 當前等級所需閱讀的技能書標記，請勾選該框",
+	UI_P4HasBeenRead_Options_EnableCD_Name = "顯示 CD 標記",
+	UI_P4HasBeenRead_Options_EnableCD_Tooltip = "如果要顯示 CD 標記，請勾選該框",
+	UI_P4HasBeenRead_Options_EnableVHS_Name = "顯示 VHS 標記",
+	UI_P4HasBeenRead_Options_EnableVHS_Tooltip = "如果要顯示 VHS 標記，請勾選該框",
+	UI_P4HasBeenRead_Options_EnableHVHS_Name = "顯示 家庭VHS 標記",
+	UI_P4HasBeenRead_Options_EnableHVHS_Tooltip = "如果要顯示 家庭VHS 標記，請勾選該框",
+}

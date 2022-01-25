@@ -1,0 +1,11 @@
+IGUI_CN = {
+        --Stack All--
+	IGUI_MergeALLMod = "全部取出",
+	IGUI_MergeALLOutsideMod = "Grab and Pour All",
+	IGUI_CombineALLMod = "全部合併",
+	IGUI_CombineALLOutsideMod = "Grab and Combine All",
+	/* Soap Option (Options Mod is needed) */
+	IGUI_SA_MergeableSoap = "小塊肥皂可以組合",
+	IGUI_SA_MainMenu_tooltip = "進入主菜單即可生效",
+	IGUI_SA_MergeableSoap_tooltip = "Combine without any segmentation"
+}

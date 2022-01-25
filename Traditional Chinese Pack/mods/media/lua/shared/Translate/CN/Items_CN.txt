@@ -1,0 +1,12 @@
+Items_CN = {
+   --Antiserum--
+    DisplayName_AntiserumChemicals="化學品"
+    DisplayName_AntiserumChemicalWorkstation="化學工作站"
+    DisplayName_AntiserumSample="感染樣本"
+    DisplayName_AntiserumWeak="弱抗血清"
+    DisplayName_AntiserumRegular="強抗血清"
+    DisplayName_AntiserumCure="治癒血清"
+    DisplayName_AntiserumUsedInjector="注射劑 (已使用)"
+    DisplayName_AntiserumEmptyInjector="注射劑 (空)"
+    DisplayName_AntiserumEmptyInjectorPack="一盒注射劑"
+}
