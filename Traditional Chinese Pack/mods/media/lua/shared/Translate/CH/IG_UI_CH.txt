@@ -1,6 +1,6 @@
 UI_CH = {
       --Ammo Maker Reloaded--
-        IGUI_CraftCategory_Ammo = "¸Ë¶ñ",
-	IGUI_perks_AMReloading = "¸Ë¶ñ¼uÃÄ",
-	IGUI_ItemCat_Reloading = "¸Ë¶ñ¤¤",
+        IGUI_CraftCategory_Ammo = "è£å¡«",
+	IGUI_perks_AMReloading = "è£å¡«å½ˆè—¥",
+	IGUI_ItemCat_Reloading = "è£å¡«ä¸­",
 }
