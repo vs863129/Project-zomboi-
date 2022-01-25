@@ -1,9 +1,0 @@
-Recipes_CN = {
-   --Antiserum--
-    Recipe_Inject_Yourself = "注射自己"
-    Recipe_Test_yourself_for_a_zombie_virus = "自我檢測"
-    Recipe_Extract_antibodies_from_infected_samples = "提取抗體"
-    Recipe_Unpack_Empty_Injectors = "打開"
-    Recipe_Pack_Empty_Injectors = "裝盒"
-    Recipe_Build_Chemical_workstation = "製作"
-}
