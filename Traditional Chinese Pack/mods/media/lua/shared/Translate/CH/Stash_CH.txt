@@ -1,0 +1,3 @@
+Stash_CH = {
+    Stash_AMRMap1_Text1 = "The priest of the cemetery was very well armed!!!",
+}

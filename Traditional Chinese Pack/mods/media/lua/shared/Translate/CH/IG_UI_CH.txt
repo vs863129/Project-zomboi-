@@ -1,0 +1,6 @@
+UI_CH = {
+      --Ammo Maker Reloaded--
+        IGUI_CraftCategory_Ammo = "裝填",
+	IGUI_perks_AMReloading = "裝填彈藥",
+	IGUI_ItemCat_Reloading = "裝填中",
+}
