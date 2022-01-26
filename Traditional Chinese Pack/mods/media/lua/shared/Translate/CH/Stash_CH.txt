@@ -1,3 +1,4 @@
 Stash_CH = {
-    Stash_AMRMap1_Text1 = "The priest of the cemetery was very well armed!!!",
+  --Ammo Maker Reloaded--
+    Stash_AMRMap1_Text1 = "墓地的神父全副武裝!!!",
 }
