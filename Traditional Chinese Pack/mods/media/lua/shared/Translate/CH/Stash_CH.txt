@@ -1,4 +1,4 @@
 Stash_CH = {
   --Ammo Maker Reloaded--
-    Stash_AMRMap1_Text1 = "¹Ó¦aªº¯«¤÷¥ş°ÆªZ¸Ë!!!",
+    Stash_AMRMap1_Text1 = "å¢“åœ°çš„ç¥çˆ¶å…¨å‰¯æ­¦è£!!!",
 }
