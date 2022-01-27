@@ -64,4 +64,12 @@ ItemName_CH = {
 	ItemName_AmmoMaker.AMBookAReloading4 = "盡產杆籹硑",
 	ItemName_AmmoMaker.AMBookAReloading5 = "畍杆籹硑",
 	ItemName_AmmoMaker.ManualAM = "紆媚籹硑も",
+      --Bates Metalicos Revived--
+	ItemName_BatesMetalicos.MetalBaseballBat = "妮次瞴次",
+	ItemName_BatesMetalicos.Bgrip = "Pro次瞴次搐р盿",
+	ItemName_BatesMetalicos.Bsock = "Pro次瞴玂臔甅",
+      --Custom Map Bridge--
+	ItemName_Base.PMRMTire = "╊近璍",
+	ItemName_Base.PMRMTireMachine = "╊璍诀",
+	ItemName_Base.UnknownTire = "近璍 (ゼ)",
 }

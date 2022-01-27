@@ -34,4 +34,9 @@ ContextMenu_CH = {
 	ContextMenu_OpenAMManual = "閱讀手冊",
 	ContextMenu_OpenAMManualTT = "說明彈藥製作模組的機制",
 	ContextMenu_OpeningAMGuide = "打開手冊",
+      --Custom Map Bridge--
+	ContextMenu_CheckSign = "檢查物件",
+	ContextMenu_CheckSignTT = "檢查物件是否有重要數據.",
+	ContextMenu_OpenSafe = "打開保險箱",
+	ContextMenu_OpenSafeTT = "使用金鑰匙打開 Snake 的秘密保險箱.",
 }

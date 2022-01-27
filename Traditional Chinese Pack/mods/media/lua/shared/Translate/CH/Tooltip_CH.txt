@@ -172,4 +172,11 @@ Tooltip_CH = {
 	Tooltip_AMManual = "關於 Ammo Maker Reloaded Mod 有關的機制訊息.",
 	
 	Tooltip_Recipe_MakeBullets = "你可以有效的使用重裝工作桌製作彈藥.",
+      --Bates Metalicos Revived--
+	Tooltip_Bgrip = "略微提升棒球棒的威力.",
+	Tooltip_Bsock = "提升棒球棒威力,但重量更重.",
+      --Custom Map Bridge--
+	Tooltip_UnknownTire = "Needs to be readed to know what type of tire is.",
+	Tooltip_DismTire = "Essential part for mounting tires.<br>Use a vulcanizing machine to assemble.",
+	Tooltip_SecretText1 = "<H1> The Secret!!! <LINE> <TEXT> Hello Oliver, some people told me you've fish enough. Congratulations,  <RGB:1,0.8,0> I will tell you one of my secrets. <LINE> <RGB:0.7,0.7,0.7> Search in some sector of my constructions  <RGB:1,0.8,0> the next room  <RGB:0.7,0.7,0.7> and  <RGB:1,0.8,0> open the hidden safe with this key.  <BR> <RGB:0.7,0.7,0.7> Signing:  <RGB:0,0.4,0> Snake. <BR>",
 }
