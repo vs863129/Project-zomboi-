@@ -1,11 +1,29 @@
 IGUI_CN = {
         --Stack All--
 	IGUI_MergeALLMod = "全部取出",
-	IGUI_MergeALLOutsideMod = "Grab and Pour All",
+	IGUI_MergeALLOutsideMod = "合併所有",
 	IGUI_CombineALLMod = "全部合併",
-	IGUI_CombineALLOutsideMod = "Grab and Combine All",
-	/* Soap Option (Options Mod is needed) */
+	IGUI_CombineALLOutsideMod = "合併所有",
+	-- Soap Option (Options Mod is needed)--
 	IGUI_SA_MergeableSoap = "小塊肥皂可以組合",
 	IGUI_SA_MainMenu_tooltip = "進入主菜單即可生效",
 	IGUI_SA_MergeableSoap_tooltip = "Combine without any segmentation"
+	--Agrotsar Farming Company--
+	IGUI_VehicleNameAgrotractor = "奧列格迪爾 48342 (拖引機)",
+	IGUI_VehicleNameTrailerAgroplough = "農業之星-69(拖車農耕梨)",
+	IGUI_VehicleNameTrailerAgroseeder = "農業之星-2000(拖車播種機)",
+	
+	IGUI_VehiclePartAgroSeederTankLeft = "播種罐 (左)",
+	IGUI_VehiclePartAgroSeederTankRight = "播種罐 (右)",
+	IGUI_VehiclePartAgroSeederPlateLeft= "播種盤 (左)",
+	IGUI_VehiclePartAgroSeederPlateRight = "播種盤 (右)",
+	IGUI_VehiclePartAgroPlowshareLeft= "犁鏵(左",
+	IGUI_VehiclePartAgroPlowshareRight = "犁鏵 (右)",
+
+	IGUI_Agro_Plow_TurnOn = "下犁",
+	IGUI_Agro_Plow_TurnOff = "升犁",
+	IGUI_Agro_Seeder_TurnOn = "播種開",
+	IGUI_Agro_Seeder_TurnOff = "播種關",
+	IGUI_Agro_Trailer_RequireEngine = "優先啟動引擎",
+	IGUI_Agro_Trailer_Broken = "缺少必要部件",
 }

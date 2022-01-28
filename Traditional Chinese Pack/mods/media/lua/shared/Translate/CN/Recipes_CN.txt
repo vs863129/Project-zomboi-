@@ -6,4 +6,10 @@ Recipes_CN = {
     Recipe_Unpack_Empty_Injectors = "打開"
     Recipe_Pack_Empty_Injectors = "裝盒"
     Recipe_Build_Chemical_workstation = "製作"
+   --Agrotsar Farming Company--
+    Recipe_Make_ASeederTankSmall = "製作小型播種罐",
+    Recipe_Make_ASeederTankMedium = "製作中型播種罐",
+    Recipe_Make_ASeederTankLarge = "製作大型播種罐",
+    Recipe_Make_ASeederPlate = "製作播種盤",
+    Recipe_Make_APlowshare = "製作犁鏵",
 }
