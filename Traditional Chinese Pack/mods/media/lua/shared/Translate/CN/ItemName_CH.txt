@@ -1,9 +1,9 @@
 ItemName_CH = {
     --Agrotsar Farming Company--
-      ItemName_Agrotsar.AgrotsarMag = "Âø»x <¹A·~¤§¬P,M¹A·~.¾÷±ñ½g Vol.1?>>,
-      ItemName_Agrotsar.ASeederTankSmall = "¤p«¬¼½ºØÅø",
-      ItemName_Agrotsar.ASeederTankMedium = "¤¤«¬¼½ºØÅø",
-      ItemName_Agrotsar.ASeederTankLarge = "¤j«¬¼½ºØÅø",
-      ItemName_Agrotsar.ASeederPlate = "¼½ºØ½L",
-      ItemName_Agrotsar.APlowshare = "²pôó",
+      ItemName_Agrotsar.AgrotsarMag = "é›œèªŒ <è¾²æ¥­ä¹‹æ˜Ÿ,è¾²æ¥­æ©Ÿæ¢°ç¯‡ Vol>,
+      ItemName_Agrotsar.ASeederTankSmall = "å°å‹æ’­ç¨®ç½",
+      ItemName_Agrotsar.ASeederTankMedium = "ä¸­å‹æ’­ç¨®ç½",
+      ItemName_Agrotsar.ASeederTankLarge = "å¤§å‹æ’­ç¨®ç½",
+      ItemName_Agrotsar.ASeederPlate = "æ’­ç¨®ç›¤",
+      ItemName_Agrotsar.APlowshare = "çŠéµ",
 }
