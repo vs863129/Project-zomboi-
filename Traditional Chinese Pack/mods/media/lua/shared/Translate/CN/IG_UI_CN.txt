@@ -1,29 +1,29 @@
 IGUI_CN = {
         --Stack All--
-	IGUI_MergeALLMod = "¥ş³¡¨ú¥X",
-	IGUI_MergeALLOutsideMod = "¦X¨Ö©Ò¦³",
-	IGUI_CombineALLMod = "¥ş³¡¦X¨Ö",
-	IGUI_CombineALLOutsideMod = "¦X¨Ö©Ò¦³",
+	IGUI_MergeALLMod = "å…¨éƒ¨å–å‡º",
+	IGUI_MergeALLOutsideMod = "åˆä½µæ‰€æœ‰",
+	IGUI_CombineALLMod = "å…¨éƒ¨åˆä½µ",
+	IGUI_CombineALLOutsideMod = "åˆä½µæ‰€æœ‰",
 	-- Soap Option (Options Mod is needed)--
-	IGUI_SA_MergeableSoap = "¤p¶ôªÎ¨m¥i¥H²Õ¦X",
-	IGUI_SA_MainMenu_tooltip = "¶i¤J¥Dµæ³æ§Y¥i¥Í®Ä",
-	IGUI_SA_MergeableSoap_tooltip = "Combine without any segmentation"
+	IGUI_SA_MergeableSoap = "å°å¡Šè‚¥çš‚å¯ä»¥çµ„åˆ",
+	IGUI_SA_MainMenu_tooltip = "é€²å…¥ä¸»èœå–®å³å¯ç”Ÿæ•ˆ",
+	IGUI_SA_MergeableSoap_tooltip = "åˆä½µæ‰€æœ‰å°å¡Šè‚¥çš‚"
 	--Agrotsar Farming Company--
-	IGUI_VehicleNameAgrotractor = "¶ø¦C®æ­}º¸ 48342 (©ì¤Ş¾÷)",
-	IGUI_VehicleNameTrailerAgroplough = "¹A·~¤§¬P-69(©ì¨®¹A¯Ñ±ù)",
-	IGUI_VehicleNameTrailerAgroseeder = "¹A·~¤§¬P-2000(©ì¨®¼½ºØ¾÷)",
+	IGUI_VehicleNameAgrotractor = "å¥§åˆ—æ ¼è¿ªçˆ¾ 48342 (æ‹–å¼•æ©Ÿ)",
+	IGUI_VehicleNameTrailerAgroplough = "è¾²æ¥­ä¹‹æ˜Ÿ-69(æ‹–è»Šè¾²è€•æ¢¨)",
+	IGUI_VehicleNameTrailerAgroseeder = "è¾²æ¥­ä¹‹æ˜Ÿ-2000(æ‹–è»Šæ’­ç¨®æ©Ÿ)",
 	
-	IGUI_VehiclePartAgroSeederTankLeft = "¼½ºØÅø (¥ª)",
-	IGUI_VehiclePartAgroSeederTankRight = "¼½ºØÅø (¥k)",
-	IGUI_VehiclePartAgroSeederPlateLeft= "¼½ºØ½L (¥ª)",
-	IGUI_VehiclePartAgroSeederPlateRight = "¼½ºØ½L (¥k)",
-	IGUI_VehiclePartAgroPlowshareLeft= "²pôó(¥ª",
-	IGUI_VehiclePartAgroPlowshareRight = "²pôó (¥k)",
+	IGUI_VehiclePartAgroSeederTankLeft = "æ’­ç¨®ç½ (å·¦)",
+	IGUI_VehiclePartAgroSeederTankRight = "æ’­ç¨®ç½ (å³)",
+	IGUI_VehiclePartAgroSeederPlateLeft= "æ’­ç¨®ç›¤ (å·¦)",
+	IGUI_VehiclePartAgroSeederPlateRight = "æ’­ç¨®ç›¤ (å³)",
+	IGUI_VehiclePartAgroPlowshareLeft= "çŠéµ(å·¦",
+	IGUI_VehiclePartAgroPlowshareRight = "çŠéµ (å³)",
 
-	IGUI_Agro_Plow_TurnOn = "¤U²p",
-	IGUI_Agro_Plow_TurnOff = "¤É²p",
-	IGUI_Agro_Seeder_TurnOn = "¼½ºØ¶}",
-	IGUI_Agro_Seeder_TurnOff = "¼½ºØÃö",
-	IGUI_Agro_Trailer_RequireEngine = "Àu¥ı±Ò°Ê¤ŞÀº",
-	IGUI_Agro_Trailer_Broken = "¯Ê¤Ö¥²­n³¡¥ó",
+	IGUI_Agro_Plow_TurnOn = "ä¸‹çŠ",
+	IGUI_Agro_Plow_TurnOff = "å‡çŠ",
+	IGUI_Agro_Seeder_TurnOn = "æ’­ç¨®é–‹",
+	IGUI_Agro_Seeder_TurnOff = "æ’­ç¨®é—œ",
+	IGUI_Agro_Trailer_RequireEngine = "å„ªå…ˆå•Ÿå‹•å¼•æ“",
+	IGUI_Agro_Trailer_Broken = "ç¼ºå°‘å¿…è¦éƒ¨ä»¶",
 }
