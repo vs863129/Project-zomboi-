@@ -1,22 +1,22 @@
 Tooltip_CN = {
        --Extra Map Symbols UI--
-	Tooltip_Map_CantWrite = "�ݭn�����B�]��������",
-	Tooltip_Map_CantEdit = "�ݭn������M�����B�]��������",
-	Tooltip_ExtraMapSymbolsUI_NeedCrayons = "�ݭn�@�]����"
+	Tooltip_Map_CantWrite = "需要鋼筆、鉛筆或蠟筆",
+	Tooltip_Map_CantEdit = "需要橡皮擦和鋼筆、鉛筆或蠟筆",
+	Tooltip_ExtraMapSymbolsUI_NeedCrayons = "需要一包蠟筆"
 
        --Easy Heater Repair--
-	Tooltip_EHR_NewCondition = "�s����"
+	Tooltip_EHR_NewCondition = "新條件"
 
        --Antiserum--
-	Tooltip_AntiserumChemicals = "�@���Ω���Ǫ��ƾǫ~",
-	Tooltip_AntiserumChemicalWorkstation = "���ʦ��ƾǤu�@��. �M���������L�ͯf�r������ҳ]�p",
-	Tooltip_AntiserumSample = "���P�V�˥�. �t���ֶq����,�i��������ûs�@�ܦ�M�Ʀܪv¡�Ī�",
-	Tooltip_AntiserumWeak = "�w���L�ͯf�r�g��,�����Ĥ���",
-	Tooltip_AntiserumRegular = "�����L�ͯf�r�@�q�ɶ�",
-	Tooltip_AntiserumCure = "�����餺���L�ͯf�r",
-	Tooltip_AntiserumUsedInjector = "�A�o�F�Ƥ~�|�A�ϥΥL",
-	Tooltip_AntiserumEmptyInjector = "�Ω�s�@�ܦ�M�`�g��",
-	Tooltip_AntiserumEmptyInjectorPack = "�˦��ƭӪ`�g��",
+	Tooltip_AntiserumChemicals = "一桶用於醫學的化學品",
+	Tooltip_AntiserumChemicalWorkstation = "移動式化學工作站. 專門為提取殭屍病毒的抗體所設計",
+	Tooltip_AntiserumSample = "受感染樣本. 含有少量抗體,可提取抗體並製作抗血清甚至治癒藥物",
+	Tooltip_AntiserumWeak = "緩解殭屍病毒症狀,但成效不佳",
+	Tooltip_AntiserumRegular = "抑制殭屍病毒一段時間",
+	Tooltip_AntiserumCure = "消除體內的殭屍病毒",
+	Tooltip_AntiserumUsedInjector = "你發了瘋才會再使用他",
+	Tooltip_AntiserumEmptyInjector = "用於製作抗血清注射劑",
+	Tooltip_AntiserumEmptyInjectorPack = "裝有數個注射劑",
        --Agrotsar Farming Company--
-	Tooltip_item_AgrotsarMag = "The magazine covers issues of repair, maintenance of machinery and equipment, technology assessment<br>reliability and restoration of equipment, logistical support to the repair base.<br>The magazine is oriented to farmers, specialists and managers of farms of all<br>forms of ownership, specialists of district level, krai departments, agro-supply<br>organizations. The editorial board pays much attention not only to the coverage<br>of production issues, but also to the description of cultural life of the village,<br>all aspects of life of the village man. From the pages of the publication is an<br>active promotion of the achievements of science and experience of the best farms<br>of the region, the story about the people of the village, the history and prospects<br>of development of districts of the region, the life and work experience of<br>neighboring regions.",
+	Tooltip_item_AgrotsarMag = "該雜誌涵蓋維修,機械和設備維護,技術評估<br>設備的可靠性和恢復,維修基地的後勤支持等問題.<br>該雜誌面向所有農場的農民,專家和管理人員<br>所有製形式,區級專家,邊疆區部門,農業供應<br>組織。編委不僅關註生產問題的報導<br>,還關注對當地文化生活的描述,<br>以及村民生活的方面.從出版物的頁面來看,<br>積極宣傳該地區最好的農場的科學成就和經驗<br>關於人民的故事,村莊概況,本地區各區發展的歷史與前景<br>周邊地區的生活和工作經歷.",
 }
