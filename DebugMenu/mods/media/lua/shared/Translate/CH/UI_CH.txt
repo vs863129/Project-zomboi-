@@ -1,0 +1,5 @@
+UI_CH = {
+
+    UI_optionscreen_binding_DebugMenu = "設定菜單",
+    UI_optionscreen_binding_DM_Deliver = "傳送",
+}
