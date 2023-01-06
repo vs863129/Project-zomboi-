@@ -14,7 +14,7 @@ FileName/mods/media/lua/shared/Translate/CH/
 範例: 模組名稱為DebugMenu 則 DebugMenu/mods/media/lua/shared/Translate/CH/  
 
 且檔案編碼記得是UTF-8，如有不同請告知!  
-## 模組開發者(MOD developer)  
+## 模組開發者(MOD Developer)  
 暫無
 ## 已經翻譯的模組(Translated mods)
 DebugMenu (Github:Genshin804,Discord:Genshin)
