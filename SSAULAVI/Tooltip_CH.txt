@@ -1,0 +1,24 @@
+Tooltip_EN = {
+
+Tooltip_BookTitle_LongBlade = "長刃",
+
+Tooltip_SS_Bluntweapons = "-一把鈍器",
+
+	Tooltip_SS_Sakabatou = "傳說中的殺手退休後使用的劍<br>短刀<br>速度X1.5",
+	Tooltip_SS_Toyako = "叛軍首領和特勤局首腦經常購買的家庭購物郵購商品<br>短刀<br>耐久X2<br>條件耐久X2",
+	Tooltip_SS_WadoIchimonji = "從一位死於惡毒海盜獵人手中的兒時玩伴那裡繼承下來的紀念品<br>耐久X2<br>條件耐久X2",
+	Tooltip_SS_Tessaiga = "據說是用怪物的尖牙製成的古代劍<br>命中數X3",
+	Tooltip_SS_Ryusei = "據說世界級幻影盜賊成員使用的武士刀<br>車門傷害<br>樹木傷害",
+	Tooltip_SS_SOIN = "據說伊勢半島中部的忍者學校為刺殺而製造的劍<br>最大傷害X3<br>耐久/2",
+	Tooltip_SS_Jigokusanmadou = "一把據說被女劍士封印以遵守她與伴侶的誓言的劍<br>最大幅度X2<br>命中數X2<br>耐久/2",
+	Tooltip_SS_Ryuseiraku = "據說可以奪走主人靈魂的惡魔之劍<br>損壞率X2",
+	Tooltip_SS_Rib = "Go 氏族的刀劍大師在與海盜頭目戰鬥時揮舞的一把又酷又重的劍<br>速度X2",
+	Tooltip_SS_Kusabimaru = "據說年輕領主送給沒有單臂的單臂忍者的一把劍<br>耐久X3<br>條件耐久性X3<br>最小傷害/2",
+	Tooltip_SS_Nichirinto = "流浪漢在加入義務警員後用來治療他被感染的妹妹的一把劍<br>最大傷害X2",
+	Tooltip_SS_Zanpakuto = "異世界都城防衛司令部總司令使用的劍<br>最大射程x1.5",
+	Tooltip_SS_Baioudoku = "一把據說被無情的流浪殺手揮舞的劍<br>速度X1.5",
+	Tooltip_SS_Ryuken = "傳奇忍者使用的劍<br>最小傷害X1.5<br>最大傷害X1.5",
+	Tooltip_SS_Kiennodosu = "綽號瘋狗的指定幫派頭目喜歡的一把短刀<br>損壞率X2",
+	Tooltip_SS_Chunchunmaru = "據說是異界轉世者定製的喪服<br>最大傷害X2<br>耐久/2",
+	Tooltip_SS_Rekkimaru = "一把據說是由具有傑出精神力量的逃亡忍者設計和製造的劍<br>耐久X2<br>條件耐久X2",
+}
