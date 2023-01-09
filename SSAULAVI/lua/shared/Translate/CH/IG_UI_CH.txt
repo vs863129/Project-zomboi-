@@ -1,0 +1,5 @@
+IGUI_CH = {
+
+IGUI_ItemCat_Wazamono = "傳說之刃",
+
+}

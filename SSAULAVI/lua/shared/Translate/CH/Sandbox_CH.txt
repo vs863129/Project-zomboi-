@@ -1,0 +1,11 @@
+Sandbox_CH = {
+
+Sandbox_Ssaulavi = "SSAULAVI模組選項",
+
+Sandbox_Ssaulavi_ToukenkanteishiChance = "刀刃鑑定師",
+Sandbox_Ssaulavi_ToukenkanteishiChance_tooltip = "設置“刀刃”的生成稀有值.這個設置是影響預設值 - 5000 / 1的分母值.<br> 這個設置的數值越低 生成率越高 : 數值越高 生成率越低.<br>只會適用於擁有“刀刃鑑定師”特性的角色.",
+
+Sandbox_Ssaulavi_MeikenkanteishiChance = "傳奇之刀刃鑑定師",
+Sandbox_Ssaulavi_MeikenkanteishiChance_tooltip = "設置“特別刀刃”的生成稀有值.這個設置是影響預設值 - 2500 / 1的分母值.<br> 這個設置的數值越低 生成率越高 : 數值越高 生成率越低.<br>只會適用於擁有“傳奇之刀刃鑑定師”特性的角色.",
+
+}
