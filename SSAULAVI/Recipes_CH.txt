@@ -1,0 +1,12 @@
+Recipes_CH = {
+    Recipe_Craft_a_Improvised_Wooden_Katana = "製作簡易木製武士刀",
+    Recipe_Craft_a_Practice_Wooden_Katana = "練習用木製武士刀",
+    Recipe_Breaking_a_Metallic_Item = "製作不可用金屬",
+    Recipe_Craft_a_Salvaged_Metal_Katana = "製作自製金屬武士刀",
+    Recipe_Craft_a_Whetstone = "製作磨刀石",
+	Recipe_Craft_a_Leather_Strop = "製作磨刀皮革帶",
+    Recipe_Create_Staff = "製作精緻的棍棒",
+	Recipe_Craft_a_Salvaged_Metal Spear = "製作自製金屬長矛",
+	Recipe_Attach_Wakizashi_to_Spear = "製作薙刀",
+	Recipe_Reclaim_Wakizashi_from_Spear = "製作劦差",	
+	}
