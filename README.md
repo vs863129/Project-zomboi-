@@ -1,6 +1,7 @@
 #  首次使用Github
 ## 本篇界介面介紹
 此頁左上角有三條橫槓,可以快速查看你想知道的內容!
+![image](https://user-images.githubusercontent.com/75469306/211250030-a9d96cb9-7ad4-48b5-ab46-212b928abcff.png)
 ## 如何註冊Github(第一步)
 ![image](https://user-images.githubusercontent.com/75469306/211249607-508d2cb6-b261-40c0-865b-f230ee00fd16.jpg)
 ![image](https://user-images.githubusercontent.com/75469306/211249610-f2ab4065-d0f6-44ff-a7c3-947e32897577.jpg)
