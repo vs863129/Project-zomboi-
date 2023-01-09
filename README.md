@@ -9,3 +9,5 @@
 ![image](https://user-images.githubusercontent.com/75469306/211249617-9887382a-3ded-43c2-bd80-d650aa3d48a5.jpg)
 ![image](https://user-images.githubusercontent.com/75469306/211249604-fbf0eced-f59d-4909-b690-87b604031049.jpg)
 # 如何上傳已經翻譯完成的模組?(第二步)
+##簡介
+本介紹分成兩小節,因為第二節並非適用其他Github創建者使用習慣!
