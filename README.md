@@ -17,8 +17,8 @@ FileName/mods/media/lua/shared/Translate/CH/
 ## 模組開發者(MOD Developer)  
 暫無
 ## 已經翻譯的模組(Translated mods)
-DebugMenu (Github:Genshin804,Discord:Genshin)
-SSAULAVI (Github: ,Discord:Nemo)
+DebugMenu (Github:Genshin804,Discord:Genshin)  
+SSAULAVI (Github: ,Discord:Nemo)  
 ## 連接(LINK)
 None
 
