@@ -1,0 +1,76 @@
+UI_CH = {
+
+UI_trait_Keiko = "刀劍見習生",
+UI_trait_Keikodesc = "熟悉劍術 更喜歡將其作為生存的武器.<br>知道用一些材料可以製作刀劍和維護工具.<br>這些材料在覓食時發現的概率會增加.",
+
+UI_trait_Toukenkanteishi = "刀刃鑑定師",
+UI_trait_Toukenkanteishidesc = "對傳說中的刀刃有著知識可以辨認.<br>搜索容器時 低概率找到把刀刃和把特殊刀刃.<br> # 此特性受:幸運/不幸的特徵 可以通過沙盒模式中的選項進行調整.",
+
+UI_trait_Koshirae = "劍持者",
+UI_trait_Koshiraedesc = "殭屍末日爆發之前 擁有並管理著刀劍 並且隨身攜帶.<br>刀劍並會減少耐久消耗。<br>一開始 先拿一個包和一把刀劍.",
+
+UI_trait_Kenjin = "刀的學徒",
+UI_trait_Kenjindesc = " +1 長劍技能 <br>根據殺死的殭屍數量和你擁有的特性 此特性會發生變化.",
+
+UI_trait_Kenshi = "劍使",
+UI_trait_Kenshidesc = " +1 長劍技能 <br>根據殺死的殭屍數量和你擁有的特性 此特性會發生變化.",
+UI_trait_Kenkaku = "刀的專家",
+UI_trait_Kenkakudesc = "",
+UI_trait_Kengo = "劍宗師",
+UI_trait_Kengodesc = "",
+
+UI_trait_Kensai = "浪人",
+UI_trait_Kensaidesc = "",
+
+UI_trait_Kensei = "大宗師",
+UI_trait_Kenseidesc = "",
+UI_trait_Kenshin = "劍神",
+UI_trait_Kenshindesc = "",
+
+UI_trait_Kenma = "銀翼殺手",
+UI_trait_Kenmadesc = "",
+UI_trait_Kenki = "惡魔的刃",
+UI_trait_Kenkidesc = "",
+
+UI_trait_Menkyokaiden = "精通劍術",
+UI_trait_Menkyokaidendesc = "在特定學校接受過武術教育 或者學習了劍的邏輯.<br> +1 健身<br> +1 強壯<br> +1 敏捷",
+
+
+UI_trait_Katsujinken = "活劍",
+UI_trait_Katsujinkendesc = "刀刃下之是地獄 欲自棄則照耀光芒.<br>刃刀下之是地獄 向前一步即是天堂. <br>觸及它的刀下是地獄 所以只朝你的對手 向神的劍走去.<br> +1健身 <br>當使用長劍時 特性會隨著你所擁有的特性的特性而增加.",
+
+UI_trait_Satsujinto = "殺戮之刃",
+UI_trait_Satsujintodesc = "一擊不惑 血染地獄<br>全力砍殺敵方<br>若一擊還不倒 便加倍力量<br> +1 力量<br>當使用長劍時 根據擁有的屬性比例給予額外傷害.",
+
+UI_trait_Meikenkanteishi = "傳奇之刀刃鑑定師",
+UI_trait_Meikenkanteishidesc = "對傳說中的刀刃有著深厚的知識可以辨認.<br>搜索容器時 有概率找到一把特殊刀刃.<br> # 此特性受:幸運/不幸的特徵 可以通過沙盒模式中的選項進行調整.",
+
+UI_trait_Yarijouzu = "長槍使用者",
+UI_trait_Yarijouzudesc = "+1 長矛<br>根據殺死的殭屍數量和你擁有的特性 此特性會發生變化.",
+UI_trait_Yarimeijin = "矛的行家",
+UI_trait_Yarimeijindesc = "",
+UI_trait_Yaritatsujin = "長槍大師",
+UI_trait_Yaritatsujindesc = "",
+UI_trait_Yaritenkaichi = "矛鬥士",
+UI_trait_Yaritenkaichidesc = "",
+UI_trait_Tenkamusou = "百戰百勝",
+UI_trait_Tenkamusoudesc = "",
+
+UI_trait_Nagae = "長桿武器",
+UI_trait_Nagaedesc = "沒有劍...世界上所有的想法.<br>有多少事是可以用言語來表達.<br>這可不是邏輯 , 是一種感覺.<br>知道有些材料可以製作長矛.<br>長矛減少耐久度消耗.",
+
+
+UI_prof_Shihan = "碩士",
+UI_profdesc_Shihan = "從劍館的練習生開始就一直在劍道上努力的武術家.",
+UI_prof_Hitokiri = "殺手",
+UI_profdesc_Hitokiri = "是個隱藏在暗黑的刀客<br>末日爆發之前 全身早已染紅",
+UI_prof_Toukenshuushuuka = "寶刀收藏家",
+UI_profdesc_Toukenshuushuuka = "收集各種類的劍的專家<br>包括遺物,手工藝品和古物.",
+
+UI_prof_Hikikomikenshi = "隱居劍客",
+UI_profdesc_Hikikomikenshi = "是你<br>一直生活在灰色的城市 但現在沒有任何理由再這樣做了.",
+
+UI_prof_Kobudoka = "古典武術家",
+UI_profdesc_Kobudoka = "是位古典武術大師，主要用矛 , 槍 , 戟等長柄武器.",
+
+}
