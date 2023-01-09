@@ -1,5 +1,6 @@
 #  翻譯社群注意事項
 ## 簡介(Overview)
+[GitHubTutorial-01](https://user-images.githubusercontent.com/75469306/211249001-085dab0f-c338-4583-b1a7-d08c1ae75dd1.jpg)
 本社群是為ProjectZomboid的模組翻譯而創的  
 希望各位翻譯者能在這上傳檔案，避免多人翻譯同個模組  
 而我個人只是負責統整Github管理部分  
@@ -15,7 +16,8 @@ FileName/mods/media/lua/shared/Translate/CH/
 
 且檔案編碼記得是UTF-8，如有不同請告知!  
 ## 模組開發者(MOD Developer)  
-暫無
+暫無!
+
 ## 已經翻譯的模組(Translated mods)
 DebugMenu (Github:Genshin804,Discord:Genshin)
 ## 連接(LINK)
