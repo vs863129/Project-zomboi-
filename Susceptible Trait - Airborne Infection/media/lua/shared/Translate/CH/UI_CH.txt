@@ -1,0 +1,20 @@
+UI_CH = {
+
+	UI_trait_Susceptible = "易受感染",
+	UI_trait_SusceptibleDesc = "很容易感染諾克斯空氣中的屍毒.<br>靠近殭屍時必須戴上口罩 以免感染屍毒.",
+
+	UI_Susceptible_Filter = "過濾器",
+	UI_Susceptible_No_Filter = "沒有過濾器",
+	UI_Susceptible_Swap_Filter = "交換過濾器",
+	UI_Susceptible_Insert_Filter = "插入過濾器",
+	UI_Susceptible_Remove_Filter = "拿掉過濾器",
+
+	UI_Susceptible_Oxygen = "氧氣罐",
+	UI_Susceptible_No_Oxygen = "沒有氧氣罐",
+	UI_Susceptible_Swap_Oxygen = "交換氧氣罐",
+	UI_Susceptible_Insert_Oxygen = "插入氧氣罐",
+	UI_Susceptible_Remove_Oxygen = "拿掉氧氣罐",
+
+	UI_Susceptible_Repair_With = "修復中...",
+	UI_Susceptible_Bleach_Repair = "用漂白劑清潔"
+}
