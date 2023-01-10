@@ -1,3 +1,0 @@
-IG_UI_CH = {
-    IGUI_CraftCategory_Misc = "雜項(口罩)",
-	}
