@@ -19,7 +19,8 @@ FileName/mods/media/lua/shared/Translate/CH/
 ## 已經翻譯的模組(Translated mods)
 DebugMenu (Github:Genshin804,Discord:Genshin)  
 SSAULAVI (Github: ,Discord:Nemo)  
-Hand Crank Flashlights (Github: ,Discord:Nemo)  
+手搖手電筒 Hand Crank Flashlights (Github: ,Discord:Nemo)  
+易感染症狀-空氣傳播 Susceptible Trait - Airborne Infection (Github: ,Discord:Nemo)  
 ## 連接(LINK)
 None
 
