@@ -1,9 +1,0 @@
-ItemName_CH = {
-    --Agrotsar Farming Company--
-      ItemName_Agrotsar.AgrotsarMag = "雜誌 <農業之星,農業機械篇 Vol>",
-      ItemName_Agrotsar.ASeederTankSmall = "小型播種罐",
-      ItemName_Agrotsar.ASeederTankMedium = "中型播種罐",
-      ItemName_Agrotsar.ASeederTankLarge = "大型播種罐",
-      ItemName_Agrotsar.ASeederPlate = "播種盤",
-      ItemName_Agrotsar.APlowshare = "犁鏵",
-}
