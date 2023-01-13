@@ -1,4 +1,4 @@
-Tooltip_EN = {
+Tooltip_CH = {
 
 Tooltip_BookTitle_LongBlade = "長刃",
 
