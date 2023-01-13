@@ -1,0 +1,5 @@
+IGUI_CH = {
+	IGUI_SOP_Options_modShortname = "Arithmechick的痛苦尖叫",
+	IGUI_SOP_Options_showSpeechText = "顯示語音文本",
+	IGUI_SOP_Options_audioVolume = "音量",
+}
