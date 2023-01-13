@@ -17,7 +17,7 @@ FileName/media/lua/shared/Translate/CH/
 ## 模組開發者(MOD Developer)  
 暫無
 ## 已經翻譯的模組(Translated mods)
-除錯選單 [DebugMenu](https://steamcommunity.com/sharedfiles/filedetails/?id=2737787862&searchtext=DebugMenu) (Github:Genshin804,Discord:Genshin)  
+[調試選單 DebugMenu](https://steamcommunity.com/sharedfiles/filedetails/?id=2737787862&searchtext=DebugMenu) (Github:Genshin804,Discord:Genshin)  
 SSAULAVI (Github: ,Discord:尼莫)  
 手搖手電筒 Hand Crank Flashlights (Github: ,Discord:尼莫)  
 易感染症狀-空氣傳播 Susceptible Trait - Airborne Infection (Github: ,Discord:尼莫)  
