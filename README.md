@@ -10,8 +10,8 @@
 需要申請Github帳戶才能進行上傳或變更內容  
 上傳之後，會需要Pull requests並等待由我本人同意上傳或更改，以避免造成其他MOD翻譯混亂  
 模組請統一路徑 :
-FileName/mods/media/lua/shared/Translate/CH/  
-範例: 模組名稱為DebugMenu 則 DebugMenu/mods/media/lua/shared/Translate/CH/  
+FileName/media/lua/shared/Translate/CH/  
+範例: 模組名稱為DebugMenu 則 DebugMenu/media/lua/shared/Translate/CH/  
 [範例檔案](https://github.com/vs863129/PZModTraditional/tree/%E7%AF%84%E4%BE%8B%E6%AA%94)  
 且檔案編碼記得是UTF-8，如有不同請告知!  
 ## 模組開發者(MOD Developer)  
