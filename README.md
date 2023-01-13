@@ -21,8 +21,8 @@ FileName/media/lua/shared/Translate/CH/
 SSAULAVI (Github: ,Discord:尼莫)  
 手搖手電筒 Hand Crank Flashlights (Github:nemo01642280 ,Discord:尼莫)  
 易感染症狀-空氣傳播 Susceptible Trait - Airborne Infection (Github:nemo01642280 ,Discord:尼莫)  
-Arithmechick's Screams of Pain (Github:nemo01642280 ,Discord:尼莫)
-模組管理 Mod Manager (Github: ,Discord:cide2021) 
+Arithmechick's Screams of Pain (Github:nemo01642280 ,Discord:尼莫)  
+模組管理 Mod Manager (Github: ,Discord:cide2021)  
 ## 連接(LINK)
 None
 
