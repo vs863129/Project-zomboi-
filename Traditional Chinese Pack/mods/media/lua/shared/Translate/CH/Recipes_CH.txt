@@ -1,0 +1,17 @@
+Recipe_CH ={
+    Recipe_Craft_a_Improvised_Wooden_Katana = "製作簡易木製武士刀",
+    Recipe_Craft_a_Practice_Wooden_Katana = "練習用木製武士刀",
+    Recipe_Breaking_a_Metallic_Item = "製作不可用金屬",
+    Recipe_Craft_a_Salvaged_Metal_Katana = "製作自製金屬武士刀",
+    Recipe_Craft_a_Whetstone = "製作磨刀石",
+	Recipe_Craft_a_Leather_Strop = "製作磨刀皮革帶",
+    Recipe_Create_Staff = "製作精緻的棍棒",
+	Recipe_Craft_a_Salvaged_Metal Spear = "製作自製金屬長矛",
+	Recipe_Attach_Wakizashi_to_Spear = "製作薙刀",
+	Recipe_Reclaim_Wakizashi_from_Spear = "製作劦差",	
+	Recipe_Create_Cloth_Mask = "做個布口罩",
+	Recipe_Open_Box_of_Face_Masks = "打開口罩盒",
+	Recipe_Put_Face_Masks_in_Box = "把口罩放進盒裡",
+	Recipe_Open_Box_of_Dust_Masks = "打開防塵口罩盒",
+	Recipe_Put_Dust_Masks_in_Box = "把防塵口罩放進盒裡",
+}
