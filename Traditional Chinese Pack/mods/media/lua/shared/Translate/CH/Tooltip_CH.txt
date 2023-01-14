@@ -1,4 +1,4 @@
-Tooltip_CH= {
+Tooltip_CH = {
     Tooltip_BookTitle_LongBlade = "長刃",
     Tooltip_SS_Bluntweapons = "-一把鈍器",
 	Tooltip_SS_Sakabatou = "傳說中的殺手退休後使用的劍<br>短刀<br>速度X1.5",
