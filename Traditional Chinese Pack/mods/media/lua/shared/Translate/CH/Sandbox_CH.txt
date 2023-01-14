@@ -1,4 +1,4 @@
-Sandbox_CH={
+Sandbox_CH = {
 	Sandbox_ScreamsOfPain = "Arithmechick的痛苦尖叫"
 	
 	Sandbox_ScreamsOfPain_EnableZombieAttraction = "噪音吸引殭屍"
