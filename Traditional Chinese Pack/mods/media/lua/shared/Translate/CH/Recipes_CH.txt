@@ -1,4 +1,4 @@
-Recipe_CH ={
+Recipe_CH = {
     Recipe_Craft_a_Improvised_Wooden_Katana = "製作簡易木製武士刀",
     Recipe_Craft_a_Practice_Wooden_Katana = "練習用木製武士刀",
     Recipe_Breaking_a_Metallic_Item = "製作不可用金屬",
