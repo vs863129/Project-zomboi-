@@ -1,0 +1,17 @@
+﻿ContextMenu_CH = {
+
+	ContextMenu_CheckSign = "檢查對象",
+	ContextMenu_CheckSignTT = "檢查對像以查找重要數據",
+	ContextMenu_OpenSafe = "打開保險箱",
+	ContextMenu_OpenSafeTT = "使用金鑰匙打開 Snake 的秘密保險箱",
+	ContextMenu_HookUpObject = "使用鉤爪",
+	ContextMenu_HookUpObjectTT = "使用鉤爪獲得水井底部的物體。",
+	ContextMenu_TryAgain = "哦，需要再試一次。",
+	ContextMenu_TryAgainB = "那太近了！ 需要再試一次。",
+	ContextMenu_TryAgainC = "很接近！！！ 再來！！！",
+	ContextMenu_OpenSafeSkullTT = "頭骨已就位，鎖現在似乎打開了。",
+	ContextMenu_OpenLocker = "打開儲物櫃",
+	ContextMenu_OpenLockerTT = "使用特殊的鑰匙打開鎖。",
+	ContextMenu_UseRod = "使用 ",
+	ContextMenu_UseRodTT = "使用釣魚竿嘗試將無法觸及的小物體打撈出來。",
+}

@@ -1,0 +1,13 @@
+﻿Tooltip_CH = {
+	
+	Tooltip_craft_TableSawDesc = "它可以讓鋸木速度提高 50% 並從中獲得更多木板",
+	Tooltip_SawEngine = "這個舊引擎似乎仍然可以正常工作",
+	Tooltip_Sawblade = "一個非常鋒利的圓形鋸片，非常適合鋸床",
+	Tooltip_Craft Table Saw = "製作鋸床",
+	Tooltip_needrecipe = "需要的設計圖：",
+	Tooltip_StickStacks = "包含 24 根木棍",
+	Tooltip_item_RainFromGround2 = "將其放置在戶外地面上時，可用於收集雨水<br> 如果不正確清潔此容器，則無法飲用",
+	Tooltip_ItemDye = "可用於製作染料",
+	Tooltip_ItemPaint = "可用於製作油漆",
+	Tooltip_MetalSpikes = "增加武器傷害",
+}

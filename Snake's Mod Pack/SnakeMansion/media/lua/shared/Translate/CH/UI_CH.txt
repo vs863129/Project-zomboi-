@@ -1,0 +1,6 @@
+﻿UI_CH = {
+
+	UI_trait_agentmulder = "聯邦調查局特工",
+	UI_trait_agentmulderdesc = "特工編號：22791。<br>專長：犯罪心理學<br>瞄準技能3。",
+
+}

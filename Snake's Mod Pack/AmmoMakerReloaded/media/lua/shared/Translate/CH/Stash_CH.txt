@@ -1,0 +1,3 @@
+﻿Stash_CH = {
+    Stash_AMRMap1_Text1 = "墓地的牧師全副武裝！！！",
+}

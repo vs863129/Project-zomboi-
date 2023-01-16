@@ -1,0 +1,66 @@
+﻿SurvivalGuide_CH = {
+
+	SurvivalGuide_amentrie1title = "'彈藥製作指南手冊' #1",
+	SurvivalGuide_amentrie1txt = " <CENTRE> <SIZE:large> '彈藥製作指南手冊' <LINE> <SIZE:large> #1 - 介紹 <LINE> <IMAGECENTRE:AMGuide_1.png> <LINE> <SIZE:medium> 這個模組的新特性和機制。",
+	SurvivalGuide_amentrie1moreinfo = " <H1> 介紹  <BR> <TEXT> 這是彈藥製作指南手冊模組的學習手冊。 <LINE> 您將學習新的機制來擴展生存體驗。 <LINE> 您將在下面看到此模組帶來的改變和資訊列表。 <BR> <H1> " ..
+            "軍工技能 <BR> <TEXT> <IMAGE:media/ui/icon.png> 新的軍工技能。 <LINE> <IMAGE:media/ui/icon.png> 閱讀相關書籍後，可以獲得加成效果獲得的經驗值。 <BR> <IMAGECENTRE:AmArt1.png> <BR> <H1> "..
+			"軍工製作台 <BR> <TEXT> <IMAGE:media/ui/icon.png> 允許進行與槍支相關的不同動作的家具。 <BR> <IMAGECENTRE:AmRT1.png> <BR> <H1> "..
+            "拆卸彈藥  <BR> <TEXT> <IMAGE:media/ui/icon.png> 獲得用於製造子彈的主要材料的方法之一。 <BR> <IMAGECENTRE:AmDC1.png> <BR> <H1> "..
+            "鉛製品 <BR> <TEXT> <IMAGE:media/ui/icon.png> 使用必要的材料，您可以將鉛製成不同口徑的射彈。 <BR> <IMAGECENTRE:AmTP1.png> <BR> <H1> "..
+            "製造彈藥 <BR> <TEXT> <IMAGE:media/ui/icon.png> 你可以為你的槍支製作不同口徑的子彈。 <BR> <IMAGECENTRE:AmFM1.png> <BR> <H1> "..
+			"拆卸槍支 <BR> <TEXT> <IMAGE:media/ui/icon.png> 您將能夠拆卸槍支以獲得特定的武器零件，並能夠進行更好的維修。 <BR> <IMAGECENTRE:AmDArmasTitle.png> <BR> <H1> "..
+			"新型槍(AK-47) <BR> <TEXT> <IMAGE:media/ui/icon.png> 該模組添加了著名的 AK-47 及其相對應的彈藥和配件。 <BR> <IMAGECENTRE:AmAkTitle.png> <BR> <H1> ",
+	
+	SurvivalGuide_amentrie2title = "'彈藥製作指南手冊' #2",
+	SurvivalGuide_amentrie2txt = " <CENTRE> <SIZE:large> '彈藥製作指南手冊' <LINE> <SIZE:large> #2 - 軍工技能 <LINE> <IMAGECENTRE:AMGuide_2.png> <LINE> <SIZE:medium> 這個模組的新特性和機制。",
+	SurvivalGuide_amentrie2moreinfo = " <H1> 軍工技能 <BR> <TEXT> 這是軍工技能部分。 <BR> "..
+			"<H2> 如何提高軍工？ <BR> <TEXT> <IMAGE:media/ui/icon.png> 您可以通過建造和使用裝彈台來提升軍工技能，您也可以觀看有關此技能的 錄影帶。 <LINE> <IMAGE:media/ui/icon.png> 您可以閱讀軍工書籍來獲得高經驗值得加成。 <BR> <IMAGECENTRE:AmArt2.png> <BR> "..
+			"<H2> 是什麼原因影響了技能？ <BR> <TEXT> <IMAGE:media/ui/icon.png> 軍工等級越高，鉛彈和子彈的製造時間越短。 <LINE> <IMAGE:media/ui/icon.png> 這是控制所有彈藥製作的技能。 <LINE> <IMAGE:media/ui/icon.png> 提升軍工技能，您就可以製造更大口徑的子彈。 （閱讀它們各自的雜誌） <LINE> <IMAGECENTRE:AmArt3.png> <BR> ",
+
+	SurvivalGuide_amentrie3title = "'彈藥製作指南手冊' #3",
+	SurvivalGuide_amentrie3txt = " <CENTRE> <SIZE:large> '彈藥製作指南手冊' <LINE> <SIZE:large> #3 - 軍工製作台 <LINE> <IMAGECENTRE:AMGuide_3.png> <LINE> <SIZE:medium> 這個模組的新特性和機制。",
+	SurvivalGuide_amentrie3moreinfo = " <H1> 軍工製作台 <BR> <TEXT> 這是軍工製作台部分。 <BR> "..
+			"<H2> 描述 <BR> <TEXT> <IMAGE:media/ui/icon.png> 軍工製作台是用來拆裝、製造彈藥和拆解槍支的家具。 <BR> <IMAGECENTRE:AmBR1a.png> <BR> "..
+			"<H2> 製作 <BR> <TEXT> <IMAGE:media/ui/icon.png> 軍工製作台可以給彈藥專家來專業製作，也可以閱讀《裝彈台》雜誌，也有錄影帶教你如何製作。 <LINE> <IMAGE:media/ui/icon.png> 閱讀配方後，您可以使用上下文菜單訪問擴展的建構菜單，您將找到建構它的必要資料。 <BR> <IMAGECENTRE:AmBR1.png> <BR> "..
+			"<H2> 作業 <BR> <TEXT> <IMAGE:media/ui/icon.png> 建造完成後，如果擁有 0 級軍工，您將能夠研究其操作。 <LINE> <IMAGE:media/ui/icon.png> 在練習了必要的時間後，您會將軍工等級提高到 1 並解鎖其所有功能。 <BR> <IMAGECENTRE:AmBR2.png> <BR> "..
+			"<H2> 其他規格 <BR> <TEXT> <IMAGE:media/ui/icon.png> 軍工製作台可以像其他任何家具一樣被破壞，也可以拆除或移動。 <LINE> <IMAGE:media/ui/icon.png> 每個圖塊可容納 100 個。 <LINE> <IMAGE:media/ui/icon.png> 請記住，要與軍工製作台交互，您必須位於它旁邊。 <BR> <IMAGECENTRE:AmBR3.png> <BR> ",
+	
+	SurvivalGuide_amentrie4title = "'彈藥製作指南手冊' #4",
+	SurvivalGuide_amentrie4txt = " <CENTRE> <SIZE:large> '彈藥製作指南手冊' <LINE> <SIZE:large> #4 - 拆卸彈藥 <LINE> <IMAGECENTRE:AMGuide_4.png> <LINE> <SIZE:medium> 功能和機制。",
+	SurvivalGuide_amentrie4moreinfo = " <H1> 拆卸彈藥 <BR> <TEXT> 這是拆卸彈藥部分。 <BR> "..
+			"<H2> 描述 <BR> <TEXT> <IMAGE:media/ui/icon.png> 彈藥的拆卸是製造子彈的關鍵，因為拆卸時我們將獲得軍工經驗值，並獲得火藥、彈殼和鉛彈等材料。 <BR> <IMAGECENTRE:AmDM1.png> <BR> "..
+			"<H2> 作業 <BR> <TEXT> <IMAGE:media/ui/icon.png> 您可以使用基礎遊戲中的配方拆卸彈藥（但您只會獲得火藥，而不會獲得軍工經驗）。 <LINE> <IMAGE:media/ui/icon.png> 如果您使用軍工製作台，您將獲得用於製作任何類型彈藥的重要材料。 <BR> <IMAGECENTRE:AmDM2.png> <BR> "..
+			"<H2> 其他規格 <BR> <TEXT> <IMAGE:media/ui/icon.png> 要拆除彈藥，您不需要學習任何配方，軍工製作台已經有拆卸每顆子彈的工具。 <LINE> <IMAGE:media/ui/icon.png> 拆彈動作是自動的，你可以將子彈存放在軍工製作台上，系統會自動進行拆彈。 <LINE> <IMAGE:media/ui/icon.png> 請記住，在重新加載部分的配方助手中，您可以打包彈殼、火藥和鉛彈，以避免出現大量散落的物品，從而優化遊戲。 <BR> <IMAGECENTRE:AmDM3.png> <BR> ",
+
+	SurvivalGuide_amentrie5title = "'彈藥製作指南手冊' #5",
+	SurvivalGuide_amentrie5txt = " <CENTRE> <SIZE:large> MANUAL '彈藥製作指南手冊' <LINE> <SIZE:large> #5 - 鉛製品 <LINE> <IMAGECENTRE:AMGuide_5.png> <LINE> <SIZE:medium> 這個模組的新特性和機制。。",
+	SurvivalGuide_amentrie5moreinfo = " <H1> LEAD WORKS <BR> <TEXT> 這是鉛製品部分。 <BR> "..
+			"<H2> 描述 <BR> <TEXT> <IMAGE:media/ui/icon.png> 將鉛轉化為各種不同口徑的彈丸是一種非常有用的機制。 <LINE> <IMAGE:media/ui/icon.png> 鉛彈是製作子彈所必需的材料之一。 <BR> <IMAGECENTRE:AmPl1.png> <BR> "..
+			"<H2> 作業 <BR> <TEXT> <IMAGE:media/ui/icon.png> 目前，熔化鉛並製造彈丸的唯一方法是通過配方。 <LINE> <IMAGE:media/ui/icon.png> 它的功能正在與軍工製作台一起開發。 <BR> <IMAGECENTRE:AmPl2.png> <BR> "..
+			"<H2> 如何找到鉛？ <BR> <TEXT> <IMAGE:media/ui/icon.png> 鉛可以出現在工具店、殭屍中，你可以從拆卸子彈和破壞鉛管中得到很多。 <LINE> <IMAGE:media/ui/icon.png> 此外，如果彈藥機 與 Le Gourmet Revolution 模組相關聯，您將在覓食時通過金屬探測器找到鉛。 <BR> <IMAGECENTRE:AmPl3.png> <BR> "..
+			"<H2> 熔化鉛 <BR> <TEXT> <IMAGE:media/ui/icon.png> 您將需要學習如何使用鉛。 您可以通過閱讀所需的雜誌（第 3 期彈藥雜誌）或通過特質/專業來學習。 <LINE> <IMAGE:media/ui/icon.png> 你需要一個平底鍋、一個噴燈和一個焊接面罩來熔化它。 <LINE> <IMAGE:media/ui/icon.png> 您可以熔化不同口徑的鉛彈，然後用熔化的鉛製造另一種口徑的彈丸。 <BR> <IMAGECENTRE:AmPl4.png> <BR> "..
+			"<H2> 鉛彈製作 <BR> <TEXT> <IMAGE:media/ui/icon.png> 要製造鉛彈，您需要閱讀特定雜誌以瞭解您要製造的口徑。 <LINE> <IMAGE:media/ui/icon.png> 該雜誌還教授如何製作完整的子彈。 <LINE> <IMAGE:media/ui/icon.png> 您將需要一個帶有熔化鉛的平底鍋和一個將所需模具擰入其中的彈藥鉗（需要螺絲刀和兩個螺絲來固定）。 <LINE> <IMAGE:media/ui/icon.png> 您也可以卸下螺絲並放置另一個不同口徑的模具。 <LINE> <IMAGECENTRE:AmPl5.png> <BR> ",
+
+	SurvivalGuide_amentrie6title = "'彈藥製作指南手冊' #6",
+	SurvivalGuide_amentrie6txt = " <CENTRE> <SIZE:large> '彈藥製作指南手冊' <LINE> <SIZE:large> #6 - 製造彈藥 <LINE> <IMAGECENTRE:AMGuide_6.png> <LINE> <SIZE:medium> 這個模組的新特性和機制。",
+	SurvivalGuide_amentrie6moreinfo = " <H1> 製造彈藥 <BR> <TEXT> 這是製造彈藥部分。 <BR> "..
+			"<H2> 描述 <BR> <TEXT> <IMAGE:media/ui/icon.png> 這是這個模組的主要目標，能夠製作所有口徑的子彈。 <BR> <IMAGECENTRE:AmFC1.png> <BR> "..
+			"<H2> 作業 <BR> <TEXT> <IMAGE:media/ui/icon.png> 要製作彈藥，您必須閱讀“彈藥”雜誌或擁有彈藥專家職業。 通過右鍵單擊軍工製作台，您可以從上下文菜單中訪問它。 您將需要以下材料： <LINE> "..
+			"<IMAGE:AmFC2.png> <H2> 彈殼： <LINE> <TEXT> <IMAGE:media/ui/icon.png> 它們可以在殭屍、軍械庫和各種武器通常出現的地方找到。 此外，如果彈藥機 與 Le Gourmet Revolution 模組相關聯，您會在覓食時，使用金屬探測器來發現彈殼。 請記住，當射擊槍支時，彈殼也會掉到地上，如果您是彈藥專家，彈殼會直接出現在您的庫存中。 <LINE> "..
+			"<IMAGE:AmFC3.png> <H2> 火藥： <LINE> <TEXT> <IMAGE:media/ui/icon.png> 它們可以在軍械庫和武器通常出現的各種地方找到。 所需的火藥量將根據要製作的彈藥的口徑而有所不同。 <LINE> "..
+			"<IMAGE:AmFC4.png> <H2> 鉛彈： <LINE> <TEXT> <IMAGE:media/ui/icon.png> 它們可以在軍械庫和武器通常出現的各種地方找到。 您也可以製作它們（參見 鉛製品）此外，如果彈藥機 與 Le Gourmet Revolution mod 相關聯，您將在覓食時，使用金屬探測器來找到鉛彈。 <BR> "..
+			"<H2> 其他規格 <BR> <TEXT> <IMAGE:media/ui/icon.png> 您可以將所有必要的材料放入軍工製作台內，系統會檢測裡面的材料。 <LINE> <IMAGE:media/ui/icon.png> 如果您是一名彈藥專家，製作彈藥會減少無聊感，您將在更短的時間內完成這些動作。 <BR> ",
+
+	SurvivalGuide_amentrie7title = "'彈藥製作指南手冊' #7",
+	SurvivalGuide_amentrie7txt = " <CENTRE> <SIZE:large> '彈藥製作指南手冊' <LINE> <SIZE:large> #7 - 拆卸槍支 <LINE> <IMAGECENTRE:AMGuide_7.png> <LINE> <SIZE:medium> 這個模組的新特性和機制。",
+	SurvivalGuide_amentrie7moreinfo = " <H1> 拆卸槍支 <BR> <TEXT> 這是拆卸槍支部分。 <BR> "..
+			"<H2> 描述 <BR> <TEXT> <IMAGE:media/ui/icon.png> 首先，您必須知道如何拆解武器，為此您需要閱讀《武器雜誌》 #4。 <LINE> <IMAGECENTRE:AmDAF3.png> <BR> <IMAGE:media/ui/icon.png> 拆解槍械，獲取零件可以更好的進行維修，也可以直接組裝成完整的武器。 <BR> <IMAGECENTRE:AmDAF1.png> <BR> "..
+			"<H2> 作業 <BR> <TEXT> <IMAGE:media/ui/icon.png> 可以和裝彈台互動拆解槍支（不一定要完全壞掉），需要一定的軍工等級才能拆解。 <LINE> <IMAGE:media/ui/icon.png> 然後通過配方，你可以使用獲得的零件來修復你最喜歡的武器或者直接組裝一個新的。 <BR> <IMAGECENTRE:AmDAF2.png> <BR> ",
+
+	SurvivalGuide_amentrie8title = "'彈藥製作指南手冊' #8",
+	SurvivalGuide_amentrie8txt = " <CENTRE> <SIZE:large> '彈藥製作指南手冊' <LINE> <SIZE:large> #8 - 新槍 (AK-47) <LINE> <IMAGECENTRE:AMGuide_8.png> <LINE> <SIZE:medium> 這個模組的新特性和機制。",
+	SurvivalGuide_amentrie8moreinfo = " <H1> 新槍(AK-47) <BR> <TEXT> 這是新槍 (AK-47) 部分。 <BR> "..
+			"<H2> 功能 <BR> <TEXT> <IMAGE:media/ui/icon.png> 彈藥機添加了著名的 AK-47。 <LINE> <IMAGE:media/ui/icon.png> 使用 7.62 子彈。 <LINE> <IMAGE:media/ui/icon.png> 它的傷害高於M16。 <BR> <IMAGECENTRE:AmAk1.png> <BR> "..
+			"<H2> 配件 <BR> <TEXT> <IMAGE:media/ui/icon.png> 您可以附加各種配件，這將提高槍支的效能。 不要忘記在您的物品欄位中準備一把螺絲刀，以便能夠安裝配件。 <BR> <IMAGECENTRE:AmAk2.png> <BR> ",
+
+}

@@ -1,0 +1,8 @@
+﻿ContextMenu_CH = {
+
+	ContextMenu_CheckMagTT = "閱讀本雜誌以獲得經驗值。",
+	ContextMenu_SMLevelMax = "你已經達到該技能的最高等級。",
+	ContextMenu_Reading = "正在閱讀",
+	ContextMenu_OpeningPackage = "打開包裝",
+	ContextMenu_SMPackageTT = "保留",
+}

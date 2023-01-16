@@ -1,0 +1,11 @@
+﻿Recipe_CH = {
+    Recipe_Agregar_soporte_a_mochila_Alice = "為ALICE軍用背包 添加 登山背架",
+	Recipe_Agregar_bolsa_de_almacenaje_a_mochila_Alice = "在ALICE軍用背包 添加 戰術小袋",
+	Recipe_Quitar_bolsa_de_almacenaje_a_mochila_Alice = "從ALICE軍用背包 取下 戰術小袋",
+	Recipe_Quitar_soporte_a_mochila_Alice = "從ALICE軍用背包 移除 登山背架",
+	Recipe_Put_12_MRE's_in_a_box = "將12個軍用口糧裝進盒中",
+	Recipe_Open_MRE_box = "從盒裝取出軍用口糧",
+	Recipe_Create_Spear_MK = "製造長矛",
+	Recipe_Attach_Military_Knife_to_Spear = "用膠布將軍刀附在長矛上",
+	Recipe_Reclaim_Military_Knife_from_Spear = "從長矛上回收軍刀",
+}
