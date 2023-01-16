@@ -22,7 +22,8 @@ SSAULAVI (Github: ,Discord:尼莫)
 手搖手電筒 Hand Crank Flashlights (Github:nemo01642280 ,Discord:尼莫)  
 易感染症狀-空氣傳播 Susceptible Trait - Airborne Infection (Github:nemo01642280 ,Discord:尼莫)  
 Arithmechick's Screams of Pain (Github:nemo01642280 ,Discord:尼莫)  
-模組管理 Mod Manager (Github: ,Discord:cide2021)  
+[Snake's Mod Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=2719327441&searchtext=Snake)(Github:kyo2002tw,Discord:cide2021)  
+模組管理 Mod Manager (Github:kyo2002tw,Discord:cide2021)  
 ## 連接(LINK)
 None
 
