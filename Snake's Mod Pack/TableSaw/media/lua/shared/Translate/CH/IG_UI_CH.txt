@@ -1,0 +1,5 @@
+﻿IGUI_CH = {
+    IGUI_CraftCategory_Dyes = "染料",
+	IGUI_ItemCat_Dye = "天然染料",
+	IGUI_SearchMode_Categories_Dyes = "天然染料",
+}

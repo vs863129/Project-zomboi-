@@ -1,0 +1,8 @@
+﻿Moveables_CH = {	
+	Mounted_Cow_Trophy = "牛首標本",
+	Mounted_Bear_Trophy = "熊首標本",
+	Mounted_Boar_Trophy = "野豬首標本",
+	Mounted_Bison_Trophy = "野牛首標本",
+	Mounted_Moose_Trophy = "駝鹿首標本",
+	Ball_Wilson = "威爾遜 又是你",
+}

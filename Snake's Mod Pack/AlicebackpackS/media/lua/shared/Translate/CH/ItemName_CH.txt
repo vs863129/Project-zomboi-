@@ -1,0 +1,11 @@
+﻿ItemName_CH = {
+	ItemName_AliceBP.AlicePack = "ALICE軍用背包(叢林迷彩)",
+	ItemName_AliceBP.UpgradedAlicePack1 = "ALICE軍用背包（登山背架）",
+	ItemName_AliceBP.UpgradedAlicePack2 = "ALICE軍用背包（登山背架 + 戰術小包）",
+	ItemName_AliceBP.UpgradedAlicePack2b = "ALICE軍用背包（登山背架 + 戰術小包）",
+	ItemName_AliceBP.UpgradedAlicePack3 = "ALICE軍用背包（戰術小包）",
+	ItemName_AliceBP.UpgradedAlicePack3b = "ALICE軍用背包（戰術小包）",
+	ItemName_AliceBP.AlicePackUrban = "ALICE軍用背包(都市迷彩)",
+	ItemName_AliceBP.SpearMilitaryKnife = "帶軍刀的長矛",
+	ItemName_AliceBP.AlicePackDesert = "ALICE軍用背包(沙漠迷彩)",
+}

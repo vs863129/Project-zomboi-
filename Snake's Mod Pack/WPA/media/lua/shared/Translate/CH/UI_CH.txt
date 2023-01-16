@@ -1,0 +1,6 @@
+﻿UI_CH = {
+    UI_trait_Silmaker = "寂靜",
+	UI_trait_Silmakerdesc = "保持寂靜是最重要的事情。<br>你可以自製消音器。",
+	UI_trait_whandler = "槍匠",
+	UI_trait_whandlerdesc = "你可以製作和拆卸武器配件。",
+}

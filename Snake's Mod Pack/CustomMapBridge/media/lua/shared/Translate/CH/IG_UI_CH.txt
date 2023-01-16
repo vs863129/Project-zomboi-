@@ -1,0 +1,98 @@
+﻿IGUI_CH = {
+	IGUI_ContainerTitle_cheese_table = "起司木盤",
+	IGUI_ContainerTitle_reloading_table = "裝彈桌",
+	IGUI_ContainerTitle_security_box = "小保險箱",
+	IGUI_ContainerTitle_crate_blue = "箱子(藍色)",
+	IGUI_ContainerTitle_crate_green = "箱子(綠色)",
+	IGUI_ContainerTitle_crate_lightbrown = "箱子(淺棕色)",
+	IGUI_ContainerTitle_crate_lightblue = "箱子(淺藍色)",
+	IGUI_ContainerTitle_crate_brown = "箱子(棕色)",
+	IGUI_ContainerTitle_crate_orange = "箱子(橙色)",
+	IGUI_ContainerTitle_crate_cyan = "箱子(青色)",
+	IGUI_ContainerTitle_crate_pink = "箱子(粉色)",
+	IGUI_ContainerTitle_crate_grey = "箱子(灰色)",
+	IGUI_ContainerTitle_crate_turquoise = "箱子(綠松石色)",
+	IGUI_ContainerTitle_crate_purple = "箱子(紫色)",
+	IGUI_ContainerTitle_crate_yellow = "箱子(黃色)",
+	IGUI_ContainerTitle_crate_white = "箱子(白色)",
+	IGUI_ContainerTitle_crate_red = "箱子(紅色)",
+	IGUI_ContainerTitle_crate_black = "箱子(黑色)",
+	IGUI_ContainerTitle_crate_dito = "箱子（配件）",
+	IGUI_ContainerTitle_crate_ammunition = "箱子（彈藥）",
+	IGUI_ContainerTitle_crate_food = "箱子（食物）",
+	IGUI_ContainerTitle_crate_literature = "箱子（文學）",
+	IGUI_ContainerTitle_crate_medical = "箱子（醫療）",
+	IGUI_ContainerTitle_crate_weapons = "箱子（武器）",
+	IGUI_ContainerTitle_crate_carpentry = "箱子（木工）",
+	IGUI_ContainerTitle_crate_electricity = "箱子（電工）",
+	IGUI_ContainerTitle_crate_farming = "箱子（農業）",
+	IGUI_ContainerTitle_crate_fishing = "箱子（釣魚）",
+	IGUI_ContainerTitle_crate_mechanics = "箱子（機械）",
+	IGUI_ContainerTitle_crate_metalwelding = "箱子（金工）",
+	IGUI_ContainerTitle_crate_painting = "箱子（繪畫）",
+	IGUI_ContainerTitle_crate_scavenge = "箱子（清潔用具）",
+	IGUI_ContainerTitle_crate_trash = "箱子（垃圾）",
+	IGUI_ContainerTitle_crate_clothing = "箱子（衣服）",
+	IGUI_ContainerTitle_fishing_basket = "釣魚竹籃",
+	IGUI_ContainerTitle_simple_military_crate = "小型軍用箱子",
+	IGUI_ContainerTitle_military_crate = "軍用箱子",
+	IGUI_ContainerTitle_army_locker = "軍隊儲物櫃",
+	IGUI_ContainerTitle_military_shelves = "軍事貨架",
+	IGUI_ContainerTitle_extinguishers_shelves = "滅火器盒",
+	IGUI_ContainerTitle_incubator = "恆溫箱",
+	IGUI_ContainerTitle_labfridge = "實驗室冰箱",
+	IGUI_ContainerTitle_furframe = "晾酒架",
+	IGUI_ContainerTitle_cane_support = "甘蔗支架",
+	IGUI_ContainerTitle_saw_table = "鋸床",
+	IGUI_ContainerTitle_tiremachine = "輪胎機器",
+	IGUI_ContainerTitle_mechanic_counter = "機械計數器",
+	IGUI_ContainerTitle_coffee_grinder = "咖啡研磨機",
+	IGUI_ContainerTitle_crate_army = "簡單的軍用箱子",
+	IGUI_ContainerTitle_metalpallet = "托盤",
+	IGUI_ContainerTitle_bar_furniture = "酒吧貨架",
+	IGUI_ContainerTitle_crate_9mm = "彈藥盒 (9mm)",
+	IGUI_ContainerTitle_crate_45 = "彈藥盒 (Cal.45)",
+	IGUI_ContainerTitle_crate_38 = "彈藥盒 (Cal.38)",
+	IGUI_ContainerTitle_crate_44 = "彈藥盒 (Cal.44)",
+	IGUI_ContainerTitle_crate_223 = "彈藥盒 (Cal.223)",
+	IGUI_ContainerTitle_crate_308 = "彈藥盒 (Cal.308)",
+	IGUI_ContainerTitle_crate_556 = "彈藥盒 (Cal.556)",
+	IGUI_ContainerTitle_crate_shell = "彈藥盒 (散彈槍子彈)",
+	IGUI_ContainerTitle_roulette = "輪盤",
+	IGUI_ContainerTitle_eg_displaycase = "展示櫃",
+
+	IGUI_CMBDiscoverEasterEgg = "<H1> 秘密獲得 <BR> <IMAGECENTRE:CMBEasterEgg> <LINE>" ..
+            "<H1><IMAGECENTRE:CMBEasterEggText_EN> <LINE>" ..
+	        "<H1>獲得了一個特別的公文包！！！<LINE> <H1>",
+
+	IGUI_CMBDiscoverEasterEggB1 = "<H1> 秘密獲得 <BR> <IMAGECENTRE:EasterEggSurvivor> <LINE>" ..
+            "<H1><IMAGECENTRE:CMBEasterEggText_EN> <LINE>" ..
+	        "<H1>獲得了一個特殊的倖存者背包！！！ <LINE> <H1>",
+	IGUI_CMBDiscoverEasterEggB2 = "<H1> 秘密獲得 <BR> <IMAGECENTRE:EasterEggSnake> <LINE>" ..
+            "<H1><IMAGECENTRE:CMBEasterEggText_EN> <LINE>" ..
+	        "<H1>獲得了一個獨特的背包！！！ <LINE> <H1>",
+	IGUI_CMBDiscoverEasterEggC = "<H1> 秘密獲得 <BR> <IMAGECENTRE:Craneo> <LINE>" ..
+            "<H1><IMAGECENTRE:CMBEasterEggText_EN> <LINE>" ..
+	        "<H1>遠古寶物獲得！！！ <LINE> <H1>",
+	IGUI_CMBDiscoverEasterEggChap = "<H1> 秘密獲得 <BR> <IMAGECENTRE:EasterEggChapulin> <LINE>" ..
+            "<H1><IMAGECENTRE:CMBEasterEggText_EN> <LINE>" ..
+	        "<H1>獲得了一個特別的公文包！！！ <LINE> <H1>",
+	IGUI_CMBDiscoverEasterEggChar = "<H1> 秘密獲得 <BR> <IMAGECENTRE:EasterEggMaletin> <LINE>" ..
+            "<H1><IMAGECENTRE:CMBEasterEggText_EN> <LINE>" ..
+	        "<H1>獲得了一個特別的公文包！！！ <LINE> <H1>",
+	IGUI_CMBDiscoverEasterEggCow = "<H1> 秘密獲得 <BR> <IMAGECENTRE:EasterEggMaletin> <LINE>" ..
+            "<H1><IMAGECENTRE:CMBEasterEggText_EN> <LINE>" ..
+	        "<H1>獲得了一個特別的公文包！！！ <LINE> <H1>",
+	IGUI_CMBDiscoverEasterEggMon = "<H1> 秘密獲得 <BR> <IMAGECENTRE:EasterEggMaletin> <LINE>" ..
+            "<H1><IMAGECENTRE:CMBEasterEggText_EN> <LINE>" ..
+	        "<H1>獲得了一個特別的公文包！！！ <LINE> <H1>",
+	IGUI_CMBDiscoverEasterEggUmb = "<H1> 秘密獲得 <BR> <IMAGECENTRE:EasterEggMaletin> <LINE>" ..
+            "<H1><IMAGECENTRE:CMBEasterEggText_EN> <LINE>" ..
+	        "<H1>獲得了一個特別的公文包！！！ <LINE> <H1>",
+	IGUI_CMBDiscoverEasterEggUnicorn = "<H1> 秘密獲得 <BR> <IMAGECENTRE:EasterEggMaletin> <LINE>" ..
+            "<H1><IMAGECENTRE:CMBEasterEggText_EN> <LINE>" ..
+	        "<H1>獲得了一個特別的公文包！！！ <LINE> <H1>",
+	IGUI_CMBDiscoverEasterEgg4Fun = "<H1> 秘密獲得 <BR> <IMAGECENTRE:EasterEggMaletin4Fun> <LINE>" ..
+            "<H1><IMAGECENTRE:CMBEasterEggText_EN> <LINE>" ..
+	        "<H1>獲得了一個特別的公文包！！！ <LINE> <H1>",
+}

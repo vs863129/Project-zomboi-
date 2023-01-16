@@ -1,0 +1,8 @@
+﻿ContextMenu_CH = {
+
+	ContextMenu_RepairSilencer = "修復消音器",
+	ContextMenu_RepairS = "修復",
+	ContextMenu_RepairSilencerTT = "使用此修理包，您可以每次使用 10% 修理消音器。",
+	ContextMenu_fixing = "修復",
+	ContextMenu_cantequipsilencer = "此武器部件已完全損壞。",
+}

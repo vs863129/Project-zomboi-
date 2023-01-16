@@ -1,0 +1,4 @@
+﻿ItemName_CH = {
+    ItemName_FuelTanks.FuelTanksMag1 = "油箱操作雜誌",
+    ItemName_FuelTanks.FuelMeter = "油箱測量表",
+}
