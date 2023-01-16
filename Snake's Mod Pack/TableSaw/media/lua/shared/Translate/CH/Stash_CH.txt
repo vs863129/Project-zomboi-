@@ -1,5 +1,0 @@
-﻿Stash_CH = {
-    Stash_TableSawMap1_Text1 = "性感！！！",
-	Stash_TableSawMap2_Text2 = "瞭望塔里的那些獄卒拿走了我的雜誌！",
-	Stash_TableSawMap2_Text3 = "即使付出生命的代價我也會把它找回來！",
-}

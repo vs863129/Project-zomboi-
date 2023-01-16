@@ -1,3 +1,0 @@
-﻿Items_CH = {
-	DisplayNameMilitary_Complex_Map = "軍事綜合基地地圖",
-}

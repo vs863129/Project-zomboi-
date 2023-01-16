@@ -1,6 +1,0 @@
-﻿UI_CH = { 
-	UI_DiscoverEasterEggDito = "<H1> 秘密發現 <BR> <IMAGECENTRE:EasterEggDito> <LINE>" .. 
-            "<H1><IMAGECENTRE:EasterEggText_EN> <LINE>" .. 
-	        "<H1>你找到了 迪托塞迪奧 的獨特背包!!! <LINE> <H1>", 
-	UI_DitoPaper = "我的霰彈槍需要它", 
-}

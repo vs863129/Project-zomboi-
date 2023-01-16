@@ -1,5 +1,0 @@
-﻿Recipe_CH = {
-
-  Recipe_Make_Upholstery_Sewing_Kit = "製作室內裝潢縫紉套件",
-  Recipe_Get_Needle = "獲取針",
-}

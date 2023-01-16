@@ -1,5 +1,0 @@
-﻿ItemName_CH = {
-	ItemName_BatesMetalicos.MetalBaseballBat = "金屬棒球棒-潛龍牌",
-	ItemName_BatesMetalicos.Bgrip = "專業球棒握把-潛龍牌",
-	ItemName_BatesMetalicos.Bsock = "專業球棒負重套-潛龍牌",
-}

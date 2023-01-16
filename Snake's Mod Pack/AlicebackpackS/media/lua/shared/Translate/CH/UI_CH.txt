@@ -1,7 +1,0 @@
-﻿UI_CH = {
-
-	UI_trait_Strongback = "強壯背肌",
-	UI_trait_StrongbackDesc = "你可以攜帶更多重量（+25% 基本重量）",
-	UI_trait_Metalstrongback = "鋼鐵背肌",
-	UI_trait_MetalstrongbackDesc = "激發細胞潛能.你可以攜帶（+50% 基本重量）",
-}

@@ -1,6 +1,0 @@
-﻿Tooltip_CH = {
-	
-	Tooltip_DitoPack = "一只身經百戰曬黑的背包。",
-	Tooltip_UpholsteryKit = "可用於修理車輛座椅。",
-	Tooltip_ChapulinSuit = "他們沒有我的狡猾",
-}
