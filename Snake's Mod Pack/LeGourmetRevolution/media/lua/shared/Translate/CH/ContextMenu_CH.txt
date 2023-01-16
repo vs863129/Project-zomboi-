@@ -132,7 +132,7 @@
 	ContextMenu_Boar = "野豬",
 	ContextMenu_Bison = "野牛",
 	ContextMenu_Moose = "駝鹿",
-	ContextMenu_Furframe = "毛皮架",
+	ContextMenu_Furframe = "製革架",
 	ContextMenu_CheckWeather = "查看天氣",
 	ContextMenu_NewWoodenFrame = "高級牆框",
 	ContextMenu_NewDoor = "藤製門",
@@ -213,7 +213,7 @@
 	ContextMenu_SpottedDeer = "我認為它奏效了，一隻鹿正在靠近。我沒有時間去獵殺牠。",
 	ContextMenu_Place_Wooden_Fishing_Net = "放置木製漁網",
 	ContextMenu_crayfish_info = "小龍蝦",
-	ContextMenu_HuntingDiana = "狩獵目標",
+	ContextMenu_HuntingDiana = "狩獵用標靶",
 	ContextMenu_PracticeHunting = "狩獵練習",
 	ContextMenu_PracticeHuntingTT = "多次擊中目標以獲得經驗乘數。",
 }
