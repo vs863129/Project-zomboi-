@@ -15,7 +15,7 @@ FileName/media/lua/shared/Translate/CH/
 [範例檔案](https://github.com/vs863129/PZModTraditional/tree/%E7%AF%84%E4%BE%8B%E6%AA%94)  
 且檔案編碼記得是UTF-8，如有不同請告知!  
 ## 模組開發者(MOD Developer)  
-暫無
+[Download Github Directory](https://download-directory.github.io/)
 ## 已經翻譯的模組(Translated mods)
 [調試選單 DebugMenu](https://steamcommunity.com/sharedfiles/filedetails/?id=2737787862&searchtext=DebugMenu) (Github:Genshin804,Discord:Genshin)  
 SSAULAVI (Github: ,Discord:尼莫)  
