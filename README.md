@@ -18,7 +18,7 @@ FileName/media/lua/shared/Translate/CH/
 [Download Github Directory](https://download-directory.github.io/)
 ## 已經翻譯的模組(Translated mods)
 [調試選單 DebugMenu](https://steamcommunity.com/sharedfiles/filedetails/?id=2737787862&searchtext=DebugMenu) (Github:Genshin804,Discord:Genshin)  
-[武士道SSAULAVI](https://steamcommunity.com/sharedfiles/filedetails/?id=2887274097&searchtext=SSAULAVI) (Github: ,Discord:尼莫)  
+[武士魂SSAULAVI](https://steamcommunity.com/sharedfiles/filedetails/?id=2887274097&searchtext=SSAULAVI) (Github: ,Discord:尼莫)  
 [手搖手電筒 Hand Crank Flashlights](https://steamcommunity.com/sharedfiles/filedetails/?id=2897115343&searchtext=Hand+Crank+Flashlights) (Github:nemo01642280 ,Discord:尼莫)  
 [易感染症狀-空氣傳播 Susceptible Trait - Airborne Infection](https://steamcommunity.com/sharedfiles/filedetails/?id=2795677303&searchtext=Susceptible+Trait+-+Airborne+Infection) (Github:nemo01642280 ,Discord:尼莫)  
 [痛苦尖叫Arithmechick's Screams of Pain](https://steamcommunity.com/sharedfiles/filedetails/?id=2902192016&searchtext=Arithmechick%27s+Screams+of+Pain) (Github:nemo01642280 ,Discord:尼莫)  
