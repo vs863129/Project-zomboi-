@@ -23,7 +23,8 @@ FileName/media/lua/shared/Translate/CH/
 [易感染症狀-空氣傳播 Susceptible Trait - Airborne Infection](https://steamcommunity.com/sharedfiles/filedetails/?id=2795677303&searchtext=Susceptible+Trait+-+Airborne+Infection) (Github:nemo01642280 ,Discord:尼莫)  
 [痛苦尖叫Arithmechick's Screams of Pain](https://steamcommunity.com/sharedfiles/filedetails/?id=2902192016&searchtext=Arithmechick%27s+Screams+of+Pain) (Github:nemo01642280 ,Discord:尼莫)  
 [Snake's Mod Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=2719327441&searchtext=Snake)(Github:kyo2002tw,Discord:cide2021)  
-Duckling's Big Degen_s Dakimakura Emporium! (Github:nemo01642280 ,Discord:尼莫)  
+Big Degen_s Dakimakura Emporium! (Github:nemo01642280 ,Discord:尼莫)  
+Duckling's Big Degen Emporium Addon! (Github:nemo01642280 ,Discord:尼莫)  
 [模組管理 Mod Manager](https://steamcommunity.com/sharedfiles/filedetails/?id=2694448564) (Github:kyo2002tw,Discord:cide2021)  
 ## 連接(LINK)
 None
