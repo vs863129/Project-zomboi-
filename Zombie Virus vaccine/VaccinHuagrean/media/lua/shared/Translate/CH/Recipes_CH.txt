@@ -49,6 +49,7 @@ Recipe_CH = {
 	Recipe_ChmSterilizeTestTube = "滅菌(試管)",
 	Recipe_ChmSterilizeFlask = "滅菌(燒瓶),
 	Recipe_ChmPourTaintedBlood = "倒出受汙染血液",
+	Recipe_Pour_a_flask_out= "將燒瓶倒出",
 	Recipe_ChmMakeSyringe = "製作可重複使用的注射器",
 	Recipe_ChmSterilizeLabSyringeReusable = "滅菌(注射器(可重複))",
 	Recipe_ChmSynthesizePlainVaccineTwo = "合成普通疫苗",
