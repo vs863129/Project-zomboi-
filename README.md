@@ -26,7 +26,7 @@ FileName/media/lua/shared/Translate/CH/
 Big Degen_s Dakimakura Emporium! (Github:nemo01642280 ,Discord:尼莫)  
 Duckling's Big Degen Emporium Addon! (Github:nemo01642280 ,Discord:尼莫)  
 [模組管理 Mod Manager](https://steamcommunity.com/sharedfiles/filedetails/?id=2694448564) (Github:kyo2002tw,Discord:cide2021)  
-[殭屍病毒疫苗 Zombie virus vaccine](https://steamcommunity.com/sharedfiles/filedetails/?id=2765438437)
+[殭屍病毒疫苗 Zombie virus vaccine](https://steamcommunity.com/sharedfiles/filedetails/?id=2765438437) (Github:vs863129,Discord:文森)  
 ## 連接(LINK)
 None
 
