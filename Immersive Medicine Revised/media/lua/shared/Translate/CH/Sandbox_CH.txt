@@ -1,0 +1,8 @@
+Sandbox_CH = {
+    Sandbox_ImmersiveMedicine = "沉浸式醫學",
+    Sandbox_IsBloodSystemActive = "啟用血液系統",
+    Sandbox_IsBloodTypeSystemActive = "啟用血型",
+    Sandbox_IsHeartbeatEnabled = "啟用心跳音",
+    Sandbox_BloodVolumeReduceModifier = "血量減少調節",
+    Sandbox_BloodVolumeIncreaseModifier = "血量增加調節",
+}
