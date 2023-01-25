@@ -15,7 +15,7 @@ UI_CH = {
     UI_Item_BismuthSubsalicylate_SideEffects = "噁心,嘔吐.",
 
     UI_Item_Morphine_Name = "嗎啡",
-    UI_Item_Morphine_Description = "阿片類鎮痛藥,阿片受體激動劑. 具有明顯的鎮痛作用.",
+    UI_Item_Morphine_Description = "阿片類鎮痛藥,或稱阿片受體激動劑. 具有明顯的鎮痛作用.",
     UI_Item_Morphine_SideEffects = "嘔吐,噁心,口乾,鎮靜或興奮作用,幻覺,大腦循環障礙,頭暈,昏厥,嗜睡.",
 
     UI_Item_Butamirate_Name = "必達米瑞液",
@@ -23,7 +23,7 @@ UI_CH = {
     UI_Item_Butamirate_SideEffects = "嗜睡,頭暈,噁心,嘔吐.",
 
     UI_Item_Naloxon_Name = "納洛酮",
-    UI_Item_Naloxon_Description = "阿片受體拮抗劑.阻斷阿片受體,消除阿片類藥物對中樞（包括呼吸抑制）和外周的影響.",
+    UI_Item_Naloxon_Description = "阿片受體拮抗劑.阻斷阿片類藥物受體,消除阿片類藥物對中樞（包括呼吸抑制）和外周的影響.",
     UI_Item_Naloxon_SideEffects = ""噁心,嘔吐,心動過速,血壓升高或降低,鎮痛作用消失.",
 
     UI_Item_HemoStop_Name = "止血粉",
@@ -43,7 +43,7 @@ UI_CH = {
     UI_Item_Erythropoietin_SideEffects = "虛弱,疲勞,頭痛,昏厥,呼吸急促,高血壓.",
 
     UI_Item_NaloxonPack_Name = "納洛酮包",
-    UI_Item_NaloxonPack_Description = "阿片受體拮抗劑.阻斷阿片受體,消除阿片類藥物對中樞（包括呼吸抑制）和外周的影響.",
+    UI_Item_NaloxonPack_Description = "阿片受體拮抗劑.阻斷阿片類藥物受體,消除阿片類藥物對中樞（包括呼吸抑制）和外周的影響.",
 
     UI_Item_MorphinePack_Name = "嗎啡包",
     UI_Item_MorphinePack_Description = "阿片類鎮痛藥,阿片受體激動劑. 具有明顯的鎮痛作用.",
@@ -81,8 +81,8 @@ UI_CH = {
     UI_Item_Syringe_Description = "一支 5 ml 注射器",
     UI_Item_NeedlePack_Name = "注射器針頭包",
     UI_Item_NeedlePack_Description = "一包注射器用的針頭包",
-    UI_Item_Needle_Name = ""注射器針頭",
-    UI_Item_Needle_Description = ""一支注射器用的針頭",
+    UI_Item_Needle_Name = "注射器針頭",
+    UI_Item_Needle_Description = "一支注射器用的針頭",
     UI_Item_SyringeWithNeedle_Name = "靜脈/肌注 注射器",
     UI_Item_SyringeWithNeedle_Description = "裝好針頭的注射器,可用於靜脈注射或肌肉注射",
     UI_Item_FullSyringeWithNeedle_Name = "注射器(藥物)",
