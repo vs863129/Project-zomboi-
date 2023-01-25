@@ -1,0 +1,69 @@
+ItemName_CH = {
+    ItemName_iMeds.EmptyBloodBag = "空血袋",
+    ItemName_iMeds.FullBloodBag = "血袋",
+    ItemName_iMeds.PeripheralVenousCatheter = "靜脈留置針",
+    ItemName_iMeds.BloodVolumeReducer = "系統物品",
+    ItemName_iMeds.DrugApplier = "系統物品",
+    ItemName_iMeds.BloodVolumeIncreaser = "系統物品",
+    ItemName_iMeds.SyringePack = " 5 ml 注射器包",
+    ItemName_iMeds.Syringe = "5 ml 注射器",
+    ItemName_iMeds.NeedlePack = "注射器針頭包",
+    ItemName_iMeds.Needle = "注射器針頭",
+    ItemName_iMeds.SyringeWithNeedle = "靜脈/肌注 注射器",
+    ItemName_iMeds.FullSyringeWithNeedle = "注射器(藥物)",
+
+    ItemName_iMeds.Alkagin = "安乃近",
+    ItemName_iMeds.AlkaginPack = "安乃近包",
+
+    ItemName_iMeds.BismuthSubsalicylate = "次水楊酸鉍",
+    ItemName_iMeds.BismuthSubsalicylatePack = "次水楊酸鉍包",
+
+    ItemName_iMeds.Morphine = "嗎啡",
+    ItemName_iMeds.MorphinePack = "嗎啡包",
+
+    ItemName_iMeds.Naloxon = "納洛酮",
+    ItemName_iMeds.NaloxonPack = "納洛酮包",
+
+    ItemName_iMeds.Butamirate = "必達米瑞液",
+    ItemName_iMeds.ButamiratePack = "必達米瑞液包",
+
+    ItemName_iMeds.HemoStop = "止血粉",
+    ItemName_iMeds.HemoStopPack = "止血粉包",
+
+    ItemName_iMeds.Umifenovir = "鹽酸阿比朵爾",
+    ItemName_iMeds.UmifenovirPack = "鹽酸阿比朵爾包",
+
+    ItemName_iMeds.Nasivion = "羥甲唑啉",
+    ItemName_iMeds.NasivionPack = "羥甲唑啉包",
+
+    ItemName_iMeds.Erythropoietin = "紅血球生成素",
+    ItemName_iMeds.ErythropoietinPack = "紅血球生成素包",
+
+    ItemName_iMeds.UnknownPack = "不明藥物包裝",
+
+    ItemName_iMeds.BloodTestingKit = "血型檢測套件",
+
+    ItemName_iMeds.ErythrocyteSuspensionBagABN = "紅細胞懸液包 AB(IV)型 Rh陰性",
+    ItemName_iMeds.ErythrocyteSuspensionBagABP = "紅細胞懸液包 AB(IV)型 Rh陽性",
+    ItemName_iMeds.ErythrocyteSuspensionBagAN = "紅細胞懸液包 A(II)型 Rh陰性",
+    ItemName_iMeds.ErythrocyteSuspensionBagAP = "紅細胞懸液包 A(II)型 Rh陽性",
+    ItemName_iMeds.ErythrocyteSuspensionBagBN = "紅細胞懸液包 B(III)型 Rh陰性",
+    ItemName_iMeds.ErythrocyteSuspensionBagBP = "紅細胞懸液包 B(III)型 Rh陽性",
+    ItemName_iMeds.ErythrocyteSuspensionBagON = "紅細胞懸液包 O(I)型 Rh陰性",
+    ItemName_iMeds.ErythrocyteSuspensionBagOP = "紅細胞懸液包 O(I)型 Rh陽性",
+
+    ItemName_iMeds.PlasmaBagABN = "血漿袋 AB(IV)型 Rh陰性",
+    ItemName_iMeds.PlasmaBagABP = "血漿袋 AB(IV)型 Rh陽性",
+    ItemName_iMeds.PlasmaBagAN = "血漿袋 A(II)型 Rh陰性",
+    ItemName_iMeds.PlasmaBagAP = "血漿袋 A(II)型 Rh陽性",
+    ItemName_iMeds.PlasmaBagBN = "血漿袋 B(III)型 Rh陰性",
+    ItemName_iMeds.PlasmaBagBP = "血漿袋 B(III)型 Rh陽性",
+    ItemName_iMeds.PlasmaBagON = "血漿袋 O(I)型 Rh陰性",
+    ItemName_iMeds.PlasmaBagOP = "血漿袋 O(I)型 Rh陽性 ",
+
+    ItemName_iMeds.Stethoscope = "聽診器",
+    ItemName_Base.BloodPressureMonitorLeft = "血壓計 (Nanasonic EW3039S型)",
+    ItemName_Base.BloodPressureMonitorRight = "血壓計 (Nanasonic EW3039S型)",
+    ItemName_Base.HeartRateMonitorLeft = "運動檢測儀 (Knox Electro KE 3000型)",
+    ItemName_Base.HeartRateMonitorRight = "運動檢測儀 (Knox Electro KE 3000型)",
+}

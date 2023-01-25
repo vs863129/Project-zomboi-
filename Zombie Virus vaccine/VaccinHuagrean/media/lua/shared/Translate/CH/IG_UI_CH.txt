@@ -1,0 +1,6 @@
+IGUI_CH = {
+	IGUI_CraftCategory_Equipment = "設備",
+	IGUI_CraftCategory_Decorations = "裝飾",
+	IGUI_CraftCategory_Chemistry = "化學",
+	IGUI_CraftCategory_Other = "其他",
+}

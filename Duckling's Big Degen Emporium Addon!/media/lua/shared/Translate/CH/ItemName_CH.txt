@@ -152,10 +152,4 @@ ItemName_CH = {
     ItemName_Base.DakiArmorBack66656 = "戌神沁音抱枕裝備(後面)"
     ItemName_Base.DakiArmorFront66657 = "岩永琴子抱枕裝備(前面)"
     ItemName_Base.DakiArmorBack66657 = "岩永琴子抱枕裝備(後面)"
-	
-	
-   
-
-	
-	
 	}
