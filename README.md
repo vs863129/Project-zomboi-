@@ -28,8 +28,8 @@ FileName/media/lua/shared/Translate/CH/
 [模組管理 Mod Manager](https://steamcommunity.com/sharedfiles/filedetails/?id=2694448564) (Github:kyo2002tw,Discord:cide2021)  
 [殭屍病毒疫苗 Zombie virus vaccine](https://steamcommunity.com/sharedfiles/filedetails/?id=2765438437) (Github:vs863129,Discord:文森)  
 [沉浸式醫療 Immersive Medicine Revised](https://steamcommunity.com/sharedfiles/filedetails/?id=2709866494&searchtext=imed) (Github:vs863129,Discord:文森)  
-## -待整合至工作坊-  
-[狗 Dog](https://steamcommunity.com/sharedfiles/filedetails/?id=2908053151&searchtext=Dogs)(Github:nemo01642280 ,Discord:尼莫)  
+### -待整合至工作坊-  
+[狗 Dog] (https://steamcommunity.com/sharedfiles/filedetails/?id=2908053151&searchtext=Dogs)(Github:nemo01642280 ,Discord:尼莫)  
 ## 連接(LINK)
 [模組繁體中文包](https://steamcommunity.com/sharedfiles/filedetails/?id=2730159518)
 
