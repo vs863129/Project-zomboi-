@@ -1,0 +1,3 @@
+ItemName_EN = {
+    ItemName_Dislaik.DogCorpse = "狗的屍體",
+}
