@@ -31,5 +31,5 @@ FileName/media/lua/shared/Translate/CH/
 ### -待整合至工作坊-  
 [狗 Dog](https://steamcommunity.com/sharedfiles/filedetails/?id=2908053151&searchtext=Dogs) (Github:nemo01642280 ,Discord:尼莫)  
 ## 連接(LINK)
-[模組繁體中文包](https://steamcommunity.com/sharedfiles/filedetails/?id=2730159518)
-
+[模組繁體中文包](https://steamcommunity.com/sharedfiles/filedetails/?id=2730159518)  
+[Discord群](https://discord.com/invite/T6gjnjuzjr)  
