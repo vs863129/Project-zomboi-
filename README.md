@@ -30,7 +30,7 @@ FileName/media/lua/shared/Translate/CH/
 [沉浸式醫療 Immersive Medicine Revised](https://steamcommunity.com/sharedfiles/filedetails/?id=2709866494&searchtext=imed) (Github:vs863129,Discord:文森)  
 ### -待整合至工作坊-  
 [狗 Dog](https://steamcommunity.com/sharedfiles/filedetails/?id=2908053151&searchtext=Dogs) (Github:nemo01642280 ,Discord:尼莫)  
-[Z 亞馬遜 額外(Brita) Zamazon Brita Plus](https://steamcommunity.com/sharedfiles/filedetails/?id=2848377103) (Github:vs863129,Discord:文森)
+[Z 亞馬遜 額外(Brita) Zamazon Brita Plus](https://steamcommunity.com/sharedfiles/filedetails/?id=2848377103) (Github:vs863129,Discord:文森)  
 [Bushcraft Gear - Tools](https://steamcommunity.com/sharedfiles/filedetails/?id=2423906082) (Github:HerioJohnX,Discord:希利奧)  
 ## 連接(LINK)
 
