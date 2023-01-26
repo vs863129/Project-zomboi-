@@ -1,4 +1,4 @@
-IGUI_CN = {
+IGUI_CH = {
 
 IGUI_CraftCategory_Zamazon Craft = "ZAn製作",
 IGUI_CraftCategory_Zamazon Store = "ZAn雜貨",
