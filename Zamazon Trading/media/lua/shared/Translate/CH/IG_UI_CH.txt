@@ -1,0 +1,12 @@
+IGUI_CN = {
+
+IGUI_CraftCategory_Zamazon Craft = "ZAn包裝",
+IGUI_CraftCategory_Zamazon Store = "ZAn雜貨",
+IGUI_CraftCategory_Zamazon Ammo = "ZAn彈藥",
+IGUI_CraftCategory_Zamazon Firearm = "ZAn槍械",
+IGUI_CraftCategory_Zamazon Green Trade = "ZAn農耕",
+IGUI_CraftCategory_Zamazon Food = "ZAn烹飪",
+IGUI_CraftCategory_Zamazon Auto = "ZAn機工",
+IGUI_CraftCategory_Zamazon Trading = "ZAn兌換",
+IGUI_CraftCategory_Zamazon VIP = "ZAn VIP",
+}
