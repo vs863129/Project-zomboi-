@@ -129,7 +129,7 @@ Recipe_Buy_a_H&K_MP5A3 = "購買 H&K MP5A3",
 Recipe_Buy_a_Box_of_7.62x54mm-R_Rounds = "購買 盒裝 7.62x54mm-R 彈藥",
 Recipe_Sell_Ammo_Boxes_for_$30 = "30$ 賣出 彈藥盒",
 
-Recipe_購買 WD40 = "購買 WD40",
+Recipe_Buy a WD40 = "購買 WD40",
 
 Recipe_Buy_a_Box_of_20g_Shotgun_Shells = "購買 盒裝 20g 霰彈彈藥",
 Recipe_Buy_a_Box_of_10g_Shotgun_Shells = "購買 盒裝 10g 霰彈彈藥",
