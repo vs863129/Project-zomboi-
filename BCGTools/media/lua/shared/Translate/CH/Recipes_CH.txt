@@ -1,0 +1,8 @@
+Recipes_CH = {
+		Recipe_Attach_Survival_Knife_to_Spear = "將野外求生小刀裝在長矛上",
+		Recipe_Attach_Cheap_Survival_Knife_to_Spear = "將劣質的野外求生小刀裝在長矛上",
+		Recipe_Attach_Kukri_Machete_to_Spear = "將廓爾喀彎刀裝在長矛上",
+		Recipe_Reclaim_Survival_Knife_from_Spear = "將野外求生小刀從長矛拆下",
+		Recipe_Reclaim_Cheap_Survival_Knife_from_Spear = "將劣質的野外求生小刀從長矛拆下",
+		Recipe_Reclaim_Kukri_Machete_from_Spear = "將廓爾喀彎刀從長矛拆下",
+}

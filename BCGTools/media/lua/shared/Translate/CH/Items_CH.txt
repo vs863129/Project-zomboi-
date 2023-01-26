@@ -1,0 +1,12 @@
+Items_CH = {
+
+		DisplayName_Hand_Hatchet = "砍斧",
+		DisplayName_Survival_Knife = "野外求生小刀",
+		DisplayName_Cheap_Survival_Knife = "劣質的野外求生小刀",
+		DisplayName_Rancher_Machete = "牧場開山刀",
+		DisplayName_Kukri_Machete = "廓爾喀彎刀",
+		DisplayName_Splitting_Axe = "劈斧",
+		DisplayName_Spear_With_Survival_Knife = "野外求生小刀長矛",
+		DisplayName_Spear_With_Cheap_Survival_Knife = "劣質的野外求生小刀長矛",
+		DisplayName_Spear_With_Kukri_Machete = "廓爾喀彎刀長矛",
+}
