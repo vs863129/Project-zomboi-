@@ -34,6 +34,7 @@ FileName/media/lua/shared/Translate/CH/
 ### -待整合至工作坊-  
 [狗 Dog](https://steamcommunity.com/sharedfiles/filedetails/?id=2908053151&searchtext=Dogs) (Github:nemo01642280 ,Discord:尼莫)  
 [Z 亞馬遜 額外(Brita) Zamazon Brita Plus](https://steamcommunity.com/sharedfiles/filedetails/?id=2848377103) (Github:vs863129,Discord:文森)  
+[Z 亞馬遜交易 Zamazon Trading](https://steamcommunity.com/workshop/filedetails/?id=2829551796) (Github:Genshin804,Discord:Genshin)  
 [Bushcraft Gear - Tools](https://steamcommunity.com/sharedfiles/filedetails/?id=2423906082) (Github:HerioJohnX,Discord:希利奧)  
 ## 連接(LINK)
 
