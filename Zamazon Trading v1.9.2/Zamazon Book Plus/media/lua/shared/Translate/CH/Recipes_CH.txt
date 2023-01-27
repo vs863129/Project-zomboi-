@@ -1,15 +1,15 @@
 Recipes_CH = {
 
-Recipe_Buy_a_Carpentry_Book_Box_Set = "購買木工技能套書",
-Recipe_Buy_a_Cooking_Book_Box_Set = "購買烹飪技能套書",
-Recipe_Buy_an_Electrician_Book_Box_Set = "購買電工技能套書",
-Recipe_Buy_a_Farming_Book_Box_Set = "購買農耕技能套書",
-Recipe_Buy_a_Fishing_Book_Box_Set = "購買釣魚技能套書",
-Recipe_Buy_a_Mechanics_Book_Box_Set = "購買機工技能套書",
-Recipe_Buy_a_First-Aid_Book_Box_Set = "購買醫療技能套書",
-Recipe_Buy_a_Foraging_Book_Box_Set = "購買覓食技能套書",
-Recipe_Buy_a_Metalwork_Book_Box_Set = "購買金工技能套書",
-Recipe_Buy_a_Tailoring_Book_Box_Set = "購買裁縫技能套書",
-Recipe_Buy_a_Trapping_Book_Box_Set = "購買陷阱技能套書",
+Recipe_Buy_a_Carpentry_Book_Box_Set = "購買 木工技能套書",
+Recipe_Buy_a_Cooking_Book_Box_Set = "購買 烹飪技能套書",
+Recipe_Buy_an_Electrician_Book_Box_Set = "購買 電工技能套書",
+Recipe_Buy_a_Farming_Book_Box_Set = "購買 農耕技能套書",
+Recipe_Buy_a_Fishing_Book_Box_Set = "購買 釣魚技能套書",
+Recipe_Buy_a_Mechanics_Book_Box_Set = "購買 機工技能套書",
+Recipe_Buy_a_First-Aid_Book_Box_Set = "購買 醫療技能套書",
+Recipe_Buy_a_Foraging_Book_Box_Set = "購買 覓食技能套書",
+Recipe_Buy_a_Metalwork_Book_Box_Set = "購買 金工技能套書",
+Recipe_Buy_a_Tailoring_Book_Box_Set = "購買 裁縫技能套書",
+Recipe_Buy_a_Trapping_Book_Box_Set = "購買 陷阱技能套書",
 
 }
