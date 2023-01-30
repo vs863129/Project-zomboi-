@@ -36,9 +36,10 @@ FileName/media/lua/shared/Translate/CH/
 [Z 亞馬遜交易 Zamazon Trading](https://steamcommunity.com/workshop/filedetails/?id=2829551796) (Github:Genshin804,Discord:Genshin)  
 [Bushcraft Gear - Tools](https://steamcommunity.com/sharedfiles/filedetails/?id=2423906082) (Github:HerioJohnX,Discord:希利奧) 
 ### -待整合至工作坊-  
- 
+[Alex's Big Degen's Addon](https://steamcommunity.com/sharedfiles/filedetails/?id=2818423278&searchtext=++Alex%27s+Big+Degen%27s+Addon) (Github:nemo01642280 ,Discord:尼莫)  
+#### -搬運-  
+[Minimal Display Bars](https://steamcommunity.com/sharedfiles/filedetails/?id=2004998206) (原模組翻譯搬運)  
 ## 連接(LINK)
-
 **[模組繁體中文包](https://steamcommunity.com/sharedfiles/filedetails/?id=2730159518)** 
 
 **[Discord群](https://discord.com/invite/T6gjnjuzjr)**  
