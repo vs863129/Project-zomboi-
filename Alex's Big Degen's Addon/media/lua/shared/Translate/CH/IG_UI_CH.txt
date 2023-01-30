@@ -1,0 +1,5 @@
+IG_UI_CH = {
+	IGUI_ItemCat_Doujinshi  = "同人誌",
+	IGUI_ItemCat_Dakimakura  = "抱枕",
+	IGUI_ItemCat_Dakimakura Armor = "抱枕裝備",
+}
