@@ -40,6 +40,7 @@ None
 ### -待整合至工作坊-  
 [Alex's Big Degen's Addon](https://steamcommunity.com/sharedfiles/filedetails/?id=2818423278&searchtext=++Alex%27s+Big+Degen%27s+Addon) (Github:nemo01642280 ,Discord:尼莫)  
 [[過時]沉浸式太陽能陣列 [OBSOLETE] ImmersiveSolarArrays](https://steamcommunity.com/sharedfiles/filedetails/?id=2623458493) (Github:vs863129,Discord:文森)  
+[沉浸式太陽能陣列 ImmersiveSolarArrays](https://steamcommunity.com/sharedfiles/filedetails/?id=2857548524) (Github:vs863129,Discord:文森)  
 #### -搬運(待)-  
 [Minimal Display Bars](https://steamcommunity.com/sharedfiles/filedetails/?id=2004998206) (原模組翻譯搬運)  
 ## 連接(LINK)
