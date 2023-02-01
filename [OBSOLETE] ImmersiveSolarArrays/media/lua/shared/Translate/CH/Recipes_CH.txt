@@ -1,0 +1,16 @@
+Recipes_EN {
+    Recipe_Make_DIY_Battery_from_50Ah = "製作 自製 50安培 電池",
+    Recipe_Make_DIY_Battery_from_75Ah = "製作 自製 75安培 電池",
+    Recipe_Make_DIY_Battery_from_100Ah = "製作 自製 100安培 電池",
+    Recipe_Wire_50Ah_Battery = "接電 50安培 電池",
+    Recipe_Unwire_50Ah_Battery = "拆線 50安培 電池",
+    Recipe_Wire_75Ah_Battery = "接電 75安培 電池",
+    Recipe_Unwire_75Ah_Battery = "拆線 75安培 電池",
+    Recipe_Wire_100Ah_Battery = "接電 100安培 電池",
+    Recipe_Unwire_100Ah_Battery = "拆線 100安培 電池",
+    Recipe_Make_Solar_Roof_Tile = "製作 太陽能屋頂瓦片",
+    Recipe_Make_Wall-Mounted_Solar_Panel = "製作 壁掛式太陽能板",
+    Recipe_Make_Floor-Mounted_Solar_Panel = "製作 落地式太陽能板",
+    Recipe_Create_Battery_Bank = "建造 蓄電池",
+    Recipe_Create_Solar_Failsafe = "建造 太陽能故障保護"
+}
