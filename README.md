@@ -43,6 +43,7 @@ None
 [沉浸式太陽能陣列 ImmersiveSolarArrays](https://steamcommunity.com/sharedfiles/filedetails/?id=2857548524) (Github:vs863129,Discord:文森)  
 #### -搬運(待)-  
 [Minimal Display Bars](https://steamcommunity.com/sharedfiles/filedetails/?id=2004998206) (原模組翻譯搬運)  
+[More Traits](https://steamcommunity.com/sharedfiles/filedetails/?id=1299328280) (原模組翻譯搬運)  
 ## 連接(LINK)
 **[模組繁體中文包](https://steamcommunity.com/sharedfiles/filedetails/?id=2730159518)** 
 
