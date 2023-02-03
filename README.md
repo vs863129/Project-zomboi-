@@ -41,7 +41,7 @@ None
 [Alex's Big Degen's Addon](https://steamcommunity.com/sharedfiles/filedetails/?id=2818423278&searchtext=++Alex%27s+Big+Degen%27s+Addon) (Github:nemo01642280 ,Discord:尼莫)  
 [[過時]沉浸式太陽能陣列 [OBSOLETE] ImmersiveSolarArrays](https://steamcommunity.com/sharedfiles/filedetails/?id=2623458493) (Github:vs863129,Discord:文森)  
 [沉浸式太陽能陣列 ImmersiveSolarArrays](https://steamcommunity.com/sharedfiles/filedetails/?id=2857548524) (Github:vs863129,Discord:文森)  
-[92amgeneralM998](https://steamcommunity.com/sharedfiles/filedetails/?id=2642541073) (Github:vs863129,Discord:文森)  
+[悍馬車+拖車'92 AM General M998 + M101A3 Cargo trailer](https://steamcommunity.com/sharedfiles/filedetails/?id=2642541073) (Github:vs863129,Discord:文森)  
 #### -搬運(待)-  
 [Minimal Display Bars](https://steamcommunity.com/sharedfiles/filedetails/?id=2004998206) (原模組翻譯搬運)  
 [More Traits](https://steamcommunity.com/sharedfiles/filedetails/?id=1299328280) (原模組翻譯搬運)  
