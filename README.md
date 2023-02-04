@@ -35,16 +35,18 @@ FileName/media/lua/shared/Translate/CH/
 [Z 亞馬遜 額外(Brita) Zamazon Brita Plus](https://steamcommunity.com/sharedfiles/filedetails/?id=2848377103) (Github:vs863129,Discord:文森)  
 [Z 亞馬遜交易 Zamazon Trading](https://steamcommunity.com/workshop/filedetails/?id=2829551796) (Github:Genshin804,Discord:Genshin)  
 [Bushcraft Gear - Tools](https://steamcommunity.com/sharedfiles/filedetails/?id=2423906082) (Github:HerioJohnX,Discord:希利奧) 
-### -搬運-
-None
-### -待整合至工作坊-  
 [Alex's Big Degen's Addon](https://steamcommunity.com/sharedfiles/filedetails/?id=2818423278&searchtext=++Alex%27s+Big+Degen%27s+Addon) (Github:nemo01642280 ,Discord:尼莫)  
 [[過時]沉浸式太陽能陣列 [OBSOLETE] ImmersiveSolarArrays](https://steamcommunity.com/sharedfiles/filedetails/?id=2623458493) (Github:vs863129,Discord:文森)  
 [沉浸式太陽能陣列 ImmersiveSolarArrays](https://steamcommunity.com/sharedfiles/filedetails/?id=2857548524) (Github:vs863129,Discord:文森)  
 [悍馬車+拖車'92 AM General M998 + M101A3 Cargo trailer](https://steamcommunity.com/sharedfiles/filedetails/?id=2642541073) (Github:vs863129,Discord:文森)  
-#### -搬運(待)-  
+### -搬運-
 [Minimal Display Bars](https://steamcommunity.com/sharedfiles/filedetails/?id=2004998206) (原模組翻譯搬運)  
 [More Traits](https://steamcommunity.com/sharedfiles/filedetails/?id=1299328280) (原模組翻譯搬運)  
+
+### -待整合至工作坊-  
+
+#### -搬運(待)-  
+
 ## 連接(LINK)
 **[模組繁體中文包](https://steamcommunity.com/sharedfiles/filedetails/?id=2730159518)** 
 
