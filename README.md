@@ -44,7 +44,7 @@ FileName/media/lua/shared/Translate/CH/
 [More Traits](https://steamcommunity.com/sharedfiles/filedetails/?id=1299328280) (原模組翻譯搬運)  
 
 ### -待整合至工作坊-  
-
+[更詳細狀態介紹 Clear description for Moodles](https://steamcommunity.com/sharedfiles/filedetails/?id=2763647806&searchtext) (Github:Genshin804,Discord:Genshin)  
 #### -搬運(待)-  
 
 ## 連接(LINK)
