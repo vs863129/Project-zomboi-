@@ -39,3 +39,4 @@ ItemName_CH = {
 	ItemName_Ssaulavi.StaffCrafted = "精緻的棍棒",		
 	ItemName_Ssaulavi.INaginata = "薙刀",		
 	ItemName_Ssaulavi.SMSpear = "自製金屬長矛",		
+}
