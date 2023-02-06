@@ -117,10 +117,10 @@ Recipes_CH = {
 	Recipe_Mix_762x51_&_308 = "混合 762x51 & .308",
 	Recipe_Mix_308_&_762x51 = "混合 .308 & 762x51",
 	
-	Recipe_Use_AmmoCan_as_5.56x45mm_Minigun_Magazine = "將 彈藥箱 切換成 Minigun 5.56x45mm 彈藥箱",
-	Recipe_Use_AmmoCan_as_.308_Minigun_Magazine = "將 彈藥箱 切換成 Minigun .308 彈藥箱",
-	Recipe_Use_AmmoCan_as_.50-BMG_Minigun_Magazine = "將 彈藥箱 切換成 Minigun .50-BMG 彈藥箱",
-	Recipe_Use_Minigun_Magazine_as_AmmoCan = "將 Minigun彈藥箱 切換成 彈藥箱",
+	Recipe_Use_AmmoCan_as_5.56x45mm_Minigun_Magazine = "將 彈藥箱 切換成 Minigun 5.56x45mm 彈鏈箱",
+	Recipe_Use_AmmoCan_as_.308_Minigun_Magazine = "將 彈藥箱 切換成 Minigun .308 彈鏈箱",
+	Recipe_Use_AmmoCan_as_.50-BMG_Minigun_Magazine = "將 彈藥箱 切換成 Minigun .50-BMG 彈鏈箱",
+	Recipe_Use_Minigun_Magazine_as_AmmoCan = "將 迷你機槍彈鏈箱 切換成 彈藥箱",
 	
 	Recipe_Craft_Pop Bottle_Suppressor = "製作 抑制器(瓶)",
 	
