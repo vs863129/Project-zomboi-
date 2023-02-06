@@ -52,10 +52,10 @@ ItemName_CH = {
 	ItemName_Base.Suppressor_Bottle = "抑制器 (瓶)",
 	
 	
-	ItemName_Base.Bayonet_M4 = "近戰 (M4)",
-	ItemName_Base.Bayonet_AK = "近戰 (AK)",
-	ItemName_Base.Bayonet_M1917 = "近戰 (M1917)",
-	ItemName_Base.Bayonet_Type30 = "近戰 (Tipo-30)",
+	ItemName_Base.Bayonet_M4 = "刺刀 (M4)",
+	ItemName_Base.Bayonet_AK = "刺刀 (AK)",
+	ItemName_Base.Bayonet_M1917 = "刺刀 (M1917)",
+	ItemName_Base.Bayonet_Type30 = "刺刀 (Tipo-30)",
 	ItemName_Base.Choke_Full = "收束器 (完整)",
 	ItemName_Base.Choke_Full_Dbl = "雙收束器(完整)",
 	ItemName_Base.Heavy = "重型槍管",
