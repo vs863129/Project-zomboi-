@@ -1,0 +1,17 @@
+UI_CH = {
+    UI_optionscreen_binding_GunFighter Mod	= "ARSENAL[26]GUNFIGHTER",
+    UI_optionscreen_binding_AMMO_TYPE_1		= "彈藥類型 1",
+    UI_optionscreen_binding_AMMO_TYPE_2		= "彈藥類型 2",
+    UI_optionscreen_binding_MAG_TYPE_1		= "彈匣類型 / 近戰-握把 1",
+    UI_optionscreen_binding_MAG_TYPE_2		= "彈匣類型 / 近戰-握把 2",
+    UI_optionscreen_binding_FOLD_STOCK		= 摺疊: 槍托 / 刺刀",
+    UI_optionscreen_binding_MELEE_MODE		= "近戰/ 發射模式",
+    UI_optionscreen_binding_SELECT_FIRE		= "選擇開火",
+    UI_optionscreen_binding_ALT_LOAD		= "ALTERNATE-LOAD",
+    UI_optionscreen_binding_TRAJECTORY_UP	= "軌跡向上 / 近距離戰鬥-開",
+    UI_optionscreen_binding_TRAJECTORY_DOWN	= "軌跡向下 / 近距離戰鬥-關",
+    UI_optionscreen_binding_WEAPON_LIGHT	= "武器燈",
+    UI_optionscreen_binding_REFRESH_SCRIPT	= "刷新武器腳本",
+}
+
+
