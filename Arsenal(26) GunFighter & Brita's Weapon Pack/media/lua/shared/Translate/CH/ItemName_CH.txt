@@ -552,9 +552,9 @@ ItemName_CH = {
 	ItemName_Base.M2A1_Can = "M2A1 燃料罐",
 	ItemName_Base.M2A1_Tank = "M2A1 噴射器燃料罐",
 	
-	ItemName_Base.556MiniCan = "迷你機槍彈藥箱 5.56x45mm-NATO",
-	ItemName_Base.308MiniCan = "迷你機槍彈藥箱.308-WIN",
-	ItemName_Base.50MiniCan = "迷你機槍彈藥箱.50-BMG",
+	ItemName_Base.556MiniCan = "迷你機槍彈鏈箱 5.56x45mm-NATO",
+	ItemName_Base.308MiniCan = "迷你機槍彈鏈箱.308-WIN",
+	ItemName_Base.50MiniCan = "迷你機槍彈鏈箱.50-BMG",
 	
 	ItemName_Base.Multi_Gun = "多數槍",
 	
