@@ -44,7 +44,8 @@ FileName/media/lua/shared/Translate/CH/
 [More Traits](https://steamcommunity.com/sharedfiles/filedetails/?id=1299328280) (原模組翻譯搬運)  
 
 ### -待整合至工作坊-  
-[更詳細狀態介紹 Clear description for Moodles](https://steamcommunity.com/sharedfiles/filedetails/?id=2763647806&searchtext) (Github:Genshin804,Discord:Genshin)  
+[更詳細狀態介紹 Clear description for Moodles](https://steamcommunity.com/sharedfiles/filedetails/?id=2763647806&searchtext) (Github:Genshin804,Discord:Genshin) 
+[Arsenal(26) GunFighter](https://steamcommunity.com/sharedfiles/filedetails/?id=2297098490) & [Brita's Weapon Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=2200148440) (Github:vs863129,Discord:文森)  
 #### -搬運(待)-  
 
 ## 連接(LINK)
