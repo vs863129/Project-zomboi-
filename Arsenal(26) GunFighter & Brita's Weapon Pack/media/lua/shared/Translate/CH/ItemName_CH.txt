@@ -120,9 +120,9 @@ ItemName_CH = {
 	ItemName_Base.Carrier_12g = "12g 散彈套",
 	
 	ItemName_Base.Standard_Mag = "標準彈匣",
-	ItemName_Base.Extended_Mag = "擴充彈匣",
+	ItemName_Base.Extended_Mag = "加長型彈匣",
 	ItemName_Base.Drum_Mag = "彈鼓",
-	ItemName_Base.CP33_17MagBase = "CP33 擴充彈匣",
+	ItemName_Base.CP33_17MagBase = "CP33 加長型彈匣底座",
 	ItemName_Base.SolventTrap_Adapter = "溶劑回收器",
 	ItemName_Base.Oil_Filter = "機油過濾器",
 	
@@ -134,9 +134,9 @@ ItemName_CH = {
 	ItemName_Base.Barrel_357 = "單發霞彈槍管 (.38/357)",
 	ItemName_Base.Barrel_357_Short = "單發短霞彈槍管 (.38/357)",
 	
-	ItemName_Base.9mmClip = ".9x19mm 雙彈匣",
-	ItemName_Base.45Clip = ".45-ACP 單彈匣",
-	ItemName_Base.44Clip = ".44-Mag 雙彈匣",
+	ItemName_Base.9mmClip = ".9x19mm 雙排單進彈匣",
+	ItemName_Base.45Clip = ".45-ACP 單排彈匣",
+	ItemName_Base.44Clip = ".44-Mag 單排彈匣",
 	ItemName_Base.223Clip = ".223-REM 獵槍彈匣",
 	ItemName_Base.556Clip = "STANAG 5.56x45mm 彈匣",
 	ItemName_Base.308Clip = ".308-WIN 獵槍彈匣",
@@ -223,7 +223,7 @@ ItemName_CH = {
 	ItemName_Base.40HERound = ".40mm 爆破彈",
 	ItemName_Base.40INCRound = " .40mm 燃燒彈",
 	ItemName_Base.HERocket = "高爆火箭彈",
-	ItemName_Base.FlameFuel = "火焰噴射器燃料",
+	ItemName_Base.FlameFuel = "噴火器燃料",
 	ItemName_Base.WaterAmmo = "水槍用水",
 	
 	ItemName_Base.Brass22 = ".22LR 彈殼",
@@ -415,13 +415,13 @@ ItemName_CH = {
 	
 	ItemName_Base.SKS_A26 = "Arsenal[26]Mod SKS",
 	ItemName_Base.SKS_A26_Melee = "Arsenal[26] Mod SKS (近戰)",
-	ItemName_Base.SKS30_A26 = "Arsenal[26] Mod SKS (擴充彈匣)",
-	ItemName_Base.SKS30_A26_Melee = "Arsenal[26] Mod SKS (擴充彈匣) (近戰)",
+	ItemName_Base.SKS30_A26 = "Arsenal[26] Mod SKS (加長型彈匣)",
+	ItemName_Base.SKS30_A26_Melee = "Arsenal[26] Mod SKS (加長型彈匣) (近戰)",
 	
 	ItemName_Base.DEagle_Long = "沙漠之鷹 (MK-XIX)",
 	
-	ItemName_Base.WD_Flame_FIRE = "WD-40 火焰噴射器",
-	ItemName_Base.WD_Flame = "WD-40 火焰噴射器",
+	ItemName_Base.WD_Flame_FIRE = "WD-40 火焰噴射罐",
+	ItemName_Base.WD_Flame = "WD-40 火焰噴射罐",
 	ItemName_Base.Musk_FIRE = "Boring CO. 不是火焰噴射器",
 	ItemName_Base.Musk = "Boring CO. 不是火焰噴射器",
 	ItemName_Base.M2A1_FIRE = "M2A1 火焰噴射器",
@@ -442,12 +442,12 @@ ItemName_CH = {
 	ItemName_Base.ROYAL_SXS = "H&H Royal SXS (10G)",
 	ItemName_Base.Colt1855 = "柯特1855 轉輪式霰彈槍 (10G)",
 	
-	ItemName_Base.10855_Silver = "Benelli Montefeltro Silver 霰彈槍(20G)",
+	ItemName_Base.10855_Silver = "伯奈利「蒙特費爾特羅」白銀 霰彈槍(20G)",
 	
 	ItemName_Base.SW_M500 = "史密斯威森 M500 左輪手槍",
 	
 	ItemName_Base.Pistol = "金牛座M9 手槍",
-	ItemName_Base.Pistol2 = "Rock Island Armory M1911 手槍",
+	ItemName_Base.Pistol2 = "巖島兵工廠 M1911 手槍",
 	ItemName_Base.Pistol3 = "沙漠之鷹",
 	
 	ItemName_Base.Revolver_Short = "儒格 GP100 2"bbl (.38-Spc)",
@@ -562,7 +562,7 @@ ItemName_CH = {
 	
 	ItemName_Base.9mmDrum = ".9x19mm 彈鼓",
 	
-	ItemName_Base.9mmExtClip = "9x19mm 雙彈匣",
+	ItemName_Base.9mmExtClip = "9x19mm 雙排加長型彈匣",
 	
 	ItemName_Base.12gDrum = "12G徑散彈 彈鼓",
 	
@@ -576,63 +576,63 @@ ItemName_CH = {
 	
 	ItemName_Base.22Drum = ".22-LR 彈鼓",
 	
-	ItemName_Base.22ExtClip = ".22-LR 擴充彈匣",
+	ItemName_Base.22ExtClip = ".22-LR 加長型彈匣",
 	
-	ItemName_Base.38Clip = ".38-Spc 單彈匣",
+	ItemName_Base.38Clip = ".38-Spc 單排彈匣",
 	
 	ItemName_Base.45Drum = ".45-ACP 彈鼓",
 	
-	ItemName_Base.45ExtClip = ".45-ACP 擴充彈匣",
+	ItemName_Base.45ExtClip = ".45-ACP 單排加長型彈匣",
 	
-	ItemName_Base.45DSClip = ".45-ACP 雙彈匣",
+	ItemName_Base.45DSClip = ".45-ACP 雙排彈匣",
 	
-	ItemName_Base.45DSExtClip = ".45-ACP 雙擴充彈匣",
+	ItemName_Base.45DSExtClip = ".45-ACP 雙排加長型彈匣",
 	
 	ItemName_Base.57Clip = "5.7x28mm 彈匣",
 	ItemName_Base.P90Clip = "P90 5.7x28mm 彈匣",
 	
-	ItemName_Base.223ExtClip = ".223-REM 擴充彈匣",
+	ItemName_Base.223ExtClip = ".223-REM 加長型彈匣",
 	
 	ItemName_Base.223Clip = ".223-REM 獵槍彈匣",
 	
-	ItemName_Base.223StdClip = ".223-REM 單彈匣",
+	ItemName_Base.223StdClip = ".223-REM 標準彈匣",
 	
-	ItemName_Base.308Belt = ".308 彈箱",
+	ItemName_Base.308Belt = ".308 彈鏈箱",
 	
-	ItemName_Base.308ExtClip = ".308-WIN NATO 擴充彈匣",
+	ItemName_Base.308ExtClip = ".308-WIN NATO 彈匣",
 	
 	ItemName_Base.308Clip = ".308-WIN 獵槍彈匣",
 	
-	ItemName_Base.308StdClip = ".308-WIN 單彈匣",
+	ItemName_Base.308StdClip = ".308-WIN 標準彈匣",
 	
-	ItemName_Base.380Clip = ".380-ACP 單彈匣",
+	ItemName_Base.380Clip = ".380-ACP 單排彈匣",
 	
-	ItemName_Base.380ExtClip = ".380-ACP 雙擴充彈匣",
+	ItemName_Base.380ExtClip = ".380-ACP 雙排加長型彈匣",
 	
 	ItemName_Base.545Drum = "5.45x39mm 彈鼓",
 	
-	ItemName_Base.545StdClip = "5.45x39mm 單彈匣",
+	ItemName_Base.545StdClip = "5.45x39mm 標準彈匣",
 	
-	ItemName_Base.556Belt = "5.56x45mm 彈箱",
+	ItemName_Base.556Belt = "5.56x45mm 彈鏈箱",
 	
 	ItemName_Base.556Drum = "5.56x45mm 彈鼓",
 	
 	ItemName_Base.762Drum = "7.62x39mm 彈鼓",
 	
-	ItemName_Base.762x39Belt = "7.62x39 彈箱",
+	ItemName_Base.762x39Belt = "7.62x39 彈鏈箱",
 	
-	ItemName_Base.762x54rBelt = "7.62x54r 彈箱",
+	ItemName_Base.762x54rBelt = "7.62x54r 彈鏈箱",
 	
 	ItemName_Base.3006ExtClip = ".30-06 SPG 彈匣",
 	
 	ItemName_Base.AKClip = "7.62x39mm 彈匣",
 	
-	ItemName_Base.ASHClip = "ASH (.50-Mag) 單彈匣",
+	ItemName_Base.ASHClip = "ASH (.50-Mag) 彈匣",
 	
-	ItemName_Base.ASVALClip = "VSS 擴充彈匣",
+	ItemName_Base.ASVALClip = "VSS 加長型彈匣",
 	
 	ItemName_Base.CP33Clip = "KEL-TEC CP33 彈匣",
-	ItemName_Base.CP33ExtClip = "KEL-TEC CP33 擴充彈匣",
+	ItemName_Base.CP33ExtClip = "KEL-TEC CP33 加長型彈匣",
 	
 	ItemName_Base.Fixed = "彈倉",
 	
@@ -1164,20 +1164,20 @@ ItemName_CH = {
 	
 	ItemName_Base.SKS = "SKS 半自動步槍",
 	ItemName_Base.SKS_Bayo = " SKS 半自動步槍(刺刀)",
-	ItemName_Base.SKS30 = " SKS 半自動步槍(雙彈匣)",
-	ItemName_Base.SKS30_Bayo = " SKS 半自動步槍(雙彈匣)(刺刀)",
+	ItemName_Base.SKS30 = " SKS 半自動步槍(加長型彈匣)",
+	ItemName_Base.SKS30_Bayo = " SKS 半自動步槍(加長型彈匣)(刺刀)",
 	ItemName_Base.SKS_Melee = " SKS 半自動步槍(近戰)",
 	ItemName_Base.SKS_Bayo_Melee = " SKS 半自動步槍(刺刀)(近戰)",
-	ItemName_Base.SKS30_Melee = " SKS 半自動步槍(雙彈匣)(近戰)",
-	ItemName_Base.SKS30_Bayo_Melee = " SKS 半自動步槍(雙彈匣)(刺刀)(近戰)",
+	ItemName_Base.SKS30_Melee = " SKS 半自動步槍(加長型彈匣)(近戰)",
+	ItemName_Base.SKS30_Bayo_Melee = " SKS 半自動步槍(加長型彈匣)(刺刀)(近戰)",
 	ItemName_Base.SKS_PARA = "SKS傘兵型 半自動步槍",
-	ItemName_Base.SKS_PARA_Bayo = "SKS傘兵型(刺刀)",
-	ItemName_Base.SKS30_PARA = "SKS傘兵型 半自動步槍(雙彈匣)",
-	ItemName_Base.SKS30_PARA_Bayo = "SKS傘兵型 半自動步槍(雙彈匣)(刺刀)",
+	ItemName_Base.SKS_PARA_Bayo = "SKS傘兵型 半自動步槍(刺刀)",
+	ItemName_Base.SKS30_PARA = "SKS傘兵型 半自動步槍(加長型彈匣)",
+	ItemName_Base.SKS30_PARA_Bayo = "SKS傘兵型 半自動步槍(加長型彈匣)(刺刀)",
 	ItemName_Base.SKS_PARA_Melee = "SKS傘兵型 半自動步槍(近戰)",
 	ItemName_Base.SKS_PARA_Bayo_Melee = " SKS傘兵型 半自動步槍(刺刀)(近戰)",
-	ItemName_Base.SKS30_PARA_Melee = "SKS傘兵型 半自動步槍(雙彈匣)(近戰)",
-	ItemName_Base.SKS30_PARA_Bayo_Melee = "SKS傘兵型 半自動步槍(雙彈匣)(刺刀)(近戰)",
+	ItemName_Base.SKS30_PARA_Melee = "SKS傘兵型 半自動步槍(加長型彈匣)(近戰)",
+	ItemName_Base.SKS30_PARA_Bayo_Melee = "SKS傘兵型 半自動步槍(加長型彈匣)(刺刀)(近戰)",
 	
 	ItemName_Base.BodyGuard380 = "史密斯威森護衞者 .380 手槍",
 	ItemName_Base.M5238 = "史密斯威森52型 .38 手槍",
@@ -1188,8 +1188,8 @@ ItemName_CH = {
 	ItemName_Base.SPAS12_Fixed_Melee = "弗蘭基SPAS12 戰鬥霰彈槍(固定彈匣)(近戰)",
 	ItemName_Base.SPAS12_Fold = "弗蘭基SPAS-12 戰鬥霰彈槍(折疊)",
 	ItemName_Base.SPAS12_Fold_Melee = "弗蘭基SPAS12 戰鬥霰彈槍(折疊)(近戰)",
-	ItemName_Base.SPAS12_Stock = "弗蘭基SPAS-12 戰鬥霰彈槍(擴充彈匣)",
-	ItemName_Base.SPAS12_Stock_Melee = "弗蘭基SPAS12 戰鬥霰彈槍(擴充彈匣)(近戰)",
+	ItemName_Base.SPAS12_Stock = "弗蘭基SPAS-12 戰鬥霰彈槍(加長型彈匣)",
+	ItemName_Base.SPAS12_Stock_Melee = "弗蘭基SPAS12 戰鬥霰彈槍(加長型彈匣)(近戰)",
 	
 	ItemName_Base.STAR_Z45_Stock = "STAR Z-45 衝鋒槍(展開)",
 	ItemName_Base.STAR_Z45_Fold = "STAR Z-45 衝鋒槍(折疊)",
@@ -1217,8 +1217,8 @@ ItemName_CH = {
 	
 	ItemName_Base.Shotgun = "H&R Pardner 泵式霰彈槍",
 	ItemName_Base.ShotgunSawnoff = "H&R Pardner 泵式霰彈槍(短管)",
-	ItemName_Base.DoubleBarrelShotgun = "H&R Pardner 泵式霰彈槍(雙彈匣)",
-	ItemName_Base.DoubleBarrelShotgunSawnoff = "H&R Pardner 泵式霰彈槍(雙彈匣)(短管)",
+	ItemName_Base.DoubleBarrelShotgun = "H&R Pardner 泵式霰彈槍(加長型彈匣)",
+	ItemName_Base.DoubleBarrelShotgunSawnoff = "H&R Pardner 泵式霰彈槍(加長型彈匣)(短管)",
 	
 	ItemName_Base.Vz58 = "Vz.58 (固定彈匣)",
 	ItemName_Base.Vz58_Melee = "Vz.58 (固定彈匣)(近戰)",

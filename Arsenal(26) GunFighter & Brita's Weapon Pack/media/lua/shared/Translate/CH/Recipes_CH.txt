@@ -179,7 +179,7 @@ Recipes_CH = {
 	Recipe_Scrap_7.62x39mm_Ammunition = "回收彈藥(7.62x39mm)",
 	Recipe_Scrap_308-WIN_Ammunition = "回收彈藥(.308-WIN)",
 	Recipe_Scrap_7.62x51mm_Ammunition = "回收彈藥(7.62x51mm)",
-	Recipe_Scrap_7.62x54-R_Ammunition = "回收彈藥(7.62x54mm)",
+	Recipe_Scrap_7.62x54r_Ammunition = "回收彈藥(7.62x54mm)",
 	Recipe_Scrap_30-06_SPG_Ammunition = "回收彈藥(.30-06 SPG)",
 	Recipe_Scrap_50-BMG_Ammunition = "回收彈藥(.50-BMG)",
 	Recipe_Scrap_410g_Shotgun_Shell = "回收彈藥(410G 徑散彈)",
@@ -202,9 +202,9 @@ Recipes_CH = {
 	Recipe_Use_45-LongColt_Rounds = "使用 .45-LongColt",
 	Recipe_Use_44-Magnum_Rounds = "使用 .44-Magnum",
 	
-	Recipe_Use_30-06_Rounds = "使用 .30-06 Rounds",
-	Recipe_Use_7.62x54r_Rounds = "使用 7.62x54r",
-	Recipe_Use_308_Rounds = "使用 .308",
+	Recipe_Use_30-06_Rounds = "轉換 .30-06 彈夾",
+	Recipe_Use_7.62x54r_Rounds = "轉換 7.62x54-R 彈夾",
+	Recipe_Use_308_Rounds = "轉換 .308 彈夾",
 	
 	Recipe_Assemble_EDM96_(Taken-Down) = "展開 EDM96 (已折疊)",
 	Recipe_Take-Down_EDM96 = "折疊 EDM96",
