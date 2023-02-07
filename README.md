@@ -41,7 +41,7 @@ FileName/media/lua/shared/Translate/CH/
 [悍馬車+拖車'92 AM General M998 + M101A3 Cargo trailer](https://steamcommunity.com/sharedfiles/filedetails/?id=2642541073) (Github:vs863129,Discord:文森)  
 ### -搬運-
 [Minimal Display Bars](https://steamcommunity.com/sharedfiles/filedetails/?id=2004998206) (原模組翻譯搬運)  
-[More Traits](https://steamcommunity.com/sharedfiles/filedetails/?id=1299328280) (原模組翻譯搬運)  
+[More Traits](https://steamcommunity.com/sharedfiles/filedetails/?id=1299328280) (部分由Github:Genshin804,Discord:Genshin翻譯,其餘原模組翻譯搬運)  
 
 ### -待整合至工作坊-  
 [更詳細狀態介紹 Clear description for Moodles](https://steamcommunity.com/sharedfiles/filedetails/?id=2763647806&searchtext) (Github:Genshin804,Discord:Genshin)  
