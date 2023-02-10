@@ -33,11 +33,11 @@ ItemName_CH = {
 	ItemName_Base.Light_Small = "戰術燈 (小)",
 	ItemName_Base.Light_Large = "戰術燈 (大)",
 	ItemName_Base.Light_Medium_SureFire_M952V = "戰術燈 (SureFire M952V)",
-	ItemName_Base.Laser_Green = "戰術鐳射 (綠)",
-	ItemName_Base.Laser_Red = "戰術鐳射 (紅)",
-	ItemName_Base.Laser_DVAL = " DBAL-A2 戰術鐳射裝置",
-	ItemName_Base.Laser_PEQ15 = "AN/PEQ-15 戰術鐳射裝置",
-	ItemName_Base.Laser_Light_Small_LAM = "SOCOM 戰術鐳射瞄準模塊",
+	ItemName_Base.Laser_Green = "戰術雷射 (綠)",
+	ItemName_Base.Laser_Red = "戰術雷射 (紅)",
+	ItemName_Base.Laser_DVAL = " DVAL-A2 雷射瞄準器",
+	ItemName_Base.Laser_PEQ15 = "AN/PEQ-15 雷射瞄準器",
+	ItemName_Base.Laser_Light_Small_LAM = "SOCOM 雷射瞄準模塊",
 	
 	
 	ItemName_Base.Suppressor_Pistol = "抑制器 (手槍)",
@@ -434,8 +434,8 @@ ItemName_CH = {
 	ItemName_Base.K11_INC = "S&T 大宇 K11 (燃燒)",
 	
 	ItemName_Base.XM214 = "XM-214 迷你機槍",
-	ItemName_Base.GAU17 = "GAU-17 通用迷你機槍",
-	ItemName_Base.GAU19 = "GAU-19 通用迷你機槍",
+	ItemName_Base.GAU17 = "奇異 GAU-17 迷你機槍",
+	ItemName_Base.GAU19 = "奇異 GAU-19 迷你機槍",
 	
 	ItemName_Base.Moss500_20 = "莫斯伯格 500型 泵動式霰彈槍 (20G)",
 	
