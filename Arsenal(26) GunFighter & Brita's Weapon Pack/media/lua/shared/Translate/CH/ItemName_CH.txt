@@ -446,23 +446,15 @@ ItemName_CH = {
 	
 	ItemName_Base.SW_M500 = "史密斯威森 M500 左輪手槍",
 	
-	ItemName_Base.Pistol = "金牛座 M9 手槍",
-	ItemName_Base.Pistol2 = "巖島兵工廠 M1911 手槍",
-	ItemName_Base.Pistol3 = "沙漠之鷹",
-	
-	ItemName_Base.Revolver_Short = "儒格 GP100(.38-Spc)",
-	ItemName_Base.Revolver_Short_357 = "儒格 GP100(.357-Mag)",
 	ItemName_Base.Revolver = "儒格 GP100(.38-Spc)",
 	ItemName_Base.Revolver_357 = "儒格 GP100(.357-Mag)",
 	ItemName_Base.Revolver_Long = "儒格 GP100(.38-Spc)",
 	ItemName_Base.Revolver_Long_357 = "儒格 GP100(.357-Mag)",
 	
-	ItemName_Base.VarmintRifle = "韋斯比 Vanguard 捕獵步槍",
-	ItemName_Base.HuntingRifle = "豐和 1500 型狩獵步槍",
-	ItemName_Base.AssaultRifle2 = "M14 自動步槍",
-	ItemName_Base.AssaultRifle2_Melee = "M14 自動步槍 (近戰)",
-	ItemName_Base.AssaultRifle = "M16A1 突擊步槍",
-	ItemName_Base.AssaultRifle_Melee = "M16A1 突擊步槍 (近戰)",
+	ItemName_Base.AssaultRifle2 = "M14 步槍",
+	ItemName_Base.AssaultRifle2_Melee = "M14 步槍 (近戰)",
+	ItemName_Base.AssaultRifle = "M16 突擊步槍",
+	ItemName_Base.AssaultRifle_Melee = "M16A 突擊步槍 (近戰)",
 	ItemName_Base.AssaultRifle_HE = "M16A1 突擊步槍 (榴彈)",
 	ItemName_Base.AssaultRifle_INC = "M16A1 突擊步槍 (榴彈)",
 	
@@ -1214,11 +1206,6 @@ ItemName_CH = {
 	ItemName_Base.UZI_Wood = "IMI 烏茲 衝鋒槍(槍木)",
 	ItemName_Base.UZI_Micro = "IMI Micro-烏茲 衝鋒槍(展開)",
 	ItemName_Base.UZI_Micro_Fold = "IMI Micro-烏茲 衝鋒槍(折疊)",
-	
-	ItemName_Base.Shotgun = "H&R Pardner 泵式霰彈槍",
-	ItemName_Base.ShotgunSawnoff = "H&R Pardner 泵式霰彈槍(削短型)",
-	ItemName_Base.DoubleBarrelShotgun = "H&R Pardner 泵式霰彈槍(加長型彈匣)",
-	ItemName_Base.DoubleBarrelShotgunSawnoff = "H&R Pardner 泵式霰彈槍(加長型彈匣)(削短型)",
 	
 	ItemName_Base.Vz58 = "Vz.58 (固定彈匣)",
 	ItemName_Base.Vz58_Melee = "Vz.58 (固定彈匣)(近戰)",
