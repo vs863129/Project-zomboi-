@@ -5,8 +5,8 @@ ItemName_CH = {
 	ItemName_Susceptible.OxygenTank = "氧氣罐",
 	ItemName_Susceptible.MaskBox_Blue = "醫用口罩盒(藍色)",
 	ItemName_Susceptible.MaskBox_Green = "醫用口罩盒(綠色)",
-	ItemName_Susceptible.EmptyMaskBox_Blue = "空口罩盒(藍色)",
-	ItemName_Susceptible.EmptyMaskBox_Green = "空口罩盒(綠色)",
+	ItemName_Susceptible.EmptyMaskBox_Blue = "空口罩盒",
+	ItemName_Susceptible.EmptyMaskBox_Green = "空口罩盒",
 	ItemName_Susceptible.EmptyDustmaskBox = "空防塵口罩盒",
 	ItemName_Susceptible.DustmaskBox = "防塵口罩盒",
 }
