@@ -134,11 +134,11 @@ ItemName_CH = {
 	ItemName_Base.Barrel_357 = "單發霞彈槍管 (.38/357)",
 	ItemName_Base.Barrel_357_Short = "單發短霞彈槍管 (.38/357)",
 	
-	ItemName_Base.9mmClip = ".9x19mm 雙排單進彈匣",
+	ItemName_Base.9mmClip = ".9x19mm 雙排彈匣",
 	ItemName_Base.45Clip = ".45-ACP 單排彈匣",
 	ItemName_Base.44Clip = ".44-Mag 單排彈匣",
 	ItemName_Base.223Clip = ".223-REM 獵槍彈匣",
-	ItemName_Base.556Clip = "STANAG 5.56x45mm 彈匣",
+	ItemName_Base.556Clip = "5.56x45mm 彈匣",
 	ItemName_Base.308Clip = ".308-WIN 獵槍彈匣",
 	
 	
@@ -446,7 +446,6 @@ ItemName_CH = {
 	
 	ItemName_Base.SW_M500 = "史密斯威森 M500 左輪手槍",
 	
-	ItemName_Base.Revolver = "儒格 GP100(.38-Spc)",
 	ItemName_Base.Revolver_357 = "儒格 GP100(.357-Mag)",
 	ItemName_Base.Revolver_Long = "儒格 GP100(.38-Spc)",
 	ItemName_Base.Revolver_Long_357 = "儒格 GP100(.357-Mag)",
