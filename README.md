@@ -39,14 +39,14 @@ FileName/media/lua/shared/Translate/CH/
 [[過時]沉浸式太陽能陣列 [OBSOLETE] ImmersiveSolarArrays](https://steamcommunity.com/sharedfiles/filedetails/?id=2623458493) (Github:vs863129,Discord:文森)  
 [沉浸式太陽能陣列 ImmersiveSolarArrays](https://steamcommunity.com/sharedfiles/filedetails/?id=2857548524) (Github:vs863129,Discord:文森)  
 [悍馬車+拖車'92 AM General M998 + M101A3 Cargo trailer](https://steamcommunity.com/sharedfiles/filedetails/?id=2642541073) (Github:vs863129,Discord:文森)  
-### -搬運-
-[Minimal Display Bars](https://steamcommunity.com/sharedfiles/filedetails/?id=2004998206) (原模組翻譯搬運)  
-[More Traits](https://steamcommunity.com/sharedfiles/filedetails/?id=1299328280) (其餘原模組翻譯搬運)  
-
-### -待整合至工作坊-  
 [更詳細狀態介紹 Clear description for Moodles](https://steamcommunity.com/sharedfiles/filedetails/?id=2763647806&searchtext) (Github:Genshin804,Discord:Genshin)  
 [Arsenal(26) GunFighter](https://steamcommunity.com/sharedfiles/filedetails/?id=2297098490) & [Brita's Weapon Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=2200148440) (Github:vs863129,Discord:文森)  
-[More Traits](https://steamcommunity.com/sharedfiles/filedetails/?id=1299328280) (部分由Github:Genshin804,Discord:Genshin翻譯)  
+### -搬運-
+[Minimal Display Bars](https://steamcommunity.com/sharedfiles/filedetails/?id=2004998206) (原模組翻譯搬運)  
+[更多特質 More Traits](https://steamcommunity.com/sharedfiles/filedetails/?id=1299328280) (部分由Github:Genshin804,Discord:Genshin翻譯)  
+
+### -待整合至工作坊-  
+
 #### -搬運(待)-  
 
 ## 連接(LINK)
