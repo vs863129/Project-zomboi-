@@ -9,9 +9,9 @@
 
 # 上傳與更新紀錄
 ## 2023/02/11
-更詳細狀態介紹 Clear description for Moodles (僅提供給原作者)
-Arsenal(26) GunFighter & Brita's Weapon Pack
-更多特質 More Traits
+更詳細狀態介紹 Clear description for Moodles (僅提供給原作者)  
+Arsenal(26) GunFighter & Brita's Weapon Pack  
+更多特質 More Traits  
 ## 2023/01/25
 調試選單 DebugMenu (Github:Genshin804,Discord:Genshin)  
 武士魂SSAULAVI (Github: ,Discord:尼莫)  
