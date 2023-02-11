@@ -1,0 +1,4 @@
+Recipes_EN = {
+	Recipe_Open_Box_of_Masks = "打開口罩盒",
+	Recipe_Put_Masks_in_Box = "把口罩放進盒裡",
+}

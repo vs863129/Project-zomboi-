@@ -1,0 +1,6 @@
+ContextMenu_CH = {
+	ContextMenu_PullDownM = "拉下",
+	ContextMenu_PullUpM = "拉上",
+	ContextMenu_WearonFace = "戴在臉上",
+	ContextMenu_WearonNeck = "戴在脖子上",
+}
