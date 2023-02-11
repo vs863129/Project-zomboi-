@@ -447,7 +447,6 @@ ItemName_CH = {
 	ItemName_Base.SW_M500 = "史密斯威森 M500 左輪手槍",
 	
 	ItemName_Base.Revolver_357 = "儒格 GP100(.357-Mag)",
-	ItemName_Base.Revolver_Long = "儒格 GP100(.38-Spc)",
 	ItemName_Base.Revolver_Long_357 = "儒格 GP100(.357-Mag)",
 	
 	ItemName_Base.AssaultRifle2 = "M14 步槍",
