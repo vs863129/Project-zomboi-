@@ -1,0 +1,10 @@
+ItemName_CH = {
+    ItemName_Base.ATPistolTurret = "憤怒的手槍砲台",
+    ItemName_Base.ATShotgunTurret = "憤怒的散彈槍砲台",
+    ItemName_Base.ATSniperTurret = "憤怒的步槍砲台",
+    ItemName_Base.ATAngryMagazine = "傻瓜也能製作憤怒砲台",
+	ItemName_Base.ATPistolTurretTitan = "發怒泰坦之手槍砲台",
+	ItemName_Base.ATShotgunTurretTitan = "發怒泰坦之散彈槍砲台",
+	ItemName_Base.ATSniperTurretTitan = "發怒泰坦之步槍砲台",
+
+}
