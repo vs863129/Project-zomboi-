@@ -47,6 +47,7 @@ FileName/media/lua/shared/Translate/CH/
 [更詳細狀態介紹 Clear description for Moodles](https://steamcommunity.com/sharedfiles/filedetails/?id=2763647806&searchtext) (Github:Genshin804,Discord:Genshin)  
 ### -待整合至工作坊-  
 [更好的口罩 Better Masks](https://steamcommunity.com/sharedfiles/filedetails/?id=2801714948)  (Github:nemo01642280 ,Discord:尼莫)  
+[憤怒砲塔 Angry Turrets](https://steamcommunity.com/sharedfiles/filedetails/?id=2855343540)  (Github:nemo01642280 ,Discord:尼莫) 
 #### -搬運(待)-  
 
 ## 連接(LINK)
