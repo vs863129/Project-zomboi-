@@ -1,0 +1,5 @@
+Recipes_EN = {
+    Recipe_Make_Angry_Pistol_Turret = "製作憤怒的手槍砲台",
+    Recipe_Make_Angry_Shotgun_Turret = "製作憤怒的散彈槍砲台",
+    Recipe_Make_Angry_Sniper_Turret = "製作憤怒的步槍砲台",
+}

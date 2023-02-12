@@ -1,0 +1,6 @@
+IGUI_CH = {
+    IGUI_ContainerTitle_TurretPistol = "憤怒的手槍砲台",
+    IGUI_ContainerTitle_TurretShotgun = "憤怒的散彈槍砲台",
+    IGUI_ContainerTitle_TurretSniper = "憤怒的步槍砲台",
+    IGUI_ItemCat_Turret ="砲台",
+}
