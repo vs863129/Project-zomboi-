@@ -348,7 +348,7 @@
 	DisplayNameBear_Steak = "熊排",
 	DisplayNameHunting_card_(Bear) = "狩獵卡（熊）",
 	DisplayName_Shaker = "搖瓶",
-	DisplayNameLime = "石灰",
+	DisplayNameLime = "萊姆",
 	DisplayNameTriple_Sec_Bottle = "利口酒",
 	DisplayNameWhite_Tequila_Bottle = "白龍舌蘭酒",
 	DisplayNameSoda_Bottle = "汽水瓶",
