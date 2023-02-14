@@ -4,7 +4,7 @@
 # 其他模組的GITHUB
 如果原模組有架設Github,會將資料更改至連接並呈現至下方
 
-[更詳細狀態介紹 BetterMoodlesDescriptions](https://github.com/xChillax/PZBetterMoodlesDescriptions)  
+[更詳細狀態介紹 BetterMoodlesDescriptions](https://github.com/xChillax/PZBetterMoodlesDescriptions/tree/main/CH)  
 # Q&A
 * Q: 怎麼整合這麼多模組?
 
