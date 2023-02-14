@@ -2,6 +2,8 @@
 預計為玩家製作成統一包,並且可在Steam工作坊下載    
 這裡只是留個紀錄:P 詳細自己去看工作坊
 # 其他模組的GITHUB
+如果原模組有架設Github,會將資料更改至連接並呈現至下方
+
 [更詳細狀態介紹 BetterMoodlesDescriptions](https://github.com/xChillax/PZBetterMoodlesDescriptions)  
 # Q&A
 * Q: 怎麼整合這麼多模組?
