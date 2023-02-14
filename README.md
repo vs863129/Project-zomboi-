@@ -1,6 +1,8 @@
 # [工作坊包](https://steamcommunity.com/sharedfiles/filedetails/?id=2730159518)
 預計為玩家製作成統一包,並且可在Steam工作坊下載    
 這裡只是留個紀錄:P 詳細自己去看工作坊
+# 其他模組的GITHUB
+[更詳細狀態介紹 BetterMoodlesDescriptions](https://github.com/xChillax/PZBetterMoodlesDescriptions)  
 # Q&A
 * Q: 怎麼整合這麼多模組?
 
