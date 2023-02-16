@@ -49,7 +49,7 @@ FileName/media/lua/shared/Translate/CH/
 [更好的口罩 Better Masks](https://steamcommunity.com/sharedfiles/filedetails/?id=2801714948)  (Github:nemo01642280 ,Discord:尼莫)  
 [憤怒砲塔 Angry Turrets](https://steamcommunity.com/sharedfiles/filedetails/?id=2855343540)  (Github:nemo01642280 ,Discord:尼莫) 
 #### -搬運(待)-  
-
+[倖存者(NPC模組)二合一 Survivors 2 in 1](https://steamcommunity.com/sharedfiles/filedetails/?id=2680488822)  (原模組翻譯搬運)
 ## 連接(LINK)
 **[模組繁體中文包](https://steamcommunity.com/sharedfiles/filedetails/?id=2730159518)** 
 
