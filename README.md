@@ -27,5 +27,5 @@
 ![image](https://user-images.githubusercontent.com/75469306/211308893-1dfa9a4b-1dde-4383-ad42-53ec069358ec.jpg)  
 
 以上就是本次基本教程(如圖片未顯示請等候或重新整理)
-
+# 其他問題
 
