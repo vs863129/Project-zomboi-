@@ -12,8 +12,8 @@ ItemName_CH = {
 	ItemName_Base.Tactical_Axe = "戰術斧",
 	ItemName_Base.Tactical_Sickle = "戰術鐮刀",
 	ItemName_Base.Cleaning = "槍支清潔套件",
-	ItemName_Base.Bolt_Bear = "BearX 碳纖維十字弓箭矢",
-	ItemName_Base.Bolt_Bear_Pack = "盒裝 BearX 碳纖維十字弓箭矢",
+	ItemName_Base.Bolt_Bear = "BearX 碳纖維十字弩箭矢",
+	ItemName_Base.Bolt_Bear_Pack = "盒裝 BearX 碳纖維十字弩箭矢",
 	
 	
     ItemName_Base.Launcher = "40mm M203下掛式榴彈發射器",
@@ -117,7 +117,7 @@ ItemName_CH = {
 	ItemName_Base.Sight_PVS4 = "AN/PVS-4 夜視瞄準鏡",
 	
 	ItemName_Base.Pad = "步槍後托墊",
-	ItemName_Base.Carrier_12g = "12ga霰彈帶",
+	ItemName_Base.Carrier_12g = "12g霰彈帶",
 	
 	ItemName_Base.Standard_Mag = "標準彈匣",
 	ItemName_Base.Extended_Mag = "加長型彈匣",
@@ -126,13 +126,13 @@ ItemName_CH = {
 	ItemName_Base.SolventTrap_Adapter = "槍口轉接器",
 	ItemName_Base.Oil_Filter = "機油濾芯",
 	
-	ItemName_Base.Barrel_308 = " .308 槍管",
-	ItemName_Base.Barrel_3006 = ".30-06 槍管",
-	ItemName_Base.Barrel_4570 = ".45-70 槍管",
-	ItemName_Base.Barrel_45LC = ".45LC 槍管",
-	ItemName_Base.Barrel_45LC_Short = ".45LC 短槍管",
-	ItemName_Base.Barrel_357 = ".357 槍管",
-	ItemName_Base.Barrel_357_Short = ".357 短槍管",
+	ItemName_Base.Barrel_308 = "單發霞彈槍管 (.308)",
+	ItemName_Base.Barrel_3006 = "單發霞彈槍管 (.30-06)",
+	ItemName_Base.Barrel_4570 = "單發霞彈槍管 (.45-70)",
+	ItemName_Base.Barrel_45LC = "單發霞彈槍管 (.45LC/.410g)",
+	ItemName_Base.Barrel_45LC_Short = "單發短霞彈槍管 (.45LC/.410g)",
+	ItemName_Base.Barrel_357 = "單發霞彈槍管 (.38/357)",
+	ItemName_Base.Barrel_357_Short = "單發短霞彈槍管 (.38/357)",
 	
 	ItemName_Base.9mmClip = ".9x19mm 雙排彈匣",
 	ItemName_Base.45Clip = ".45-ACP 單排彈匣",
@@ -142,8 +142,8 @@ ItemName_CH = {
 	ItemName_Base.308Clip = ".308-WIN 獵槍彈匣",
 	
 	
-	ItemName_Base.BB177 = ".177 BB彈",
-	ItemName_Base.BB177Box = "罐裝 .177 BB彈",
+	ItemName_Base.BB177 = ".177 BB's",
+	ItemName_Base.BB177Box = "罐裝 .177 BB's",
 	
 	ItemName_Base.Bullets22 = ".22-LR 彈藥",
 	ItemName_Base.Bullets22Box = "盒裝 .22-LR",
@@ -178,26 +178,26 @@ ItemName_CH = {
 	ItemName_Base.Bullets50MAG = ".50 Mag 彈藥",
 	ItemName_Base.Bullets50MAGBox = "盒裝 .50 Mag",
 	
-	ItemName_Base.410gShotgunShells = ".410ga霰彈",
-	ItemName_Base.410gShotgunShellsBox = "盒裝 .410ga霰彈",
+	ItemName_Base.410gShotgunShells = ".410g霰彈",
+	ItemName_Base.410gShotgunShellsBox = "盒裝 .410g霰彈",
 	
-	ItemName_Base.20gShotgunShells = "20ga霰彈",
-	ItemName_Base.20gShotgunShellsBox = "盒裝 20ga霰彈",
+	ItemName_Base.20gShotgunShells = "20g霰彈",
+	ItemName_Base.20gShotgunShellsBox = "盒裝 20g霰彈",
 	
-	ItemName_Base.ShotgunShells = "12ga霰彈",
-	ItemName_Base.ShotgunShellsBox = "盒裝 12ga霰彈",
+	ItemName_Base.ShotgunShells = "12g霰彈",
+	ItemName_Base.ShotgunShellsBox = "盒裝 12g霰彈",
 	
-	ItemName_Base.10gShotgunShells = "10ga霰彈",
-	ItemName_Base.10gShotgunShellsBox = "盒裝 10ga霰彈",
+	ItemName_Base.10gShotgunShells = "10g霰彈",
+	ItemName_Base.10gShotgunShellsBox = "盒裝 10g霰彈",
 	
-	ItemName_Base.4gShotgunShells = "4ga霰彈",
-	ItemName_Base.4gShotgunShellsBox = "盒裝 4ga霰彈",
+	ItemName_Base.4gShotgunShells = "4g霰彈",
+	ItemName_Base.4gShotgunShellsBox = "盒裝 4g霰彈",
 	
 	ItemName_Base.223Bullets = ".223-REM 彈藥",
 	ItemName_Base.223Box = "盒裝 .223-REM",
 	
-	ItemName_Base.556Bullets = "5.56mm-NATO 彈藥",
-	ItemName_Base.556Box = "盒裝 5.56mm-NATO",
+	ItemName_Base.556Bullets = "5.56mm NATO 彈藥",
+	ItemName_Base.556Box = "盒裝 5.56mm NATO",
 	
 	ItemName_Base.545x39Bullets = "5.45x39mm 彈藥",
 	ItemName_Base.545x39Box = "盒裝 5.45x39mm",
@@ -208,7 +208,7 @@ ItemName_CH = {
 	ItemName_Base.308Bullets = ".308-WIN 彈藥",
 	ItemName_Base.308Box = "盒裝 .308-WIN",
 	
-	ItemName_Base.762x51Bullets = "7.62mm-NATO 彈藥",
+	ItemName_Base.762x51Bullets = "7.62mm NATO 彈藥",
 	ItemName_Base.762x51Box = "盒裝 7.62mm-NATO",
 	
 	ItemName_Base.762x54rBullets = "7.62x54mm-R 彈藥",
@@ -238,11 +238,11 @@ ItemName_CH = {
 	ItemName_Base.Brass4570 = ".45-70 GOV 彈殼",
 	ItemName_Base.Brass50MAG = ".50-Mag 彈殼",
 	
-	ItemName_Base.Hull410g = ".410ga霰彈 彈殼",
-	ItemName_Base.Hull20g = "20ga霰彈 彈殼",
-	ItemName_Base.Hull12g = "12ga霰彈 彈殼",
-	ItemName_Base.Hull10g = "10ga霰彈 彈殼",
-	ItemName_Base.Hull4g = "4ga霰彈 彈殼",
+	ItemName_Base.Hull410g = ".410g霰彈 彈殼",
+	ItemName_Base.Hull20g = "20g徑霰彈 彈殼",
+	ItemName_Base.Hull12g = "12g霰彈 彈殼",
+	ItemName_Base.Hull10g = "10g霰彈 彈殼",
+	ItemName_Base.Hull4g = "4g霰彈 彈殼",
 	
 	ItemName_Base.Brass223 = ".223-REM 彈殼",
 	ItemName_Base.Brass556 = "5.56mm NATO 彈殼",
@@ -328,11 +328,11 @@ ItemName_CH = {
 	ItemName_Base.AmmoCan50_762x54r = "中型彈藥箱(7.62x54mm-R)",
 	ItemName_Base.AmmoCan50_3006 = "中型彈藥箱(.30-06 SPRG)",
 	ItemName_Base.AmmoCan50_50 = "中型彈藥箱(.50-BMG)",
-	ItemName_Base.AmmoCan50_410 = "中型彈藥箱(.410ga霰彈)",
-	ItemName_Base.AmmoCan50_20 = "中型彈藥箱(20ga霰彈)",
-	ItemName_Base.AmmoCan50_12 = "中型彈藥箱(12ga霰彈)",
-	ItemName_Base.AmmoCan50_10 = "中型彈藥箱(10ga霰彈)",
-	ItemName_Base.AmmoCan50_4 = "中型彈藥箱(4ga霰彈)",
+	ItemName_Base.AmmoCan50_410 = "中型彈藥箱(.410g霰彈)",
+	ItemName_Base.AmmoCan50_20 = "中型彈藥箱(20g霰彈)",
+	ItemName_Base.AmmoCan50_12 = "中型彈藥箱(12g霰彈)",
+	ItemName_Base.AmmoCan50_10 = "中型彈藥箱(10g霰彈)",
+	ItemName_Base.AmmoCan50_4 = "中型彈藥箱(4g霰彈)",
 	ItemName_Base.AmmoCan50_MIX = "中型彈藥箱(綜合步槍彈藥)",
 	ItemName_Base.AmmoCan50_SHOT = "中型彈藥箱(綜合霰彈彈藥)",
 	ItemName_Base.AmmoCan50_HE = "中型彈藥箱(.40mm 爆破彈)",
@@ -413,10 +413,10 @@ ItemName_CH = {
 	ItemName_Base.AK5C_Fold = "Swedish AK5-C (展開)",
 	ItemName_Base.AK5C_Fold_Melee = "Swedish AK5-C (展開) (近戰)",
 	
-	ItemName_Base.SKS_A26 = "SKS Arsenal[26] Mod版",
-	ItemName_Base.SKS_A26_Melee = "SKS Arsenal[26] Mod版(近戰)",
-	ItemName_Base.SKS30_A26 = "SKS Arsenal[26] Mod版(加長型彈匣)",
-	ItemName_Base.SKS30_A26_Melee = "SKS Arsenal[26] Mod版(加長型彈匣)(近戰)",
+	ItemName_Base.SKS_A26 = "SKS",
+	ItemName_Base.SKS_A26_Melee = "SKS (近戰)",
+	ItemName_Base.SKS30_A26 = "SKS(加長型彈匣)",
+	ItemName_Base.SKS30_A26_Melee = "SKS(加長型彈匣) (近戰)",
 	
 	ItemName_Base.DEagle_Long = "沙漠之鷹 (MK-XIX)",
 	
@@ -542,11 +542,11 @@ ItemName_CH = {
 	ItemName_Base.M2A1_Can = "M2A1 火焰噴射器 燃料罐",
 	ItemName_Base.M2A1_Tank = "M2A1 火焰噴射器 燃料桶",
 	
-	ItemName_Base.556MiniCan = "微型炮(5.56mm-NATO) 彈鏈箱",
-	ItemName_Base.308MiniCan = "迷你炮(.308-WIN) 彈鏈箱",
-	ItemName_Base.50MiniCan = "迷你炮(.50-BMG) 彈鏈箱",
+	ItemName_Base.556MiniCan = "微型炮 機槍彈鏈箱5.56mm NATO",
+	ItemName_Base.308MiniCan = "迷你炮 機槍彈鏈箱.308-WIN",
+	ItemName_Base.50MiniCan = "迷你炮 機槍彈鏈箱.50-BMG",
 	
-	ItemName_Base.Multi_Gun = "其他槍械",
+	ItemName_Base.Multi_Gun = "大多數槍",
 	
 	ItemName_Base.Bag_M2 = "M2A1 燃料罐",
 	
@@ -554,13 +554,13 @@ ItemName_CH = {
 	
 	ItemName_Base.9mmExtClip = "9x19mm 雙排加長型彈匣",
 	
-	ItemName_Base.12gDrum = "12ga霰彈 彈鼓",
+	ItemName_Base.12gDrum = "12g霰彈 彈鼓",
 	
-	ItemName_Base.SIX12_Cylinder = "SIX12 12ga霰彈 彈桶",
+	ItemName_Base.SIX12_Cylinder = "SIX12 12g霰彈 彈桶",
 	
-	ItemName_Base.SRM1208_Cylinder = "SRM1208 12ga霰彈 彈桶",
-	ItemName_Base.SRM1212_Cylinder = "SRM1212 12ga霰彈 彈桶",
-	ItemName_Base.SRM1216_Cylinder = "SRM1216 12ga霰彈 彈桶",
+	ItemName_Base.SRM1208_Cylinder = "SRM1208 12g霰彈 彈桶",
+	ItemName_Base.SRM1212_Cylinder = "SRM1212 12g霰彈 彈桶",
+	ItemName_Base.SRM1216_Cylinder = "SRM1216 12g霰彈 彈桶",
 	
 	ItemName_Base.22Clip = ".22-LR 彈匣",
 	
@@ -636,7 +636,7 @@ ItemName_CH = {
 	
 	ItemName_Base.SKSFixedBox = "SKS 彈倉",
 	
-	ItemName_Base.SPASClip = "12ga霰彈 彈匣",
+	ItemName_Base.SPASClip = "12g霰彈 彈匣",
 	
 	ItemName_Base.SVDClip = "SVD 7.62x54r 彈匣",
 	
@@ -659,7 +659,7 @@ ItemName_CH = {
 	
 	ItemName_Base.BOAR = "LAR Grizzly big bora .50 BMG 狙擊步槍",
 	ItemName_Base.EDM96 = "EDM 風行者 M96 50-BMG 狙擊步槍",
-	ItemName_Base.EDM96_Fold = "EDM 風行者 M96 .50-BMG 狙擊步槍(收折)",
+	ItemName_Base.EDM96_Fold = "EDM 風行者 M96 .50-BMG 狙擊步槍(收短)",
 	ItemName_Base.M82 = "巴雷特 M82A1 狙擊步槍",
 	ItemName_Base.BFG50 = " Serbu BFG .50-BMG 狙擊步槍 ",
 	ItemName_Base.Harris50 = "Harris Gunworks 50-BMG 手栓式步槍",
@@ -1085,11 +1085,11 @@ ItemName_CH = {
 	ItemName_Base.M870_Breaching_Pistol = "雷明登 M870 Breacher 10吋 泵動式霰彈槍",
 	
 	ItemName_Base.DT11 = "貝瑞塔 DT11 中折式霰彈槍",
-	ItemName_Base.DT11_Sawed = "貝瑞塔 DT11(鋸短槍管) 中折式霰彈槍",
-	ItemName_Base.DT11_Pistol = "貝瑞塔 DT11(前後鋸短) 中折式霰彈槍",
+	ItemName_Base.DT11_Sawed = "貝瑞塔 DT11-削短型 中折式霰彈槍",
+	ItemName_Base.DT11_Pistol = "貝瑞塔 DT11-前後削短型 中折式霰彈槍",
 	ItemName_Base.Coachgun = "Stoeger 12g教練槍 中折式霰彈槍",
-	ItemName_Base.Coachgun_Sawed = "Stoeger 12g教練槍(鋸短槍管) 中折式霰彈槍",
-	ItemName_Base.Coachgun_Pistol = "Stoeger 12g教練槍(前後鋸短) 中折式霰彈槍",
+	ItemName_Base.Coachgun_Sawed = "Stoeger 12g教練槍-削短型 中折式霰彈槍",
+	ItemName_Base.Coachgun_Pistol = "Stoeger 12g教練槍-前後削短型 中折式霰彈槍",
 	ItemName_Base.Terminator = "Cobray Terminator 開放式槍機霰彈槍(展開)",
 	ItemName_Base.Terminator_Fold = "Cobray Terminator 開放式槍機霰彈槍(收短)",
 	ItemName_Base.Triple_Crown = "齊亞帕 三冠王 中折式霰彈槍",
@@ -1121,7 +1121,7 @@ ItemName_CH = {
 	ItemName_Base.DAO12 = "Armsel 前鋒型 全自動霰彈槍(展開)",
 	ItemName_Base.DAO12_Fold = "前鋒型 全自動霰彈槍(收短)",
 	ItemName_Base.M1887 = "溫徹斯特 M1887 槓桿式霰彈槍",
-	ItemName_Base.M1887_Sawed = "溫徹斯特 M1887(鋸短) 槓桿式霰彈槍",
+	ItemName_Base.M1887_Sawed = "溫徹斯特 M1887-削短型 槓桿式霰彈槍",
 	ItemName_Base.AUTO_5 = "白朗寧 Auto-5 12g 半自動霰彈槍",
 	
 	ItemName_Base.Shorty_Pistol = "謝爾布 超級矮子 泵動式霰彈槍",
@@ -1186,7 +1186,7 @@ ItemName_CH = {
 	ItemName_Base.STAR_Z45_Fixed = "STAR Z-45(固定托) 衝鋒槍",
 	
 	ItemName_Base.SUB2000 = "KEL-TEC SUB-2000 卡賓槍(展開)",
-	ItemName_Base.SUB2000_Fold = "Kel-Tec SUB-2000 卡賓槍(收折)",
+	ItemName_Base.SUB2000_Fold = "Kel-Tec SUB-2000 卡賓槍(收短)",
 	
 	ItemName_Base.SVD = "SVD 狙擊步槍",
 	ItemName_Base.SVD_Melee = "SVD 狙擊步槍(近戰)",
@@ -1226,7 +1226,7 @@ ItemName_CH = {
 	ItemName_Base.M46_Mauser_Melee = "M46 暹羅毛瑟 手栓式步槍(近戰)",
 	ItemName_Base.Mosin = "莫辛-納甘 1891/30型 手栓式步槍",
 	ItemName_Base.Mosin_Melee = "莫辛-納甘 1891/30型 手栓式步槍(近戰)",
-	ItemName_Base.MosinObrez_Pistol = "莫辛-納甘(鋸短) 手栓式步槍",
+	ItemName_Base.MosinObrez_Pistol = "莫辛-納甘-削短型 手栓式步槍",
 	ItemName_Base.M1 = "M1 加蘭德 半自動步槍",
 	ItemName_Base.M1_Melee = "M1 加蘭德 半自動步槍(近戰)",
 	ItemName_Base.M1903 = "M1903 春田 手栓式步槍步槍",
@@ -1249,6 +1249,6 @@ ItemName_CH = {
 	ItemName_Base.308BulletsMold = ".308-NATO 子彈模具",
     ItemName_Base.223BulletsMold = ".223-REM 子彈模具",
     ItemName_Base.9mmBulletsMold  = ".9x19mm 子彈模具",
-    ItemName_Base.ShotgunShellsMold	= "12ga霰彈 子彈模具",
+    ItemName_Base.ShotgunShellsMold	= "12g霰彈 子彈模具",
 	
 }
