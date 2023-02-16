@@ -224,7 +224,7 @@ ItemName_CH = {
 	ItemName_Base.40INCRound = " .40mm 燃燒彈",
 	ItemName_Base.HERocket = "高爆火箭彈",
 	ItemName_Base.FlameFuel = "噴火器燃料",
-	ItemName_Base.WaterAmmo = "水槍用水",
+	ItemName_Base.WaterAmmo = "水槍水",
 	
 	ItemName_Base.Brass22 = ".22LR 彈殼",
 	ItemName_Base.Brass57 = "5.7x28mm 彈殼",
@@ -254,9 +254,9 @@ ItemName_CH = {
 	ItemName_Base.Brass3006 = ".30-06 SPG 彈殼",
 	ItemName_Base.Brass50BMG = ".50-BMG 彈殼",
 	
-	ItemName_Base.PrimerSM = "底火 (小)",
-	ItemName_Base.PrimerLG = "底火 (大)",
-	ItemName_Base.PrimerSG = "底火 (霰彈)",
+	ItemName_Base.PrimerSM = "底火(小)",
+	ItemName_Base.PrimerLG = "底火(大)",
+	ItemName_Base.PrimerSG = "底火(霰彈)",
 	
 	ItemName_Base.Lead57 = "5.7mm 彈頭",
 	ItemName_Base.Lead9 = ".9mm 彈頭",
@@ -339,10 +339,10 @@ ItemName_CH = {
 	ItemName_Base.AmmoCan50_INC = "中型彈藥箱(.40mm 燃燒彈)",
 	ItemName_Base.AmmoCan50_ROCKET = "中型彈藥箱(火箭)",
 	
-	ItemName_Base.PolyCan_Red_SPASClip = "氣密箱(紅)(12g霰彈彈匣)",
-	ItemName_Base.PolyCan_Red_12gDrum = "氣密箱(紅)(12g霰彈彈鼓)",
+	ItemName_Base.PolyCan_Red_SPASClip = "氣密箱(紅)(12ga霰彈彈匣)",
+	ItemName_Base.PolyCan_Red_12gDrum = "氣密箱(紅)(12ga霰彈彈鼓)",
 	ItemName_Base.PolyCan_Red_38Speed = "氣密箱(紅)(.38-Spc快速填彈器)",
-	ItemName_Base.PolyCan_Red_44Speed = "氣密箱(紅)(.44-Mag 快速填彈器)",
+	ItemName_Base.PolyCan_Red_44Speed = "氣密箱(紅)(.44-Mag快速填彈器)",
 	ItemName_Base.PolyCan_Blue_9mmClip = "氣密箱(藍)(9mm彈匣)",
 	ItemName_Base.PolyCan_Blue_9mmExtClip = "氣密箱 (藍)(9mm加長彈匣)",
 	ItemName_Base.PolyCan_Blue_9mmDrum = "氣密箱(藍)(9mm加長彈鼓)",
@@ -538,9 +538,9 @@ ItemName_CH = {
 	ItemName_Base.American180 = "American-180 衝鋒槍",
 	ItemName_Base.ZIP22 = "USFA ZiP .22 半自動無犢牛式手槍",
 	
-	ItemName_Base.Bag_M2A1 = "M2A1 燃料罐",
-	ItemName_Base.M2A1_Can = "M2A1 燃料罐",
-	ItemName_Base.M2A1_Tank = "M2A1 噴射器燃料罐",
+	ItemName_Base.Bag_M2A1 = "M2A1 火焰噴射器 燃料桶",
+	ItemName_Base.M2A1_Can = "M2A1 火焰噴射器 燃料罐",
+	ItemName_Base.M2A1_Tank = "M2A1 火焰噴射器 燃料桶",
 	
 	ItemName_Base.556MiniCan = "微型炮 機槍彈鏈箱5.56mm NATO",
 	ItemName_Base.308MiniCan = "迷你炮 機槍彈鏈箱.308-WIN",
