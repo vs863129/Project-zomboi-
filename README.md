@@ -48,6 +48,7 @@ FileName/media/lua/shared/Translate/CH/
 ### -待整合至工作坊-  
 [更好的口罩 Better Masks](https://steamcommunity.com/sharedfiles/filedetails/?id=2801714948)  (Github:nemo01642280 ,Discord:尼莫)  
 [憤怒砲塔 Angry Turrets](https://steamcommunity.com/sharedfiles/filedetails/?id=2855343540)  (Github:nemo01642280 ,Discord:尼莫) 
+[直升機 模組 Project Fallout: VertibirdZ Version 2.0](https://steamcommunity.com/sharedfiles/filedetails/?id=2786234758)  (Github:kyo2002tw,Discord:cide2021)
 #### -搬運(待)-  
 [倖存者(NPC模組)二合一 Survivors 2 in 1](https://steamcommunity.com/sharedfiles/filedetails/?id=2680488822)  (原模組翻譯搬運)
 ## 連接(LINK)
