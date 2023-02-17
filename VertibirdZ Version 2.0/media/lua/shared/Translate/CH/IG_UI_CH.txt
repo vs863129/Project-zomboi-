@@ -1,0 +1,10 @@
+IGUI_CH = {
+    IGUI_VehicleNameVertibirdZD = "VB02 '飛鳥' 垂直飛行機（VTOL：Vertical Take Off and Landing）[新加州共和國（NCR）(New California Republic)]",
+    IGUI_VehicleNameVertibirdZA = "VB02 '飛鳥' 垂直飛行機（VTOL：Vertical Take Off and Landing）",
+    IGUI_VehicleNameVertibirdZB = "VB02 '飛鳥' 垂直飛行機（VTOL：Vertical Take Off and Landing）[鋼鐵兄弟會（BOS）(The Brotherhood of Steel)]",
+    IGUI_VehicleNameVertibirdZC = "VB02 '飛鳥' 垂直飛行機（VTOL：Vertical Take Off and Landing）[冬季迷彩（Winter）]",	
+    IGUI_VehiclePartCatblade = "螺旋槳葉",
+    IGUI_VehiclePartheliblade = "主螺旋槳葉",
+    IGUI_VehiclePartCatturret = "前置大砲",
+    IGUI_VehiclePartturret = "三管旋轉機槍",	
+}
