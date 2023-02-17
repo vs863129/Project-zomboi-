@@ -1,17 +1,17 @@
 Tooltip_CH = {
 	Tooltip_Launcher = "增加可發射 40mm榴彈 的能力<br>減少 後座力(-1)但負面影響 精準度(-5) 裝填時間(+10) 和瞄準時間(+4)",
 	Tooltip_Bipod = "目前暫無兩腳架的基礎效果<br>減少 後座力(-0,5)<br>但負面影響 裝填時間(+5) 和瞄準時間(+2)",
-	Tooltip_Sling_1 = "將單點連接至武器並減輕攜帶重量(-0,4)<br>但增加 裝填時間(+1)",
-	Tooltip_Sling_2 = "將兩點連接至武器並減輕攜帶重量(-0,8)<br>但增加 裝填時間(+3) 和瞄準時間(+1)",
-	Tooltip_Sling_3 = "將三點連接至武器並減輕攜帶重量(-1,2)<br>但增加 裝填時間(+5) 和瞄準時間(+2)",
+	Tooltip_Sling_1 = "以單點連接至武器並減輕攜帶重量(-0,4)<br>但增加 裝填時間(+1)",
+	Tooltip_Sling_2 = "以兩點連接至武器並減輕攜帶重量(-0,8)<br>但增加 裝填時間(+3) 和瞄準時間(+1)",
+	Tooltip_Sling_3 = "以三點連接至武器並減輕攜帶重量(-1,2)<br>但增加 裝填時間(+5) 和瞄準時間(+2)",
 	Tooltip_ForeGrip = "前握把提高了武器穩定性,且改善了後座力(-1.5)<br>且稍微加快 瞄準時間(-1)",
 	Tooltip_AmmoCarrier = "為單發武器提供了直接取用彈藥的方式,減少 裝填時間(-10)",
 	Tooltip_LightSmall = "可照亮短距離的戰術燈,具有可泛光照明<br> 減少 後座力(-0.5)和增加 瞄準時間(+1)",
 	Tooltip_LightMedium = "可照亮中距離的戰術燈,具有可泛光照明<br> 減少 後座力(-0.7) 和增加 瞄準時間(+1)",
 	Tooltip_LightLarge = "可照亮更遠距離的戰術燈,但幾乎沒有泛光照明<br>El 減少 後座力(-1) 和增加 瞄準時間(+2)",
-	Tooltip_Laser = "戰術鐳射增加了繪製目標的能力,提高了命中率(+2)<br>減少 瞄準時間(-3)",
-	Tooltip_Mil_Laser = "軍用戰術鐳射,有著更精密地繪製目標的能力,提高 命中率(+3)<br>減少 後座力(-1) 減少 瞄準時間(-2)",
-	Tooltip_Mil_Laser_Light = 具有輔助光的軍用鐳射,有著更精密地繪製目標的能力,提高 命中率(+2)<br>減少 後座力((-1) 瞄準時間(-2)",
+	Tooltip_Laser = "戰術雷射增加了指示目標的能力,提高了命中率(+2)<br>減少 瞄準時間(-3)",
+	Tooltip_Mil_Laser = "軍用戰術雷射,有著更精密地指示目標的能力,提高 命中率(+3)<br>減少 後座力(-1) 減少 瞄準時間(-2)",
+	Tooltip_Mil_Laser_Light = 具有輔助照明的軍用雷射,且有著更精密地指示目標的能力,提高 命中率(+2)<br>減少 後座力((-1) 瞄準時間(-2)",
 
 	Tooltip_GhostRing = "準星(10,0 MOA) 倍率(N/A) 光圈(大)<br>命中率(0) 最大射程(-0,5) 最小射程(0)<br>瞄準時間(-10) 裝填時間(+2) 可視範圍( +0.004)",
 	Tooltip_Fiber_Shotgun = "十字線(6 MOA) 倍率(N/A) 光圈(28mm)<br>命中率(+4) 最大射程(+0.5) 最小射程(0)<br>瞄準時間(-6) 裝填時間(+5) 可視範圍(+0.003)",
@@ -71,12 +71,12 @@ Tooltip_CH = {
 	Tooltip_MuzzleBrake = "重新定向槍口的能量進而減少 後座力(-3) 並略為提高 精準度(+2)",
 	Tooltip_Choke_Full = "更加集束的霰彈槍部件,減少 散射(-0.05) 進而增加了 傷害(+5)和 射程(+2)",
 
-	Tooltip_Extended_Mag = "不可移除這個配件!!!,"
-	Tooltip_Single_Barrel = "改變某些武器口徑的單發槍管",
-	Tooltip_SolventTrap_Adapter = "將標準的機油過濾器轉換成"抑制器(油)"",
-	Tooltip_Oil_Filter = "與溶劑回收器結合可製作成"抑制器(油)"'",
+	Tooltip_Extended_Mag = "不要移除這個配件!!!,"
+	Tooltip_Single_Barrel = "可以改變某些武器口徑的槍管",
+	Tooltip_SolventTrap_Adapter = "與機油濾芯 組成 機油濾芯消音器",
+	Tooltip_Oil_Filter = "與槍口轉接器 組成 機油濾芯消音器",
 
-	Tooltip_weapon_RecoilPad = "反沖墊",
+	Tooltip_weapon_RecoilPad = "緩衝墊",
 	Tooltip_weapon_Clip = "彈匣",
 	Tooltip_weapon_Canon = "槍管",
 	Tooltip_weapon_Scope = "瞄準鏡",
