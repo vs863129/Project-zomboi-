@@ -1,4 +1,0 @@
-IGUI_CH = {
-
-IGUI_CraftCategory_Zamazon BookStore = "Zamazon書店",
-}
