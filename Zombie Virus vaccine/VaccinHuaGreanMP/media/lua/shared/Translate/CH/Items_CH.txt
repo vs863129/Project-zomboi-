@@ -61,7 +61,10 @@ Items_CH = {
 	DisplayName_FrnSilverNugget = "銀塊",
 	DisplayName_FrnGolgIngot = "高爾格錠",
 	DisplayName_FrnSilverIngot = "銀錠",
-	DisplayName_BkLaboratoryEquipment1 = "實驗設備",
-	DisplayName_BkVirologyCourses1 = "病毒學",
+	DisplayName_BkLaboratoryEquipment1 = "實驗設備:第一卷",
+	DisplayName_BkLaboratoryEquipment2 = "實驗設備:第二卷",
+	DisplayName_BkLaboratoryEquipment3 = "實驗設備:第三卷",
+	DisplayName_BkVirologyCourses1 = "病毒學:第一卷",
+	DisplayName_BkVirologyCourses2 = "病毒學:第二卷",
 	DisplayName_BkChemistryCourse = "化學簡論",
 }
