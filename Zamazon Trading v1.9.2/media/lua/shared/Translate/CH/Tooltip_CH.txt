@@ -1,0 +1,16 @@
+Tooltip_CH = {
+	-- Item tooltip
+	Tooltip_ZaVIP = "謝謝光臨!",
+	Tooltip_ZaScanner = "用掃描來出售您的物品！收藏物品可避免東西被售出",
+	Tooltip_Zafaco = "蒐集10個折價券以贖回您的物品！",
+	Tooltip_Za10g = "幹的好！",
+	Tooltip_Za100g = "如何..？",
+	Tooltip_ZaID = "蒐集執照來販賣",
+	-- Item tooltip
+	Tooltip_ZaVIP = "謝謝光臨!",
+	Tooltip_ZaScanner = "用掃描來出售您的物品！收藏物品可避免東西被售出",
+	Tooltip_Zafaco = "蒐集10個折價券以贖回您的物品！",
+	Tooltip_Za10g = "幹的好！",
+	Tooltip_Za100g = "如何..？",
+	Tooltip_ZaID = "蒐集執照來販賣",
+}
