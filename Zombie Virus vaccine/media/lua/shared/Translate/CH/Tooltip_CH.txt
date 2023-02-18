@@ -40,10 +40,10 @@ Tooltip_CH = {
 	Tooltip_CmpFlaskWithHydrogenPeroxide = "消毒劑基礎材料.",
 	Tooltip_CmpAlbuminPills = "恢復少量生命.",
 	Tooltip_CmpChlorineTablets = "快速淨水片.",
-	Tooltip_BkLaboratoryEquipment1 = "組裝各種實驗室設備的藍圖和技術.<br>(MP版只需一卷).",
+	Tooltip_BkLaboratoryEquipment1 = "組裝各種實驗室設備的藍圖和技術.<br>(MP版只需第一卷).",
 	Tooltip_BkLaboratoryEquipment2 = "製作視覺性材料和海報的工作坊.",
 	Tooltip_BkLaboratoryEquipment3 = "實際操作馬弗爐的操作指南.",
-	Tooltip_BkVirologyCourses1 = "生物材料的提取與研究方法.<br>(MP版只需一卷).",
+	Tooltip_BkVirologyCourses1 = "生物材料的提取與研究方法.<br>(MP版只需第一卷).",
 	Tooltip_BkVirologyCourses2 = "抗病毒藥物的製造和使用.",
 	Tooltip_BkChemistryCourse = "給對於化學感興趣的小指南.",
 }
