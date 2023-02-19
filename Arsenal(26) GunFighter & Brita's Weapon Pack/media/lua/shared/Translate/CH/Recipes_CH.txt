@@ -15,8 +15,8 @@ Recipes_CH = {
 	Recipe_Open_Box_of_.380_Auto_Rounds = "打開 盒裝 .380-Auto 彈藥",
 	Recipe_Place_.380_Auto_Rounds_in_Box = "裝盒 .380 Auto 彈藥",
 	
-	Recipe_Open_Box_of_9mm_Bullets = "打開 盒裝 .9mm 彈藥",
-	Recipe_Place_9mm_Bullets_in_Box = "裝盒 .9mm 彈藥",
+	Recipe_Open_Box_of_9mm_Bullets = "打開 盒裝 9mm 彈藥",
+	Recipe_Place_9mm_Bullets_in_Box = "裝盒 9mm 彈藥",
 	
 	Recipe_Open_Box_of_.38_Special_Bullets = "打開 盒裝 .38-SPC 彈藥",
 	Recipe_Place_.38_Special_Bullets_in_Box = "裝盒 .38-SPC 彈藥",
@@ -92,8 +92,8 @@ Recipes_CH = {
 	
 	Recipe_Open_Pack_of_5.7mm_Projectiles = "打開 盒裝 5.7mm 彈殼",
 	Recipe_Place_5.7mm_Projectiles_in_Pack = "裝盒  5.7mm 彈殼",
-	Recipe_Open_Pack_of_9mm_Projectiles = "打開 盒裝.9mm 彈殼",
-	Recipe_Place_9mm_Projectiles_in_Pack = "裝盒 .9mm  彈殼",
+	Recipe_Open_Pack_of_9mm_Projectiles = "打開 盒裝9mm 彈殼",
+	Recipe_Place_9mm_Projectiles_in_Pack = "裝盒 9mm  彈殼",
 	Recipe_Open_Pack_of_38-Cal_Projectiles = "打開 盒裝 .38-Cal 彈殼",
 	Recipe_Place_38-Cal_Projectiles_in_Pack = "裝盒 .38-Cal  彈殼",
 	Recipe_Open_Pack_of_45-Cal_Projectiles = "打開 盒裝 .45-Cal 彈殼",
