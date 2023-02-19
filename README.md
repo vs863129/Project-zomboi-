@@ -40,18 +40,21 @@ FileName/media/lua/shared/Translate/CH/
 [沉浸式太陽能陣列 ImmersiveSolarArrays](https://steamcommunity.com/sharedfiles/filedetails/?id=2857548524) (Github:vs863129,Discord:文森)  
 [悍馬車+拖車'92 AM General M998 + M101A3 Cargo trailer](https://steamcommunity.com/sharedfiles/filedetails/?id=2642541073) (Github:vs863129,Discord:文森)  
 [Arsenal(26) GunFighter](https://steamcommunity.com/sharedfiles/filedetails/?id=2297098490) & [Brita's Weapon Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=2200148440) (Github:vs863129,Discord:文森)  
-### -搬運-
-[Minimal Display Bars](https://steamcommunity.com/sharedfiles/filedetails/?id=2004998206) (原模組翻譯搬運)  
-[更多特質 More Traits](https://steamcommunity.com/sharedfiles/filedetails/?id=1299328280) (部分由Github:Genshin804,Discord:Genshin翻譯)  
-### -僅提供給原作者-
-[更詳細狀態介紹 Clear description for Moodles](https://steamcommunity.com/sharedfiles/filedetails/?id=2763647806&searchtext) (Github:Genshin804,Discord:Genshin)  
-### -待整合至工作坊-  
 [更好的口罩 Better Masks](https://steamcommunity.com/sharedfiles/filedetails/?id=2801714948)  (Github:nemo01642280 ,Discord:尼莫)  
 [憤怒砲塔 Angry Turrets](https://steamcommunity.com/sharedfiles/filedetails/?id=2855343540)  (Github:nemo01642280 ,Discord:尼莫)  
 [FallOut直升機 Project Fallout: VertibirdZ Version 2.0](https://steamcommunity.com/sharedfiles/filedetails/?id=2786234758)  (Github:kyo2002tw,Discord:cide2021)  
 [直升機 Better helicopter](https://steamcommunity.com/workshop/filedetails/?id=2434548740)  (Github:kyo2002tw,Discord:cide2021)  
+
+### -搬運-
+[Minimal Display Bars](https://steamcommunity.com/sharedfiles/filedetails/?id=2004998206) (原模組翻譯搬運)  
+[更多特質 More Traits](https://steamcommunity.com/sharedfiles/filedetails/?id=1299328280) (部分由Github:Genshin804,Discord:Genshin翻譯)  
+[倖存者(NPC模組)二合一 Survivors 2 in 1](https://steamcommunity.com/sharedfiles/filedetails/?id=2680488822)  (原模組翻譯搬運)  
+### -僅提供給原作者-
+[更詳細狀態介紹 Clear description for Moodles](https://steamcommunity.com/sharedfiles/filedetails/?id=2763647806&searchtext) (Github:Genshin804,Discord:Genshin)  
+### -待整合至工作坊-  
+
 #### -搬運(待)-  
-[倖存者(NPC模組)二合一 Survivors 2 in 1](https://steamcommunity.com/sharedfiles/filedetails/?id=2680488822)  (原模組翻譯搬運)
+
 ## 連接(LINK)
 **[模組繁體中文包](https://steamcommunity.com/sharedfiles/filedetails/?id=2730159518)** 
 
