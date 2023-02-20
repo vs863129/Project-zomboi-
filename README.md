@@ -51,6 +51,7 @@ FileName/media/lua/shared/Translate/CH/
 [倖存者(NPC模組)二合一 Survivors 2 in 1](https://steamcommunity.com/sharedfiles/filedetails/?id=2680488822)  (原模組翻譯搬運)  
 ### -僅提供給原作者-
 [更詳細狀態介紹 Clear description for Moodles](https://steamcommunity.com/sharedfiles/filedetails/?id=2763647806&searchtext) (Github:Genshin804,Discord:Genshin)  
+[天氣預告 Weather Moodles](https://steamcommunity.com/sharedfiles/filedetails/?id=2920735875)  (Github:kyo2002tw,Discord:cide2021)  
 ### -待整合至工作坊-  
 
 #### -搬運(待)-  
