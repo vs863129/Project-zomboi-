@@ -12,12 +12,12 @@
 
 # 上傳與更新紀錄
 ## 2023/02/19
-更好的口罩 Better Masks
-憤怒砲塔 Angry Turrets
-Fallout直升機 Project Fallout: VertibirdZ Version 2.0
-直升機 Better helicopter
-倖存者(NPC模組)二合一 Survivors 2 in 1
-Arsenal(26) GunFighter & Brita's Weapon Pack (修正版)
+更好的口罩 Better Masks  
+憤怒砲塔 Angry Turrets  
+Fallout直升機 Project Fallout: VertibirdZ Version 2.0  
+直升機 Better helicopter  
+倖存者(NPC模組)二合一 Survivors 2 in 1  
+Arsenal(26) GunFighter & Brita's Weapon Pack (修正版)  
 ## 2023/02/11
 更詳細狀態介紹 Clear description for Moodles (僅提供給原作者)  
 Arsenal(26) GunFighter & Brita's Weapon Pack  
