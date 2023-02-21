@@ -1,0 +1,8 @@
+ContextMenu_CH = {
+    ContextMenu_chulishiti = "支解屍體",
+    ContextMenu_dessectcorpse = "支解屍體",
+    ContextMenu_dessectall = "肢解所有",
+    ContextMenu_dessectone = "支解一個",
+    ContextMenu_zhuangbei = "綁到身上",
+    ContextMenu_shifang = "拿出物品",    
+}
