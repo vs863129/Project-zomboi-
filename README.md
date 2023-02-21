@@ -54,7 +54,7 @@ FileName/media/lua/shared/Translate/CH/
 [天氣預告 Weather Moodles](https://steamcommunity.com/sharedfiles/filedetails/?id=2920735875)  (Github:kyo2002tw,Discord:cide2021)  
 [武器詞綴 Weapon Modifiers](https://steamcommunity.com/sharedfiles/filedetails/?id=2932853467)  (Github:vs863129,Discord:文森)  
 ### -待整合至工作坊-  
-
+[簡單交易 Trading Technology](https://steamcommunity.com/sharedfiles/filedetails/?id=2592897465&searchtext=jiandanjiaoyi) (Github:Genshin804,Discord:Genshin)  
 #### -搬運(待)-  
 
 ## 連接(LINK)
