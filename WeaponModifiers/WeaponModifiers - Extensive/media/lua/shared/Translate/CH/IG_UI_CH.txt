@@ -72,4 +72,5 @@ IG_UI_CH = {
     IGUI_modifier_name_Inefficient = "低效",
     IGUI_modifier_name_Compact = "緊湊",
     IGUI_modifier_name_Loose = "鬆弛",
+    IGUI_modifier_name_Used = "中古品",
 }
