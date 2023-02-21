@@ -1,0 +1,5 @@
+IGUI_CH = {
+  IGUI_shuaguaiweizhi = "設置投放坐標",
+  IGUI_ItemEditor_Title2 = "物品屬性",
+  IGUI_chuansongchenggong = "傳送成功",
+}
