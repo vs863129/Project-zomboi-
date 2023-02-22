@@ -56,6 +56,7 @@ FileName/media/lua/shared/Translate/CH/
 ### -待整合至工作坊-  
 [簡單交易 Trading Technology](https://steamcommunity.com/sharedfiles/filedetails/?id=2592897465&searchtext=jiandanjiaoyi) (Github:Genshin804,Discord:Genshin)  
 [SWAT & RIOT PACK](https://steamcommunity.com/sharedfiles/filedetails/?id=2091564445)  (Github:Jay-JG,Discord:Jay-JG)  
+[Fancy Handwork](https://steamcommunity.com/sharedfiles/filedetails/?id=2904920097)  (Github:nemo01642280 ,Discord:尼莫)  
 #### -搬運(待)-  
 
 ## 連接(LINK)
