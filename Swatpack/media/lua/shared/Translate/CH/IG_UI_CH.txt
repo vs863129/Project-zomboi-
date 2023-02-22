@@ -1,0 +1,6 @@
+IG_UI_CH = {
+    IGUI_VehicleNameStepVanSwat = "SWAT 運兵廂型車",
+    IGUI_VehicleNameRiotTruck = "鎮暴 警用卡車",
+    IGUI_VehicleNameSwatTruck = "SWAT 裝甲車",
+    IGUI_VehicleNameBankTruck = "運鈔裝甲車",
+}
