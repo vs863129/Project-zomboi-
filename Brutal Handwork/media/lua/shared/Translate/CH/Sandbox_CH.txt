@@ -1,0 +1,15 @@
+Sandbox_CH = {
+    Sandbox_BrutalHandwork = "Brutal Handwork",
+
+    Sandbox_BrutalHandwork_DualWieldMelee = "雙持近戰武器時自動交插攻擊",
+    Sandbox_BrutalHandwork_DualWieldMelee_tooltip = "當玩家雙持近戰武器時自動在左右攻擊之間切換 <LINE> 禁用要求按下修改器進行副手攻擊",
+
+    Sandbox_BrutalHandwork_EnableUnarmed = "啟用赤手攻擊",
+    Sandbox_BrutalHandwork_EnableUnarmed_tooltip = "即使玩家手無寸鐵 他們也可以進行攻擊 默認情況下按住修改鍵才能出拳",
+
+    Sandbox_BrutalHandwork_AlwaysUnarmed = "空手時總是握起拳頭",
+    Sandbox_BrutalHandwork_AlwaysUnarmed_tooltip = "當玩家空手時瞄準時始終握起拳頭 <LINE> '不啟用'按住修改鍵才能出拳",
+
+    Sandbox_BrutalHandwork_BaseAttackOverride = "實驗性:攻擊傷害覆蓋",
+    Sandbox_BrutalHandwork_BaseAttackOverride_tooltip = "注意:僅在單人遊戲中有效! <LINE>攻擊時是使用BrutalHandwork的傷害來計算 而不是Vanilla 這迫使赤手攻擊的預期傷害間保持一致 <LINE> 警告:此選項目前處於實驗階段 但很可能成為默認選項 並且未來會需要新增其他選項 它是穩定的 但與vanilla相比可能會導致不一致 因為它仍在開發中 請閱讀 mod 的描述以了解當前的限制!",
+}
