@@ -1,0 +1,28 @@
+Sandbox_CH = {
+    Sandbox_FancyHandwork = "Fancy Handwork",
+
+    Sandbox_FancyHandwork_ExperiencedAim = "槍枝等級瞄準動畫改變",
+    Sandbox_FancyHandwork_ExperiencedAim_tooltip = "依據玩家的槍枝等級改變副手裝備物品時瞄準的動畫 <LINE>設置為0代表始終使用 設置為11代表從不使用",
+           
+    Sandbox_FancyHandwork_DisableTurn = "強制轉向物件",
+    Sandbox_FancyHandwork_DisableTurn_tooltip = "您的角色在與物件互動時強制面向物件",
+
+    Sandbox_FancyHandwork_DT_option1 = "永不強制轉向",
+    Sandbox_FancyHandwork_DT_option2 = "延遲後強制轉向",
+    Sandbox_FancyHandwork_DT_option3 = "永遠強制轉向",
+
+    Sandbox_FancyHandwork_TurnDelaySec = "延遲強制轉向",
+    Sandbox_FancyHandwork_TurnDelaySec_tooltip = "當角色不動時 將在數秒後面對正在與其互動的事物 <LINE> 需啟用延遲後轉向",
+
+    Sandbox_FancyHandwork_TurnBehavior = "背後動作的動畫",
+    Sandbox_FancyHandwork_TurnBehavior_tooltip = "選擇角色播放背後動畫 而不是轉向的頻率<LINE> 注意:除非永不強制轉向 否則角色仍會轉向沒有背後動畫的物件 <LINE> 必須選擇延遲後強制轉向或永不強制轉向才能顯示背後動畫 “永遠強制轉向”可防止背後動畫",
+    Sandbox_FancyHandwork_TB_option1 = "永不做背後動作",
+    Sandbox_FancyHandwork_TB_option2 = "延遲後做背後動作",
+    Sandbox_FancyHandwork_TB_option3 = "永遠都會做背後動作",
+
+    Sandbox_FancyHandwork_HideDoorProgressBar = "隱藏跟車門互動的進度條",
+    Sandbox_FancyHandwork_HideDoorProgressBar_tooltip = "隱藏在角色在開關的門以及進出車輛時的進度條",
+
+    Sandbox_FancyHandwork_HideVehicleWalkProgressBar = "隱藏'走到'載具動作的進度條",
+    Sandbox_FancyHandwork_HideVehicleWalkProgressBar_tooltip = "隱藏角色步行到某個位置與車輛互動時進度條.",
+}
