@@ -59,6 +59,7 @@ FileName/media/lua/shared/Translate/CH/
 [Fancy Handwork](https://steamcommunity.com/sharedfiles/filedetails/?id=2904920097)  (Github:nemo01642280 ,Discord:尼莫)  
 [Brutal Handwork](https://steamcommunity.com/sharedfiles/filedetails/?id=2934621024) (Github:nemo01642280 ,Discord:尼莫)  
 [Firearms B41](https://steamcommunity.com/sharedfiles/filedetails/?id=2256623447)  (Github:Jay-JG,Discord:Jay-JG)  
+[ProteinsMoodle](https://steamcommunity.com/sharedfiles/filedetails/?id=2859304462)  (Github:Genshin804,Discord:Genshin)  
 #### -搬運(待)-  
 
 ## 連接(LINK)
