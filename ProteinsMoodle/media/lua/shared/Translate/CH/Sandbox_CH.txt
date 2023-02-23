@@ -1,0 +1,10 @@
+Sandbox_CH = {
+    Sandbox_ProteinsMoodle = "Mod Proteins Moodle",
+    Sandbox_ProteinsMoodle_EnableAtMaxStrength = "力量10等時是否顯示低蛋白狀態",
+    Sandbox_ProteinsMoodle_EnableAtMaxStrength_tooltip = "即使關閉，如果蛋白質含量過低，則可能會看到較差的狀態。",
+    Sandbox_ProteinsMoodle_EnableOutOfHealthPanel = "健康面板關閉時顯示低蛋白狀態",
+    Sandbox_ProteinsMoodle_EnableOutOfHealthPanel_tooltip = "即使關閉，如果蛋白質含量過低，則可能會看到較差的狀態。",
+	
+    Sandbox_ProteinsMoodle_ShowProteinValue = "顯示蛋白質含量",
+    Sandbox_ProteinsMoodle_ShowProteinValue_tooltip = "在狀態顯示蛋白質量",
+}
