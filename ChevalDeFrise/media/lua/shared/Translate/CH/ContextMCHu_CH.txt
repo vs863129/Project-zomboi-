@@ -1,0 +1,5 @@
+ContextMenu_CH = {
+  ContextMenu_Defenses = "防禦",
+  ContextMenu_WoodenChevalDeFrise = "木頭拒馬",
+  ContextMenu_MetalChevalDeFrise = "金屬拒馬",
+}
