@@ -1,0 +1,13 @@
+Sandbox_CH = {
+	Sandbox_ChevalDeFrise = "拒馬",
+	
+	Sandbox_ChevalDeFrise_WoodBaseHealth = "拒馬基礎耐久",
+	Sandbox_ChevalDeFrise_WoodBaseHealth_tooltip = "拒馬的基礎耐久度",
+	
+	Sandbox_ChevalDeFrise_WoodScaleHealth = "木工等級加成耐久",
+	Sandbox_ChevalDeFrise_WoodScaleHealth_tooltip = "木工等級對拒馬耐久的加成",
+	
+	Sandbox_ChevalDeFrise_WoodDamage = "傷害加乘",
+	Sandbox_ChevalDeFrise_WoodDamage_tooltip = "拒馬的傷害加乘",
+	
+}
