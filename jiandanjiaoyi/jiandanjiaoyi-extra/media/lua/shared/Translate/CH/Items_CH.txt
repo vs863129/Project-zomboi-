@@ -1,5 +1,0 @@
-Items_CH = {
-
-	DisplayName_Silencer = "消音器",
-	DisplayName_Home_Made_Silencer = "民用消音器",
-}

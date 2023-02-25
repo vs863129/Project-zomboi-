@@ -1,3 +1,0 @@
-ContextMenu_CH = {
-    ContextMenu_Strsystem = "查看屬性",
-}

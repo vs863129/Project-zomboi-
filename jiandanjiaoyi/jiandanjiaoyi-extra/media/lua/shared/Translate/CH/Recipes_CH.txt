@@ -1,4 +1,0 @@
-Recipe_CH = {
-  Recipe_Craft HMSilencer = "製作民用消音器",
-  Recipe_Craft Silencer = "製作消音器",
-}

@@ -1,3 +1,0 @@
-MultiStageBuild_CH = {
-    MultiStageBuild_CreatehejinWall = "建造合金牆",
-}
