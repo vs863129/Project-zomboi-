@@ -60,6 +60,8 @@ FileName/media/lua/shared/Translate/CH/
 [Brutal Handwork](https://steamcommunity.com/sharedfiles/filedetails/?id=2934621024) (Github:nemo01642280 ,Discord:尼莫)  
 [Firearms B41](https://steamcommunity.com/sharedfiles/filedetails/?id=2256623447)  (Github:Jay-JG,Discord:Jay-JG)  
 [ProteinsMoodle](https://steamcommunity.com/sharedfiles/filedetails/?id=2859304462)  (Github:Genshin804,Discord:Genshin)  
+[MetalSpear](https://steamcommunity.com/sharedfiles/filedetails/?id=2613871263&searchtext=spear)  (Github:vs863129,Discord:文森)  
+[add Craft & Rules for use SledgeHammer](https://steamcommunity.com/sharedfiles/filedetails/?id=2854012382&searchtext=siege+hammer)  (Github:vs863129,Discord:文森)  
 #### -搬運(待)-  
 
 ## 連接(LINK)
