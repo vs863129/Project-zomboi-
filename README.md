@@ -65,7 +65,7 @@ FileName/media/lua/shared/Translate/CH/
 
 ### -待整合至工作坊-  
 [唯一解藥(截肢模組) The Only Cure but better](https://steamcommunity.com/sharedfiles/filedetails/?id=2915572347&searchtext=++The+Only+Cure+but+better)    (Github:nemo01642280 ,Discord:尼莫)  
-重新翻譯[手搖手電筒 Hand Crank Flashlights](https://steamcommunity.com/sharedfiles/filedetails/?id=2897115343&searchtext=Hand+Crank+Flashlights) (Github:nemo01642280 ,Discord:尼莫)  
+*補充翻譯*[手搖手電筒 Hand Crank Flashlights](https://steamcommunity.com/sharedfiles/filedetails/?id=2897115343&searchtext=Hand+Crank+Flashlights) (Github:nemo01642280 ,Discord:尼莫)  
 [拒馬 Cheval de frise](https://steamcommunity.com/sharedfiles/filedetails/?id=2927800433)  (Github:Genshin804,Discord:Genshin)  
 [School's Out: Anime-Style Student Uniforms](https://steamcommunity.com/sharedfiles/filedetails/?id=2904220876)  (Github:Genshin804,Discord:Genshin)  
 #### -搬運(待)-  
