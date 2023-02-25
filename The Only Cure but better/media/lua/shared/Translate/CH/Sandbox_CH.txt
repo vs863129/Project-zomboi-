@@ -1,0 +1,9 @@
+Sandbox_CH = {
+    Sandbox_TOC = "The Only Cure but better",
+
+    Sandbox_TOC_RollUpSleeves = "捲起袖子",
+    Sandbox_TOC_RollUpSleeves_tooltip = "你沒有手什麼都做不了",
+
+    Sandbox_TOC_CicatrizationSpeedMultiplier = "癒合速度倍數",
+    Sandbox_TOC_CicatrizationSpeedMultiplier_tooltip = "針對傷口進行處理 以增快癒合速度",
+}

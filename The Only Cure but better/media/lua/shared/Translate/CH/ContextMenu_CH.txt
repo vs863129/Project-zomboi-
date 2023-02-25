@@ -1,0 +1,4 @@
+ContextMenu_CH = {
+	ContextMenu_Cut_Arm = "截調",
+	ContextMenu_Operate_Arm = "操作手臂,
+} 

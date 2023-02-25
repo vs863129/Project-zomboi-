@@ -1,0 +1,10 @@
+IGUI_CH = {
+    IGUI_ItemCat_Prosthesis = "義肢",
+    IGUI_ItemCat_Amputation = "截肢"
+    IGUI_ItemCat_Surgeon_kit = "外科手術工具包",
+    IGUI_perks_Right_Hand = "右手",
+    IGUI_perks_Left_Hand = "左手",
+    IGUI_perks_Prosthesis = "製作義肢的技能",
+
+    IGUI_TOC_RollUpSleeveForAmputatedLimbs = "捲起袖子"
+}

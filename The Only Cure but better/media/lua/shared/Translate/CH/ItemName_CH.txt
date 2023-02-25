@@ -1,0 +1,38 @@
+DisplayName_CH = {
+
+    ItemName_TOC.Amputation_Right_Hand = "截掉的右手",
+    ItemName_TOC.Amputation_Right_LowerArm = "截掉的右前臂",
+    ItemName_TOC.Amputation_Right_UpperArm = "截掉的右臂",
+    ItemName_TOC.Amputation_Left_Hand = "截掉的左手",
+    ItemName_TOC.Amputation_Left_LowerArm = "截掉的左前臂",
+    ItemName_TOC.Amputation_Left_UpperArm = "截掉的左臂",
+
+    ItemName_TOC.Improvised_surgeon_kit = "臨時外科手術工具包",
+    ItemName_TOC.Surgeon_kit = "外科手術工具包",
+    ItemName_TOC.Real_surgeon_kit = "專業外科手術工具包",
+
+    ItemName_TOC.Prost_Right_Hand_WoodenHook = "右手的木鉤義肢",
+    ItemName_TOC.Prost_Left_Hand_WoodenHook = "左手的木鉤義肢",
+    ItemName_TOC.Prost_Right_LowerArm_WoodenHook = "右前臂的木鉤義肢",
+    ItemName_TOC.Prost_Left_LowerArm_WoodenHook = "左前臂的木鉤義肢",
+    ItemName_TOC.Prost_Right_Hand_MetalHook = "右手的金屬鉤義肢",
+    ItemName_TOC.Prost_Left_Hand_MetalHook = "左手的金屬鉤義肢",
+    ItemName_TOC.Prost_Right_LowerArm_MetalHook = "右前臂的金屬鉤義肢",
+    ItemName_TOC.Prost_Left_LowerArm_MetalHook = "左前臂的金屬鉤義肢",
+    ItemName_TOC.Prost_Right_Hand_MetalHand = "右手的金屬手義肢",
+    ItemName_TOC.Prost_Left_Hand_MetalHand = "左手的金屬手義肢",
+    ItemName_TOC.Prost_Right_LowerArm_MetalHand = "右前臂的金屬手義肢",
+    ItemName_TOC.Prost_Left_LowerArm_MetalHand = "左前臂的金屬手義肢",
+
+    ItemName_TOC.WoodenHook = "木鉤義肢",
+    ItemName_TOC.MetalHook = "金屬鉤義肢",
+    ItemName_TOC.MetalHand = "金屬手義肢",
+    ItemName_TOC.ProstheticKnife = "截肢專業手術刀",
+
+    ItemName_TOC.SurgeonMag1 = "傻瓜也能懂外科醫生雜誌",
+    ItemName_TOC.SurgeonMag2 = "教學用外科醫生雜誌",
+    ItemName_TOC.SurgeonMag3 = "專業版外科醫生雜誌",
+    ItemName_TOC.ProthesisMag1 = "傻瓜也能懂的製作義肢雜誌",
+    ItemName_TOC.ProthesisMag2 = "進階版製作義肢雜誌",
+    ItemName_TOC.ProthesisMag3 = "專業版製作義肢雜誌",
+}
