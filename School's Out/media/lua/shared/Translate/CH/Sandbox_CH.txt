@@ -1,0 +1,32 @@
+Sandbox_CH = {
+    Sandbox_SchoolsOut = "放學",
+
+	Sandbox_SchoolsOut_UseSeifukuZombies = "強制執行服裝規定",
+    Sandbox_SchoolsOut_UseSeifukuZombies_tooltip = "學校中的學校殭屍將穿著日式學生制服",
+
+	Sandbox_SchoolsOut_UseVanillaZombies = "交換學生",
+    Sandbox_SchoolsOut_UseVanillaZombies_tooltip = "日式服裝的學生殭屍與香草學生殭屍一起產生，需要執行服裝規定。",
+
+    Sandbox_SchoolsOut_GenderRatio = "性別比例",
+    Sandbox_SchoolsOut_GenderRatio_tooltip = "學生殭屍中男女比例",
+	Sandbox_SchoolsOut_GenderRatio_option1 = "全部男性",
+	Sandbox_SchoolsOut_GenderRatio_option2 = "大部分是男性",
+	Sandbox_SchoolsOut_GenderRatio_option3 = "平均",
+	Sandbox_SchoolsOut_GenderRatio_option4 = "大部分是女性",
+	Sandbox_SchoolsOut_GenderRatio_option5 = "全部女性",
+
+    Sandbox_SchoolsOut_SeifukuStyle = "統一風格",
+	Sandbox_SchoolsOut_SeifukuStyle_tooltip = "學生殭屍制服樣式",
+	Sandbox_SchoolsOut_SeifukuStyle_option1 = "兩者皆有",
+	Sandbox_SchoolsOut_SeifukuStyle_option2 = "西裝外套",
+	Sandbox_SchoolsOut_SeifukuStyle_option3 = "水手服",
+
+    Sandbox_SchoolsOut_SwimsuitStyle = "泳裝風格",
+	Sandbox_SchoolsOut_SwimsuitStyle_tooltip = "學生殭屍所穿的泳裝風格。<br>新類型的泳裝比舊類型有更高的剪裁<br>這也會影響到物品的稀有性：未經批准的泳裝類型會更難找到。",
+	Sandbox_SchoolsOut_SwimsuitStyle_option1 = "兩者皆有",
+	Sandbox_SchoolsOut_SwimsuitStyle_option2 = "舊款",
+	Sandbox_SchoolsOut_SwimsuitStyle_option3 = "新款",
+
+    Sandbox_SchoolsOut_WhiteSwimsuitToggle = "白色泳裝",
+    Sandbox_SchoolsOut_WhiteSwimsuitToggle_tooltip = "女學生游泳者將穿白色的泳裝而不是藍色",
+}
