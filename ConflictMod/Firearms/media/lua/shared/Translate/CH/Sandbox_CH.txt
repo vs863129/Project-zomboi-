@@ -1,0 +1,82 @@
+Sandbox_CH = {
+	Sandbox_Firearms = "Firearms B41 MOD設置選項",
+
+	Sandbox_Firearms_SuppressorBreak = "土製消音器不損壞"
+	Sandbox_Firearms_SuppressorBreak_tooltip = "啟用後，不管消音器損壞機率如何都不會損壞"
+
+	Sandbox_Firearms_ScrewdriverReq = "需要螺絲起子"
+	Sandbox_Firearms_ScrewdriverReq_tooltip = "安裝武器配件時，是否需要螺絲起子"
+
+	Sandbox_Firearms_FlashlightSuppressorBreakChance = "土製手電筒消音器 損壞機率"
+	Sandbox_Firearms_FlashlightSuppressorBreakChance_tooltip = "這是土製消音器在統計上的損壞機率，所以還是有可能在第一次使用時損壞"
+
+	Sandbox_Firearms_BottleSuppressorBreakChance = "土製空瓶消音器 損壞機率"
+	Sandbox_Firearms_BottleSuppressorBreakChance_tooltip = "這是土製消音器在統計上的損壞機率，所以還是有可能在第一次使用時損壞"
+
+	Sandbox_Firearms_BreakChance_option1 = "一次"
+	Sandbox_Firearms_BreakChance_option2 = "高",
+	Sandbox_Firearms_BreakChance_option3 = "中",
+	Sandbox_Firearms_BreakChance_option4 = "低",
+
+	Sandbox_Firearms_SuppressorEffectiveness_option1 = "100%"
+	Sandbox_Firearms_SuppressorEffectiveness_option2 = "90%",
+	Sandbox_Firearms_SuppressorEffectiveness_option3 = "80%",
+	Sandbox_Firearms_SuppressorEffectiveness_option4 = "70%",
+	Sandbox_Firearms_SuppressorEffectiveness_option5 = "60%",
+	Sandbox_Firearms_SuppressorEffectiveness_option6 = "50%",
+	Sandbox_Firearms_SuppressorEffectiveness_option7 = "40%",
+	Sandbox_Firearms_SuppressorEffectiveness_option8 = "30%",
+	Sandbox_Firearms_SuppressorEffectiveness_option9 = "20%",
+	Sandbox_Firearms_SuppressorEffectiveness_option10 = "10%",
+
+	Sandbox_Firearms_SuppressorEffectiveness22 = ".22 LR 消音器效果",
+	Sandbox_Firearms_SuppressorEffectiveness22_tooltip = "消音器在使用該彈藥的槍械上的消音效果:.22 LR 彈藥",
+
+  Sandbox_Firearms_SuppressorEffectiveness9mm = "9mm 消音器效果",
+  Sandbox_Firearms_SuppressorEffectiveness9mm_tooltip = "消音器在使用該彈藥的槍械上的消音效果: 9mm 彈藥",
+
+  Sandbox_Firearms_SuppressorEffectiveness45 = ".45 ACP 消音器效果",
+  Sandbox_Firearms_SuppressorEffectiveness45_tooltip = "消音器在使用該彈藥的槍械上的消音效果: .45 ACP 彈藥",
+
+  Sandbox_Firearms_SuppressorEffectiveness38 = ".38 Special 消音器效果",
+  Sandbox_Firearms_SuppressorEffectiveness38_tooltip = "消音器在使用該彈藥的槍械上的消音效果: .38 Special 彈藥",
+
+  Sandbox_Firearms_SuppressorEffectiveness44 = ".44 Magnum 消音器效果",
+  Sandbox_Firearms_SuppressorEffectiveness44_tooltip = "消音器在使用該彈藥的槍械上的消音效果: .44 Magnum 彈藥",
+
+  Sandbox_Firearms_SuppressorEffectiveness223 = ".223 and 5.56x45mm 消音器效果",
+  Sandbox_Firearms_SuppressorEffectiveness223_tooltip = "消音器在使用該彈藥的槍械上的消音效果: .223 and 5.56x45mm 彈藥",
+
+  Sandbox_Firearms_SuppressorEffectiveness308 = ".308 and 7.62x51mm 消音器效果",
+  Sandbox_Firearms_SuppressorEffectiveness308_tooltip = "消音器在使用該彈藥的槍械上的消音效果: .308 and 7.62x51mm 彈藥",
+
+  Sandbox_Firearms_SuppressorEffectivenessShotgunShells = "霰彈槍 消音器效果",
+  Sandbox_Firearms_SuppressorEffectivenessShotgunShells_tooltip = "消音器在使用霰彈的槍械上的消音效果",
+
+  Sandbox_Firearms_SuppressorEffectivenessImprovised = "土製 消音器效果",
+  Sandbox_Firearms_SuppressorEffectivenessImprovised_tooltip = "土製消音器的消音效果，是以對應彈藥口徑的消音器效果為計算基準",
+
+  Sandbox_Firearms_SuppressorEffectivenessRevolver = "左輪手槍 消音器效果",
+  Sandbox_Firearms_SuppressorEffectivenessRevolver_tooltip = "左輪手槍消音器的消音效果，是以對應彈藥口徑的消音器效果為計算基準",
+
+  Sandbox_Firearms_SpawnSuppressors = "消音器是否生成",
+  Sandbox_Firearms_SpawnSuppressors_tooltip = "是否能在世界上找到消音器",
+
+  Sandbox_Firearms_SpawnHandgunSuppressors = "手槍 消音器是否生成",
+  Sandbox_Firearms_SpawnHandgunSuppressors_tooltip = "是否能在世界上找到手槍消音器(9mm, .45 ACP)",
+
+  Sandbox_Firearms_SpawnRifleSuppressors = "步槍 消音器是否生成",
+  Sandbox_Firearms_SpawnRifleSuppressors_tooltip = "是否能在世界上找到步槍消音器(.22 LR, .223/5.56x45mm, .308/7.62x51mm)",
+
+  Sandbox_Firearms_SpawnShotgunSuppressors = "霰彈槍 消音器是否生成",
+  Sandbox_Firearms_SpawnShotgunSuppressors_tooltip = "是否能在世界上找到霰彈槍消音器",
+
+  Sandbox_Firearms_SpawnRevolverSuppressors = "左輪手槍 消音器是否生成",
+  Sandbox_Firearms_SpawnRevolverSuppressors_tooltip = "是否能在世界上找到左輪手槍消音器(.38 Special, .357)",
+
+  Sandbox_Firearms_SpawnAmmoCans = "彈藥箱 是否生成",
+  Sandbox_Firearms_SpawnAmmoCans_tooltip = "是否能在世界上找到彈藥箱",
+
+  Sandbox_Firearms_LootSuppressor = "消音器",
+
+}
