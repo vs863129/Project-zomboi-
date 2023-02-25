@@ -1,0 +1,34 @@
+Tooltip_CH = {
+	Tooltip_Real_surgeon_kit = "專業外科手術工具包. 使用在被截掉的四肢上 <br> 幫助被截掉的四肢回復更快, 節省大量的恢復時間",
+    Tooltip_Surgeon_kit = "外科手術工具包. 使用在被截掉的四肢上 <br> 幫助被截掉的四肢回復更快, 節省中等的恢復時間.",
+    Tooltip_Improvised_surgeon_kit = "臨時外科手術工具包. 使用在被截掉的四肢上 <br> 幫助被截掉的四肢回復更快, 節省少量的恢復時間.",
+
+    Tooltip_equip_prothesis_hand = "將義肢裝備在前臂上",
+    Tooltip_equip_prothesis_fore = "將義肢裝備在手上",
+    Tooltip_prosthesic_limb = "當你使用外科手術工具包截肢後, 最好包上繃帶(最好是消毒過的) <br> 當你的傷口恢復後才能裝上義肢.",
+
+
+    Tooltip_ProstheticKnife = "截肢專業手術刀測試",
+
+
+
+
+    Recipe_Tooltip_Wooden_hook = "製作木鉤義肢. <br> 使用在被截掉的手或前臂上. <br> 假如你截掉了整隻手臂則無法使用",
+    Recipe_Tooltip_Metal_hook = "製作金屬鉤義肢. <br> 使用在被截掉的手或前臂上. <br> 假如你截掉了整隻手臂則無法使用",
+    Recipe_Tooltip_Metal_hand = "製作金屬手義肢. <br> 使用在被截掉的手或前臂上. <br> 假如你截掉了整隻手臂則無法使用",
+
+    Recipe_Tooltip_Real_surgeon_kit = "製作專業外科手術工具包. <br> 使用在被截掉的四肢上, 節省大量的恢復時間.",
+    Recipe_Tooltip_Surgeon_kit = "製作外科手術工具包. <br> 使用在被截掉的四肢上, 節省中等的恢復時間.",
+    Recipe_Tooltip_Improvised_surgeon_kit = "製作臨時外科手術工具包. <br> 使用在被截掉的四肢上, 節省少量的恢復時間."
+
+    Tooltip_SurgeonMag1 = "學習如何製作臨時外科手術工具包!",
+    Tooltip_SurgeonMag2 = "學習如何製作外科手術工具包!",
+    Tooltip_SurgeonMag3 = "學習如何製作專業外科手術工具包!",
+
+    Tooltip_ProthesisMag1 = "學習如何製作木鉤義肢!",
+    Tooltip_ProthesisMag2 = "學習如何製作金屬鉤義肢!",
+    Tooltip_ProthesisMag3 = "學習如何製作金屬手義肢!",
+
+
+
+}
