@@ -64,7 +64,9 @@ FileName/media/lua/shared/Translate/CH/
 [更多特質 More Traits](https://steamcommunity.com/sharedfiles/filedetails/?id=1299328280) (部分由Github:Genshin804,Discord:Genshin翻譯)  
 
 ### -待整合至工作坊-  
-[唯一解藥(截肢模組) The Only Cure but better](https://steamcommunity.com/sharedfiles/filedetails/?id=2915572347&searchtext=++The+Only+Cure+but+better)    (Github:nemo01642280 ,Discord:尼莫)  
+[唯一解藥(截肢模組) The Only Cure but better](https://steamcommunity.com/sharedfiles/filedetails/?id=2915572347&searchtext=++The+Only+Cure+but+better)    
+(Github:nemo01642280 ,Discord:尼莫)  
+重新翻譯[手搖手電筒 Hand Crank Flashlights](https://steamcommunity.com/sharedfiles/filedetails/?id=2897115343&searchtext=Hand+Crank+Flashlights) (Github:nemo01642280 ,Discord:尼莫)  
 #### -搬運(待)-  
 
 ## 連接(LINK)
