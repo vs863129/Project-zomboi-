@@ -14,6 +14,15 @@
 + A: 我自己有寫一套整合程式,只要正常的翻譯基本上不會出錯.
 
 # 上傳與更新紀錄
+## 2023/02/25
+簡單交易 Trading Technology (因代碼內容鎖住的量過多,且提供的文檔不齊全,依然會有部分簡中的問題)  
+SWAT & RIOT PACK  
+Fancy Handwork  
+Brutal Handwork  
+Firearms B41  
+ProteinsMoodle  
+MetalSpear  
+add Craft & Rules for use SledgeHammer  
 ## 2023/02/19
 更好的口罩 Better Masks  
 憤怒砲塔 Angry Turrets  
