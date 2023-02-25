@@ -44,16 +44,6 @@ FileName/media/lua/shared/Translate/CH/
 [憤怒砲塔 Angry Turrets](https://steamcommunity.com/sharedfiles/filedetails/?id=2855343540)  (Github:nemo01642280 ,Discord:尼莫)  
 [FallOut直升機 Project Fallout: VertibirdZ Version 2.0](https://steamcommunity.com/sharedfiles/filedetails/?id=2786234758)  (Github:kyo2002tw,Discord:cide2021)  
 [直升機 Better helicopter](https://steamcommunity.com/workshop/filedetails/?id=2434548740)  (Github:kyo2002tw,Discord:cide2021)  
-
-### -搬運-
-[Minimal Display Bars](https://steamcommunity.com/sharedfiles/filedetails/?id=2004998206) (原模組翻譯搬運)  
-[更多特質 More Traits](https://steamcommunity.com/sharedfiles/filedetails/?id=1299328280) (部分由Github:Genshin804,Discord:Genshin翻譯)  
-[倖存者(NPC模組)二合一 Survivors 2 in 1](https://steamcommunity.com/sharedfiles/filedetails/?id=2680488822)  (原模組翻譯搬運)  
-### -僅提供給原作者-
-[更詳細狀態介紹 Clear description for Moodles](https://steamcommunity.com/sharedfiles/filedetails/?id=2763647806&searchtext) (Github:Genshin804,Discord:Genshin)  
-[天氣預告 Weather Moodles](https://steamcommunity.com/sharedfiles/filedetails/?id=2920735875)  (Github:kyo2002tw,Discord:cide2021)  
-[武器詞綴 Weapon Modifiers](https://steamcommunity.com/sharedfiles/filedetails/?id=2932853467)  (Github:vs863129,Discord:文森)  
-### -待整合至工作坊-  
 [簡單交易 Trading Technology](https://steamcommunity.com/sharedfiles/filedetails/?id=2592897465&searchtext=jiandanjiaoyi) (Github:Genshin804,Discord:Genshin)  
 [SWAT & RIOT PACK](https://steamcommunity.com/sharedfiles/filedetails/?id=2091564445)  (Github:Jay-JG,Discord:Jay-JG)  
 [Fancy Handwork](https://steamcommunity.com/sharedfiles/filedetails/?id=2904920097)  (Github:nemo01642280 ,Discord:尼莫)  
@@ -62,6 +52,19 @@ FileName/media/lua/shared/Translate/CH/
 [ProteinsMoodle](https://steamcommunity.com/sharedfiles/filedetails/?id=2859304462)  (Github:Genshin804,Discord:Genshin)  
 [MetalSpear](https://steamcommunity.com/sharedfiles/filedetails/?id=2613871263&searchtext=spear)  (Github:vs863129,Discord:文森)  
 [add Craft & Rules for use SledgeHammer](https://steamcommunity.com/sharedfiles/filedetails/?id=2854012382&searchtext=siege+hammer)  (Github:vs863129,Discord:文森)  
+
+### -搬運-
+[Minimal Display Bars](https://steamcommunity.com/sharedfiles/filedetails/?id=2004998206) (原模組翻譯搬運)  
+[倖存者(NPC模組)二合一 Survivors 2 in 1](https://steamcommunity.com/sharedfiles/filedetails/?id=2680488822)  (原模組翻譯搬運)  
+
+### -僅提供給原作者-
+[更詳細狀態介紹 Clear description for Moodles](https://steamcommunity.com/sharedfiles/filedetails/?id=2763647806&searchtext) (Github:Genshin804,Discord:Genshin)  
+[天氣預告 Weather Moodles](https://steamcommunity.com/sharedfiles/filedetails/?id=2920735875)  (Github:kyo2002tw,Discord:cide2021)  
+[武器詞綴 Weapon Modifiers](https://steamcommunity.com/sharedfiles/filedetails/?id=2932853467)  (Github:vs863129,Discord:文森)  
+[更多特質 More Traits](https://steamcommunity.com/sharedfiles/filedetails/?id=1299328280) (部分由Github:Genshin804,Discord:Genshin翻譯)  
+
+### -待整合至工作坊-  
+
 #### -搬運(待)-  
 
 ## 連接(LINK)
