@@ -1,3 +1,0 @@
-﻿IG_UI_CH = {
-    IGUI_CraftCategory_Tailoring = "裁縫",
-}

@@ -1,4 +1,0 @@
-﻿ContextMenu_CH = {
-	ContextMenu_OpenMRE = "打開 軍用口糧",
-	ContextMenu_OpenMREBox = "打開 盒裝軍用口糧",
-}

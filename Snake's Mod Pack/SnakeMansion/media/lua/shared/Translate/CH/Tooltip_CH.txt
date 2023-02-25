@@ -1,4 +1,0 @@
-﻿Tooltip_CH = {
-	
-	Tooltip_SecretKeyA = "一條蛇的金鑰匙 <br> 它打開了一個秘密保險箱。",
-}

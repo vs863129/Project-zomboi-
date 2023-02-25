@@ -1,6 +1,0 @@
-﻿UI_CH = {
-
-    IGUI_CraftCategory_Ammo = "重新裝填子彈",
-	IGUI_perks_AMReloading = "軍工",
-	IGUI_ItemCat_Reloading = "重新裝填子彈",
-}

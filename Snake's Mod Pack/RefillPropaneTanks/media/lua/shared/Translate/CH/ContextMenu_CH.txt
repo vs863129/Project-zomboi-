@@ -1,8 +1,0 @@
-﻿ContextMenu_CH = {
-
-	ContextMenu_RechargeTank = "丙烷罐充能",
-	ContextMenu_RechargeTankTT = "需要: 丙烷罐",
-	ContextMenu_TankContains = "包含:",
-	ContextMenu_PropaneNonFull = "未滿",
-
-}

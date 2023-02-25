@@ -1,4 +1,0 @@
-﻿Tooltip_CH = {
-	Tooltip_Bgrip = "略微增加球棒威力",
-	Tooltip_Bsock = "增加球棒重量和力量",
-}
