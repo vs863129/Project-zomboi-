@@ -1,0 +1,7 @@
+IGUI_EN = {
+    IGUI_AutoLoot_Filter = "過濾",
+    IGUI_AutoLoot_NoFilter     = "<-- 無過濾 -->",
+    IGUI_AutoLoot_CustomFilter = "- 自定義過濾 -",
+    IGUI_AutoLoot_ActiveOnContainer = "激活自動減取",
+    IGUI_AutoLoot_InhibitedOnContainer = "禁止自動減取",
+}
