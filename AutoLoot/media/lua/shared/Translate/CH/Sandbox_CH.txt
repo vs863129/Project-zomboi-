@@ -1,0 +1,9 @@
+Sandbox_CH = {
+    Sandbox_AutoDrop = "自動撿取mod",
+    Sandbox_AutoDrop_LootMode = "撿取模式,
+    Sandbox_AutoDrop_LootMode_tooltip = "允許客戶端選擇是否覆蓋Mod Options",
+    Sandbox_AutoDrop_LootMode_option1 = "客戶端選擇Mod Options(默認)",
+    Sandbox_AutoDrop_LootMode_option2 = "自動撿取",
+    Sandbox_AutoDrop_LootMode_option3 = "自動掉落",
+    Sandbox_AutoDrop_LootMode_option4 = "即時撿取",
+}
