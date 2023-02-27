@@ -1,0 +1,23 @@
+﻿IGUI_CH = {
+
+	IGUI_IHM_use_modal = "使用互動對話框"
+
+	IGUI_IHM_use_modal_tooltip = "用彈出選單替換內建菜單.這對於低解析度顯示器很有效."
+
+	IGUI_IHM_avatar_size = "頭像大小"
+
+	IGUI_IHM_avatar_size_tooltip = "在選單中,每個圖像尺寸的像素大小."
+
+	IGUI_IHM_hair_rows = "頭髮選單-行"
+
+	IGUI_IHM_hair_cols = "頭髮選單-列"
+
+	IGUI_IHM_beard_rows = "鬍鬚選單-行"
+
+	IGUI_IHM_beard_cols = "鬍鬚選單-列"
+
+	IGUI_IHM_modal_rows = "互動對話框-行"
+
+	IGUI_IHM_modal_cols = "互動對話框-列"
+
+}
