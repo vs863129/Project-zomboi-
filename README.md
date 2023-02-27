@@ -69,6 +69,7 @@ FileName/media/lua/shared/Translate/CH/
 [拒馬 Cheval de frise](https://steamcommunity.com/sharedfiles/filedetails/?id=2927800433)  (Github:Genshin804,Discord:Genshin)  
 [School's Out: Anime-Style Student Uniforms](https://steamcommunity.com/sharedfiles/filedetails/?id=2904220876)  (Github:Genshin804,Discord:Genshin)  
 [自動搜刮 AutoLoot](https://steamcommunity.com/sharedfiles/filedetails/?id=2577903374)  (Github:nemo01642280 ,Discord:尼莫) 
+[改善頭髮選單 improved hair menu](https://steamcommunity.com/sharedfiles/filedetails/?id=2732662310)  (Github:kyo2002tw,Discord:cide2021) 
 #### -搬運(待)-  
 
 ## 連接(LINK)
