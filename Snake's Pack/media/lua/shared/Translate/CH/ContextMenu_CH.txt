@@ -241,7 +241,7 @@ ContextMenu_CH = {
 	ContextMenu_CanObtain = "你能否獲得：",
 	ContextMenu_TailorAdvice = "要獲得所有需要提升裁縫技能等級的材料。",
 	
-	ContextMenu_EvolvedRecipe_Taco = "炸玉米餅",
+	ContextMenu_EvolvedRecipe_Taco = "塔可餅",
 	ContextMenu_PerU = "每單位",
 	ContextMenu_GlassUse = "用放大鏡點燃火",
 	ContextMenu_Campfire_UseGlass = "只要陽光夠強，你就可以點燃篝火.<LINE> <LINE>",
