@@ -1,0 +1,4 @@
+UI_CH = {
+    -- Main screen (lua)
+	UI_profdesc_engineer = "可以組裝一些基本設備,計時器,電線,觸發氣,陷阱甚至是炸藥.",
+}
