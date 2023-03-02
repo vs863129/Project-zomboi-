@@ -71,6 +71,7 @@ FileName/media/lua/shared/Translate/CH/
 [自動搜刮 AutoLoot](https://steamcommunity.com/sharedfiles/filedetails/?id=2577903374)  (Github:nemo01642280 ,Discord:尼莫)  
 [改善頭髮選單 improved hair menu](https://steamcommunity.com/sharedfiles/filedetails/?id=2732662310)  (Github:kyo2002tw,Discord:cide2021)  
 [工程師 The Engineer](https://steamcommunity.com/sharedfiles/filedetails/?id=2906633595)  (Github:vs863129,Discord:文森)  
+[86oshkoshP19A](https://steamcommunity.com/sharedfiles/filedetails/?id=2566953935)  (Github:vs863129,Discord:文森)  
 #### -搬運(待)-  
 
 ## 連接(LINK)
