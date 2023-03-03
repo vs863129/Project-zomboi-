@@ -1,0 +1,43 @@
+﻿IGUI_CH = {
+
+	IGUI_PlayerText_HTCWarmupReactionPre_01 = "哦不！那個聲音是從 ",
+
+	IGUI_PlayerText_HTCWarmupReactionPre_02 = "真是見鬼了！！那個聲音是從 ",
+
+    IGUI_PlayerText_HTCWarmupReactionPre_03 = "什麼東西？？！ 到底發生了什麼事？ ",
+
+    IGUI_PlayerText_HTCDirection_0 = "東邊"
+
+    IGUI_PlayerText_HTCDirection_1 = "東南邊"
+
+    IGUI_PlayerText_HTCDirection_2 = "南邊"
+
+    IGUI_PlayerText_HTCDirection_3 = "西南邊"
+
+    IGUI_PlayerText_HTCDirection_4 = "西邊"
+
+    IGUI_PlayerText_HTCDirection_5 = "西北邊"
+
+    IGUI_PlayerText_HTCDirection_6 = "北邊"
+
+    IGUI_PlayerText_HTCDirection_7 = "東北邊"
+
+    IGUI_PlayerText_HTCWarmupReactionPost_01 = ". 必須離開這裡了！",
+
+    IGUI_PlayerText_HTCWarmupReactionPost_02 = ". 沒時間浪費了，各位快跑吧！",
+                    IGUI_PlayerText_HTCWarmupReactionPost_03 = ". 快跑！"
+
+    IGUI_PlayerText_HTCStartReaction_00 = "他們來了！"
+
+    IGUI_PlayerText_HTCStartReaction_01 = "他們又來了！"
+
+    IGUI_PlayerText_HTCStartReaction_02 = "又一波！"
+
+    IGUI_PlayerText_HTCStartReaction_03 = "他們一直來！"
+
+    IGUI_PlayerText_HTCEndReaction_01 = "終於！ 我想我們已經結束了。 這些是最後一個了。"
+
+        IGUI_PlayerText_HTCEndReaction_02 = "他們似乎不再來了,這是最後一批了"
+
+        IGUI_PlayerText_HTCEndReaction_03 = "都結束了。 這些是最後的了。"
+}
