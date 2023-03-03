@@ -16,6 +16,7 @@ Tooltip_CH = {
     Tooltip_modifier_aim_time="瞄準時間",
     Tooltip_modifier_reload_time="裝填時間",
     Tooltip_modifier_noise="噪音",
+    Tooltip_modifier_experience="經驗值",
 
 
     Tooltip_item_stats_damage="傷害",
@@ -32,7 +33,6 @@ Tooltip_CH = {
     Tooltip_item_stats_attack_speed="攻速",
     Tooltip_item_stats_endurance_used="耐力消耗",
     Tooltip_item_stats_tiles="距離(方格)",
-
 
     Tooltip_modifier_capacity = "容量",
     Tooltip_modifier_weight_reduction= "負重減輕",
