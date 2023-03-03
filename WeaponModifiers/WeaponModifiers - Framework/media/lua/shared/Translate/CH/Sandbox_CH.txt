@@ -15,6 +15,12 @@ Sandbox_CH = {
     Sandbox_WeaponModifiers_AttachedWeaponsChanceMultiplier_tooltip = "高 = 在殭屍身上的武器應用隨機詞綴的機率更大.<br>低 = 在殭屍身上的武器應用隨機詞綴的機率更低.",
 
 
+    Sandbox_WeaponModifiers_ChanceMultiplierForCraftedRangedWeapons = "自定義遠程武器的機率乘數",
+    Sandbox_WeaponModifiers_ChanceMultiplierForCraftedRangedWeapons_tooltip = "僅限自定義(模組)遠程武器.<br><br>如果你使用的是Realistic list,則不適用.<br><br>如果你是遊玩 原版 或不添加任何遠程武器的模組,則不適用.<br><br>請設置為 0 :如果你是使用貝瑞塔(Brita)<br>或能夠為遠程武器變更不同形式的類似模組.<br>(像是: 收短/展開槍托 )<br><br>高 = 隨機詞綴應用在自定義(模組)遠程武器的機率更大.<br>低 = 隨機詞綴應用在自定義(模組)遠程武器的機率更低.<br>",
+
+    Sandbox_WeaponModifiers_ChanceMultiplierForCraftedMeleeWeapons= "自定義近戰武器的機率乘數",
+    Sandbox_WeaponModifiers_ChanceMultiplierForCraftedMeleeWeapons_tooltip = "僅限自定義(模組)近戰武器.<br><br>請設置為 0 :如果你使用的模組,會使近戰武器切換不同形式.<br>(像是 斧/矛模式之間切換)<br><br>高 = 隨機詞綴應用在自定義(模組)近戰武器的機率更大.<br>低 = 隨機詞綴應用在自定義(模組)近戰武器的機率更低.<br>",
+    
     Sandbox_WeaponModifiers_IgnoreIrrelevantWeapons = "忽略不相關武器",
     Sandbox_WeaponModifiers_IgnoreIrrelevantWeapons_tooltip = "詞綴不會應用在不相關的武器.<br>(各類的筆, 湯匙, 叉, 釣具, 烹飪鍋, 以及各類建材,木板,金屬棒 金屬管.)<br>",
 }
