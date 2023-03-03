@@ -3,7 +3,7 @@ Sandbox_CH = {
 
     Sandbox_WeaponModifiers_RangedWeaponsTinkerable = "遠程武器可被鍛造",
     Sandbox_WeaponModifiers_RangedWeaponsTinkerable_tooltip = "請不要啟用此功能,如果你是使用Realistic list的話."
-    Sandbox_WeaponModifiers_DynamicTinkerer = "工匠特質是動態的",
+    Sandbox_WeaponModifiers_DynamicTinkerer = "專業工匠特質是動態的",
     Sandbox_WeaponModifiers_DynamicTinkerer_tooltip = "獲得該特質,需具備維護和鍛造總和至少 8 級,且至少鍛造了15個史詩稀有度的詞綴.",
     Sandbox_WeaponModifiers_TinkeringSkillXpMultiplier = "鍛造經驗值乘數"
 
