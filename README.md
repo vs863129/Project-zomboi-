@@ -75,7 +75,7 @@ FileName/media/lua/shared/Translate/CH/
 [貨幣交易模組 Currency Variety Mod [B41]](https://steamcommunity.com/workshop/filedetails/?id=2356682893)  (Github:kyo2002tw,Discord:cide2021)  
 [更好的開鎖 Better lockpicking](https://steamcommunity.com/sharedfiles/filedetails/?id=2368058459)  (Github:kyo2002tw,Discord:cide2021)  
 #### -搬運(待)-  
-
+[eris_food_expiry] (https://steamcommunity.com/sharedfiles/filedetails/?id=1651019937)  
 ## 連接(LINK)
 **[模組繁體中文包](https://steamcommunity.com/sharedfiles/filedetails/?id=2730159518)** 
 
