@@ -2,6 +2,7 @@ Tooltip_CH = {
     Tooltip_modifier_type="類型",
     Tooltip_modifier_standard="標準",
 
+    Tooltip_modifier_damage="傷害",
     Tooltip_modifier_attack_speed="攻擊速度",
     Tooltip_modifier_knockback="擊退",
     Tooltip_modifier_minrange="最短距離",
@@ -33,5 +34,6 @@ Tooltip_CH = {
     Tooltip_item_stats_tiles="距離(方格)",
 
 
-
+    Tooltip_modifier_capacity = "容量",
+    Tooltip_modifier_weight_reduction= "負重減輕",
 }
