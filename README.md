@@ -75,7 +75,7 @@ FileName/media/lua/shared/Translate/CH/
 [更好的開鎖 Better lockpicking](https://steamcommunity.com/sharedfiles/filedetails/?id=2368058459)  (Github:kyo2002tw,Discord:cide2021)  
 [他們來了! HereTheyCome!](https://steamcommunity.com/sharedfiles/filedetails/?id=2779839289)  (Github:kyo2002tw,Discord:cide2021)  
 #### -搬運(待)-  
-[eris_food_expiry] (https://steamcommunity.com/sharedfiles/filedetails/?id=1651019937)  
+[eris_food_expiry](https://steamcommunity.com/sharedfiles/filedetails/?id=1651019937)  
 ## 連接(LINK)
 **[模組繁體中文包](https://steamcommunity.com/sharedfiles/filedetails/?id=2730159518)** 
 
