@@ -28,5 +28,5 @@ IG_UI_CH = {
     IGUI_modifier_name_Bent = "彎曲",
     IGUI_modifier_name_Extensive = "廣闊",
     IGUI_modifier_name_Long = "長",
-    IGUI_modifier_name_Used = "二手",
+    IGUI_modifier_name_Used = "中古品",
 }
