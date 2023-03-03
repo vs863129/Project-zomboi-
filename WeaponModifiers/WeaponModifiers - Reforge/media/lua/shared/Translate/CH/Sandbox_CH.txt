@@ -1,14 +1,14 @@
-Sandbox_EN = {
-    Sandbox_WeaponModifiers = "Weapon Modifiers & Tinkering",
+Sandbox_CH = {
+    Sandbox_WeaponModifiers = "武器詞綴 & 鍛造",
 
-    Sandbox_WeaponModifiers_RangedWeaponsTinkerable = "Ranged Weapons can be tinkered",
-    Sandbox_WeaponModifiers_RangedWeaponsTinkerable_tooltip = "Don't enable this if you use the Realistic list."
-    Sandbox_WeaponModifiers_DynamicTinkerer = "Tinkerer Trait is dynamic",
-    Sandbox_WeaponModifiers_DynamicTinkerer_tooltip = "To acquire the trait, you'll need the sum of your maintenance and tinkering levels to be at least 8, and to have tinkered 15 modifiers of at least epic rarity.",
-    Sandbox_WeaponModifiers_TinkeringSkillXpMultiplier = "Tinkering Skill XP multiplier"
+    Sandbox_WeaponModifiers_RangedWeaponsTinkerable = "遠程武器可被鍛造",
+    Sandbox_WeaponModifiers_RangedWeaponsTinkerable_tooltip = "請不要啟用此功能,如果你是使用Realistic list的話."
+    Sandbox_WeaponModifiers_DynamicTinkerer = "工匠特質是動態的",
+    Sandbox_WeaponModifiers_DynamicTinkerer_tooltip = "獲得該特質,需具備維護和鍛造總和至少 8 級,且至少鍛造了15個史詩稀有度的詞綴.",
+    Sandbox_WeaponModifiers_TinkeringSkillXpMultiplier = "鍛造經驗值乘數"
 
-    Sandbox_WeaponModifiers_TinkerCost = "Tinkering Cost",
-    Sandbox_WeaponModifiers_TinkerCost_tooltip = "How many items / how much of a drainable item is consumed when tinkering.",
+    Sandbox_WeaponModifiers_TinkerCost = "鍛造成本",
+    Sandbox_WeaponModifiers_TinkerCost_tooltip = "鍛造所需要多少物品/消耗數量.",
     Sandbox_TinkerCost_value_option1 = "1",
     Sandbox_TinkerCost_value_option2 = "2",
     Sandbox_TinkerCost_value_option3 = "3",
