@@ -74,6 +74,7 @@ FileName/media/lua/shared/Translate/CH/
 [86oshkoshP19A](https://steamcommunity.com/sharedfiles/filedetails/?id=2566953935)  (Github:vs863129,Discord:文森)  
 [貨幣交易模組 Currency Variety Mod [B41]](https://steamcommunity.com/workshop/filedetails/?id=2356682893)  (Github:kyo2002tw,Discord:cide2021)  
 [更好的開鎖 Better lockpicking](https://steamcommunity.com/sharedfiles/filedetails/?id=2368058459)  (Github:kyo2002tw,Discord:cide2021)  
+[他們來了! HereTheyCome!]  (https://steamcommunity.com/sharedfiles/filedetails/?id=2779839289)  (Github:kyo2002tw,Discord:cide2021)  
 #### -搬運(待)-  
 [eris_food_expiry] (https://steamcommunity.com/sharedfiles/filedetails/?id=1651019937)  
 ## 連接(LINK)
