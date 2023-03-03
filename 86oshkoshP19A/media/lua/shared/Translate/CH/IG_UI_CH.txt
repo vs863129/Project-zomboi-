@@ -1,0 +1,42 @@
+IG_UI_CH = {
+	IGUI_VehicleName86oshkoshUSMC = "'86 奧什科什 P19A USMC"
+	IGUI_VehicleName86oshkoshKYFD = "'86 奧什科什 P19A KYFD"
+	IGUI_VehicleName86oshkoshFRTR55 = "P19A FRTR55"
+	IGUI_VehicleName86oshkoshP19ABurnt = "燒毀的 奧什科什 P19A"
+
+	IGUI_VehicleNameTrailerM1082 = "M1082 拖車"
+	IGUI_VehicleNameTrailerM1082tarp = "M1082 篷式拖車"
+	IGUI_VehicleNameTrailerM1095 = "M1095 拖車"
+	IGUI_VehicleNameTrailerM1095tarp = "M1095 篷式拖車"
+
+	IGUI_VehiclePartCatP19Arighttrunk = "右儲藏箱",
+	IGUI_VehiclePartCatP19Alefttrunk = "左儲藏箱",
+
+	IGUI_VehiclePartP19ABigTrunkCompartment0 = "大儲藏箱(上)",
+	IGUI_VehiclePartP19ASmallTrunkCompartment1 = "小儲藏箱(左)",
+	IGUI_VehiclePartP19ASmallTrunkCompartment2 = "小儲藏箱(中)",
+	IGUI_VehiclePartP19ASmallTrunkCompartment3 = "小儲藏箱(右)",
+
+	IGUI_VehiclePartP19ABigTrunkCompartment0b = "大儲藏箱(上)",
+	IGUI_VehiclePartP19ASmallTrunkCompartment1b = "小儲藏箱(左)",
+	IGUI_VehiclePartP19ASmallTrunkCompartment3b = "小儲藏箱(右)",
+
+	IGUI_VehiclePartP19Ahatch = "屋頂艙口",
+	IGUI_VehiclePartP19ARoofrack = "車頂架",
+	IGUI_VehiclePartTrunkDoor2 = "儲藏箱蓋",
+
+	IGUI_VehiclePartP19AFenderLeft = "左後擋泥板",
+	IGUI_VehiclePartP19AFenderRight = "右後擋泥板",
+
+	IGUI_VehiclePartP19ASpareMountLeft = "備用支架(後)",
+	IGUI_VehiclePartP19ASpareMountRear = "備用支架(頂)",
+
+	IGUI_VehiclePartP19ASpareTireLeft = "備用輪胎(後)",
+	IGUI_VehiclePartP19ASpareTireRear = "備用輪胎(頂)",
+
+	IGUI_VehiclePartP19AWindshieldArmor = "擋風玻璃裝甲",
+	IGUI_VehiclePartP19ADoorFrontLeftArmor = "左前門裝甲",
+	IGUI_VehiclePartP19ADoorFrontRightArmor = "右前門裝甲",
+
+}
+
