@@ -74,6 +74,7 @@ FileName/media/lua/shared/Translate/CH/
 [貨幣交易模組 Currency Variety Mod [B41]](https://steamcommunity.com/workshop/filedetails/?id=2356682893)  (Github:kyo2002tw,Discord:cide2021)  
 [更好的開鎖 Better lockpicking](https://steamcommunity.com/sharedfiles/filedetails/?id=2368058459)  (Github:kyo2002tw,Discord:cide2021)  
 [他們來了! HereTheyCome!](https://steamcommunity.com/sharedfiles/filedetails/?id=2779839289)  (Github:kyo2002tw,Discord:cide2021)  
+[Brita's Armor Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=2460154811)  (Github:Jay-JG,Discord:Jay-JG)  
 #### -搬運(待)-  
 [eris_food_expiry](https://steamcommunity.com/sharedfiles/filedetails/?id=1651019937)  (原模組翻譯搬運)
 ## 連接(LINK)
