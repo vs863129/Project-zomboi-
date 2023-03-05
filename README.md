@@ -71,7 +71,7 @@ FileName/media/lua/shared/Translate/CH/
 [改善頭髮選單 improved hair menu](https://steamcommunity.com/sharedfiles/filedetails/?id=2732662310)  (Github:kyo2002tw,Discord:cide2021)  
 [工程師 The Engineer](https://steamcommunity.com/sharedfiles/filedetails/?id=2906633595)  (Github:vs863129,Discord:文森)  
 [86oshkoshP19A](https://steamcommunity.com/sharedfiles/filedetails/?id=2566953935)  (Github:vs863129,Discord:文森)  
-[貨幣交易模組 Currency Variety Mod [B41]](https://steamcommunity.com/workshop/filedetails/?id=2356682893)  (Github:kyo2002tw,Discord:cide2021)  
+[貨幣交易模組 Currency Trade Mod [B41]+](https://steamcommunity.com/workshop/filedetails/?id=2356682893)  (Github:kyo2002tw,Discord:cide2021)  
 [更好的開鎖 Better lockpicking](https://steamcommunity.com/sharedfiles/filedetails/?id=2368058459)  (Github:kyo2002tw,Discord:cide2021)  
 [他們來了! HereTheyCome!](https://steamcommunity.com/sharedfiles/filedetails/?id=2779839289)  (Github:kyo2002tw,Discord:cide2021)  
 [Brita's Armor Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=2460154811)  (Github:Jay-JG,Discord:Jay-JG)  
