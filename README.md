@@ -51,19 +51,6 @@ FileName/media/lua/shared/Translate/CH/
 [ProteinsMoodle](https://steamcommunity.com/sharedfiles/filedetails/?id=2859304462)  (Github:Genshin804,Discord:Genshin)  
 [MetalSpear](https://steamcommunity.com/sharedfiles/filedetails/?id=2613871263&searchtext=spear)  (Github:vs863129,Discord:文森)  
 [add Craft & Rules for use SledgeHammer](https://steamcommunity.com/sharedfiles/filedetails/?id=2854012382&searchtext=siege+hammer)  (Github:vs863129,Discord:文森)  
-
-### -搬運-
-[Minimal Display Bars](https://steamcommunity.com/sharedfiles/filedetails/?id=2004998206) (原模組翻譯搬運)  
-[倖存者(NPC模組)二合一 Survivors 2 in 1](https://steamcommunity.com/sharedfiles/filedetails/?id=2680488822)  (原模組翻譯搬運)  
-
-### -僅提供給原作者-
-[更詳細狀態介紹 Clear description for Moodles](https://steamcommunity.com/sharedfiles/filedetails/?id=2763647806&searchtext) (Github:Genshin804,Discord:Genshin)  
-[天氣預告 Weather Moodles](https://steamcommunity.com/sharedfiles/filedetails/?id=2920735875)  (Github:kyo2002tw,Discord:cide2021)  
-[武器詞綴 Weapon Modifiers](https://steamcommunity.com/sharedfiles/filedetails/?id=2932853467)  (Github:vs863129,Discord:文森)  
-[更多特質 More Traits](https://steamcommunity.com/sharedfiles/filedetails/?id=1299328280) (部分由Github:Genshin804,Discord:Genshin翻譯)  
-[手搖手電筒 Hand Crank Flashlights](https://steamcommunity.com/sharedfiles/filedetails/?id=2897115343&searchtext=Hand+Crank+Flashlights) (Github:nemo01642280 ,Discord:尼莫)  
-
-### -待整合至工作坊-  
 [唯一解藥(截肢模組) The Only Cure but better](https://steamcommunity.com/sharedfiles/filedetails/?id=2915572347&searchtext=++The+Only+Cure+but+better)    (Github:nemo01642280 ,Discord:尼莫)  
 [拒馬 Cheval de frise](https://steamcommunity.com/sharedfiles/filedetails/?id=2927800433)  (Github:Genshin804,Discord:Genshin)  
 [School's Out: Anime-Style Student Uniforms](https://steamcommunity.com/sharedfiles/filedetails/?id=2904220876)  (Github:Genshin804,Discord:Genshin)  
@@ -75,8 +62,22 @@ FileName/media/lua/shared/Translate/CH/
 [更好的開鎖 Better lockpicking](https://steamcommunity.com/sharedfiles/filedetails/?id=2368058459)  (Github:kyo2002tw,Discord:cide2021)  
 [他們來了! HereTheyCome!](https://steamcommunity.com/sharedfiles/filedetails/?id=2779839289)  (Github:kyo2002tw,Discord:cide2021)  
 [Brita's Armor Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=2460154811)  (Github:Jay-JG,Discord:Jay-JG)  
-#### -搬運(待)-  
+
+### -搬運-
+[Minimal Display Bars](https://steamcommunity.com/sharedfiles/filedetails/?id=2004998206) (原模組翻譯搬運)  
+[倖存者(NPC模組)二合一 Survivors 2 in 1](https://steamcommunity.com/sharedfiles/filedetails/?id=2680488822)  (原模組翻譯搬運)  
 [eris_food_expiry](https://steamcommunity.com/sharedfiles/filedetails/?id=1651019937)  (原模組翻譯搬運)
+### -僅提供給原作者-
+[更詳細狀態介紹 Clear description for Moodles](https://steamcommunity.com/sharedfiles/filedetails/?id=2763647806&searchtext) (Github:Genshin804,Discord:Genshin)  
+[天氣預告 Weather Moodles](https://steamcommunity.com/sharedfiles/filedetails/?id=2920735875)  (Github:kyo2002tw,Discord:cide2021)  
+[武器詞綴 Weapon Modifiers](https://steamcommunity.com/sharedfiles/filedetails/?id=2932853467)  (Github:vs863129,Discord:文森)  
+[更多特質 More Traits](https://steamcommunity.com/sharedfiles/filedetails/?id=1299328280) (部分由Github:Genshin804,Discord:Genshin翻譯)  
+[手搖手電筒 Hand Crank Flashlights](https://steamcommunity.com/sharedfiles/filedetails/?id=2897115343&searchtext=Hand+Crank+Flashlights) (Github:nemo01642280 ,Discord:尼莫)  
+
+### -待整合至工作坊-  
+[更好類型Better Sorting](https://steamcommunity.com/sharedfiles/filedetails/?id=2313387159)  (Github:vs863129,Discord:文森) 
+#### -搬運(待)-  
+
 ## 連接(LINK)
 **[模組繁體中文包](https://steamcommunity.com/sharedfiles/filedetails/?id=2730159518)** 
 
