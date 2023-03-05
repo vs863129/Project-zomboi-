@@ -75,7 +75,7 @@ FileName/media/lua/shared/Translate/CH/
 [手搖手電筒 Hand Crank Flashlights](https://steamcommunity.com/sharedfiles/filedetails/?id=2897115343&searchtext=Hand+Crank+Flashlights) (Github:nemo01642280 ,Discord:尼莫)  
 
 ### -待整合至工作坊-  
-[更好類型Better Sorting](https://steamcommunity.com/sharedfiles/filedetails/?id=2313387159)  (Github:vs863129,Discord:文森) 
+[更好分類 Better Sorting](https://steamcommunity.com/sharedfiles/filedetails/?id=2313387159)  (Github:vs863129,Discord:文森) 
 #### -搬運(待)-  
 
 ## 連接(LINK)
