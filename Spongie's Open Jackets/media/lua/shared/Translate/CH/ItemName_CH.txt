@@ -42,9 +42,9 @@ ItemName_CH = {
     ItemName_Base.Jacket_LeatherIronRodentVest = "鋼鐵鼠皮夾克",
     ItemName_Base.Jacket_LeatherWildRacoonsVest = "浣熊皮夾克",
     ItemName_Base.Jacket_BlackVestOPEN = "皮夾克(開)",
-    ItemName_Base.Jacket_LeatherBarrelDogsVestOPEN = "酒桶狗皮夾克",
-    ItemName_Base.Jacket_LeatherIronRodentVestOPEN = "鋼鐵鼠皮夾克",
-    ItemName_Base.Jacket_LeatherWildRacoonsVestOPEN = "浣熊皮夾克",
+    ItemName_Base.Jacket_LeatherBarrelDogsVestOPEN = "酒桶狗皮夾克(開)",
+    ItemName_Base.Jacket_LeatherIronRodentVestOPEN = "鋼鐵鼠皮夾克(開)",
+    ItemName_Base.Jacket_LeatherWildRacoonsVestOPEN = "浣熊皮夾克(開)",
 	
     ItemName_Base.TrousersTUCK = "褲子(塞在襪子裡)",
     ItemName_Base.TrousersMesh_DenimLightTUCK = "丹寧牛仔褲(塞在襪子裡)",
