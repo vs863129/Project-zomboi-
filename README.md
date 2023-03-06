@@ -76,6 +76,7 @@ FileName/media/lua/shared/Translate/CH/
 [VANILLA FIREARMS EXPANSION (B41)](https://steamcommunity.com/sharedfiles/filedetails/?id=2667899942) (Github:HerioJohnX,Discord:希利奧)  
 [Sprout's Farm and Garden](https://steamcommunity.com/sharedfiles/filedetails/?id=2937434637) (Github:vs863129,Discord:文森)  
 [製作小幫手 Craft Helper Continued](https://steamcommunity.com/sharedfiles/filedetails/?id=2787291513) (Github:vs863129,Discord:文森)  
+[Cosplay商店](https://steamcommunity.com/sharedfiles/filedetails/?id=2707905930)  (Github:Jay-JG,Discord:Jay-JG)  
 
 ### -待整合至工作坊-  
 [更好分類 Better Sorting](https://steamcommunity.com/sharedfiles/filedetails/?id=2313387159)  (Github:vs863129,Discord:文森)  
