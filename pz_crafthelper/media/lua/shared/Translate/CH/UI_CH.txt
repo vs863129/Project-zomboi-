@@ -78,7 +78,7 @@ UI_CH = {
     UI_infotext_item_mouse =   " - 中鍵點擊物品(配方列),開啟被點擊物品並產生新標籤 <LINE>"..
                                " - 右鍵點擊物品(配方列),開啟快捷選項 <LINE>"..
                                " - 右鍵點擊物品圖示(詳細列)開啟快捷選項 <LINE>"..
-                               " - Shift + 右鍵點擊某些元素(見上文)將顯示其他選項"
+                               " - Shift+右鍵,點擊某些元素(見上文)將顯示其他選項"
 
 
     UI_searchrow_info = "<CENTRE><SIZE:medium> 查詢小幫手 <LINE><LINE> "..
