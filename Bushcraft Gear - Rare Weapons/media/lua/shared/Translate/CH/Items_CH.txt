@@ -1,0 +1,6 @@
+Items_CH = {
+
+DisplayName_Reinforced_Baseball_Bat = "狼牙球棒",
+DisplayName_Viking_Axe = "維京戰斧",
+
+}
