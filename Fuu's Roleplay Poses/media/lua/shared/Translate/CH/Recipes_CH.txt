@@ -1,0 +1,28 @@
+Recipe_CH = {
+    Recipe_BobRPS_Cancel = "取消動畫",
+    Recipe_BobRPA_ArmsCrossed = "交叉雙臂",
+    Recipe_BobRPA_AtEase = "放鬆",
+    Recipe_BobRPA_HandOnHip = "手放腰間",
+    Recipe_BobRPA_HandsBehindBack = "雙手放後",
+    Recipe_BobRPA_HandsInPockets = "手插口袋",
+    Recipe_BobRPA_HoldArmFront = "手前抱臂",
+
+    Recipe_BobRPA_Injured = "受傷",
+
+    Recipe_BobRPA_LeanBack = "向後傾",
+    Recipe_BobRPA_LeanForward = "向前傾",
+    Recipe_BobRPA_LeanSide = "向側傾",
+
+    Recipe_BobRPA_Kneel = "跪下",
+    Recipe_BobRPA_Squat = "蹲下",
+
+    Recipe_BobRPA_SitChair1 = "坐椅子 1",
+    Recipe_BobRPA_SitCrossedLegs = "盤腿坐",
+    Recipe_BobRPA_SitKneesUp = "膝上坐",
+    Recipe_BobRPA_SitLounging = "悠閒坐姿",
+    Recipe_BobRPA_SitSideways = "側坐",
+
+    Recipe_BobRPA_LieOnBack = "仰臥",
+    Recipe_BobRPA_LieOnFloor = "躺在地上",
+    Recipe_BobRPA_LieOnSide = "側躺",
+}
