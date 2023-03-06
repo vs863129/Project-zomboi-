@@ -73,9 +73,11 @@ FileName/media/lua/shared/Translate/CH/
 [武器詞綴 Weapon Modifiers](https://steamcommunity.com/sharedfiles/filedetails/?id=2932853467)  (Github:vs863129,Discord:文森)  
 [更多特質 More Traits](https://steamcommunity.com/sharedfiles/filedetails/?id=1299328280) (部分由Github:Genshin804,Discord:Genshin翻譯)  
 [手搖手電筒 Hand Crank Flashlights](https://steamcommunity.com/sharedfiles/filedetails/?id=2897115343&searchtext=Hand+Crank+Flashlights) (Github:nemo01642280 ,Discord:尼莫)  
+[VANILLA FIREARMS EXPANSION (B41)](https://steamcommunity.com/sharedfiles/filedetails/?id=2667899942) (Github:HerioJohnX,Discord:希利奧)  
 
 ### -待整合至工作坊-  
 [更好分類 Better Sorting](https://steamcommunity.com/sharedfiles/filedetails/?id=2313387159)  (Github:vs863129,Discord:文森) 
+[Bushcraft Gear - Rare Weapons](https://steamcommunity.com/sharedfiles/filedetails/?id=2432621382) (Github:nemo01642280 ,Discord:尼莫)  
 #### -搬運(待)-  
 
 ## 連接(LINK)
