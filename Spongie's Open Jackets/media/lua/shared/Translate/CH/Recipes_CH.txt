@@ -1,0 +1,6 @@
+Recipes_CH = {
+    Recipe_Make_Jacket_BlackVest = "撤下",
+    Recipe_Make_Jacket_LeatherWildRacoonsVest = "撤下",
+    Recipe_Make_Jacket_LeatherIronRodentVest = "撤下",
+    Recipe_Make_Jacket_LeatherBarrelDogsVest = "撤下",
+} 
