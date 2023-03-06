@@ -1,0 +1,8 @@
+ItemName_CH = {
+
+	ItemName_RPA.BobRPA_Pose_Mag = "RP姿勢雜誌",
+	ItemName_RPA.BobRPA_Family_Guy_card = "酷蓋家族死亡動作卡",
+	ItemName_RPA.BobRPA_JackO_card = "Jack-O的下蹲動作卡",
+	ItemName_RPA.BobRPA_Dad_Twerk_card = "父親蹦迪動作卡",
+
+}

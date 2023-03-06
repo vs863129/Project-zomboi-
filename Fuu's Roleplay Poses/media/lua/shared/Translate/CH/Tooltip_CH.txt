@@ -1,0 +1,3 @@
+Tooltip_CH = {
+	Tooltip_RPAcard = "當這張卡片在您的庫存中時,您可以使用特別姿勢",
+}

@@ -1,0 +1,36 @@
+IG_UI_CH = {
+    IGUI_Pose_RPA = "姿勢",
+    IGUI_Cancel = "取消動畫",
+    IGUI_Pose_BobRPA_ArmsCrossed = "交叉手臂",
+    IGUI_Pose_BobRPA_AtEase = "放鬆",
+    IGUI_Pose_BobRPA_HandOnHip = "手放腰間",
+    IGUI_Pose_BobRPA_HandsBehindBack = "手放在後",
+    IGUI_Pose_BobRPA_HandsInPockets = "手插口袋",
+    IGUI_Pose_BobRPA_HoldArmFront = "手前抱臂",
+
+    IGUI_Pose_BobRPA_Injured = "受傷",
+
+    IGUI_Pose_BobRPA_LeanBack = "向後傾",
+    IGUI_Pose_BobRPA_LeanForward = "向前傾",
+    IGUI_Pose_BobRPA_LeanSide = "向側傾",
+
+    IGUI_Pose_BobRPA_Kneel = "跪下",
+    IGUI_Pose_BobRPA_Squat = "蹲下",
+
+    IGUI_Pose_BobRPA_SitChair1 = "坐椅子1",
+    IGUI_Pose_BobRPA_SitCrossedLegs = "盤腿坐",
+    IGUI_Pose_BobRPA_SitKneesUp = "膝上坐",
+    IGUI_Pose_BobRPA_SitLounging = "悠閒坐姿",
+    IGUI_Pose_BobRPA_SitSideways = "側坐",
+
+    IGUI_Pose_BobRPA_LieOnBack = "仰躺",
+    IGUI_Pose_BobRPA_LieOnFloor = "躺在地上",
+    IGUI_Pose_BobRPA_LieOnSide = "側躺",
+
+    IGUI_Pose_RPAspc = "特殊姿勢",
+    IGUI_Pose_BobRPA_DadTwerk = "父親蹦迪",
+    IGUI_Pose_BobRPA_FamilyGuy = "酷蓋家族死亡動作",
+    IGUI_Pose_BobRPA_JackO = "Jack-O的下蹲姿勢",
+	
+
+}
