@@ -76,7 +76,7 @@ FileName/media/lua/shared/Translate/CH/
 [VANILLA FIREARMS EXPANSION (B41)](https://steamcommunity.com/sharedfiles/filedetails/?id=2667899942) (Github:HerioJohnX,Discord:希利奧)  
 
 ### -待整合至工作坊-  
-[更好分類 Better Sorting](https://steamcommunity.com/sharedfiles/filedetails/?id=2313387159)  (Github:vs863129,Discord:文森) 
+[更好分類 Better Sorting](https://steamcommunity.com/sharedfiles/filedetails/?id=2313387159)  (Github:vs863129,Discord:文森)  
 [Bushcraft Gear - Rare Weapons](https://steamcommunity.com/sharedfiles/filedetails/?id=2432621382) (Github:nemo01642280 ,Discord:尼莫)  
 #### -搬運(待)-  
 
