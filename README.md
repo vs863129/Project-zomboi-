@@ -83,6 +83,7 @@ FileName/media/lua/shared/Translate/CH/
 [Bushcraft Gear - Rare Weapons](https://steamcommunity.com/sharedfiles/filedetails/?id=2432621382) (Github:nemo01642280 ,Discord:尼莫)  
 [Fuu's Roleplay Poses](https://steamcommunity.com/sharedfiles/filedetails/?id=2876610875)  (Github:nemo01642280 ,Discord:尼莫)  
 [Spongie's Open Jackets](https://steamcommunity.com/sharedfiles/filedetails/?id=2812326159)  (Github:nemo01642280 ,Discord:尼莫)  
+[喪鐘之日 Death Knell day](https://steamcommunity.com/sharedfiles/filedetails/?id=2811259189)  (Github:kyo2002tw,Discord:cide2021) 
 #### -搬運(待)-  
 
 ## 連接(LINK)
