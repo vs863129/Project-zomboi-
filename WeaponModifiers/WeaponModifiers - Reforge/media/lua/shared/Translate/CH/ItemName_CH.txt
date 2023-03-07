@@ -1,8 +1,8 @@
 ItemName_CH = {
         ItemName_WeaponModifiers.TinkeringMag = "工匠-傻瓜書",
-        ItemName_WeaponModifiers.BookTinkering1 = "工匠第 1 集-入門",
-	ItemName_WeaponModifiers.BookTinkering2 = "工匠第 2 集-中級",
-	ItemName_WeaponModifiers.BookTinkering3 = "工匠第 3 集-進階",
-	ItemName_WeaponModifiers.BookTinkering4 = "工匠第 4 集-專家",
-	ItemName_WeaponModifiers.BookTinkering5 = "工匠第 5 集-大師",
+        ItemName_WeaponModifiers.BookTinkering1 = "工匠 第 1 集-入門",
+	ItemName_WeaponModifiers.BookTinkering2 = "工匠 第 2 集-中級",
+	ItemName_WeaponModifiers.BookTinkering3 = "工匠 第 3 集-進階",
+	ItemName_WeaponModifiers.BookTinkering4 = "工匠 第 4 集-專家",
+	ItemName_WeaponModifiers.BookTinkering5 = "工匠 第 5 集-大師",
 }
