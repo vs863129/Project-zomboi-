@@ -1,0 +1,9 @@
+ItemName_CH = {
+	DisplayName_Base.Bag_FannyPackFront = "腰包(前)",
+	DisplayName_Base.Bag_FannyPackBack = "腰包(後)",
+	DisplayName_Base.SportsFannyPack = "運動腰包",
+	DisplayName_Base.SportsFannyPackBack = "運動腰包(後)",
+	DisplayName_Base.FannyPackXL = "大腰包",
+	DisplayName_Base.FannyPackXLBack = "大腰包(後)",
+
+}
