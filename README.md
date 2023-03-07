@@ -90,6 +90,7 @@ FileName/media/lua/shared/Translate/CH/
 [Eggon's 腰包平衡 Eggon's Fanny Pack Balancing](https://steamcommunity.com/sharedfiles/filedetails/?id=2276669022) (Github:CJ_6138,Discord:CJ)  
 [自動車修 AutoMechanics](https://steamcommunity.com/sharedfiles/filedetails/?id=2588598892)  (Github:CJ_6138,Discord:CJ)  
 [真實的動畫 Authentic Animation](https://steamcommunity.com/sharedfiles/filedetails/?id=2207282444)  (Github:HerioJohnX,Discord:希利奧)  
+[手推車 ZuperCart - Carts & Trolleys](https://steamcommunity.com/sharedfiles/filedetails/?id=2478768005)  (Github:Genshin804,Discord:Genshin)  
 
 #### -搬運(待)-  
 
