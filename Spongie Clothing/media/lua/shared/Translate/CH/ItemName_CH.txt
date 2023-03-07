@@ -1,0 +1,34 @@
+ItemName_CH = {
+	ItemName_Spongie.Jacket_SheepWool = "冬季夾克",
+	ItemName_Spongie.Jacket_SheepWoolOPEN = "冬季夾克(敞開)",
+	ItemName_Spongie.Jacket_Flight = "飛行員夾克",
+	ItemName_Spongie.Jacket_FlightOPEN = "飛行員夾克(敞開)",
+	ItemName_Spongie.Jacket_FlightVest = "飛行員無袖夾克",
+	ItemName_Spongie.Jacket_FlightVestOPEN = "飛行員無袖夾克(敞開)",
+	ItemName_Spongie.Jacket_PoliceArmor = "警用裝甲短袖夾克",
+	ItemName_Spongie.Jacket_PoliceArmorLong = "警用裝甲長袖夾克",
+	ItemName_Spongie.Jacket_Denim = "牛仔夾克",
+	ItemName_Spongie.Jacket_DenimOPEN = "牛仔夾克(敞開)",
+	ItemName_Spongie.Jacket_WinterCoat = "冬季大衣(敞開)",
+	ItemName_Spongie.Jacket_WinterCoatDOWN = "冬季大衣",
+	ItemName_Spongie.Jacket_Field = "戰地夾克",
+	ItemName_Spongie.Jacket_FieldOPEN = "戰地夾克(敞開)",
+	ItemName_Spongie.Jacket_Bomber = "飛行員皮夾克",
+	ItemName_Spongie.Jacket_BomberOPEN = "飛行員皮夾克(敞開)",
+
+	ItemName_Spongie.Vest_Waterproof = "防風背心",
+
+	ItemName_Spongie.Jumper_TurtleVest = "高領毛衣背心",
+	ItemName_Spongie.Jumper_Military = "軍用背心",
+	ItemName_Spongie.Jumper_MilitaryTIED = "軍用背心(纏腰)",
+	ItemName_Spongie.TShirt_Compression = "緊身短袖T恤",
+	ItemName_Spongie.TShirt_CompressionLong = "緊身長袖T恤",
+
+	ItemName_Spongie.Shorts_Spandex = "壓縮短褲",
+	ItemName_Spongie.Shorts_SpandexLong = "壓縮長褲",
+
+	ItemName_Spongie.Gloves_StripedLong = "條紋長手套",
+	ItemName_Spongie.Gloves_LeatherFingerless = "露指皮革手套",
+	ItemName_Spongie.Gloves_MilitaryFingerless = "露指軍用手套",
+
+}
