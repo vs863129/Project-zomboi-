@@ -52,7 +52,7 @@ UI_EN = {
     UI_AutoLoot_DisplayLootIcon_54  = "圖標大小 = 54",
     UI_AutoLoot_DisplayLootIcon_64  = "圖標大小 = 64",
     UI_AutoLoot_Inventory_On = "自動撿取開啟 ",
-    UI_AutoLoot_Inventory_Off = "自動撿取關閉,
+    UI_AutoLoot_Inventory_Off = "自動撿取關閉 ",
     UI_AutoLoot_StoreAll = "全都儲存",
     UI_AutoLoot_Looting_Items = "自動撿取物品",
     UI_AutoLoot_Not_Looting_Items = "不自動撿取物品",
