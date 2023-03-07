@@ -1,0 +1,17 @@
+ContextMenu_CH = {
+	ContextMenu_OpenJacket = "敞開衣服",
+	ContextMenu_CloseJacket = "扣起衣服"
+	ContextMenu_OpenHoodUp = "打開, 戴上兜帽",
+	ContextMenu_OpenHoodDown = "打開, 移除兜帽",
+	ContextMenu_CloseHoodUp = "關閉, 戴上兜帽"
+	ContextMenu_CloseHoodDown = "關閉, 移除兜帽"
+	ContextMenu_TuckIn = "塞進",
+	ContextMenu_TuckOut = "鬆開",
+	ContextMenu_RollUp = "捲起",
+	ContextMenu_RollDown = "捲下來",
+	ContextMenu_OpenRollUp = "打開, 捲起",
+	ContextMenu_OpenRollDown = "打開, 捲下來",
+	ContextMenu_CloseRollUp = "關閉, 捲起",
+	ContextMenu_CloseRollDown = "關閉, 捲下來",
+	ContextMenu_TieOnWaist = "牽在腰間",
+}
