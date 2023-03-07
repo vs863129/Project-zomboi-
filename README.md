@@ -82,9 +82,10 @@ FileName/media/lua/shared/Translate/CH/
 [更好分類 Better Sorting](https://steamcommunity.com/sharedfiles/filedetails/?id=2313387159)  (Github:vs863129,Discord:文森)  
 [Bushcraft Gear - Rare Weapons](https://steamcommunity.com/sharedfiles/filedetails/?id=2432621382) (Github:nemo01642280 ,Discord:尼莫)  
 [Fuu's Roleplay Poses](https://steamcommunity.com/sharedfiles/filedetails/?id=2876610875)  (Github:nemo01642280 ,Discord:尼莫)  
-[Spongie's Open Jackets](https://steamcommunity.com/sharedfiles/filedetails/?id=2812326159)  (Github:nemo01642280 ,Discord:尼莫)  
+[Spongie夾克系列 Spongie's Open Jackets](https://steamcommunity.com/sharedfiles/filedetails/?id=2812326159)  (Github:nemo01642280 ,Discord:尼莫)  
 [喪鐘之日 Death Knell day](https://steamcommunity.com/sharedfiles/filedetails/?id=2811259189)  (Github:kyo2002tw,Discord:cide2021)  
 [表演樂器(純動作) Perform Music](https://steamcommunity.com/sharedfiles/filedetails/?id=2911472635) (Github:CJ_6138,Discord:CJ)  
+[Spongie服飾 Spongie's Clothing](https://steamcommunity.com/sharedfiles/filedetails/?id=2684285534)  (Github:HerioJohnX,Discord:希利奧)  
 
 #### -搬運(待)-  
 
