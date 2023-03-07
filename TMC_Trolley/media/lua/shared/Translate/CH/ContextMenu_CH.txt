@@ -1,0 +1,3 @@
+ContextMenu_CH = {
+	ContextMenu_GrabTrolley = "使用手推車",
+}
