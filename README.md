@@ -77,15 +77,19 @@ FileName/media/lua/shared/Translate/CH/
 [Sprout's Farm and Garden](https://steamcommunity.com/sharedfiles/filedetails/?id=2937434637) (Github:vs863129,Discord:文森)  
 [製作小幫手 Craft Helper Continued](https://steamcommunity.com/sharedfiles/filedetails/?id=2787291513) (Github:vs863129,Discord:文森)  
 [Cosplay商店](https://steamcommunity.com/sharedfiles/filedetails/?id=2707905930)  (Github:Jay-JG,Discord:Jay-JG)  
+[可修門 Can Repair Door](https://steamcommunity.com/sharedfiles/filedetails/?id=2905027525)  (Github:HerioJohnX,Discord:希利奧)  
 
 ### -待整合至工作坊-  
 [更好分類 Better Sorting](https://steamcommunity.com/sharedfiles/filedetails/?id=2313387159)  (Github:vs863129,Discord:文森)  
 [Bushcraft Gear - Rare Weapons](https://steamcommunity.com/sharedfiles/filedetails/?id=2432621382) (Github:nemo01642280 ,Discord:尼莫)  
 [Fuu's Roleplay Poses](https://steamcommunity.com/sharedfiles/filedetails/?id=2876610875)  (Github:nemo01642280 ,Discord:尼莫)  
-[Spongie夾克系列 Spongie's Open Jackets](https://steamcommunity.com/sharedfiles/filedetails/?id=2812326159)  (Github:nemo01642280 ,Discord:尼莫)  
+[Spongie's 夾克系列 Spongie's Open Jackets](https://steamcommunity.com/sharedfiles/filedetails/?id=2812326159)  (Github:nemo01642280 ,Discord:尼莫)  
 [喪鐘之日 Death Knell day](https://steamcommunity.com/sharedfiles/filedetails/?id=2811259189)  (Github:kyo2002tw,Discord:cide2021)  
 [表演樂器(純動作) Perform Music](https://steamcommunity.com/sharedfiles/filedetails/?id=2911472635) (Github:CJ_6138,Discord:CJ)  
-[Spongie服裝 Spongie's Clothing](https://steamcommunity.com/sharedfiles/filedetails/?id=2684285534)  (Github:HerioJohnX,Discord:希利奧)  
+[Spongie's 服裝 Spongie's Clothing](https://steamcommunity.com/sharedfiles/filedetails/?id=2684285534)  (Github:HerioJohnX,Discord:希利奧)  
+[Eggon's 腰包平衡 Eggon's Fanny Pack Balancing](https://steamcommunity.com/sharedfiles/filedetails/?id=2276669022) (Github:CJ_6138,Discord:CJ)  
+[自動車修 AutoMechanics](https://steamcommunity.com/sharedfiles/filedetails/?id=2588598892)  (Github:CJ_6138,Discord:CJ)  
+[真實的動畫 Authentic Animation](https://steamcommunity.com/sharedfiles/filedetails/?id=2207282444)  (Github:HerioJohnX,Discord:希利奧)  
 
 #### -搬運(待)-  
 
