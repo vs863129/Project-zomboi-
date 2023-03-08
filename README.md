@@ -95,6 +95,7 @@ FileName/media/lua/shared/Translate/CH/
 [自動移動至 AutoMoveTo](https://steamcommunity.com/sharedfiles/filedetails/?id=2591232239) (Github:CJ_6138,Discord:CJ)  
 [狩獵模組 Hunting mod reupload](https://steamcommunity.com/sharedfiles/filedetails/?id=2719245165) (Github:CJ_6138,Discord:CJ)  
 [更多特質-動態特質 More Traits-Traits Dynamic](https://steamcommunity.com/sharedfiles/filedetails/?id=1299328280) (Github:Genshin804,Discord:Genshin)  
+[閱讀方式調整 M-13's Reading Tweaks](https://steamcommunity.com/sharedfiles/filedetails/?id=2776874515)  (Github:nemo01642280 ,Discord:尼莫)  
 
 #### -搬運(待)-  
 
