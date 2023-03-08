@@ -78,6 +78,7 @@ FileName/media/lua/shared/Translate/CH/
 [製作小幫手 Craft Helper Continued](https://steamcommunity.com/sharedfiles/filedetails/?id=2787291513) (Github:vs863129,Discord:文森)  
 [Cosplay商店](https://steamcommunity.com/sharedfiles/filedetails/?id=2707905930)  (Github:Jay-JG,Discord:Jay-JG)  
 [可修門 Can Repair Door](https://steamcommunity.com/sharedfiles/filedetails/?id=2905027525)  (Github:HerioJohnX,Discord:希利奧)  
+[技能命名的VHS錄影帶 (Named skill VHS tapes)](https://steamcommunity.com/sharedfiles/filedetails/?id=2732294885) (Github:vs863129,Discord:文森)  
 
 ### -待整合至工作坊-  
 [更好分類 Better Sorting](https://steamcommunity.com/sharedfiles/filedetails/?id=2313387159)  (Github:vs863129,Discord:文森)  
@@ -91,6 +92,8 @@ FileName/media/lua/shared/Translate/CH/
 [自動車修 AutoMechanics](https://steamcommunity.com/sharedfiles/filedetails/?id=2588598892)  (Github:CJ_6138,Discord:CJ)  
 [真實的動畫 Authentic Animation](https://steamcommunity.com/sharedfiles/filedetails/?id=2207282444)  (Github:HerioJohnX,Discord:希利奧)  
 [Z級手推車 ZuperCart - Carts & Trolleys](https://steamcommunity.com/sharedfiles/filedetails/?id=2478768005)  (Github:Genshin804,Discord:Genshin)  
+[自動移動至 AutoMoveTo](https://steamcommunity.com/sharedfiles/filedetails/?id=2591232239) (Github:CJ_6138,Discord:CJ)  
+[狩獵模組 Hunting mod reupload](https://steamcommunity.com/sharedfiles/filedetails/?id=2719245165) (Github:CJ_6138,Discord:CJ)  
 
 #### -搬運(待)-  
 
