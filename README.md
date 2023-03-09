@@ -67,6 +67,7 @@ FileName/media/lua/shared/Translate/CH/
 [Minimal Display Bars](https://steamcommunity.com/sharedfiles/filedetails/?id=2004998206) (原模組翻譯搬運)  
 [倖存者(NPC模組)二合一 Survivors 2 in 1](https://steamcommunity.com/sharedfiles/filedetails/?id=2680488822)  (原模組翻譯搬運)  
 [eris_food_expiry](https://steamcommunity.com/sharedfiles/filedetails/?id=1651019937)  (原模組翻譯搬運)
+
 ### -僅提供給原作者-
 [更詳細狀態介紹 Clear description for Moodles](https://steamcommunity.com/sharedfiles/filedetails/?id=2763647806&searchtext) (Github:Genshin804,Discord:Genshin)  
 [天氣預告 Weather Moodles](https://steamcommunity.com/sharedfiles/filedetails/?id=2920735875)  (Github:kyo2002tw,Discord:cide2021)  
@@ -79,6 +80,7 @@ FileName/media/lua/shared/Translate/CH/
 [Cosplay商店](https://steamcommunity.com/sharedfiles/filedetails/?id=2707905930)  (Github:Jay-JG,Discord:Jay-JG)  
 [可修門 Can Repair Door](https://steamcommunity.com/sharedfiles/filedetails/?id=2905027525)  (Github:HerioJohnX,Discord:希利奧)  
 [技能命名的VHS錄影帶 (Named skill VHS tapes)](https://steamcommunity.com/sharedfiles/filedetails/?id=2732294885) (Github:vs863129,Discord:文森)  
+[閱讀方式調整 M-13's Reading Tweaks](https://steamcommunity.com/sharedfiles/filedetails/?id=2776874515)  (Github:nemo01642280 ,Discord:尼莫)  
 
 ### -待整合至工作坊-  
 [更好分類 Better Sorting](https://steamcommunity.com/sharedfiles/filedetails/?id=2313387159)  (Github:vs863129,Discord:文森)  
@@ -95,7 +97,6 @@ FileName/media/lua/shared/Translate/CH/
 [自動移動至 AutoMoveTo](https://steamcommunity.com/sharedfiles/filedetails/?id=2591232239) (Github:CJ_6138,Discord:CJ)  
 [狩獵模組 Hunting mod reupload](https://steamcommunity.com/sharedfiles/filedetails/?id=2719245165) (Github:CJ_6138,Discord:CJ)  
 [更多特質-動態特質 More Traits-Traits Dynamic](https://steamcommunity.com/sharedfiles/filedetails/?id=1299328280) (Github:Genshin804,Discord:Genshin)  
-[閱讀方式調整 M-13's Reading Tweaks](https://steamcommunity.com/sharedfiles/filedetails/?id=2776874515)  (Github:nemo01642280 ,Discord:尼莫)  
 
 #### -搬運(待)-  
 
