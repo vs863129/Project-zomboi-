@@ -81,6 +81,7 @@ FileName/media/lua/shared/Translate/CH/
 [可修門 Can Repair Door](https://steamcommunity.com/sharedfiles/filedetails/?id=2905027525)  (Github:HerioJohnX,Discord:希利奧)  
 [技能命名的VHS錄影帶 (Named skill VHS tapes)](https://steamcommunity.com/sharedfiles/filedetails/?id=2732294885) (Github:vs863129,Discord:文森)  
 [閱讀方式調整 M-13's Reading Tweaks](https://steamcommunity.com/sharedfiles/filedetails/?id=2776874515)  (Github:nemo01642280 ,Discord:尼莫)  
+[Sprout's 混合農場與花園 Sprout's Farm and Garden](https://steamcommunity.com/sharedfiles/filedetails/?id=2937434637)  (Github:vs863129,Discord:文森)  
 
 ### -待整合至工作坊-  
 [更好分類 Better Sorting](https://steamcommunity.com/sharedfiles/filedetails/?id=2313387159)  (Github:vs863129,Discord:文森)  
