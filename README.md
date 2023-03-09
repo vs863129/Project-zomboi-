@@ -99,6 +99,7 @@ FileName/media/lua/shared/Translate/CH/
 [更多特質-動態特質 More Traits-Traits Dynamic](https://steamcommunity.com/sharedfiles/filedetails/?id=1299328280) (Github:Genshin804,Discord:Genshin)  
 
 #### -搬運(待)-  
+[傳送石 WayStone](https://steamcommunity.com/sharedfiles/filedetails/?id=2900928983)  (純翻運)  
 
 ## 連接(LINK)
 **[模組繁體中文包](https://steamcommunity.com/sharedfiles/filedetails/?id=2730159518)** 
