@@ -15,6 +15,38 @@
 + A: 我自己有寫一套整合程式,只要正常的翻譯基本上不會出錯.
 
 # 上傳與更新紀錄
+## 2023/03/11
+更好分類 Better Sorting
+Bushcraft Gear - Rare Weapons
+Fuu's Roleplay Poses
+Spongie's 夾克系列 Spongie's Open Jackets
+喪鐘之日 Death Knell day
+表演樂器(純動作) Perform Music
+Spongie's 服裝 Spongie's Clothing
+Eggon's 腰包平衡 Eggon's Fanny Pack Balancing
+自動車修 AutoMechanics
+真實的動畫 Authentic Animation
+Z級手推車 ZuperCart - Carts & Trolleys
+自動移動至 AutoMoveTo
+狩獵模組 Hunting mod reupload
+更多特質-動態特質 More Traits-Traits Dynamic
+
+---從本包內移除轉至作者---
+沉浸式太陽能 ImmersiveSolarArrays
+
+## 2023/03/05
+唯一解藥(截肢模組) The Only Cure but better
+拒馬 Cheval de frise
+School's Out: Anime-Style Student Uniforms
+自動搜刮 AutoLoot
+改善頭髮選單 improved hair menu
+工程師 The Engineer
+86oshkoshP19A
+貨幣交易模組 Currency Variety Mod [B41]
+更好的開鎖 Better lockpicking
+他們來了! HereTheyCome!
+Brita's Armor Pack
+eris_food_expiry
 ## 2023/02/25
 簡單交易 Trading Technology (因代碼內容鎖住的量過多,且提供的文檔不齊全,依然會有部分簡中的問題)  
 SWAT & RIOT PACK  
