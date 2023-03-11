@@ -1,4 +1,0 @@
-Tooltip_CH = {
-    Tooltip_Recipe_ElectricalIntermediate = "需要 lv. 3 電工",
-    Tooltip_Recipe_ElectricalAdvanced = "需要 lv. 5 電工",
-}
