@@ -5,6 +5,7 @@
 如果原模組有架設Github,會將資料更改至連接並呈現至下方
 
 [更詳細狀態介紹 BetterMoodlesDescriptions](https://github.com/xChillax/PZBetterMoodlesDescriptions/tree/main/CH)  
+[沉浸式太陽能 ImmersiveSolarArrays](https://github.com/radx5Blue/ImmersiveSolarArrays/tree/main/Contents/mods/ImmersiveSolarArrays/media/lua/shared/Translate/CH)
 ---更多特質---  
 [更多特質 More Traits](https://github.com/hypnotoadtrance/MoreTraits/tree/master/Contents/mods/More%20Traits/media/lua/shared/Translate/CH)  
 [更多特質-動態 More Traits-Dynamic](https://github.com/hypnotoadtrance/MoreTraits/tree/master/Contents/mods/More%20Traits%20-%20Dynamic/media/lua/shared/Translate)  
