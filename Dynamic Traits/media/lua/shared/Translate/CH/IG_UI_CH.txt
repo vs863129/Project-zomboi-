@@ -1,0 +1,4 @@
+IGUI_CH = {
+	IGUI_PlayerText_PlantStudyDone = "完成.",
+	IGUI_PlayerText_PlantStudyAlreadyDone = "我已經研究過這個問題了.",
+}
