@@ -11,7 +11,10 @@ UI_CH = {
     UI_optionscreen_binding_TRAJECTORY_UP	= "彈道提高 / 近距離射擊-開",
     UI_optionscreen_binding_TRAJECTORY_DOWN	= "彈道降低 / 近距離射擊-關",
     UI_optionscreen_binding_WEAPON_LIGHT	= "槍燈 開/關",
+    UI_optionscreen_binding_WEAPON_BIPOD	= "WEAPON-BIPOD",
     UI_optionscreen_binding_REFRESH_SCRIPT	= "刷新武器腳本",
+    UI_optionscreen_binding_WEAPON_NVG		= "WEAPON NIGHT-VISION",
+    UI_optionscreen_binding_GUNFIGHTER_WINDOW	= "GUNFIGHTER INFO WINDOW",
 }
 
 
