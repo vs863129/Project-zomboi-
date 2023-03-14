@@ -1,0 +1,6 @@
+ContextMenu_CH = {
+	ContextMenu_StudyPlant = "研究",
+	ContextMenu_StudyPlantTT = "研究植物們,學會區分是否有毒.",
+	ContextMenu_IdentifyHalf = "一半",
+	ContextMenu_IdentifyAll = "全部",
+}
