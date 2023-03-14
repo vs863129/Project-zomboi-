@@ -12,6 +12,14 @@ ContextMenu_CH = {
 	ContextMenu_FireMode_[6]Rotary = "[6]管旋轉",
 
 	---- 2.0 ----
+	ContextMenu_FireModes		= "FireModes",
+	ContextMenu_FireMode_N/A	= "N/A",
+	ContextMenu_FireMode_Single	= "Single",
+	ContextMenu_FireMode_Auto	= "Auto",
+	ContextMenu_FireMode_Single[L]	= "Single",
+	ContextMenu_FireMode_Auto[L]	= "Auto",
+	ContextMenu_FireMode_[L2]Burst	= "[2]Burst",
+	ContextMenu_FireMode_[L3]Burst	= "[3]Burst",
 	ContextMenu_OnBack		= "On Back",
 	ContextMenu_OnLeft		= "On Left Side",
 	ContextMenu_OnRight		= "On Right Side",
