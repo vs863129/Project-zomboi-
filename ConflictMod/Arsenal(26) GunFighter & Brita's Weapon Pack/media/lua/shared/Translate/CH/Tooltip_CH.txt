@@ -82,6 +82,7 @@ Tooltip_CH = {
 	Tooltip_weapon_Scope = "瞄準鏡",
 	Tooltip_weapon_Sling = "背帶",
 	Tooltip_weapon_Stock = "槍托",
+	---- 2.0 ----
 	Tooltip_Integral_Compensator	= "Equipped with Integral Compensator<br>Can not accept Muzzle Attachments",
 	Tooltip_Integral_Suppressor	= "Equipped with Integral Suppressor<br>Can not accept Muzzle Attachments",
 	Tooltip_Integral_Bipod		= "Equipped with Integral Bipod<br>Use Bipod Hot-key to Deploy / Fold",
