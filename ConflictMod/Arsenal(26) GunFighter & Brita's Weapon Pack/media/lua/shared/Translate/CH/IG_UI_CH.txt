@@ -3,7 +3,7 @@ IGUI_CH = {
 	IGUI_ItemCat_GunMag 				= "彈匣",
 	IGUI_ItemCat_FixedMag 				= "固定彈匣",
 	IGUI_ItemCat_GunClean				= "槍械清潔",
-	IGUI_ItemCat_WeaponConversion 		= "武器配件",
+	IGUI_ItemCat_WeaponConversion 			= "武器配件",
    	IGUI_ItemCat_Components 			= "複裝彈零件",
 	IGUI_ItemCat_ReloadingTool 			= "複裝彈工具",
 
