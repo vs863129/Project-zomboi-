@@ -62,11 +62,28 @@ FileName/media/lua/shared/Translate/CH/
 [更好的開鎖 Better lockpicking](https://steamcommunity.com/sharedfiles/filedetails/?id=2368058459)  (Github:kyo2002tw,Discord:cide2021)  
 [他們來了! HereTheyCome!](https://steamcommunity.com/sharedfiles/filedetails/?id=2779839289)  (Github:kyo2002tw,Discord:cide2021)  
 [Brita's Armor Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=2460154811)  (Github:Jay-JG,Discord:Jay-JG)  
+[更好分類 Better Sorting](https://steamcommunity.com/sharedfiles/filedetails/?id=2313387159)  (Github:vs863129,Discord:文森)  
+[Bushcraft Gear - Rare Weapons](https://steamcommunity.com/sharedfiles/filedetails/?id=2432621382) (Github:nemo01642280 ,Discord:尼莫)  
+[Fuu's Roleplay Poses](https://steamcommunity.com/sharedfiles/filedetails/?id=2876610875)  (Github:nemo01642280 ,Discord:尼莫)  
+[Spongie's 夾克系列 Spongie's Open Jackets](https://steamcommunity.com/sharedfiles/filedetails/?id=2812326159)  (Github:nemo01642280 ,Discord:尼莫)  
+[喪鐘之日 Death Knell day](https://steamcommunity.com/sharedfiles/filedetails/?id=2811259189)  (Github:kyo2002tw,Discord:cide2021)  
+[表演樂器(純動作) Perform Music](https://steamcommunity.com/sharedfiles/filedetails/?id=2911472635) (Github:CJ_6138,Discord:CJ)  
+[Spongie's 服裝 Spongie's Clothing](https://steamcommunity.com/sharedfiles/filedetails/?id=2684285534)  (Github:HerioJohnX,Discord:希利奧)  
+[Eggon's 腰包平衡 Eggon's Fanny Pack Balancing](https://steamcommunity.com/sharedfiles/filedetails/?id=2276669022) (Github:CJ_6138,Discord:CJ)  
+[自動車修 AutoMechanics](https://steamcommunity.com/sharedfiles/filedetails/?id=2588598892)  (Github:CJ_6138,Discord:CJ)  
+[真實的動畫 Authentic Animation](https://steamcommunity.com/sharedfiles/filedetails/?id=2207282444)  (Github:HerioJohnX,Discord:希利奧)  
+[Z級手推車 ZuperCart - Carts & Trolleys](https://steamcommunity.com/sharedfiles/filedetails/?id=2478768005)  (Github:Genshin804,Discord:Genshin)  
+[自動移動至 AutoMoveTo](https://steamcommunity.com/sharedfiles/filedetails/?id=2591232239) (Github:CJ_6138,Discord:CJ)  
+[狩獵模組 Hunting mod reupload](https://steamcommunity.com/sharedfiles/filedetails/?id=2719245165) (Github:CJ_6138,Discord:CJ)  
+[更多特質-動態特質 More Traits-Traits Dynamic](https://steamcommunity.com/sharedfiles/filedetails/?id=1299328280) (Github:Genshin804,Discord:Genshin)  
+
+
 
 ### -搬運-
 [Minimal Display Bars](https://steamcommunity.com/sharedfiles/filedetails/?id=2004998206) (原模組翻譯搬運)  
 [倖存者(NPC模組)二合一 Survivors 2 in 1](https://steamcommunity.com/sharedfiles/filedetails/?id=2680488822)  (原模組翻譯搬運)  
 [eris_food_expiry](https://steamcommunity.com/sharedfiles/filedetails/?id=1651019937)  (原模組翻譯搬運)
+[傳送石 WayStone](https://steamcommunity.com/sharedfiles/filedetails/?id=2900928983)  (原模組翻譯搬運) 
 
 ### -僅提供給原作者-
 [更詳細狀態介紹 Clear description for Moodles](https://steamcommunity.com/sharedfiles/filedetails/?id=2763647806&searchtext) (Github:Genshin804,Discord:Genshin)  
@@ -82,21 +99,6 @@ FileName/media/lua/shared/Translate/CH/
 [技能命名的VHS錄影帶 (Named skill VHS tapes)](https://steamcommunity.com/sharedfiles/filedetails/?id=2732294885) (Github:vs863129,Discord:文森)  
 [閱讀方式調整 M-13's Reading Tweaks](https://steamcommunity.com/sharedfiles/filedetails/?id=2776874515)  (Github:nemo01642280 ,Discord:尼莫)  
 [Sprout's 混合農場與花園 Sprout's Farm and Garden](https://steamcommunity.com/sharedfiles/filedetails/?id=2937434637)  (Github:vs863129,Discord:文森)  
-[更好分類 Better Sorting](https://steamcommunity.com/sharedfiles/filedetails/?id=2313387159)  (Github:vs863129,Discord:文森)  
-[Bushcraft Gear - Rare Weapons](https://steamcommunity.com/sharedfiles/filedetails/?id=2432621382) (Github:nemo01642280 ,Discord:尼莫)  
-[Fuu's Roleplay Poses](https://steamcommunity.com/sharedfiles/filedetails/?id=2876610875)  (Github:nemo01642280 ,Discord:尼莫)  
-[Spongie's 夾克系列 Spongie's Open Jackets](https://steamcommunity.com/sharedfiles/filedetails/?id=2812326159)  (Github:nemo01642280 ,Discord:尼莫)  
-[喪鐘之日 Death Knell day](https://steamcommunity.com/sharedfiles/filedetails/?id=2811259189)  (Github:kyo2002tw,Discord:cide2021)  
-[表演樂器(純動作) Perform Music](https://steamcommunity.com/sharedfiles/filedetails/?id=2911472635) (Github:CJ_6138,Discord:CJ)  
-[Spongie's 服裝 Spongie's Clothing](https://steamcommunity.com/sharedfiles/filedetails/?id=2684285534)  (Github:HerioJohnX,Discord:希利奧)  
-[Eggon's 腰包平衡 Eggon's Fanny Pack Balancing](https://steamcommunity.com/sharedfiles/filedetails/?id=2276669022) (Github:CJ_6138,Discord:CJ)  
-[自動車修 AutoMechanics](https://steamcommunity.com/sharedfiles/filedetails/?id=2588598892)  (Github:CJ_6138,Discord:CJ)  
-[真實的動畫 Authentic Animation](https://steamcommunity.com/sharedfiles/filedetails/?id=2207282444)  (Github:HerioJohnX,Discord:希利奧)  
-[Z級手推車 ZuperCart - Carts & Trolleys](https://steamcommunity.com/sharedfiles/filedetails/?id=2478768005)  (Github:Genshin804,Discord:Genshin)  
-[自動移動至 AutoMoveTo](https://steamcommunity.com/sharedfiles/filedetails/?id=2591232239) (Github:CJ_6138,Discord:CJ)  
-[狩獵模組 Hunting mod reupload](https://steamcommunity.com/sharedfiles/filedetails/?id=2719245165) (Github:CJ_6138,Discord:CJ)  
-[更多特質-動態特質 More Traits-Traits Dynamic](https://steamcommunity.com/sharedfiles/filedetails/?id=1299328280) (Github:Genshin804,Discord:Genshin)  
-[傳送石 WayStone](https://steamcommunity.com/sharedfiles/filedetails/?id=2900928983)  (純翻運) 
 
 ### -待整合至工作坊-  
 
