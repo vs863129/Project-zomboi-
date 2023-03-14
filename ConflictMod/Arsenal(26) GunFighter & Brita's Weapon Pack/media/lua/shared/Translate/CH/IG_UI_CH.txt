@@ -9,6 +9,7 @@ IGUI_CH = {
 
 	IGUI_Sandbox_worldOptions 		= "GunFighter MOD選項",
 
+	---- 2.0 ----
 	IGUI_Sandbox_HIDE FROM CLIENT		= "DOES NOT WORK",
 
 	IGUI_tooltip_GunFighter_option0		= "DO NOT UN-CHECK... EVER",
