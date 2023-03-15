@@ -102,7 +102,7 @@ FileName/media/lua/shared/Translate/CH/
 [技能說明(更多技能敘述) Skill Explanation (More info for skills)](https://steamcommunity.com/sharedfiles/filedetails/?id=2842368404)  (Github:vs863129,Discord:文森)  
 
 ### -待整合至工作坊-  
-
+[劍道槍店 Gunshop Kendo](https://steamcommunity.com/sharedfiles/filedetails/?id=2917274631)  (Github:Jay-JG,Discord:Jay-JG)  
 [(暫時置入翻譯包)動態特質 Dynamic Traits](https://steamcommunity.com/sharedfiles/filedetails/?id=2459400130)  (Github:nemo01642280 ,Discord:尼莫)  
 
 #### -搬運(待)-  
