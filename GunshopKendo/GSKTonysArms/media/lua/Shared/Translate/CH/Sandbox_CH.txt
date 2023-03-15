@@ -1,0 +1,21 @@
+Sandbox_CH = {
+    Sandbox_GunshopKendo = "槍店 Kendo",
+    
+    Sandbox_ToolRarity = "複裝彈工具稀有度",
+    Sandbox_ToolRarity_tooltip = "調整複裝彈工具的稀有度",
+	
+	Sandbox_ToolRarity_option1 = "非常稀有",
+	Sandbox_ToolRarity_option2 = "稀有",
+	Sandbox_ToolRarity_option3 = "常見",
+	Sandbox_ToolRarity_option4 = "豐富",
+	Sandbox_ToolRarity_option5 = "非常豐富",
+    
+    Sandbox_GunpowderRarity = "火藥稀有度",
+    Sandbox_GunpowderRarity_tooltip = "調整火藥A,B,C的稀有度",
+	
+	Sandbox_GunpowderRarity_option1 = "非常稀有",
+	Sandbox_GunpowderRarity_option2 = "稀有",
+	Sandbox_GunpowderRarity_option3 = "常見",
+	Sandbox_GunpowderRarity_option4 = "豐富",
+	Sandbox_GunpowderRarity_option5 = "非常豐富",
+}
