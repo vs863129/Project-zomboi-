@@ -1,0 +1,13 @@
+Sandbox_CH = {
+    Sandbox_GunshopKendo = "槍店 Kendo",
+    
+    Sandbox_OutfitRarity = "服裝包稀有度",
+    Sandbox_OutfitRarity_tooltip = "調整在容器中或[GSK - S.T.A.R.S.]的特殊殭屍上發現服裝包的機率",
+	
+	Sandbox_OutfitRarity_option1 = "關閉",
+	Sandbox_OutfitRarity_option2 = "非常稀有",
+	Sandbox_OutfitRarity_option3 = "稀有",
+	Sandbox_OutfitRarity_option4 = "常見",
+	Sandbox_OutfitRarity_option5 = "豐富",
+	Sandbox_OutfitRarity_option6 = "非常豐富",
+}
