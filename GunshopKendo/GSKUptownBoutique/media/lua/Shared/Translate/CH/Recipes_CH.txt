@@ -1,0 +1,4 @@
+Recipes_CH =
+{
+	Recipe_Open_Outfit_Package = "打開服裝包",
+}
