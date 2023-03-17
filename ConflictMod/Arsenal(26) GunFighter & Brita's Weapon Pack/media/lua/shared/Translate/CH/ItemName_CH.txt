@@ -1,6 +1,6 @@
 ItemName_CH = {
     ItemName_Base.WD = "WD40 除鏽劑",
-    ItemName_Base.BGMachete = "BG 彎刀",
+    ItemName_Base.BGMachete = "貝爺 彎刀",
 	ItemName_Base.Butterfly = "蝴蝶刀",
 	ItemName_Base.DingDong = "Gerber Ding-Dong 破壞工具",
 	ItemName_Base.Karambit = "鷹爪刀",
@@ -43,11 +43,11 @@ ItemName_CH = {
 	ItemName_Base.Suppressor_Pistol = "消音器(手槍)",
 	ItemName_Base.Suppressor_Rifle = "消音器(步槍)",
 	ItemName_Base.Suppressor_Shotgun = "消音器(霰彈槍)",
-	ItemName_Base.Suppressor_BMG = "消音器(BMG)",
+	ItemName_Base.Suppressor_BMG = "消音器(大口徑)",
 	ItemName_Base.Suppressor_SOCOM_Pistol = "SOCOM 消音器(手槍)",
 	ItemName_Base.Suppressor_PBS1_Rifle = " PBS1 消音器(步槍)",
 	ItemName_Base.Suppressor_PBS4_Rifle = " PBS4 消音器(步槍)",
-	ItemName_Base.Suppressor_ROME_BMG = "ROME 消音器(BMG)",
+	ItemName_Base.Suppressor_ROME_BMG = "ROME 消音器(大口徑)",
 	ItemName_Base.Suppressor_Oil = "機油濾芯 消音器",
 	ItemName_Base.Suppressor_Bottle = "空瓶 消音器",
 	
@@ -55,7 +55,7 @@ ItemName_CH = {
 	ItemName_Base.Bayonet_M4 = "刺刀(M4)",
 	ItemName_Base.Bayonet_AK = "刺刀(AK)",
 	ItemName_Base.Bayonet_M1917 = "刺刀(M1917)",
-	ItemName_Base.Bayonet_Type30 = "刺刀(Tipe-30)",
+	ItemName_Base.Bayonet_Type30 = "刺刀(Tpe-30)",
 	ItemName_Base.Choke_Full = "收束器 (全縮)",
 	ItemName_Base.Choke_Full_Dbl = "雙管收束器 (全縮)",
 	ItemName_Base.Heavy = "重型槍管",
@@ -65,7 +65,7 @@ ItemName_CH = {
 	ItemName_Base.MuzzleBrake_DK2 = "槍口制退器 DK2",
 	
 	
-	ItemName_Base.GhostRing = "鬼環",
+	ItemName_Base.GhostRing = "鬼環準瞻",
 	ItemName_Base.Sight_Fiber_Shotgun = "VictOptics 光纖紅點瞄準鏡",
 	ItemName_Base.Sight_MicroDot = "RMR-2 反射式瞄準鏡",
 	ItemName_Base.Sight_RaceDot = "C-More 紅點瞄準鏡",
@@ -398,8 +398,8 @@ ItemName_CH = {
 	ItemName_Base.Bag_Bugout = "旅行包",
 	
 	
-	ItemName_Base.Judge_45LC = "金牛座 法官(.45LC) 左輪手槍",
-	ItemName_Base.Judge_410g = "金牛座 法官(.410g) 左輪手槍",
+	ItemName_Base.Judge_45LC = "金牛座 判官(.45LC) 左輪手槍",
+	ItemName_Base.Judge_410g = "金牛座 判官(.410g) 左輪手槍",
 	ItemName_Base.Ash = "ASh(50-Mag)",
 	ItemName_Base.UmarexSS = "Umarex 鋼鐵風暴 BB槍",
 	ItemName_Base.RWS_M34 = "RWS M34 折管充氣式 BB槍",
@@ -422,8 +422,8 @@ ItemName_CH = {
 	
 	ItemName_Base.WD_Flame_FIRE = "WD-40 火焰噴射罐",
 	ItemName_Base.WD_Flame = "WD-40 火焰噴射罐",
-	ItemName_Base.Musk_FIRE = "Boring CO. 不是火焰噴射器",
-	ItemName_Base.Musk = "Boring CO. 不是火焰噴射器",
+	ItemName_Base.Musk_FIRE = "Boring CO. 這不是火焰噴射器",
+	ItemName_Base.Musk = "Boring CO. 這不是火焰噴射器",
 	ItemName_Base.M2A1_FIRE = "M2A1 火焰噴射器",
 	ItemName_Base.M2A1 = "M2A1 火焰噴射器",
 	ItemName_Base.SS2000_FIRE = "SuperSoaker CPS2000",
@@ -1242,7 +1242,7 @@ ItemName_CH = {
 	ItemName_Base.Luger_WW1 = "魯格 P08-砲兵型 半自動手槍",
 	ItemName_Base.Luger_Carbine = "魯格 P08-卡賓型 半自動手槍",
 	
-	ItemName_Base.XM8Compact_Pistol = "HK XM8 突擊步槍",
+	ItemName_Base.XM8Compact_Pistol = "HK XM8-緊緻型 突擊步槍",
 	ItemName_Base.XM8 = "HK XM8 突擊步槍",
 	ItemName_Base.XM8LMG = "HK XM8-LMG 輕機槍",
 	
