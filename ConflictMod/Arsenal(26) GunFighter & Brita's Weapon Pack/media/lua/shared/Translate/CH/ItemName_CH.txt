@@ -1247,8 +1247,18 @@ ItemName_CH = {
 	ItemName_Base.XM8LMG = "HK XM8-LMG 輕機槍",
 	
 	ItemName_Base.308BulletsMold = ".308-NATO 子彈模具",
-    ItemName_Base.223BulletsMold = ".223-REM 子彈模具",
-    ItemName_Base.9mmBulletsMold  = "9x19mm 子彈模具",
-    ItemName_Base.ShotgunShellsMold	= "12ga霰彈 子彈模具",
+        ItemName_Base.223BulletsMold = ".223-REM 子彈模具",
+        ItemName_Base.9mmBulletsMold  = "9x19mm 子彈模具",
+        ItemName_Base.ShotgunShellsMold	= "12ga霰彈 子彈模具",
+        ItemName_Base.DoubleBarrelShotgun = "H&R 雙管12ga 中折式霰彈槍",
+	ItemName_Base.DoubleBarrelShotgunSawnoff = "H&R 雙管12ga(削短) 中折式霰彈槍",
+	ItemName_Base.HuntingRifle = "豐和 1500型 手栓式步槍",
+	ItemName_Base.Pistol = "金牛座 M9 半自動手槍",
+	ItemName_Base.Pistol2 = "巖島兵工廠 M1911 半自動手槍",
+	ItemName_Base.Pistol3 = "沙漠之鷹 半自動手槍",
+	ItemName_Base.Revolver_Short = "儒格 GP100 2吋管 手槍(.38-Spc)",
+	ItemName_Base.Revolver_Long = "儒格 GP100 6吋管 手槍(.38-Spc)",
+	ItemName_Base.ShotgunSawnoff = "H&R 夥伴(削短) 泵動式霰彈槍",
+	ItemName_Base.VarmintRifle = "威德比 先鋒獵手 手栓式步槍",
 	
 }
