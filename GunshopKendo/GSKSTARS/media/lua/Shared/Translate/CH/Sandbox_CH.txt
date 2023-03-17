@@ -1,0 +1,12 @@
+Sandbox_CH = {
+    Sandbox_GunshopKendo = "槍店 Kendo",
+    
+    Sandbox_SpecialZombieRarity = "特殊殭屍稀有度",
+    Sandbox_SpecialZombieRarity_tooltip = "調整攜帶了稀有物品的特殊殭屍的出現機率",
+	
+	Sandbox_SpecialZombieRarity_option1 = "非常稀有",
+	Sandbox_SpecialZombieRarity_option2 = "稀有",
+	Sandbox_SpecialZombieRarity_option3 = "常見",
+	Sandbox_SpecialZombieRarity_option4 = "豐富",
+	Sandbox_SpecialZombieRarity_option5 = "非常豐富",
+}

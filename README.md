@@ -62,28 +62,6 @@ FileName/media/lua/shared/Translate/CH/
 [更好的開鎖 Better lockpicking](https://steamcommunity.com/sharedfiles/filedetails/?id=2368058459)  (Github:kyo2002tw,Discord:cide2021)  
 [他們來了! HereTheyCome!](https://steamcommunity.com/sharedfiles/filedetails/?id=2779839289)  (Github:kyo2002tw,Discord:cide2021)  
 [Brita's Armor Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=2460154811)  (Github:Jay-JG,Discord:Jay-JG)  
-
-### -搬運-
-[Minimal Display Bars](https://steamcommunity.com/sharedfiles/filedetails/?id=2004998206) (原模組翻譯搬運)  
-[倖存者(NPC模組)二合一 Survivors 2 in 1](https://steamcommunity.com/sharedfiles/filedetails/?id=2680488822)  (原模組翻譯搬運)  
-[eris_food_expiry](https://steamcommunity.com/sharedfiles/filedetails/?id=1651019937)  (原模組翻譯搬運)
-
-### -僅提供給原作者-
-[更詳細狀態介紹 Clear description for Moodles](https://steamcommunity.com/sharedfiles/filedetails/?id=2763647806&searchtext) (Github:Genshin804,Discord:Genshin)  
-[天氣預告 Weather Moodles](https://steamcommunity.com/sharedfiles/filedetails/?id=2920735875)  (Github:kyo2002tw,Discord:cide2021)  
-[武器詞綴 Weapon Modifiers](https://steamcommunity.com/sharedfiles/filedetails/?id=2932853467)  (Github:vs863129,Discord:文森)  
-[更多特質 More Traits](https://steamcommunity.com/sharedfiles/filedetails/?id=1299328280) (部分由Github:Genshin804,Discord:Genshin翻譯)  
-[手搖手電筒 Hand Crank Flashlights](https://steamcommunity.com/sharedfiles/filedetails/?id=2897115343&searchtext=Hand+Crank+Flashlights) (Github:nemo01642280 ,Discord:尼莫)  
-[VANILLA FIREARMS EXPANSION (B41)](https://steamcommunity.com/sharedfiles/filedetails/?id=2667899942) (Github:HerioJohnX,Discord:希利奧)  
-[Sprout's Farm and Garden](https://steamcommunity.com/sharedfiles/filedetails/?id=2937434637) (Github:vs863129,Discord:文森)  
-[製作小幫手 Craft Helper Continued](https://steamcommunity.com/sharedfiles/filedetails/?id=2787291513) (Github:vs863129,Discord:文森)  
-[Cosplay商店](https://steamcommunity.com/sharedfiles/filedetails/?id=2707905930)  (Github:Jay-JG,Discord:Jay-JG)  
-[可修門 Can Repair Door](https://steamcommunity.com/sharedfiles/filedetails/?id=2905027525)  (Github:HerioJohnX,Discord:希利奧)  
-[技能命名的VHS錄影帶 (Named skill VHS tapes)](https://steamcommunity.com/sharedfiles/filedetails/?id=2732294885) (Github:vs863129,Discord:文森)  
-[閱讀方式調整 M-13's Reading Tweaks](https://steamcommunity.com/sharedfiles/filedetails/?id=2776874515)  (Github:nemo01642280 ,Discord:尼莫)  
-[Sprout's 混合農場與花園 Sprout's Farm and Garden](https://steamcommunity.com/sharedfiles/filedetails/?id=2937434637)  (Github:vs863129,Discord:文森)  
-
-### -待整合至工作坊-  
 [更好分類 Better Sorting](https://steamcommunity.com/sharedfiles/filedetails/?id=2313387159)  (Github:vs863129,Discord:文森)  
 [Bushcraft Gear - Rare Weapons](https://steamcommunity.com/sharedfiles/filedetails/?id=2432621382) (Github:nemo01642280 ,Discord:尼莫)  
 [Fuu's Roleplay Poses](https://steamcommunity.com/sharedfiles/filedetails/?id=2876610875)  (Github:nemo01642280 ,Discord:尼莫)  
@@ -99,8 +77,36 @@ FileName/media/lua/shared/Translate/CH/
 [狩獵模組 Hunting mod reupload](https://steamcommunity.com/sharedfiles/filedetails/?id=2719245165) (Github:CJ_6138,Discord:CJ)  
 [更多特質-動態特質 More Traits-Traits Dynamic](https://steamcommunity.com/sharedfiles/filedetails/?id=1299328280) (Github:Genshin804,Discord:Genshin)  
 
+
+
+### -搬運-
+[Minimal Display Bars](https://steamcommunity.com/sharedfiles/filedetails/?id=2004998206) (原模組翻譯搬運)  
+[倖存者(NPC模組)二合一 Survivors 2 in 1](https://steamcommunity.com/sharedfiles/filedetails/?id=2680488822)  (原模組翻譯搬運)  
+[eris_food_expiry](https://steamcommunity.com/sharedfiles/filedetails/?id=1651019937)  (原模組翻譯搬運)
+[傳送石 WayStone](https://steamcommunity.com/sharedfiles/filedetails/?id=2900928983)  (原模組翻譯搬運) 
+
+### -僅提供給原作者-
+[更詳細狀態介紹 Clear description for Moodles](https://steamcommunity.com/sharedfiles/filedetails/?id=2763647806&searchtext) (Github:Genshin804,Discord:Genshin)  
+[天氣預告 Weather Moodles](https://steamcommunity.com/sharedfiles/filedetails/?id=2920735875)  (Github:kyo2002tw,Discord:cide2021)  
+[武器詞綴 Weapon Modifiers](https://steamcommunity.com/sharedfiles/filedetails/?id=2932853467)  (Github:vs863129,Discord:文森)  
+[更多特質 More Traits](https://steamcommunity.com/sharedfiles/filedetails/?id=1299328280) (部分由Github:Genshin804,Discord:Genshin翻譯)  
+[手搖手電筒 Hand Crank Flashlights](https://steamcommunity.com/sharedfiles/filedetails/?id=2897115343&searchtext=Hand+Crank+Flashlights) (Github:nemo01642280 ,Discord:尼莫)  
+[VANILLA FIREARMS EXPANSION (B41)](https://steamcommunity.com/sharedfiles/filedetails/?id=2667899942) (Github:HerioJohnX,Discord:希利奧)  
+[Sprout's Farm and Garden](https://steamcommunity.com/sharedfiles/filedetails/?id=2937434637) (Github:vs863129,Discord:文森)  
+[製作小幫手 Craft Helper Continued](https://steamcommunity.com/sharedfiles/filedetails/?id=2787291513) (Github:vs863129,Discord:文森)  
+[Cosplay商店](https://steamcommunity.com/sharedfiles/filedetails/?id=2707905930)  (Github:Jay-JG,Discord:Jay-JG)  
+[可修門 Can Repair Door](https://steamcommunity.com/sharedfiles/filedetails/?id=2905027525)  (Github:HerioJohnX,Discord:希利奧)  
+[技能命名的VHS錄影帶 (Named skill VHS tapes)](https://steamcommunity.com/sharedfiles/filedetails/?id=2732294885) (Github:vs863129,Discord:文森)  
+[閱讀方式調整 M-13's Reading Tweaks](https://steamcommunity.com/sharedfiles/filedetails/?id=2776874515)  (Github:nemo01642280 ,Discord:尼莫)  
+[Sprout's 混合農場與花園 Sprout's Farm and Garden](https://steamcommunity.com/sharedfiles/filedetails/?id=2937434637)  (Github:vs863129,Discord:文森)  
+[技能說明(更多技能敘述) Skill Explanation (More info for skills)](https://steamcommunity.com/sharedfiles/filedetails/?id=2842368404)  (Github:vs863129,Discord:文森)  
+
+### -待整合至工作坊-  
+[劍道槍店 Gunshop Kendo](https://steamcommunity.com/sharedfiles/filedetails/?id=2917274631)  (Github:Jay-JG,Discord:Jay-JG)  
+[(暫時置入翻譯包)動態特質 Dynamic Traits](https://steamcommunity.com/sharedfiles/filedetails/?id=2459400130)  (Github:nemo01642280 ,Discord:尼莫)  
+
 #### -搬運(待)-  
-[傳送石 WayStone](https://steamcommunity.com/sharedfiles/filedetails/?id=2900928983)  (純翻運)  
+ 
 
 ## 連接(LINK)
 **[模組繁體中文包](https://steamcommunity.com/sharedfiles/filedetails/?id=2730159518)** 
