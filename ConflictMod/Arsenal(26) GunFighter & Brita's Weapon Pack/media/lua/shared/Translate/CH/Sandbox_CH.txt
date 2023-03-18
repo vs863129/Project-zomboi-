@@ -1545,10 +1545,10 @@ Sandbox_CH = {
     Sandbox_EnumNVControl_tooltip = "自動啟用武器安裝的夜視儀<br> - 當啟用時,NV會在瞄準時,自動啟用<br> - 當非啟用, 瞄準時使用 [NV熱鍵,預設'N'] 啟用 NV<br> - 在遊戲中, [NV熱鍵,預設'N'] 將在非瞄準時,使用熱鍵切換此選項",
 
     Sandbox_EnumEmergencyReload = "緊急裝填",
-    Sandbox_A26_EnumEmergencyReload_option1 = "NEVER [Retain] Always",
-    Sandbox_A26_EnumEmergencyReload_option2 = "Manual [Drop] on Second Press",
-    Sandbox_A26_EnumEmergencyReload_option3 = "Always [Drop] on Running",
-    Sandbox_A26_EnumEmergencyReload_option4 = "BOTH",
+    Sandbox_A26_EnumEmergencyReload_option1 = "從不 [保持] 總是",
+    Sandbox_A26_EnumEmergencyReload_option2 = "手動 [丟] 雙擊",
+    Sandbox_A26_EnumEmergencyReload_option3 = "總是 [丟] 當跑步時",
+    Sandbox_A26_EnumEmergencyReload_option4 = "都有",
     Sandbox_EnumEmergencyReload_tooltip = "緊急裝填<br> - 選擇將彈匣直接丟到地上的條件<br> - 而不是將在裝上下個彈匣前,將彈匣退回物品欄<br> - 換句話說 : 他很快,但你可能會損失掉落彈匣內的子彈",
 
     Sandbox_EnumArrowBreak = "箭矢破損",
