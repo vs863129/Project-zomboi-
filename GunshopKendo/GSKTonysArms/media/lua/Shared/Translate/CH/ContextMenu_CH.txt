@@ -1,4 +1,0 @@
-ContextMenu_CH = {
-	ContextMenu_Swap_Enhanced = "切換成強化彈藥",
-	ContextMenu_Swap_Normal = "切換成普通彈藥",
-}
