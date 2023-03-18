@@ -1,0 +1,7 @@
+ItemName_CH = {    
+    ItemName_Base.MandelaArrowWoodDucttapeIronTaped = "箭",
+    ItemName_Base.MandelaAddonArrowHeadStone = "石箭",
+    ItemName_Base.MandelaArrowBundleStone = "石箭束",
+}
+
+

@@ -1,0 +1,20 @@
+Recipes_CH = {
+    Recipe_Make_Fletchings_Ten = "製作箭羽",
+    Recipe_Make_Fletchings_Two = "製作箭羽",
+    Recipe_Make_Iron Arrowhead_1 = "製作鐵箭頭",
+    Recipe_Make_Iron Arrowhead_2 = "製作鐵箭頭",
+    Recipe_Make_Iron Arrowhead_3 = "製作鐵箭頭",
+    Recipe_Make_FluFlu_Fletchings_Four = "製作大箭羽",
+    Recipe_Make_Bow = "製作弓",
+    Recipe_Make_Bow_String = "製作弓弦",
+    Recipe_String_Bow = "上弦",
+    Recipe_Unstring_Bow = "卸下弦",
+    Recipe_Make_Arrow_Shaft = "製作箭身",
+    Recipe_Make_Flint_Arrowhead = "製作石箭頭",
+    Recipe_Reclaim_Arrowhead_from_Arrow ="從箭中回收箭頭",
+    Recipe_Take_Arrow_Apart = "拆開箭",
+    Recipe_Unbundle_Arrows = "解開箭束",
+    Recipe_Snap_into_Pieces = "用斷成碎片",
+    Recipe_Convert_Arrow_Shaft = "轉換箭身",
+
+}
