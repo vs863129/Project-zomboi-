@@ -103,6 +103,8 @@ FileName/media/lua/shared/Translate/CH/
 
 ### -待整合至工作坊-  
 [劍道槍店 Gunshop Kendo](https://steamcommunity.com/sharedfiles/filedetails/?id=2917274631)  (Github:Jay-JG,Discord:Jay-JG)  
+[弓與箭 Bow and Arrow](https://steamcommunity.com/sharedfiles/filedetails/?id=2208315526)  (Github:nemo01642280 ,Discord:尼莫)  
+[弓與箭額外 Bow and Arrow Addon](https://steamcommunity.com/sharedfiles/filedetails/?id=2824362101)  (Github:nemo01642280 ,Discord:尼莫)  
 [(暫時置入翻譯包)動態特質 Dynamic Traits](https://steamcommunity.com/sharedfiles/filedetails/?id=2459400130)  (Github:nemo01642280 ,Discord:尼莫)  
 
 #### -搬運(待)-  
