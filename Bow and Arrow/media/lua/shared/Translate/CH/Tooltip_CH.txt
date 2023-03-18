@@ -1,0 +1,7 @@
+Tooltip_CH = {
+	-- Item tooltip
+	Tooltip_MBA_Bow_Stave = "這根木棍還不是弓,你需要再雕刻一些.<br>右鍵選單中有這個選項.",
+	Tooltip_MBA_Old_Shaft = "不能用來製作箭.此模組已經更改.現在使用不同的箭身.",
+	Tooltip_MBA_Increases_Accuracy = "增加精准度.",
+	Tooltip_MBA_FluFlu = "縮小範圍.<br>增加精准度.",
+}
