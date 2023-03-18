@@ -1,0 +1,22 @@
+Farming_CH = {
+  -- vegetables name (type of seed)
+  Farming_Comfrey = "康福利",
+  Farming_Ginseng = "人參",
+  Farming_Plantain = "芭蕉",
+  Farming_LemonGrass = "檸檬香茅",
+  Farming_WildGarlic = "山蒜",
+  Farming_CommonMallow = "錦葵",
+  Farming_BlackSage = "黑鼠尾草",
+  -- growing phase
+    Farming_Seedling = "秧苗",
+    Farming_Young = "初期",
+    Farming_Ready_for_Harvest = "準備好收割",
+    Farming_In_bloom = "盛開",
+    Farming_Seed-bearing = "育孕種子",
+    Farming_Receding = "衰退",
+    Farming_Rotten = "腐爛",
+    Farming_Destroyed = "損壞",
+    Farming_Seedling = "秧苗",
+    Farming_Fully_grown = "完成成熟",
+    Farming_Ready_to_harvest = "準備好收割",
+}
