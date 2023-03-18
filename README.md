@@ -106,9 +106,10 @@ FileName/media/lua/shared/Translate/CH/
 [弓與箭 Bow and Arrow](https://steamcommunity.com/sharedfiles/filedetails/?id=2208315526)  (Github:nemo01642280 ,Discord:尼莫)  
 [弓與箭額外 Bow and Arrow Addon](https://steamcommunity.com/sharedfiles/filedetails/?id=2824362101)  (Github:nemo01642280 ,Discord:尼莫)  
 [(暫時置入翻譯包)動態特質 Dynamic Traits](https://steamcommunity.com/sharedfiles/filedetails/?id=2459400130)  (Github:nemo01642280 ,Discord:尼莫)  
+[醫療草藥種植 Grow Medicinal Herbs](https://steamcommunity.com/sharedfiles/filedetails/?id=2917518699)  (Github:nemo01642280 ,Discord:尼莫)  
 
 #### -搬運(待)-  
- 
+[更多建築 More Builds](https://steamcommunity.com/sharedfiles/filedetails/?id=515555911)  (Github:vs863129,Discord:文森)  
 
 ## 連接(LINK)
 **[模組繁體中文包](https://steamcommunity.com/sharedfiles/filedetails/?id=2730159518)** 
