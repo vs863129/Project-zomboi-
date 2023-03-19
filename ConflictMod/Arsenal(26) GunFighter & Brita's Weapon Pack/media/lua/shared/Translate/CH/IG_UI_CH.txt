@@ -159,6 +159,8 @@ IGUI_CH = {
 	IGUI_tooltip_GunFighter_option144	= "自動啟用雷射瞄準器(瞄準時)<br> - 當啟用,雷射瞄準器會在瞄準時啟用<br> - 禁用時,雷射瞄準器在瞄準時會依據使用 [槍燈熱鍵,預設'R-Ctrl'] 啟用<br> - 非瞄準時按下將切換武器燈 (如果可用)",
 	IGUI_tooltip_GunFighter_option145	= "武器燈運行時間<br> - 每周期(tick)耗盡的電量<br> - 較高的值,將會更少的運作時間<br> - 當前的電量可在物品視窗 (工具提示) 或 GunFighter 信息視窗中看到",
 	IGUI_tooltip_GunFighter_option146	= "懲罰<br> - 重型武器移動懲罰<br> - 影響輪轉機槍和固定重型武器<br> - 用於限制跑步/短跑/行走和整體速度的懲罰",
+	IGUI_tooltip_GunFighter_option147	= "槍械傷害<br> - 減少或增加所有槍械的傷害<br> - 按照選擇的選項設置<br> - 你認為槍械該有多大或多小的強度<br> - 裝備槍械時也會應用",
+	IGUI_tooltip_GunFighter_option148	= "近戰傷害<br> - 減少或所有近戰武器的傷害<br> - 按照選擇的選項設置<br> - 你認為近戰該有多大或多小的強度<br> - 裝備近戰時也會應用",
 }
 
 
