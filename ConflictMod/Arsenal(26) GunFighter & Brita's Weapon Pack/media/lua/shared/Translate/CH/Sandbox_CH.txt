@@ -1667,7 +1667,7 @@ Sandbox_CH = {
     Sandbox_A26_EnumFixedWeaponOffset_option9 = "0.8",
     Sandbox_A26_EnumFixedWeaponOffset_option10 = "0.9",
     Sandbox_A26_EnumFixedWeaponOffset_option11 = "1.0",
-    Sandbox_EnumFixedWeaponOffset_tooltip = "功能<br> - 固定武器模式時,調整後的偏移<br> - [0.5] 至 [0.6] 似乎最佳<br> - 由於限制,撞到牆壁或門時,將切換成固定武器模式<br> - 這系統是實驗性的,可能會故障<br> - 但這實現了使武器保持固定的機械方面<br> - 移動,推揉,解除裝備將退出固定武器模式(將武器留在原地)<br> - 旋轉點將是你所在的方格<br> - 但如果你在方格之間,可能會出現跳躍<br> - 不建議在狹窄的走廊或設置固定武器<br> - 折疊的三腳架使你可移動,但不能開火<br> - [NONE] 禁用固定武器行為,這意味著不會真正的固定",
+    Sandbox_EnumFixedWeaponOffset_tooltip = "功能<br> - 固定武器模式時,調整後的偏移<br> - [0.5] 至 [0.6] 似乎最佳<br> - 由於限制,撞到牆壁或門時,將切換成固定武器模式<br> - 這系統是實驗性的,可能會故障<br> - 但這實現了使武器保持固定的機械方面<br> - 移動,推揉,解除裝備將退出固定武器模式(將武器留在原處)<br> - 旋轉點將是你所在的方格<br> - 但如果你在方格之間,可能會出現跳躍<br> - 不建議在狹窄的走廊或設置固定武器<br> - 折疊的三腳架使你可移動,但不能開火<br> - [NONE] 禁用固定武器行為,這意味著不會真正的固定",
 
     Sandbox_EnumHeavyWeaponMovement = "重型武器移動懲罰",
     Sandbox_A26_EnumHeavyWeaponMovement_option1 = "無懲罰",
