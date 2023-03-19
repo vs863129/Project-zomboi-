@@ -15,7 +15,7 @@ Sandbox_CH = {
     Sandbox_BoolShowHitDamage_tooltip = "顯示<br> - 命中殭屍傷害",
 
     Sandbox_BoolShowHitRange = "顯示命中距離",
-    Sandbox_BoolShowHitRange_tooltip = "顯示<br> - 目標距離 (命中時)<br> - 命中機率 (近似計算) 可能不精確於當前核心遊戲的計算<br> - 但是當啟用動態範圍(Dynamic Range)時,給出一般概念的距離懲罰",
+    Sandbox_BoolShowHitRange_tooltip = "顯示<br> - 目標距離 (命中時)<br> - 命中機率 (近似計算) 可能不精確於當前核心遊戲的計算<br> - 但是當啟用動態範圍時,給出一般概念的距離懲罰",
 
     Sandbox_EnumShowWeaponInfo = "顯示武器資訊",
     Sandbox_A26_EnumShowWeaponInfo_option1 = "關",
@@ -38,7 +38,7 @@ Sandbox_CH = {
     Sandbox_A26_EnumDynamicRangeSystem_option3 = "50% - 中懲罰",
     Sandbox_A26_EnumDynamicRangeSystem_option4 = "75% - 高懲罰",
     Sandbox_A26_EnumDynamicRangeSystem_option5 = "100% - 最大化懲罰",
-    Sandbox_EnumDynamicRangeSystem_tooltip = "懲罰<br> - 次要命中擲骰<br> - 計算目標距離<br> - 使近的目標更難命中<br> - 計算未命中時濺射的效果,但不會造成踉蹌或傷害",
+    Sandbox_EnumDynamicRangeSystem_tooltip = "懲罰<br> - 次要命中擲骰<br> - 計算目標距離<br> - 使遠的目標更難命中<br> - 計算未命中時,產生濺射的效果,但不會造成踉蹌或傷害",
 
     Sandbox_BoolResetSightPicture = "重置視覺圖像",
     Sandbox_BoolResetSightPicture_tooltip = "懲罰<br> - 當移動時造成的命中懲罰<br> - 根據槍械瞄準時間的特性進行計算<br> - 應用於瞄準停止時或填彈時等等...<br> - 視覺圖像模糊或丟失時,必須重新瞄準目標",
@@ -76,7 +76,7 @@ Sandbox_CH = {
     Sandbox_A26_EnumSoundSuppression_option3 = "100% - 默認",
     Sandbox_A26_EnumSoundSuppression_option4 = "75% - 安靜",
     Sandbox_A26_EnumSoundSuppression_option5 = "50% - 輕聲",
-    Sandbox_A26_EnumSoundSuppression_option6 = "25% - 老鼠屁",
+    Sandbox_A26_EnumSoundSuppression_option6 = "25% - 老鼠屁聲",
     Sandbox_EnumSoundSuppression_tooltip = "聲音<br> - 增加或減少消音器配件的效果<br> - 根據選擇的設置計算",
 
     Sandbox_EnumSoundLinearBase = "基礎聲音程度",
