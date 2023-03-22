@@ -1,0 +1,4 @@
+Sandbox_CH = {
+	Sandbox_SpearTraps_SpearTrapsKillPlayer = "長矛陷阱適用於玩家角色"
+	Sandbox_SpearTraps_SpearTrapsKillPlayer_tooltip = "玩家角色走過長矛陷阱時會否受到傷害"
+}
