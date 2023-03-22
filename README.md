@@ -76,14 +76,18 @@ FileName/media/lua/shared/Translate/CH/
 [自動移動至 AutoMoveTo](https://steamcommunity.com/sharedfiles/filedetails/?id=2591232239) (Github:CJ_6138,Discord:CJ)  
 [狩獵模組 Hunting mod reupload](https://steamcommunity.com/sharedfiles/filedetails/?id=2719245165) (Github:CJ_6138,Discord:CJ)  
 [更多特質-動態特質 More Traits-Traits Dynamic](https://steamcommunity.com/sharedfiles/filedetails/?id=1299328280) (Github:Genshin804,Discord:Genshin)  
-
-
+[劍道槍店 Gunshop Kendo](https://steamcommunity.com/sharedfiles/filedetails/?id=2917274631)  (Github:Jay-JG,Discord:Jay-JG)  
+[弓與箭 Bow and Arrow](https://steamcommunity.com/sharedfiles/filedetails/?id=2208315526)  (Github:nemo01642280 ,Discord:尼莫)  
+[弓與箭額外 Bow and Arrow Addon](https://steamcommunity.com/sharedfiles/filedetails/?id=2824362101)  (Github:nemo01642280 ,Discord:尼莫)  
+[(暫時置入翻譯包)動態特質 Dynamic Traits](https://steamcommunity.com/sharedfiles/filedetails/?id=2459400130)  (Github:nemo01642280 ,Discord:尼莫)  
+[醫療草藥種植 Grow Medicinal Herbs](https://steamcommunity.com/sharedfiles/filedetails/?id=2917518699)  (Github:nemo01642280 ,Discord:尼莫)  
 
 ### -搬運-
 [Minimal Display Bars](https://steamcommunity.com/sharedfiles/filedetails/?id=2004998206) (原模組翻譯搬運)  
 [倖存者(NPC模組)二合一 Survivors 2 in 1](https://steamcommunity.com/sharedfiles/filedetails/?id=2680488822)  (原模組翻譯搬運)  
 [eris_food_expiry](https://steamcommunity.com/sharedfiles/filedetails/?id=1651019937)  (原模組翻譯搬運)
 [傳送石 WayStone](https://steamcommunity.com/sharedfiles/filedetails/?id=2900928983)  (原模組翻譯搬運) 
+[更多建築 More Builds](https://steamcommunity.com/sharedfiles/filedetails/?id=515555911)  (Github:vs863129,Discord:文森)  
 
 ### -僅提供給原作者-
 [更詳細狀態介紹 Clear description for Moodles](https://steamcommunity.com/sharedfiles/filedetails/?id=2763647806&searchtext) (Github:Genshin804,Discord:Genshin)  
@@ -102,14 +106,14 @@ FileName/media/lua/shared/Translate/CH/
 [技能說明(更多技能敘述) Skill Explanation (More info for skills)](https://steamcommunity.com/sharedfiles/filedetails/?id=2842368404)  (Github:vs863129,Discord:文森)  
 
 ### -待整合至工作坊-  
-[劍道槍店 Gunshop Kendo](https://steamcommunity.com/sharedfiles/filedetails/?id=2917274631)  (Github:Jay-JG,Discord:Jay-JG)  
-[弓與箭 Bow and Arrow](https://steamcommunity.com/sharedfiles/filedetails/?id=2208315526)  (Github:nemo01642280 ,Discord:尼莫)  
-[弓與箭額外 Bow and Arrow Addon](https://steamcommunity.com/sharedfiles/filedetails/?id=2824362101)  (Github:nemo01642280 ,Discord:尼莫)  
-[(暫時置入翻譯包)動態特質 Dynamic Traits](https://steamcommunity.com/sharedfiles/filedetails/?id=2459400130)  (Github:nemo01642280 ,Discord:尼莫)  
-[醫療草藥種植 Grow Medicinal Herbs](https://steamcommunity.com/sharedfiles/filedetails/?id=2917518699)  (Github:nemo01642280 ,Discord:尼莫)  
+
+[(原模組有中文,優化翻譯)尖刺陷阱 Spear Traps](https://steamcommunity.com/sharedfiles/filedetails/?id=2640351732&searchtext=spear+trap)  (Github:HerioJohnX,Discord:希利奧) 
+[更多書籍! More Books!](https://steamcommunity.com/sharedfiles/filedetails/?id=2815857931&searchtext=more+book)  (Github:HerioJohnX,Discord:希利奧)  
+[軍用斗篷 Military Ponchos](https://steamcommunity.com/sharedfiles/filedetails/?id=2629286881&searchtext=poncho)  (Github:HerioJohnX,Discord:希利奧)  
+[Yaki的理髮店 Yaki's BarberShop](https://steamcommunity.com/sharedfiles/filedetails/?id=2810471370&searchtext=Barber)  (Github:HerioJohnX,Discord:希利奧)  
 
 #### -搬運(待)-  
-[更多建築 More Builds](https://steamcommunity.com/sharedfiles/filedetails/?id=515555911)  (Github:vs863129,Discord:文森)  
+
 
 ## 連接(LINK)
 **[模組繁體中文包](https://steamcommunity.com/sharedfiles/filedetails/?id=2730159518)** 
