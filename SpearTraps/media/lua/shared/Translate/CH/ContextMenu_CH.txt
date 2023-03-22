@@ -1,0 +1,4 @@
+ContextMenu_CH = {
+	ContextMenu_AddSpearToGrave = "將長矛加入地坑"
+	ContextMenu_RemoveSpearFromGrave = "從地坑中取出長矛"
+}

@@ -1,0 +1,4 @@
+ContextMenu_CN = {
+    ContextMenu_UpHoodieS = "半披 - 戴上兜帽",
+    ContextMenu_DownHoodieS = "半披 - 放下兜帽",
+} 

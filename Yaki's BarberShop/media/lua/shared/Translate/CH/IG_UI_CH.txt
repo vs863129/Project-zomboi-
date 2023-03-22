@@ -1,0 +1,11 @@
+IG_UI_CH = { --------------------------?
+
+    IGUI_Beard_Sparrow's = "傑克船長",
+	IGUI_Beard_VanDyke = "凡戴克",
+	IGUI_Beard_Imperial = "帝國",
+	IGUI_Beard_Verdi = "威爾第",
+	IGUI_Beard_FrenchFork = "法式分岔式",
+	IGUI_Beard_Ragnar = "拉格納",
+	IGUI_Beard_DuckTail = "鴨尾留鬚",
+    
+}

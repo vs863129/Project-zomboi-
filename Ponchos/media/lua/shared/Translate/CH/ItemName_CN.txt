@@ -1,0 +1,14 @@
+ItemName_CN = {
+	ItemName_Base.MPonchoGreenUP = "军用雨衣-绿色",
+	ItemName_Base.MPonchoGreenDOWN = "军用雨衣-绿色",
+	ItemName_Base.MPonchoYellowUP = "军用雨衣-黄色",
+	ItemName_Base.MPonchoYellowDOWN = "军用雨衣-黄色",
+	ItemName_Base.MPonchoShoulder = "军用雨衣-绿色",
+	ItemName_Base.MPonchoShoulderDOWN = "军用雨衣-绿色",	
+	ItemName_Base.MPonchoShoulderYEL = "军用雨衣-黄色",		
+	ItemName_Base.MPonchoShoulderYELdown = "军用雨衣-黄色",
+	ItemName_Base.MPonchoBlackUP = "军用雨衣-黑色",
+	ItemName_Base.MPonchoBlackDOWN = "军用雨衣-黑色",
+	ItemName_Base.MPonchoShoulderBLA = "军用雨衣-黑色",
+	ItemName_Base.MPonchoShoulderBLAdown = "军用雨衣-黑色",
+}
