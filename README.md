@@ -105,7 +105,8 @@ FileName/media/lua/shared/Translate/CH/
 [Sprout's 混合農場與花園 Sprout's Farm and Garden](https://steamcommunity.com/sharedfiles/filedetails/?id=2937434637)  (Github:vs863129,Discord:文森)  
 [技能說明(更多技能敘述) Skill Explanation (More info for skills)](https://steamcommunity.com/sharedfiles/filedetails/?id=2842368404)  (Github:vs863129,Discord:文森)  
 
-### -待整合至工作坊-  "+"的符號代表有新增該模組的新版的翻譯
+### -待整合至工作坊-  
+"+"的符號代表有新增該模組的新版的翻譯  
 
 [(原模組有中文,優化翻譯)尖刺陷阱 Spear Traps](https://steamcommunity.com/sharedfiles/filedetails/?id=2640351732&searchtext=spear+trap)  (Github:HerioJohnX,Discord:希利奧)   
 [更多書籍! More Books!](https://steamcommunity.com/sharedfiles/filedetails/?id=2815857931&searchtext=more+book)  (Github:HerioJohnX,Discord:希利奧)  
