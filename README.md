@@ -19,7 +19,7 @@ FileName/media/lua/shared/Translate/CH/
 且檔案編碼記得是UTF-8，如有不同請告知!  
 ## 模組開發者(MOD Developer)  
 [Download Github Directory](https://download-directory.github.io/)
-## 已經翻譯的模組(Translated mods)
+## 已經翻譯的模組(Translated mods) 
 [調試選單 DebugMenu](https://steamcommunity.com/sharedfiles/filedetails/?id=2737787862&searchtext=DebugMenu) (Github:Genshin804,Discord:Genshin)  
 [武士魂SSAULAVI](https://steamcommunity.com/sharedfiles/filedetails/?id=2887274097&searchtext=SSAULAVI) (Github: ,Discord:尼莫)  
 [易感染症狀-空氣傳播 Susceptible Trait - Airborne Infection](https://steamcommunity.com/sharedfiles/filedetails/?id=2795677303&searchtext=Susceptible+Trait+-+Airborne+Infection) (Github:nemo01642280 ,Discord:尼莫)  
@@ -105,7 +105,7 @@ FileName/media/lua/shared/Translate/CH/
 [Sprout's 混合農場與花園 Sprout's Farm and Garden](https://steamcommunity.com/sharedfiles/filedetails/?id=2937434637)  (Github:vs863129,Discord:文森)  
 [技能說明(更多技能敘述) Skill Explanation (More info for skills)](https://steamcommunity.com/sharedfiles/filedetails/?id=2842368404)  (Github:vs863129,Discord:文森)  
 
-### -待整合至工作坊-  
+### -待整合至工作坊-  "+"的符號代表有新增該模組的新版的翻譯
 
 [(原模組有中文,優化翻譯)尖刺陷阱 Spear Traps](https://steamcommunity.com/sharedfiles/filedetails/?id=2640351732&searchtext=spear+trap)  (Github:HerioJohnX,Discord:希利奧)   
 [更多書籍! More Books!](https://steamcommunity.com/sharedfiles/filedetails/?id=2815857931&searchtext=more+book)  (Github:HerioJohnX,Discord:希利奧)  
