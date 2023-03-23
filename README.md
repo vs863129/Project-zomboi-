@@ -113,6 +113,8 @@ FileName/media/lua/shared/Translate/CH/
 [Yaki的理髮店 Yaki's BarberShop](https://steamcommunity.com/sharedfiles/filedetails/?id=2810471370&searchtext=Barber)  (Github:HerioJohnX,Discord:希利奧)  
 [Udderly的登入保護機制 UdderlySafeLogin](https://steamcommunity.com/sharedfiles/filedetails/?id=2885501709)  (Github:HerioJohnX,Discord:希利奧)  
 [優化物品欄 Alternative Inventory Rendering](https://steamcommunity.com/sharedfiles/filedetails/?id=2809595776)  (Github:nemo01642280 ,Discord:尼莫)  
+[校園動漫風學生制服 School's Out Anime-Style Student Uniforms](https://steamcommunity.com/sharedfiles/filedetails/?id=2904220876)  (Github:HerioJohnX,Discord:希利奧)  
+[+Spongie's 夾克系列 Spongie's Open Jackets](https://steamcommunity.com/sharedfiles/filedetails/?id=2812326159)  (Github:HerioJohnX,Discord:希利奧)  
 
 #### -搬運(待)-  
 
