@@ -112,6 +112,7 @@ FileName/media/lua/shared/Translate/CH/
 [軍用斗篷 Military Ponchos](https://steamcommunity.com/sharedfiles/filedetails/?id=2629286881&searchtext=poncho)  (Github:HerioJohnX,Discord:希利奧)  
 [Yaki的理髮店 Yaki's BarberShop](https://steamcommunity.com/sharedfiles/filedetails/?id=2810471370&searchtext=Barber)  (Github:HerioJohnX,Discord:希利奧)  
 [Udderly的登入保護機制 UdderlySafeLogin](https://steamcommunity.com/sharedfiles/filedetails/?id=2885501709)  (Github:HerioJohnX,Discord:希利奧)  
+[優化物品欄 Alternative Inventory Rendering](https://steamcommunity.com/sharedfiles/filedetails/?id=2809595776)  (Github:nemo01642280 ,Discord:尼莫)  
 
 #### -搬運(待)-  
 
