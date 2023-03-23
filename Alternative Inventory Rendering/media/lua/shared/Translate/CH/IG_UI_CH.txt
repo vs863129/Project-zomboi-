@@ -1,0 +1,35 @@
+IGUI_CH = {
+    IGUI_CUI_Display_UpdateRate = "庫存更新頻率",
+    IGUI_CUI_Display_MaxItemPerGroup = "每個物品組顯示的最大物品數量",
+    IGUI_CUI_Display_OpacityPresets = "庫存透明度預設值",
+    IGUI_CUI_Display_BookMarkStyle = "書籤圖示風格",
+    IGUI_CUI_Display_EquipStyle = "裝備圖示風格",
+    IGUI_CUI_Display_ControllerHighlight = "控制器選擇高亮風格",
+    IGUI_CUI_Display_BookTrack = "標記高級技能書籍(WIP)",
+    IGUI_CUI_Display_EnableDrainableDetail = "顯示詳細耗盡狀態",
+    IGUI_CUI_Display_EnableShowModdedGun = "顯示模組化武器",
+    IGUI_CUI_Display_EnableDetailedAttachments = "在展開的部分顯示附件",
+    IGUI_CUI_Display_EnableMagazineDetail = "顯示詳細彈匣狀態",
+
+    IGUI_CUI_Display_EnableShowModdedGun = "顯示模組化武器",
+    IGUI_CUI_Display_EnableTrackLitItems = "追蹤書籍和媒體",
+    IGUI_CUI_Display_EnableTrackMediaItems = "追蹤已觀看媒體",
+    IGUI_CUI_Display_EnableBadCondHighlight = "高亮不良狀態武器",
+    IGUI_CUI_Display_EnableEquipmentLine = "啟用裝備分隔線",
+    IGUI_CUI_Display_EnablePinItem = "顯示釘選的物品(WIP)",
+    IGUI_CUI_Display_EnableFilledMagazine = "",
+    IGUI_CUI_Display_ItemDataUpdateRate = "物品數據更新頻率",
+    IGUI_CUI_Display_InventoryUpdateRate = "庫存更新頻率",
+    IGUI_CUI_Display_EnableDelayedItemDataUpdate = "啟用延遲物品數據更新",
+    IGUI_CUI_Display_EnableDelayedInventoryUpdate = "啟用延遲庫存更新",
+    IGUI_CUI_Display_ExperimentalTableWipe = "實驗性表格擦除",
+
+    IGUI_CUI_Display_EnableTrackDuplicates = "追蹤重複物品功能",
+    IGUI_CUI_Display_EnableTrackDuplicateLiteratures = "追蹤重複書籍",
+    IGUI_CUI_Display_EnableTrackDuplicateWeapons = "追蹤重複武器",
+    IGUI_CUI_Display_EnableTrackDuplicateWeaponsComparison = "比較武器狀態",
+    IGUI_CUI_Display_EnableTrackDuplicateClothings = "追蹤重複服裝",
+    IGUI_CUI_Display_EnableTrackDuplicateFoods = "追蹤重複食物",
+    IGUI_CUI_Display_EnableTrackDuplicateItems = "追蹤重複一般物品
+
+}
