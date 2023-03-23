@@ -1,0 +1,13 @@
+Sandbox_CH = 
+{
+	Sandbox_UdderlySafeLogin = "Udderly的登入保護機制",
+	
+	Sandbox_UdderlySafeLogin_SafeTime = "保護時間",
+	Sandbox_UdderlySafeLogin_SafeTime_tooltip = "以秒為單位, 注意這個時間會在玩家點擊開始遊戲後開始倒數, 而不是他們開始移動角色才倒數",
+	
+	Sandbox_UdderlySafeLogin_MovementMultiplier = "移動扣除倍率",
+	Sandbox_UdderlySafeLogin_MovementMultiplier_tooltip = "當玩家移動他們的角色時，會多快加快保護的倒計時",
+	
+	Sandbox_UdderlySafeLogin_UseInvisibility = "使用幽靈模式",
+	Sandbox_UdderlySafeLogin_UseInvisibility_tooltip = "比起只是讓殭屍不攻擊你，使用幽靈模式可以讓殭屍不會發現你，也不會跟著你。",
+}
