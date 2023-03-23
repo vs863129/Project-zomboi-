@@ -1,0 +1,5 @@
+UI_CH = {
+UI_trait_archer = "弓箭手",
+UI_trait_archerdesc = "從弓箭入手.<br>+3 箭術",
+UI_MBA_Progress = "進度",
+}

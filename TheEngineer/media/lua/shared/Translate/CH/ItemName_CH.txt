@@ -1,0 +1,5 @@
+ItemName_CH = {
+    ItemName_Radio.RadioMag1 = "工程 101",
+    ItemName_Radio.RadioMag2 = "老闆樣的工程師",
+    ItemName_Radio.RadioMag3 = "高級工程學",
+}

@@ -1,0 +1,6 @@
+Recipes_CH = {
+    Recipe_Make_Iron_Arrowhead_1 = "製作鐵箭頭",
+    Recipe_Make_Fletchings_Two = "製作箭羽",
+    Recipes_Unbundle_Arrows = "解開石箭束",
+    Recipe_Make_Five_Iron_Arrowheads = "製作五個鐵箭頭",
+}

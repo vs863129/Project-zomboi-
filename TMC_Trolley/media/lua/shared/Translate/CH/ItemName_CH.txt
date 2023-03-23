@@ -1,0 +1,6 @@
+ItemName_CH = {
+    ItemName_TMC.TrolleyContainer = "手推車",
+	ItemName_TMC.TrolleyContainer2 = "手推車",
+	ItemName_TMC.CartContainer = "超市購物車",
+	ItemName_TMC.CartContainer2 = "超市購物車",
+}

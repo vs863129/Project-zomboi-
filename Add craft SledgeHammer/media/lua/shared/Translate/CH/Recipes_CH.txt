@@ -1,0 +1,3 @@
+Recipes_CH = {
+    Recipe_Make_Sledgehammer = "製作 大鎚",
+}

@@ -1,0 +1,12 @@
+IGUI_CH = {
+	IGUI_perks_Archery = "箭術",
+    IGUI_MBA_recipe_AddArrowHead = "加上箭頭",
+    IGUI_MBA_recipe_AddFletchings = "加上箭羽",
+    IGUI_MBA_recipe_RemoveArrowHead = "移除箭頭",
+    IGUI_MBA_recipe_RemoveFletchings = "移除箭羽",
+    IGUI_MBA_arrow_unfletched = "箭 (無箭羽)",
+    IGUI_MBA_arrow_headless = "箭 (無箭頭)",
+    IGUI_MBA_arrow = "箭",
+    IGUI_MBA_fluflu = "(真羽箭)",
+    IGUI_MBA_snap_into_twigs = "把樹枝折斷",
+}

@@ -1,0 +1,15 @@
+IGUI_CH = {
+
+    IGUI_PZwaystone_tele = "啟動傳送石碑",
+    IGUI_WayStone_title = "傳送石碑 使用中",
+    IGUI_PZwsClose = "關閉",
+    IGUI_PZwsNew = "新增/重命名",
+    IGUI_PZwsDelete = "刪除傳送點",
+    IGUI_PZwsteleport = "傳送",
+    IGUI_jvli = "距離：",
+    IGUI_zuobiao = "座標：",
+    IGUI_xiaohaoshiwu = "消耗飽食度：",
+    IGUI_shuixiaohao = "消耗水分：",
+    IGUI_shifoushanchu = "是否刪除傳送點：",
+
+}

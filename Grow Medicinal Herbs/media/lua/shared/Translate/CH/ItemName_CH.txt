@@ -1,0 +1,10 @@
+ItemName_CH = {
+
+	ItemName_GMH.Comfreyseed = "康福利草種子",
+	ItemName_GMH.Ginsengseed = "人參種子",
+	ItemName_GMH.Plantainseed = "芭蕉種子",
+	ItemName_GMH.LemonGrassseed = "檸檬香芼種子",
+	ItemName_GMH.WildGarlicseed = "山蒜種子",
+	ItemName_GMH.CommonMallowseed = "錦葵種子",
+	ItemName_GMH.BlackSageseed = "黑鼠尾草種子",
+    }

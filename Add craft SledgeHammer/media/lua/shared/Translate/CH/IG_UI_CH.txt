@@ -1,0 +1,11 @@
+IG_UI_CH = {
+
+	IGUI_sledgeBroken = "我的大鎚壞損了!",
+	IGUI_notStrongForThat = "我還不夠強壯使用它!(必須五等 )",
+	IGUI_noSledge = "我沒有大鎚",
+	IGUI_imExhausted = "我筋疲力盡了!!",
+	IGUI_noMoreLong = "再努力一點就好了...",
+	IGUI_missed = "失誤!",
+	IGUI_sledgeDestroyed = "大鎚被摧毀且遺失了 !!",
+
+    }

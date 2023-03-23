@@ -1,0 +1,7 @@
+﻿Tooltip_CH = {
+
+Tooltip_BetLock_BobbyPin = "用於開鎖的物品。還需要螺絲刀，並且必須從開鎖雜誌中學習開鎖。",
+Tooltip_BetLock_LockpickingMag = "學習開鎖的雜誌。您可以通過髮夾或撬棍打開門，窗，車輛。",
+Tooltip_BetLock_AlarmMag = "學習警報的雜誌。您可以檢查車輛/房屋的警報。",
+
+}

@@ -1,0 +1,4 @@
+ContextMenu_CH = {
+	ContextMenu_HikeUp = "短",
+	ContextMenu_LetOut = "長",
+}

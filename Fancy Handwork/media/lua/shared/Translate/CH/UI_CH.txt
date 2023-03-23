@@ -1,0 +1,9 @@
+UI_EN = {
+    UI_Init_FancyHandwork = "嗨: Fancy Handwork!",
+    UI_optionscreen_binding_FancyHandwork = "Fancy Handwork",
+    UI_optionscreen_binding_FHModifier = "修改鍵",
+    UI_optionscreen_binding_FHSwapKey = "交換物件 (就是鍵)",
+    UI_optionscreen_binding_FHSwapKeyMod = "交換物件 (修改鍵+鍵)",
+    UI_optionscreen_binding_FHDebugKey = "bebug鍵 (僅在bebug模式下使用)",
+    UI_ModOptions_FHfixLHandRotation = "應用動畫"
+}

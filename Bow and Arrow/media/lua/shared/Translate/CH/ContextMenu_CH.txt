@@ -1,0 +1,7 @@
+ContextMenu_CH = {
+    ContextMenu_MBA_Put_On_Arrow = "把%1放在%2",
+    ContextMenu_MBA_Remove_Arrowhead = "移除箭頭",
+    ContextMenu_MBA_Remove_Fletchings = "移除箭羽",
+    ContextMenu_MBA_Make_Bow = "製作弓",
+    ContextMenu_MBA_snap_into_twigs = "把樹枝折斷",
+} 

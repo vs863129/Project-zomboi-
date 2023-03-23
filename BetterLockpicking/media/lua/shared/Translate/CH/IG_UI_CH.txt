@@ -1,0 +1,4 @@
+﻿IGUI_CH = {
+	IGUI_perks_Lockpicking = "開鎖",
+	IGUI_perks_Miscellaneous = "雜項",
+}

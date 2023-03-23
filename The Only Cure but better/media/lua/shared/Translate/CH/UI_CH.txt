@@ -1,0 +1,60 @@
+UI_CH = {
+    UI_ContextMenu_InstallProthesis = "安裝義肢",
+    UI_ContextMenu_UninstallProthesis = "卸下義肢",
+    UI_ContextMenu_Operate = "操作",
+    UI_ContextMenu_OperateOven = "使用烤箱",
+    UI_ContextMenu_CutArm = "截掉手臂",
+
+    UI_prof_surgeon = "外科醫生",
+    UI_profdesc_surgeon = "你是個外科醫生! 運用The Only Cure but better所帶來的配方.<br>讓你更容易進行截肢手術.",
+
+    UI_trait_Amputee_Hand = "被截斷的左手",
+    UI_trait_Amputee_Hand_desc = "末日開始之前, 你就失去了你的左手.",
+    UI_trait_Amputee_LowerArm = "被截斷的左前臂",
+    UI_trait_Amputee_LowerArm_desc = "末日開始之前, 你就失去了你的左前臂.",
+    UI_trait_Amputee_UpperArm = "被截斷的左臂",
+    UI_trait_Amputee_UpperArm_desc = "末日開始之前, 你就失去了你的左臂.",
+    UI_trait_Insensitive = "對疼痛不敏感",
+    UI_trait_Insensitivedesc = "減少對疼痛的感覺.",
+
+    UI_ContextMenu_Right_Hand = "右手",
+    UI_ContextMenu_Right_LowerArm = "右前臂",
+    UI_ContextMenu_Right_UpperArm = "右臂",
+    UI_ContextMenu_Left_Hand = "左手",
+    UI_ContextMenu_Left_LowerArm = "左前臂",
+    UI_ContextMenu_Left_UpperArm = "左臂",
+    UI_ContextMenu_Notcut = "正常",
+    UI_ContextMenu_cut = "截肢",    
+    UI_ContextMenu_Equip = "安裝",
+    UI_ContextMenu_Prosthesis_equipped = "安裝義肢",   
+    UI_ContextMenu_Unequip = "移除義肢",
+    UI_ContextMenu_Nothinghere = "這裡什麼都沒有",
+    UI_ContextMenu_Removeprosthesisbefore = "移除前面的義體",
+    UI_ContextMenu_Amputatedandhealed = "截肢並癒合",
+    UI_ContextMenu_Stillalongwaytogo = "還有很長的路要走",
+    UI_ContextMenu_Startingtogetbetter = "開始好轉了",
+    UI_ContextMenu_Almostcicatrized = "幾乎癒合了",
+    UI_ContextMenu_Operate = "開刀",
+    UI_ContextMenu_Ithurtssomuch... = "好痛……",
+    UI_ContextMenu_Itstillhurtsalot = "還是很痛",
+    UI_ContextMenu_Ithinkit'salmostover... = "我覺得快結束了……",
+
+
+
+
+    UI_ContextMenu_My = "我 ",
+    UI_ContextMenu_Now_cut = "現在治癒好了!",
+
+    UI_ContextMenu_Heal_from_zomb = "我想我會沒事的!",
+    UI_ContextMenu_Cut_for_nothing = "我白做了..."
+
+
+
+    
+
+
+
+}
+
+
+

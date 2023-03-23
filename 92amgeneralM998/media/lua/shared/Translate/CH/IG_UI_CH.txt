@@ -1,0 +1,27 @@
+IG_UI_CH = {
+	IGUI_VehicleName92amgeneralM998 = "'92 AM 將軍 M998 悍馬",
+	IGUI_VehicleName92amgeneralM998Burnt = "'92 AM 將軍 M998 悍馬 燒毀",
+
+	IGUI_VehiclePartM998Trunk = "後備箱",
+	IGUI_VehiclePartM998BackCover = "傾斜後車蓋",
+	IGUI_VehiclePartM998SpareTire = "備用輪胎",
+	IGUI_VehiclePartM998Mudflaps = "擋泥板",
+	IGUI_VehiclePartM998Bullbar = "防撞桿",
+	IGUI_VehiclePartM998Muffler = "消音器",
+	IGUI_VehiclePartM998TrunkBarrier = "後備箱護欄",
+	IGUI_VehiclePartM998DoorFrontLeftArmor = "左前門裝甲",
+	IGUI_VehiclePartM998DoorFrontRightArmor = "右前門裝甲",
+	IGUI_VehiclePartM998DoorRearLeftArmor = "左後門裝甲",
+	IGUI_VehiclePartM998DoorRearRightArmor = "右後門張甲",
+	IGUI_VehiclePartM998WindshieldArmor = "擋風玻璃裝甲",
+	IGUI_VehiclePartM998Roofrack = "車頂儲藏架",
+
+	IGUI_VehicleNameTrailerM101A3cargo = "'92 M101A3 貨物拖車",
+
+	IGUI_VehiclePartTrunkDoorTwo = "頂部儲藏箱蓋 ",
+	IGUI_VehiclePartM101A3Cover = "拖車蓋",
+	IGUI_VehiclePartM101A3Tarp = "拖車棚布罩",
+	IGUI_VehiclePartM101A3Spare = "前備用輪胎",
+	IGUI_VehiclePartM101A3Trunk = "拖車儲藏",
+
+}

@@ -1,0 +1,4 @@
+Tooltip_CH = {
+	Tooltip_WoodenChevalDeFrise = "木頭拒馬目的是傷害僵屍",
+	Tooltip_MetalChevalDeFrise = "金屬拒馬目的是傷害僵屍",
+}

@@ -1,0 +1,8 @@
+﻿ItemName_CH = {
+
+ItemName_BetLock.BobbyPin = "髮夾",
+ItemName_BetLock.HandmadeBobbyPin = "手工髮夾",
+ItemName_BetLock.LockpickingMag = "萬用開鎖雜誌",
+ItemName_BetLock.AlarmMag = "家用警報雜誌",
+
+}

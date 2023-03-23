@@ -1,9 +1,9 @@
 ItemName_CH = {
 
-ItemName_Zama76239 = "盒裝 7.62x39mm x200彈藥",
-ItemName_Zama7625 = "一盒 7.62x51mm-NATO x200發盒裝彈藥",
-ItemName_Zama572 = "一盒 5.7x28mm x500發彈藥",
-ItemName_Zama545 = "一盒 5.45x39mm x250發彈藥",
+ItemName_ZAMAZONBRITA.Zama76239 = "盒裝 7.62x39mm x200彈藥",
+ItemName_ZAMAZONBRITA.Zama7625 = "盒裝 7.62x51mm-NATO x200彈藥",
+ItemName_ZAMAZONBRITA.Zama572 = "盒裝 5.7x28mm x500彈藥",
+ItemName_ZAMAZONBRITA.Zama545 = "盒裝 5.45x39mm x250彈藥",
 ItemName_ZAMAZONBRITA.ZaBBOX = "Zamazon 槍枝配件包裝包",
 ItemName_ZAMAZONBRITA.ZaMAGBOX = "Zamazon 彈匣包裝包",
 }

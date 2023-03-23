@@ -1,5 +1,0 @@
-﻿Recipe_CH = {
-
-  Recipe_Craft_Fuel_Tanks = "製作儲油箱",
-
-}

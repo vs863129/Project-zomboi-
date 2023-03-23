@@ -1,8 +1,8 @@
 Recipe_CH = {
 
-    Recipe_Craft_into_Armor_(Front) = "製作成裝備(正面)"
-    Recipe_Craft_into_Armor_(Back) = "製作成裝備(後面)"
-    Recipe_Undo_Armor = "撤除"  
+    Recipe_Craft_into_Armor_(Front) = "製作成裝備(正面)",
+    Recipe_Craft_into_Armor_(Back) = "製作成裝備(後面)",
+    Recipe_Undo_Armor = "撤除",
 	
 	
-	}
+}
