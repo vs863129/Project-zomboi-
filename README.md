@@ -85,8 +85,8 @@ FileName/media/lua/shared/Translate/CH/
 ### -搬運-
 [Minimal Display Bars](https://steamcommunity.com/sharedfiles/filedetails/?id=2004998206) (原模組翻譯搬運)  
 [倖存者(NPC模組)二合一 Survivors 2 in 1](https://steamcommunity.com/sharedfiles/filedetails/?id=2680488822)  (原模組翻譯搬運)  
-[eris_food_expiry](https://steamcommunity.com/sharedfiles/filedetails/?id=1651019937)  (原模組翻譯搬運)
-[傳送石 WayStone](https://steamcommunity.com/sharedfiles/filedetails/?id=2900928983)  (原模組翻譯搬運) 
+[eris_food_expiry](https://steamcommunity.com/sharedfiles/filedetails/?id=1651019937)  (原模組翻譯搬運)  
+[傳送石 WayStone](https://steamcommunity.com/sharedfiles/filedetails/?id=2900928983)  (原模組翻譯搬運)  
 [更多建築 More Builds](https://steamcommunity.com/sharedfiles/filedetails/?id=515555911)  (Github:vs863129,Discord:文森)  
 
 ### -僅提供給原作者-
