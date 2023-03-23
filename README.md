@@ -115,6 +115,8 @@ FileName/media/lua/shared/Translate/CH/
 [優化物品欄 Alternative Inventory Rendering](https://steamcommunity.com/sharedfiles/filedetails/?id=2809595776)  (Github:nemo01642280 ,Discord:尼莫)  
 [校園動漫風學生制服 School's Out Anime-Style Student Uniforms](https://steamcommunity.com/sharedfiles/filedetails/?id=2904220876)  (Github:HerioJohnX,Discord:希利奧)  
 [+Spongie's 夾克系列 Spongie's Open Jackets](https://steamcommunity.com/sharedfiles/filedetails/?id=2812326159)  (Github:HerioJohnX,Discord:希利奧)  
+[修正車內斷線(僅MP) Respawn in Car](https://steamcommunity.com/sharedfiles/filedetails/?id=2825720887)  (Github:HerioJohnX,Discord:希利奧)  
+[SSR:檢查圖像 SSR: Examine Panel](https://steamcommunity.com/sharedfiles/filedetails/?id=2796224858)  (Github:HerioJohnX,Discord:希利奧)  
 
 #### -搬運(待)-  
 
