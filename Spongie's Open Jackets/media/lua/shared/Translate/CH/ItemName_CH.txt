@@ -1,0 +1,5 @@
+ItemName_CH = {
+    ItemName_Base.HoodieUP_WhiteTINTOPEN = "連帽衫",
+    ItemName_Base.HoodieDOWN_WhiteTINTOPEN = "連帽衫",   
+    Base.Shirt_CamoDesertOPENROLLOPEN = "軍用沙漠迷彩夾克",
+}
