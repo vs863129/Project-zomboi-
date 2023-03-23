@@ -1,0 +1,5 @@
+UI_CH = {
+	UI_Text_isAdult     = " <H1> <SIZE:large> 你年滿18歲了嗎？ <LINE> <CENTRE> <SIZE:small> 點擊“是”表明你已年滿十八歲來瀏覽敏感性內容 <LINE> 如果你未滿十八歲, 我們希望你能點擊“不是”. <LINE> 我們不承擔任何讓未滿十八歲瀏覽敏感性內容的法律責任 <LINE> <IMAGECENTRE:media/ui/SpiffoWarning.png>"
+	UI_Text_Disclaimer  = "所有圖片版權歸原作者所有"
+	UI_Text_ExamineTooltip = "關閉 (Esc)"
+}
