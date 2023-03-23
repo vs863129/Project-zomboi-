@@ -1,0 +1,26 @@
+IG_UI_CH = {
+   
+IGUI_RIC_kick_the_disconnected_players_info = "把離線的玩家角色踢出, 這個功能能在車外顯示, 車門需開啟。",
+IGUI_RIC_kick_the_disconnected_players_info_Boat = "把離線的玩家角色踢出, 這個功能能在車裡顯示",
+IGUI_RIC_no_more_place = "已經沒有我的位置了！",
+IGUI_RIC_playerIsExpulsed = "",
+IGUI_RIC_Is_Expulsed = " 被踢了",
+IGUI_RIC_checkNames = "檢查車輛乘客",
+IGUI_RIC_Expulse_player_to = "把車輛乘客移到",
+IGUI_RIC_SeatNumber = "座位",
+IGUI_RIC_You_should_getout_vehicle = "你得下車。",
+IGUI_RIC_You_should_get_near_vehicle = "你得靠近車輛",
+IGUI_RIC_JustYou = "你現在獨自一人在車內",
+
+IGUI_Theres_someone_inside = "有其他人在車裡",
+IGUI_There_is_no_one_on_the_seat = "沒人在座位上",
+IGUI_player_is_present_inside = "乘客在裡面！",
+IGUI_There_is_nobody = "沒人在！",
+
+
+
+
+
+
+
+    }
