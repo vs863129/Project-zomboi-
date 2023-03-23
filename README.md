@@ -107,7 +107,7 @@ FileName/media/lua/shared/Translate/CH/
 
 ### -待整合至工作坊-  
 
-[(原模組有中文,優化翻譯)尖刺陷阱 Spear Traps](https://steamcommunity.com/sharedfiles/filedetails/?id=2640351732&searchtext=spear+trap)  (Github:HerioJohnX,Discord:希利奧) 
+[(原模組有中文,優化翻譯)尖刺陷阱 Spear Traps](https://steamcommunity.com/sharedfiles/filedetails/?id=2640351732&searchtext=spear+trap)  (Github:HerioJohnX,Discord:希利奧)   
 [更多書籍! More Books!](https://steamcommunity.com/sharedfiles/filedetails/?id=2815857931&searchtext=more+book)  (Github:HerioJohnX,Discord:希利奧)  
 [軍用斗篷 Military Ponchos](https://steamcommunity.com/sharedfiles/filedetails/?id=2629286881&searchtext=poncho)  (Github:HerioJohnX,Discord:希利奧)  
 [Yaki的理髮店 Yaki's BarberShop](https://steamcommunity.com/sharedfiles/filedetails/?id=2810471370&searchtext=Barber)  (Github:HerioJohnX,Discord:希利奧)  
