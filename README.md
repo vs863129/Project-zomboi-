@@ -111,6 +111,7 @@ FileName/media/lua/shared/Translate/CH/
 [更多書籍! More Books!](https://steamcommunity.com/sharedfiles/filedetails/?id=2815857931&searchtext=more+book)  (Github:HerioJohnX,Discord:希利奧)  
 [軍用斗篷 Military Ponchos](https://steamcommunity.com/sharedfiles/filedetails/?id=2629286881&searchtext=poncho)  (Github:HerioJohnX,Discord:希利奧)  
 [Yaki的理髮店 Yaki's BarberShop](https://steamcommunity.com/sharedfiles/filedetails/?id=2810471370&searchtext=Barber)  (Github:HerioJohnX,Discord:希利奧)  
+[Udderly的登入保護機制 UdderlySafeLogin](https://steamcommunity.com/sharedfiles/filedetails/?id=2885501709)  (Github:HerioJohnX,Discord:希利奧)  
 
 #### -搬運(待)-  
 
