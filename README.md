@@ -118,6 +118,7 @@ FileName/media/lua/shared/Translate/CH/
 [+Spongie's 夾克系列 Spongie's Open Jackets](https://steamcommunity.com/sharedfiles/filedetails/?id=2812326159)  (Github:HerioJohnX,Discord:希利奧)  
 [重返至車內(僅MP) Respawn in Car](https://steamcommunity.com/sharedfiles/filedetails/?id=2825720887)  (Github:HerioJohnX,Discord:希利奧)  
 [SSR:檢查物件 SSR: Examine Panel](https://steamcommunity.com/sharedfiles/filedetails/?id=2796224858)  (Github:HerioJohnX,Discord:希利奧)  
+[食物保鮮 Puls Food Preservation Plus](https://steamcommunity.com/sharedfiles/filedetails/?id=2890748284) (Github:Genshin804,Discord:Genshin)  
 
 #### -搬運(待)-  
 
