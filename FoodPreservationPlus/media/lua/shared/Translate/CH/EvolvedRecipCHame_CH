@@ -1,0 +1,5 @@
+EvolvedRecipeName_CH = {
+	EvolvedRecipeName_Base.ESaltedMeat = "醃肉",
+	EvolvedRecipeName_Base.ESmokedMeat = "煙熏肉",
+	EvolvedRecipeName_Base.ESalami = "義大利薩拉米獵腸",
+}

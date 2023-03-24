@@ -1,0 +1,5 @@
+ContextMenu_CH = {
+	ContextMenu_EvolvedRecipe_ESaltedMeat = "(醃製)",
+	ContextMenu_EvolvedRecipe_ESmokedMeat = "(煙燻)",
+	ContextMenu_EvolvedRecipe_ESalami = "- 義大利薩拉米獵腸",
+} 
