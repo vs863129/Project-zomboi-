@@ -1,0 +1,5 @@
+Items_CH = {
+	DisplayName_Irrigation_Pipe = "灌溉管道",
+	DisplayName_Old_Irrigation_Pipe = "舊的灌溉管道",
+	}
+

@@ -1,0 +1,6 @@
+Sandbox_EN = {
+	Sandbox_WaterPipes = "灌溉模式",
+	Sandbox_WaterPipes_SmartPipes = "啟用注水和最佳水位(又稱智能管道).",
+	Sandbox_WaterPipes_SmartPipesFillMax = "智能管道:每次灌溉週期的最大澆水量.",
+	Sandbox_WaterPipes_SmartPipesUpdateNotWatered = "智能管道:即使在沒有用水的情況下,也會更新'最後一次'澆水計數器.",
+}

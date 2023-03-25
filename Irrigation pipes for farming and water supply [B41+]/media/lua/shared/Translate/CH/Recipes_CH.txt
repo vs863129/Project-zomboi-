@@ -1,0 +1,6 @@
+Recipe_CN = {
+	Recipe_Make_Fertilizer = "製作肥料",
+	Recipe_Make_Irrigation_Pipe = "製作灌溉管道",
+	Recipe_Convert_Irrigation_pipe, = "轉換灌溉管道",
+}
+
