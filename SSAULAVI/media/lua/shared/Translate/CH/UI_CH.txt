@@ -10,10 +10,10 @@ UI_trait_Koshirae = "劍持者",
 UI_trait_Koshiraedesc = "殭屍末日爆發之前 擁有並管理著刀劍 並且隨身攜帶.<br>刀劍並會減少耐久消耗。<br>一開始 先拿一個包和一把刀劍.",
 
 UI_trait_Kenjin = "刀的學徒",
-UI_trait_Kenjindesc = " +1 長劍技能 <br>根據殺死的殭屍數量和你擁有的特性 此特性會發生變化.",
+UI_trait_Kenjindesc = " +1 長刃器 <br>根據殺死的殭屍數量和你擁有的特性 此特性會發生變化.",
 
 UI_trait_Kenshi = "劍使",
-UI_trait_Kenshidesc = " +1 長劍技能 <br>根據殺死的殭屍數量和你擁有的特性 此特性會發生變化.",
+UI_trait_Kenshidesc = " +1 長刃器 <br>根據殺死的殭屍數量和你擁有的特性 此特性會發生變化.",
 UI_trait_Kenkaku = "刀的專家",
 UI_trait_Kenkakudesc = "",
 UI_trait_Kengo = "劍宗師",
@@ -33,11 +33,11 @@ UI_trait_Kenki = "惡魔的刃",
 UI_trait_Kenkidesc = "",
 
 UI_trait_Menkyokaiden = "精通劍術",
-UI_trait_Menkyokaidendesc = "在特定學校接受過武術教育 或者學習了劍的邏輯.<br> +1 健身<br> +1 強壯<br> +1 敏捷",
+UI_trait_Menkyokaidendesc = "在特定學校接受過武術教育 或者學習了劍的邏輯.<br> +1 體態<br> +1 力量<br> +1 靈活",
 
 
 UI_trait_Katsujinken = "活劍",
-UI_trait_Katsujinkendesc = "刀刃下之是地獄 欲自棄則照耀光芒.<br>刃刀下之是地獄 向前一步即是天堂. <br>觸及它的刀下是地獄 所以只朝你的對手 向神的劍走去.<br> +1健身 <br>當使用長劍時 特性會隨著你所擁有的特性的特性而增加.",
+UI_trait_Katsujinkendesc = "刀刃下之是地獄 欲自棄則照耀光芒.<br>刃刀下之是地獄 向前一步即是天堂. <br>觸及它的刀下是地獄 所以只朝你的對手 向神的劍走去.<br> +1 體態 <br>當使用長劍時 特性會隨著你所擁有的特性的特性而增加.",
 
 UI_trait_Satsujinto = "殺戮之刃",
 UI_trait_Satsujintodesc = "一擊不惑 血染地獄<br>全力砍殺敵方<br>若一擊還不倒 便加倍力量<br> +1 力量<br>當使用長劍時 根據擁有的屬性比例給予額外傷害.",
