@@ -1,7 +1,0 @@
-Recipes_CN = {
-	Recipe_Make Military Poncho (Green) = "制作军用雨衣 （绿色）",
-	Recipe_Make Military Poncho (Yellow) = "制作军用雨衣 （黄色）",
-	Recipe_Make Military Poncho (Black) = "制作军用雨衣 （黑色）",
-	Recipe_Paint Military Poncho Green = "为军用雨衣染色 （绿色）",
-	Recipe_Paint Military Poncho Black = "为军用雨衣染色 （黑色）",
-}
