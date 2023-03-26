@@ -270,9 +270,9 @@ ItemName_CH = {
 	ItemName_Base.Lead00Buck = ".00-Perdigones 彈頭",
 	
 	
-	ItemName_Base.Lyman49th_Manual = "萊曼49版,重工手冊",
-	ItemName_Base.Lyman_TMag = "萊曼T-Mag:重工壓力機",
-	ItemName_Base.Lee_LoadMaster = "Lee Load-Master重工壓力機",
+	ItemName_Base.Lyman49th_Manual = "萊曼49版,裝彈手冊",
+	ItemName_Base.Lyman_TMag = "萊曼T-Mag:裝彈壓床",
+	ItemName_Base.Lee_LoadMaster = "李式Load-Master型,裝彈壓床",
 	
 	ItemName_Base.GunPowder = "火藥",
 	
