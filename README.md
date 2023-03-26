@@ -65,7 +65,7 @@ FileName/media/lua/shared/Translate/CH/
 [更好分類 Better Sorting](https://steamcommunity.com/sharedfiles/filedetails/?id=2313387159)  (Github:vs863129,Discord:文森)  
 [Bushcraft Gear - Rare Weapons](https://steamcommunity.com/sharedfiles/filedetails/?id=2432621382) (Github:nemo01642280 ,Discord:尼莫)  
 [Fuu's Roleplay Poses](https://steamcommunity.com/sharedfiles/filedetails/?id=2876610875)  (Github:nemo01642280 ,Discord:尼莫)  
-[Spongie's 夾克系列 Spongie's Open Jackets](https://steamcommunity.com/sharedfiles/filedetails/?id=2812326159)  (Github:nemo01642280 ,Discord:尼莫)  
+[Spongie's 夾克系列 Spongie's Open Jackets](https://steamcommunity.com/sharedfiles/filedetails/?id=2812326159)  (Github:nemo01642280 & HerioJohnX ,Discord:尼莫 & 希利奧)  
 [喪鐘之日 Death Knell day](https://steamcommunity.com/sharedfiles/filedetails/?id=2811259189)  (Github:kyo2002tw,Discord:cide2021)  
 [表演樂器(純動作) Perform Music](https://steamcommunity.com/sharedfiles/filedetails/?id=2911472635) (Github:CJ_6138,Discord:CJ)  
 [Spongie's 服裝 Spongie's Clothing](https://steamcommunity.com/sharedfiles/filedetails/?id=2684285534)  (Github:HerioJohnX,Discord:希利奧)  
@@ -81,6 +81,18 @@ FileName/media/lua/shared/Translate/CH/
 [弓與箭額外 Bow and Arrow Addon](https://steamcommunity.com/sharedfiles/filedetails/?id=2824362101)  (Github:nemo01642280 ,Discord:尼莫)  
 [(暫時置入翻譯包)動態特質 Dynamic Traits](https://steamcommunity.com/sharedfiles/filedetails/?id=2459400130)  (Github:nemo01642280 ,Discord:尼莫)  
 [醫療草藥種植 Grow Medicinal Herbs](https://steamcommunity.com/sharedfiles/filedetails/?id=2917518699)  (Github:nemo01642280 ,Discord:尼莫)  
+[*(優化翻譯)尖刺陷阱 Spear Traps](https://steamcommunity.com/sharedfiles/filedetails/?id=2640351732&searchtext=spear+trap)  (Github:HerioJohnX,Discord:希利奧)   
+[更多書籍! More Books!](https://steamcommunity.com/sharedfiles/filedetails/?id=2815857931&searchtext=more+book)  (Github:HerioJohnX,Discord:希利奧)  
+[軍用斗篷 Military Ponchos](https://steamcommunity.com/sharedfiles/filedetails/?id=2629286881&searchtext=poncho)  (Github:HerioJohnX,Discord:希利奧)  
+[Yaki的理髮店 Yaki's BarberShop](https://steamcommunity.com/sharedfiles/filedetails/?id=2810471370&searchtext=Barber)  (Github:HerioJohnX,Discord:希利奧)  
+[Udderly的登入保護機制 UdderlySafeLogin](https://steamcommunity.com/sharedfiles/filedetails/?id=2885501709)  (Github:HerioJohnX,Discord:希利奧)  
+[優化物品欄 Alternative Inventory Rendering](https://steamcommunity.com/sharedfiles/filedetails/?id=2809595776)  (Github:nemo01642280 ,Discord:尼莫)  
+[校園動漫風學生制服 School's Out Anime-Style Student Uniforms](https://steamcommunity.com/sharedfiles/filedetails/?id=2904220876)  (Github:HerioJohnX,Discord:希利奧)  
+[重返至車內(僅MP) Respawn in Car](https://steamcommunity.com/sharedfiles/filedetails/?id=2825720887)  (Github:HerioJohnX,Discord:希利奧)  
+[SSR:檢查物件 SSR: Examine Panel](https://steamcommunity.com/sharedfiles/filedetails/?id=2796224858)  (Github:HerioJohnX,Discord:希利奧)  
+[食物保鮮 Puls Food Preservation Plus](https://steamcommunity.com/sharedfiles/filedetails/?id=2890748284) (Github:Genshin804,Discord:Genshin)  
+[農業的灌溉管路 Irrigation pipes for farming and water supply [B41+]](https://steamcommunity.com/sharedfiles/filedetails/?id=2464581798)  (Github:nemo01642280 ,Discord:尼莫)  
+[用於收納的新容器 New Containers for Organizing](https://steamcommunity.com/sharedfiles/filedetails/?id=2917951452)  (Github:nemo01642280 ,Discord:尼莫)  
 
 ### -搬運-
 [Minimal Display Bars](https://steamcommunity.com/sharedfiles/filedetails/?id=2004998206) (原模組翻譯搬運)  
@@ -108,22 +120,7 @@ FileName/media/lua/shared/Translate/CH/
 ### -待整合至工作坊-  
 "+"的符號代表有新增該模組的新版的翻譯  
 
-[(原模組有中文,優化翻譯)尖刺陷阱 Spear Traps](https://steamcommunity.com/sharedfiles/filedetails/?id=2640351732&searchtext=spear+trap)  (Github:HerioJohnX,Discord:希利奧)   
-[更多書籍! More Books!](https://steamcommunity.com/sharedfiles/filedetails/?id=2815857931&searchtext=more+book)  (Github:HerioJohnX,Discord:希利奧)  
-[軍用斗篷 Military Ponchos](https://steamcommunity.com/sharedfiles/filedetails/?id=2629286881&searchtext=poncho)  (Github:HerioJohnX,Discord:希利奧)  
-[Yaki的理髮店 Yaki's BarberShop](https://steamcommunity.com/sharedfiles/filedetails/?id=2810471370&searchtext=Barber)  (Github:HerioJohnX,Discord:希利奧)  
-[Udderly的登入保護機制 UdderlySafeLogin](https://steamcommunity.com/sharedfiles/filedetails/?id=2885501709)  (Github:HerioJohnX,Discord:希利奧)  
-[優化物品欄 Alternative Inventory Rendering](https://steamcommunity.com/sharedfiles/filedetails/?id=2809595776)  (Github:nemo01642280 ,Discord:尼莫)  
-[校園動漫風學生制服 School's Out Anime-Style Student Uniforms](https://steamcommunity.com/sharedfiles/filedetails/?id=2904220876)  (Github:HerioJohnX,Discord:希利奧)  
-[+Spongie's 夾克系列 Spongie's Open Jackets](https://steamcommunity.com/sharedfiles/filedetails/?id=2812326159)  (Github:HerioJohnX,Discord:希利奧)  
-[重返至車內(僅MP) Respawn in Car](https://steamcommunity.com/sharedfiles/filedetails/?id=2825720887)  (Github:HerioJohnX,Discord:希利奧)  
-[SSR:檢查物件 SSR: Examine Panel](https://steamcommunity.com/sharedfiles/filedetails/?id=2796224858)  (Github:HerioJohnX,Discord:希利奧)  
-[食物保鮮 Puls Food Preservation Plus](https://steamcommunity.com/sharedfiles/filedetails/?id=2890748284) (Github:Genshin804,Discord:Genshin)  
-[農業的灌溉管路 Irrigation pipes for farming and water supply [B41+]](https://steamcommunity.com/sharedfiles/filedetails/?id=2464581798)  (Github:nemo01642280 ,Discord:尼莫)  
-[用於收納的新容器 New Containers for Organizing](https://steamcommunity.com/sharedfiles/filedetails/?id=2917951452)  (Github:nemo01642280 ,Discord:尼莫)  
-
 #### -搬運(待)-  
-
 
 ## 連接(LINK)
 **[模組繁體中文包](https://steamcommunity.com/sharedfiles/filedetails/?id=2730159518)** 
