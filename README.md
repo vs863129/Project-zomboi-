@@ -120,6 +120,7 @@ FileName/media/lua/shared/Translate/CH/
 [SSR:檢查物件 SSR: Examine Panel](https://steamcommunity.com/sharedfiles/filedetails/?id=2796224858)  (Github:HerioJohnX,Discord:希利奧)  
 [食物保鮮 Puls Food Preservation Plus](https://steamcommunity.com/sharedfiles/filedetails/?id=2890748284) (Github:Genshin804,Discord:Genshin)  
 [農業的灌溉管路 Irrigation pipes for farming and water supply [B41+]](https://steamcommunity.com/sharedfiles/filedetails/?id=2464581798)  (Github:nemo01642280 ,Discord:尼莫)
+[用於收納的新容器 New Containers for Organizing](https://steamcommunity.com/sharedfiles/filedetails/?id=2917951452)  (Github:nemo01642280 ,Discord:尼莫)  
 
 #### -搬運(待)-  
 
