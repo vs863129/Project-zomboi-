@@ -1,0 +1,3 @@
+Tooltip_CH = {
+	Tooltip_HumanFeces = "即便他可以食用,但也不應該吃.噁心!",
+}
