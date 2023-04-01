@@ -120,7 +120,7 @@ FileName/media/lua/shared/Translate/CH/
 ### -待整合至工作坊-  
 "+"的符號代表有新增該模組的新版的翻譯  
 [現代軍事裝備包 Modern Military Gear Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=2951645909)  (Github:nemo01642280 ,Discord:尼莫)  
-[排泄功能 Excrementum](https://steamcommunity.com/sharedfiles/filedetails/?id=2864043248)  (Github:vs863129,Discord:文森)  
+[*排泄功能 Excrementum](https://steamcommunity.com/sharedfiles/filedetails/?id=2864043248)  (Github:vs863129,Discord:文森)  
 #### -搬運(待)-  
 
 ## 連接(LINK)
