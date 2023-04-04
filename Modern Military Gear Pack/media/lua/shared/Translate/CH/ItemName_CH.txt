@@ -11,6 +11,10 @@ ItemName_CH = {
     ItemName_Base.BackpackMulticamDesert = "軍用沙漠複合迷彩背包"
     ItemName_Base.BackpackSwedishRed = "軍用瑞典红迷彩背包"
     ItemName_Base.BackpackTigerGreen = "軍用虎紋綠迷彩背包"
+    ItemName_Base.BackpackUCP = "軍用UCP迷彩背包"
+    ItemName_Base.BackpackACU = "軍用ACU迷彩背包"
+    ItemName_Base.BackpackMARPAT = "軍用叢林MARPAT迷彩背包"
+    
     // 頭盔
     ItemName_Base.HelmetAlpenflage = "軍用血腥迷彩頭盔"
     ItemName_Base.HelmetDigitalDesert = "軍用數位沙漠迷彩頭盔"
@@ -23,6 +27,10 @@ ItemName_CH = {
     ItemName_Base.HelmetMulticamDesert = "軍用沙漠複合迷彩頭盔"
     ItemName_Base.HelmetSwedishRed = "軍用瑞典红迷彩頭盔"
     ItemName_Base.HelmetTigerGreen = "軍用虎紋綠迷彩頭盔"
+    ItemName_Base.HelmetUCP = "軍用UCP迷彩頭盔"
+    ItemName_Base.HelmetACU = "軍用ACU迷彩頭盔"
+    ItemName_Base.HelmetMARPAT = "軍用叢林MARPAT迷彩頭盔"
+    
     // 衣服
     ItemName_Base.JacketAlpenflage = "軍用血腥迷彩夾克"
     ItemName_Base.JacketDigitalDesert = "軍用數位沙漠迷彩夾克"
@@ -35,6 +43,10 @@ ItemName_CH = {
     ItemName_Base.JacketMulticamDesert = "軍用沙漠複合迷彩夾克"
     ItemName_Base.JacketSwedishRed = "軍用瑞典红迷彩夾克"
     ItemName_Base.JacketTigerGreen = "軍用虎紋綠迷彩夾克"
+    ItemName_Base.JacketUCP = "軍用UCP迷彩夾克"
+    ItemName_Base.JacketACU = "軍用ACU迷彩夾克"
+    ItemName_Base.JacketMARPAT = "軍用叢林MARPAT迷彩夾克"
+    
     // 褲子
     ItemName_Base.TrousersAlpenflage = "軍用血腥迷彩褲"
     ItemName_Base.TrousersDigitalDesert = "軍用數位沙漠迷彩褲"
@@ -47,6 +59,10 @@ ItemName_CH = {
     ItemName_Base.TrousersMulticamDesert = "軍用沙漠複合迷彩褲"
     ItemName_Base.TrousersSwedishRed = "軍用瑞典红迷彩褲"
     ItemName_Base.TrousersTigerGreen = "軍用虎紋綠迷彩褲"
+    ItemName_Base.TrousersUCP = "軍用UCP迷彩褲"
+    ItemName_Base.TrousersACU = "軍用ACU迷彩褲"
+    ItemName_Base.TrousersMARPAT = "軍用叢林MARPAT迷彩褲"
+    
 
 
 }
