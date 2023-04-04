@@ -17,6 +17,7 @@ FileName/media/lua/shared/Translate/CH/
 範例: 模組名稱為DebugMenu 則 DebugMenu/media/lua/shared/Translate/CH/  
 [範例檔案](https://github.com/vs863129/PZModTraditional/tree/%E7%AF%84%E4%BE%8B%E6%AA%94)  
 且檔案編碼記得是UTF-8，如有不同請告知!  
+
 ## 模組開發者(MOD Developer)  
 [Download Github Directory](https://download-directory.github.io/)
 ## 已經翻譯的模組(Translated mods) 
@@ -93,6 +94,8 @@ FileName/media/lua/shared/Translate/CH/
 [食物保鮮 Puls Food Preservation Plus](https://steamcommunity.com/sharedfiles/filedetails/?id=2890748284) (Github:Genshin804,Discord:Genshin)  
 [農業的灌溉管路 Irrigation pipes for farming and water supply [B41+]](https://steamcommunity.com/sharedfiles/filedetails/?id=2464581798)  (Github:nemo01642280 ,Discord:尼莫)  
 [用於收納的新容器 New Containers for Organizing](https://steamcommunity.com/sharedfiles/filedetails/?id=2917951452)  (Github:nemo01642280 ,Discord:尼莫)  
+[現代軍事裝備包 Modern Military Gear Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=2951645909)  (Github:nemo01642280 ,Discord:尼莫)  
+[*排泄功能 Excrementum](https://steamcommunity.com/sharedfiles/filedetails/?id=2864043248)  (Github:vs863129,Discord:文森)  
 
 ### -搬運-
 [Minimal Display Bars](https://steamcommunity.com/sharedfiles/filedetails/?id=2004998206) (原模組翻譯搬運)  
@@ -119,8 +122,7 @@ FileName/media/lua/shared/Translate/CH/
 
 ### -待整合至工作坊-  
 "+"的符號代表有新增該模組的新版的翻譯  
-[現代軍事裝備包 Modern Military Gear Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=2951645909)  (Github:nemo01642280 ,Discord:尼莫)  
-[*排泄功能 Excrementum](https://steamcommunity.com/sharedfiles/filedetails/?id=2864043248)  (Github:vs863129,Discord:文森)  
+[+現代軍事裝備包 Modern Military Gear Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=2951645909)  (Github:nemo01642280 ,Discord:尼莫)  
 #### -搬運(待)-  
 
 ## 連接(LINK)
