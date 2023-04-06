@@ -121,7 +121,7 @@ FileName/media/lua/shared/Translate/CH/
 [技能說明(更多技能敘述) Skill Explanation (More info for skills)](https://steamcommunity.com/sharedfiles/filedetails/?id=2842368404)  (Github:vs863129,Discord:文森)  
 
 ### -待整合至工作坊-  
-"+"的符號代表有新增該模組的新版的翻譯 
+"+"的符號代表有新增該模組的新版的翻譯  
 [Spongie 髮型包 Spongie's Hair](https://steamcommunity.com/sharedfiles/filedetails/?id=2463184726)  (Github:vs863129,Discord:文森)  
 [+現代軍事裝備包 Modern Military Gear Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=2951645909)  (Github:nemo01642280 ,Discord:尼莫)  
 #### -搬運(待)-  
