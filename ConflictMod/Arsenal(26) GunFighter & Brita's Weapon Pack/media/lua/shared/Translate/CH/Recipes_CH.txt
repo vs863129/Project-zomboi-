@@ -208,7 +208,7 @@ Recipes_CH = {
 	
 	Recipe_Assemble_EDM96_(Taken-Down) = "展開 EDM96(收折)",
 	Recipe_Take-Down_EDM96 = "收折 EDM96",
-	
+		
 	Recipe_Saw_Off_Barrel_KS23 = "鋸短 KS-23",
 	
 	Recipe_Install_Fixed_Mag = "改裝 彈倉",
@@ -224,10 +224,10 @@ Recipes_CH = {
 	
 	Recipe_Saw_Off_M1887 = "鋸短槍管 M1887",
 	
-	Saw Off Barrel NEF_Handi_38 = "鋸短槍管 NEF Handi(.38)", 
-	Saw Off Barrel NEF_Handi_357 = "鋸短槍管 NEF Handi(.357)",
-	Saw Off Barrel NEF_Handi_410 = "鋸短槍管 NEF Handi(.410)",
-	Saw Off Barrel NEF_Handi_45LC = " 鋸短槍管 NEF Handi(.45LC)",
+	Recipe_Saw_Off_Barrel_NEF_Handi_38 = "鋸短槍管 NEF Handi(.38)",
+	Recipe_Saw_Off_Barrel_NEF_Handi_357 = "鋸短槍管 NEF Handi(.357)",
+	Recipe_Saw_Off_Barrel_NEF_Handi_410 = "鋸短槍管 NEF Handi(.410ga)",
+	Recipe_Saw_Off_Barrel_NEF_Handi_45LC = "鋸短槍管 NEF Handi(.45LC)",
 	
 	Recipe_Un-Fold_SUB2000 = "展開 SUB-2000",
 	Recipe_Fold_SUB2000 = "收折 SUB-2000",
@@ -355,21 +355,4 @@ Recipes_CH = {
 	Recipe_Remove_Trigger_Group_(Lever-Acton) = "移除-扳機組(槓桿式)",
 	Recipe_Use_Explosive_Caliber_Rounds = "使用高爆榴彈",
 	Recipe_Use_Incendiary_Caliber_Rounds = "使用燃燒榴彈",
-	Recipe_Saw_Off_Barrel_NEF_Handi_38 = "鋸短槍管 NEF Handi(.38)",
-	Recipe_Saw_Off_Barrel_NEF_Handi_357 = "鋸短槍管 NEF Handi(.357)",
-	Recipe_Saw_Off_Barrel_NEF_Handi_410 = "鋸短槍管 NEF Handi(.410ga)",
-	Recipe_Saw_Off_Barrel_NEF_Handi_45LC = "鋸短槍管 NEF Handi(.45LC)",
-	Recipe_Install_Fixed_Mag = "Install_Fixed_Mag",
-	Recipe_Install_Fixed_Mag = "Install_Fixed_Mag",
-	Recipe_Convert_to_Detachable_Mag = "Convert_to_Detachable_Mag",
-	Recipe_Convert_to_Fixed_Box_Mag = "Convert_to_Fixed_Box_Mag",
-	Recipe_Convert_to_Detachable_Mag = "Convert_to_Detachable_Mag",
-	Recipe_Convert_to_Fixed_Box_Mag = "Convert_to_Fixed_Box_Mag",
-	Recipe_Install_Fixed_Mag = "Install_Fixed_Mag",
-	Recipe_Install_Fixed_Mag = "Install_Fixed_Mag",
-	Recipe_Convert_to_Detachable_Mag = "Convert_to_Detachable_Mag",
-	Recipe_Convert_to_Fixed_Box_Mag = "Convert_to_Fixed_Box_Mag",
-	Recipe_Convert_to_Detachable_Mag = "Convert_to_Detachable_Mag",
-	Recipe_Convert_to_Fixed_Box_Mag = "Convert_to_Fixed_Box_Mag",
-
 }
