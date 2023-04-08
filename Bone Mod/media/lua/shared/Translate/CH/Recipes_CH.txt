@@ -1,0 +1,9 @@
+Recipes_CH = {
+	Recipe_Create_Bone_Axe = "製作骨斧",
+	Recipe_Create_Skull_Club = "製作骨仗",
+	Recipe_Create_Bone_Axe = "製作骨斧",
+	Recipe_Create_Bone_Spear = "製作骨茅",
+	Recipe_Create_Bone_Saw = "製作骨鋸",
+	Recipe_Create_Bone_knife = "製作骨刀",
+
+}

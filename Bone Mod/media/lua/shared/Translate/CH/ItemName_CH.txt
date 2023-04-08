@@ -1,0 +1,14 @@
+ItemName_CH = {
+
+    ItemName_boneMod.Bone = "骨頭",
+    ItemName_boneMod.Skull = "頭骨",
+    ItemName_boneMod.Hat_SkullMask = "骷髏頭面具",
+    ItemName_boneMod.BoneAxe = "骨斧",
+    ItemName_boneMod.SkullClub = "骨仗",
+    ItemName_boneMod.BoneSpear = "骨茅",
+    ItemName_boneMod.BoneKnife = "骨刀",
+    ItemName_boneMod.BoneSaw = "骨鋸",
+    ItemName_boneMod.SkullPestle = "頭骨杵",
+
+	
+}
