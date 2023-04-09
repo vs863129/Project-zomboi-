@@ -124,6 +124,8 @@ FileName/media/lua/shared/Translate/CH/
 "+"的符號代表有新增該模組的新版的翻譯  
 [Spongie 髮型包 Spongie's Hair](https://steamcommunity.com/sharedfiles/filedetails/?id=2463184726)  (Github:vs863129,Discord:文森)  
 [+現代軍事裝備包 Modern Military Gear Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=2951645909)  (Github:nemo01642280 ,Discord:尼莫)  
+[骨模組 Bone Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=2708704237)  (Github:nemo01642280 ,Discord:尼莫)  
+[骨盾 Bone Shield](https://steamcommunity.com/sharedfiles/filedetails/?id=2954598503)  (Github:nemo01642280 ,Discord:尼莫)  
 #### -搬運(待)-  
 
 ## 連接(LINK)
