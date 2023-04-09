@@ -1,0 +1,4 @@
+Recipes_CH = {
+	Recipe_Make_a_Bone_Shield = "製作骨盾",
+
+}

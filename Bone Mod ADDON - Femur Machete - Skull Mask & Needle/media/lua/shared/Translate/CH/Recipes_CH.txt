@@ -1,0 +1,7 @@
+Recipes_CH = {
+	Recipe_Make_Femur_Machete = "製作骨彎刀",
+	Recipe_Create_Skull_Mask = "製作骷髏頭面具",
+	Recipe_Create_Bone_Needle = "製作骨針",
+
+
+}

@@ -1,0 +1,8 @@
+ItemName_CH = {
+
+    ItemName_FemurMachete.FemurMachete = "骨彎刀",
+    ItemName_FemurMachete.NeedleBone = "骨針",
+
+
+	
+}

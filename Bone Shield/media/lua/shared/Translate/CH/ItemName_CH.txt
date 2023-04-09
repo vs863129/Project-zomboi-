@@ -1,0 +1,7 @@
+ItemName_CH = {
+
+    ItemName_BONESHIELD.BONESHIELD = "骨盾",
+
+
+	
+}
