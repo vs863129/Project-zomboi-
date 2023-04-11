@@ -119,6 +119,7 @@ FileName/media/lua/shared/Translate/CH/
 [閱讀方式調整 M-13's Reading Tweaks](https://steamcommunity.com/sharedfiles/filedetails/?id=2776874515)  (Github:nemo01642280 ,Discord:尼莫)  
 [Sprout's 混合農場與花園 Sprout's Farm and Garden](https://steamcommunity.com/sharedfiles/filedetails/?id=2937434637)  (Github:vs863129,Discord:文森)  
 [技能說明(更多技能敘述) Skill Explanation (More info for skills)](https://steamcommunity.com/sharedfiles/filedetails/?id=2842368404)  (Github:vs863129,Discord:文森)  
+[更多手套 More Gloves](https://steamcommunity.com/sharedfiles/filedetails/?id=2945060824)  (Github:nemo01642280 ,Discord:尼莫)  
 
 ### -待整合至工作坊-  
 "+"的符號代表有新增該模組的新版的翻譯  
