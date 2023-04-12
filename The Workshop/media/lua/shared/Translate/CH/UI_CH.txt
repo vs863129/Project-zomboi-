@@ -1,0 +1,5 @@
+UI_CH = {
+
+UI_ClothingType_SpecialBelt = "特別皮帶",
+
+}

@@ -1,0 +1,22 @@
+Tooltip_CH = {
+
+	Tooltip_HugePropaneTank 	= "只能用拖車移動",
+	Tooltip_MetalWorkbench 		= "用於報廢標籤中的所有配方",
+	Tooltip_MetalParts 			= "廢金屬,但更小",
+	Tooltip_LargeBolt 			= "就像釘子,但更大",
+	Tooltip_File				= "用於研磨刀片與其他用途",
+	Tooltip_Pliers 				= "用來拆別小物品",
+	Tooltip_MetalCutter			= "用來切割金屬片",
+
+	Tooltip_Toolbelt			= "儲存各類工具",
+
+
+
+	Tooltip_WorkshopMag1 		= "如何報廢金屬物品",
+	Tooltip_WorkshopMag2 		= "如何拆解武器與工具",
+	Tooltip_WorkshopMag3 		= "如何製作丙烷氣爐以及如何使用它",
+	Tooltip_WorkshopMag4 		= "如何拆解汽車零件",
+	Tooltip_WorkshopMag5 		= "如何拆解複雜的物品",
+
+} 
+	
