@@ -129,8 +129,8 @@ FileName/media/lua/shared/Translate/CH/
 ### -待整合至工作坊-  
 "+"的符號代表有新增該模組的新版的翻譯  
 [工作室 The Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2680473910)  (Github:nemo01642280 ,Discord:尼莫)  
-[早就知道(解藥模組) The Knew](https://steamcommunity.com/sharedfiles/filedetails/?id=2725378876)  (Github:a500197 ,Discord:Mark誌)　　
-[更換繃帶　Replace Bandage](https://steamcommunity.com/sharedfiles/filedetails/?id=2944344655&searchtext=)  (Github:a500197 ,Discord:Mark誌)　　
+[早就知道(解藥模組) The Knew](https://steamcommunity.com/sharedfiles/filedetails/?id=2725378876)  (Github:a500197 ,Discord:Mark誌)   
+[更換繃帶　Replace Bandage](https://steamcommunity.com/sharedfiles/filedetails/?id=2944344655&searchtext=)  (Github:a500197 ,Discord:Mark誌)    
 #### -搬運(待)-  
 
 ## 連接(LINK)
