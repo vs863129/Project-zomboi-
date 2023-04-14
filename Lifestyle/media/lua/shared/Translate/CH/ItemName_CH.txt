@@ -1,0 +1,7 @@
+ItemName_EN = {
+	ItemName_Lifestyle.BookMusic1 = "音樂 第 1 集 - 入門",
+	ItemName_Lifestyle.BookMusic2 = "音樂 第 2 集 - 中級",
+	ItemName_Lifestyle.BookMusic3 = "音樂 第 3 集 - 進階",
+	ItemName_Lifestyle.BookMusic4 = "音樂 第 4 集 - 專家",
+	ItemName_Lifestyle.BookMusic5 = "音樂 第 5 集 - 大師",
+}

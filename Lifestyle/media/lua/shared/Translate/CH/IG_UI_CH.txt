@@ -1,0 +1,5 @@
+IGUI_CH = {
+	IGUI_perks_Meditation = "冥想",
+	IGUI_perks_Music = "音樂",
+	IGUI_perks_Lifestyle = "生活方式",
+}

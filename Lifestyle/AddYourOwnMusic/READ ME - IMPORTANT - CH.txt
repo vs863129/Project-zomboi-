@@ -1,0 +1,188 @@
+----------------------------------------------------------------
+
+------  原翻譯者的忠告 --------
+
+命名名稱建議都以英文為主，避免部分中文無法正常讀取
+
+部分路徑或資料夾都是手打得，如果有誤請或問題請至巴哈告知(巴哈 : vs863129)
+
+2023/4/14完成翻譯,日後教學更新依據 EN 為主
+
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+
+單人/個人遊玩 使用?
+
+請根據 第一步.
+
+多人遊玩/創建附加插件?
+
+請根據 第一至第三步.
+
+-----------------------------------------------------------------
+
+
+
+------  1. 加入您的音樂至個人使用 --------
+
+---1-1. 設置一些東西:---
+
+- 將 YourMusicLifestyleAddon 資料夾備份至任意地方 (不再模組資料夾內),
+
+在單人遊戲中,這將會是你的備份區,以防模組更新時,直接將您的文件覆蓋.
+
+對於多人遊戲,你可以將其移動至工作坊資料夾;
+
+- 更名 "YourMusic" 你想要的名稱,我們將其稱為播放清單,在多人遊戲中,這也是您的附加插件名稱; *取一個獨特的名稱, 通用名稱可能會與其他附加插件衝突!!
+
+- 打開 media 資料夾,你將會看見 3 個資料夾 (lua, scripts 和 sound);
+
+- 進到 lua/client/TimesActions 接著更名 "MyMusic" 為你的播放清單名稱, 請記住,任何內容都會區分大小寫;
+
+- 進到 media/scripts 和更名 "MyMusic" 為你的播放清單名稱;
+
+- 進到 media/sound 刪除 replaceme_mymusic.ogg
+
+---1-2. 加入音樂:---
+
+- 現在該準備加入自訂音樂了,他們應該為 OGG 格式 (使用任何像是Audacity的音樂轉檔轉成 .ogg 格式);
+
+- 放入自訂音樂 media/sound (與你刪除的 replaceme_mymusic.ogg 是同個資料夾), 將每個音樂命名為 音樂名稱_播放清單名稱
+
+- 就是這樣!現在讓我們告訴模組讀取自訂音樂;
+
+---1-3. 將自訂音樂連接至模組:---
+
+- 進到 lua/client/TimesActions 和開啟 .lua 資料, 現在他應該命名為 AddMoreTracks_播放清單名稱.lua (LUA 資料可使用 Notepad++ 開啟);
+
+- 現在打開文件,你將會看到一組綠色的說明, 按照說明進行操作,除非有特別告知,否則不可添加或刪除任意內容;
+
+- 完成後,自訂音樂就會進入模組中,按照步驟1-4為音樂設置定義 (多人時需要) 或 1-5;
+
+---1-4. 定義音樂參數 (單人可選):---
+
+- 如果你要將自訂音樂從單人轉移至多人遊戲,這一點非常重要!!!,否則請忽略它和刪除 scripts 資料夾;
+
+- 進到 media/scripts, 打開 .txt 資料且將其命名為 播放清單名稱_sounds_item.txt
+
+- 它應該涵蓋這些結構 (distancemax 是玩家範圍並不是殭屍檢測範圍,不要降低它):
+
+
+module Base {
+
+    sound replaceme_mymusic
+    {
+        category = Item, loop = false, is3D = true,
+        clip {
+		
+		file = media/sound/replaceme_mymusic.ogg,
+		distanceMin = 10,
+		distanceMax = 100,
+		reverbFactor = 0.1,
+		volume = 1.0,
+
+		}
+    }
+
+
+}
+
+- 重新命名 replaceme_mymusic 為 音樂名稱_音樂清單名稱
+
+- 重新命名 replaceme_mymusic.ogg 為 音樂名稱_音樂清單名稱.ogg
+
+- 如果你不清楚這些值是做什麼,請保持原樣即可;
+
+- 如果要添加更多音樂,請複製從sound開頭至結尾的所有內容('}'的前兩個都要複製) 然後再將其貼上至剛複製的結尾 }下一行
+
+- 添加第二個音樂後,他的應該會長這樣:
+
+
+
+module Base {
+
+    sound replaceme_mymusic
+    {
+        category = Item, loop = false, is3D = true,
+        clip {
+		
+		file = media/sound/replaceme_mymusic.ogg,
+		distanceMin = 10,
+		distanceMax = 100,
+		reverbFactor = 0.1,
+		volume = 1.0,
+		
+		}
+    }
+
+    sound secondsong_mymusic
+    {
+        category = Item, loop = false, is3D = true,
+        clip {
+		
+		file = media/sound/secondsong_mymusic.ogg,
+		distanceMin = 10,
+		distanceMax = 100,
+		reverbFactor = 0.1,
+		volume = 1.0,
+		
+		}
+    }
+
+}
+
+
+---1-5. 單人遊玩的最後步驟:---
+
+- 如果你是遊玩單人遊戲，那麼現在要做的事就是保存所有內容，複製 media 資料夾將其貼上至 Lifestyle mod 資料夾中:
+
+路徑 : Steam\steamapps\workshop\content\108600\2934886355\mods\Lifestyle
+
+- 一切就緒! 如果角色達到所需的技能要求,在任何樂器的快捷選單中將會看到你添加的音樂;
+
+- 每當你想加入更多音樂,只需要重複步驟 1-2~1-4即可.記得將你自己的 media 資料夾備份;
+
+- 或是,可以繼續下面的步驟,這將讓你創建個人附加插件(然而這樣就不需要每次遇到更新時,都需要複製貼上了);
+
+- 可無需要發布即可運作,如果你願意也可以將其作為自己的個人附加插件;
+
+
+
+------  2. 設置附加插件 --------
+
+- 使用可編輯開啟 mod.info 的工具(如:Notepad++):
+
+name = 你的附加插件/模組名稱;
+
+id = 你的模組ID,這將是對於個人附加插件來說必須是獨一無二的;
+
+description = 個人附加插件敘述 (將會顯示在遊戲內的該模組敘述);
+
+poster = 保持原樣;
+
+- 你可以根據需求更改原本的圖片並覆蓋它 (尺寸必須為 512x512 像素);
+
+- 如果你不想要發布它:
+
+複製YourMusicLifestyleAddon並貼上至 \Users\YOURUSERNAME\Zomboid\mods 資料夾.
+
+進入遊戲,在模組介面中啟用你的插件,即可完成!
+
+------  3. 發布附加插件 --------
+
+- 進入 \Users\YOURUSERNAME\Zomboid\Workshop
+
+- 創建一個與 YourMusicLifestyleAddon 資料夾同名的資料夾
+
+- 從 LifestyleMusicAddon 中取出 workshop.txt 和 preview.png 至你新建的資料夾;
+
+- 你可以根據需求更改圖片並覆蓋原本的 (尺寸必須為 256x256 像素);
+
+- 接著在新的 YourMusicLifestyleAddon 資料夾中,創建並命名為 Contents 資料夾,然後在 Contents 資料夾中再創建一個並命名為 mods 資料夾.
+ 
+- 複製舊的 YourMusicLifestyleAddon 資料夾(其中包含你的音樂)並將其貼上至新創建的mods資料夾中;
+
+- 確保刪除了 WHERE AM I - Instructions.txt,和此READ ME本檔案,並確保你的資料名稱都是正確無誤的;
+
+- 最後,進入遊戲,選擇工作坊並依據那邊的步驟將個人附加插件添加至工作坊中!
