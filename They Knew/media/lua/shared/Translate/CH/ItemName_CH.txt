@@ -1,0 +1,6 @@
+ItemName_CH = {
+    ItemName_TheyKnew.Zomboxivir = "解藥安瓿",
+	ItemName_TheyKnew.MysteriousHazmat = "秘密核生化套裝",
+	ItemName_TheyKnew.MysteriousSatchel = "戰術側背包",
+	ItemName_TheyKnew.Zomboxycycline = "Zomboxycycline Pills(預防藥物)",
+}
