@@ -1,0 +1,4 @@
+IGUI_CH = { 
+	IGUI_Replace_Bandage = "更換繃帶"
+	IGUI_Replace_&_Disinfect = "消毒後更換繃帶"
+}
