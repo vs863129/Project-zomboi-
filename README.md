@@ -132,7 +132,7 @@ FileName/media/lua/shared/Translate/CH/
 [早就知道(解藥模組) The Knew](https://steamcommunity.com/sharedfiles/filedetails/?id=2725378876)  (Github:a500197 ,Discord:Mark誌)   
 [更換繃帶　Replace Bandage](https://steamcommunity.com/sharedfiles/filedetails/?id=2944344655&searchtext=)  (Github:a500197 ,Discord:Mark誌)    
 [自動吸菸+吸菸改進 AutoSmoke + smoking improvements](https://steamcommunity.com/sharedfiles/filedetails/?id=2643751872)  (Github:a500197 ,Discord:Mark誌)    
-[自動裁縫 AutoSewing](https://steamcommunity.com/sharedfiles/filedetails/?id=2584991527&searchtext=)  (Github:a500197 ,Discord:Mark誌)    
+[自動縫紉 AutoSewing](https://steamcommunity.com/sharedfiles/filedetails/?id=2584991527&searchtext=)  (Github:a500197 ,Discord:Mark誌)    
 #### -搬運(待)-  
 
 ## 連接(LINK)
