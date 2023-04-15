@@ -1,0 +1,20 @@
+UI_CH = {
+    -- Key bindings
+    UI_optionscreen_binding_NF Smoke = "抽煙",
+    -- Options
+    UI_AutoSmoke_AutoSmoking = "自動抽煙",
+    UI_AutoSmoke_CharacterSpeaks = "角色發言",
+    UI_AutoSmoke_CharacterSpeaks_Tooltip = "如果角色沒有香煙或打火機/火柴，他會說些話.",
+    UI_AutoSmoke_Mod_ButtsToAshtray = "把煙蒂放進煙灰缸 [%1]",
+    UI_AutoSmoke_Mod_ButtsToAshtray_Tooltip = "如果角色的主要物品欄或附近有煙灰缸，他會在抽煙後把煙蒂放進去.",
+    UI_AutoSmoke_Mod_ThrowAwayButts = "扔掉煙蒂 [%1]",
+    UI_AutoSmoke_Mod_ThrowAwayButts_Tooltip = "不要亂扔煙蒂！找個垃圾桶扔掉，或者一具屍體...<br>角色會在抽完煙後扔掉煙蒂.",
+    UI_AutoSmoke_Mod_RemoveButts = "不顯示煙蒂 [%1]",
+    UI_AutoSmoke_Mod_RemoveButts_Tooltip = "抽完煙後，不會顯示煙蒂.",
+    UI_AutoSmoke_Mod_SmokeButts = "抽煙蒂 [%1]",
+    UI_AutoSmoke_Mod_SmokeButts_Tooltip = "如果沒有其他東西可抽，角色會抽煙蒂（如果有的話）.",
+    UI_AutoSmoke_Mod_ReversePriority = "反轉優先級 [%1]",
+    UI_AutoSmoke_Mod_ReversePriority_Tooltip = "預設優先順序：自製香煙 / 自製濾嘴 / 普通香煙 / 輕便型 / 薄荷香 / 金色香煙",
+    UI_AutoSmoke_Mod_GumOnly = "只嚼尼古丁口香糖 [%1]",
+    UI_AutoSmoke_Mod_GumOnly_Tooltip = "角色只會嚼尼古丁口香糖，即使有香煙也不會抽.如果沒有口香糖，他也不會抽煙.",
+}
