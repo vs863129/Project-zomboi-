@@ -100,6 +100,11 @@ FileName/media/lua/shared/Translate/CH/
 [+現代軍事裝備包 Modern Military Gear Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=2951645909)  (Github:nemo01642280 ,Discord:尼莫)  
 [骨模組 Bone Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=2708704237)  (Github:nemo01642280 ,Discord:尼莫)  
 [骨盾 Bone Shield](https://steamcommunity.com/sharedfiles/filedetails/?id=2954598503)  (Github:nemo01642280 ,Discord:尼莫)  
+[工作室 The Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2680473910)  (Github:nemo01642280 ,Discord:尼莫)  
+[早就知道(解藥模組) The Knew](https://steamcommunity.com/sharedfiles/filedetails/?id=2725378876)  (Github:a500197 ,Discord:Mark誌)   
+[更換繃帶　Replace Bandage](https://steamcommunity.com/sharedfiles/filedetails/?id=2944344655&searchtext=)  (Github:a500197 ,Discord:Mark誌)    
+[自動吸菸+吸菸改進 AutoSmoke + smoking improvements](https://steamcommunity.com/sharedfiles/filedetails/?id=2643751872)  (Github:a500197 ,Discord:Mark誌)    
+[自動縫紉 AutoSewing](https://steamcommunity.com/sharedfiles/filedetails/?id=2584991527&searchtext=)  (Github:a500197 ,Discord:Mark誌)    
 
 ### -搬運-
 [Minimal Display Bars](https://steamcommunity.com/sharedfiles/filedetails/?id=2004998206) (原模組翻譯搬運)  
@@ -128,11 +133,7 @@ FileName/media/lua/shared/Translate/CH/
 
 ### -待整合至工作坊-  
 "+"的符號代表有新增該模組的新版的翻譯  
-[工作室 The Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2680473910)  (Github:nemo01642280 ,Discord:尼莫)  
-[早就知道(解藥模組) The Knew](https://steamcommunity.com/sharedfiles/filedetails/?id=2725378876)  (Github:a500197 ,Discord:Mark誌)   
-[更換繃帶　Replace Bandage](https://steamcommunity.com/sharedfiles/filedetails/?id=2944344655&searchtext=)  (Github:a500197 ,Discord:Mark誌)    
-[自動吸菸+吸菸改進 AutoSmoke + smoking improvements](https://steamcommunity.com/sharedfiles/filedetails/?id=2643751872)  (Github:a500197 ,Discord:Mark誌)    
-[自動縫紉 AutoSewing](https://steamcommunity.com/sharedfiles/filedetails/?id=2584991527&searchtext=)  (Github:a500197 ,Discord:Mark誌)    
+
 #### -搬運(待)-  
 
 ## 連接(LINK)
