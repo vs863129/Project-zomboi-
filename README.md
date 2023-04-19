@@ -133,6 +133,7 @@ FileName/media/lua/shared/Translate/CH/
 
 ### -待整合至工作坊-  
 "+"的符號代表有新增該模組的新版的翻譯  
+[*受傷標示 Injury Indicator](https://steamcommunity.com/sharedfiles/filedetails/?id=2921642476)  (Github:a500197 ,Discord:Mark誌)    
 
 #### -搬運(待)-  
 
