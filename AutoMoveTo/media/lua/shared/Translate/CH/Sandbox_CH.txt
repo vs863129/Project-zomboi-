@@ -1,0 +1,12 @@
+Sandbox_CH = {
+    Sandbox_AutoMoveTo = "Mod AutoMoveTo",
+    Sandbox_AutoMoveTo_Override = "覆蓋Mod選項",
+    Sandbox_AutoMoveTo_Override_tooltip = "對伺服器強制玩家端選擇很有用",
+    Sandbox_AutoMoveTo_Mode = "觸發選項",
+    Sandbox_AutoMoveTo_Mode_tooltip = "需要啟用覆蓋Mod選項",
+    Sandbox_AutoMoveTo_Mode_option1 = "按鍵綁定 > 玩家控制 > 移動到",
+    Sandbox_AutoMoveTo_Mode_option2 = "滑鼠左鍵點擊",
+    Sandbox_AutoMoveTo_Mode_option3 = "滑鼠左鍵點擊兩次",
+    Sandbox_AutoMoveTo_Cursor = "顯示光標",
+    Sandbox_AutoMoveTo_Cursor_tooltip = "需要啟用覆蓋Mod選項",
+}

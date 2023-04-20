@@ -1,0 +1,4 @@
+ItemName_CH = {
+    ItemName_Base.PZwaystone = "傳送石碑",
+
+}

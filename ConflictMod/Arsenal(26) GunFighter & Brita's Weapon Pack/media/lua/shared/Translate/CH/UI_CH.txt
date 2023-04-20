@@ -1,0 +1,20 @@
+UI_CH = {
+    UI_optionscreen_binding_GunFighter Mod	= "Arsenal(26)GunFighter 設置('*'僅2.0,'!'僅1.0)",
+    UI_optionscreen_binding_AMMO_TYPE_1		= "彈藥類型 前一個",
+    UI_optionscreen_binding_AMMO_TYPE_2		= "彈藥類型 後一個",
+    UI_optionscreen_binding_MAG_TYPE_1		= "彈匣類型 (*自動) / 近戰-握把(投擲) 前一個",
+    UI_optionscreen_binding_MAG_TYPE_2		= "彈匣類型 (*手動) / 近戰-握把(投擲) 後一個",
+    UI_optionscreen_binding_FOLD_STOCK		= "收折: 槍托 / 刺刀",
+    UI_optionscreen_binding_MELEE_MODE		= "近戰 / 投擲 / *退出射擊 / !射擊模式切換 ",
+    UI_optionscreen_binding_SELECT_FIRE		= "切換開火模式 /*自動裝備(投擲物)",
+    UI_optionscreen_binding_ALT_LOAD		= "交替裝填",
+    UI_optionscreen_binding_TRAJECTORY_UP	= "彈道提高 / 近距離射擊(CQB)-開",
+    UI_optionscreen_binding_TRAJECTORY_DOWN	= "彈道降低 / 近距離射擊(CQB)-關",
+    UI_optionscreen_binding_WEAPON_LIGHT	= "槍燈/*雷射切換",
+    UI_optionscreen_binding_WEAPON_BIPOD	= "*武器腳架",
+    UI_optionscreen_binding_REFRESH_SCRIPT	= "刷新武器腳本",
+    UI_optionscreen_binding_WEAPON_NVG		= "*武器附掛夜視儀",
+    UI_optionscreen_binding_GUNFIGHTER_WINDOW	= "*GUNFIGHTER 資訊窗",
+}
+
+

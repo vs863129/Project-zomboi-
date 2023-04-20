@@ -1,0 +1,120 @@
+UI_CH = {
+	UI_Exc_HumanFeces = "人類的糞便",
+	UI_Exc_HumanFecesShort = "糞便",    /* 5-6 symbols maximum! */
+	UI_Exc_HumanUrine = "尿",
+	UI_Exc_HumanUrineShort = "尿",
+	UI_Exc_HumanFecesMicro = "f",
+	UI_Exc_HumanUrineMicro = "u",
+
+	UI_optionscreen_binding_ExcrementumStatus = "排泄狀態",
+	UI_Exc_Say_Urinated_M = "我尿出來了...",
+	UI_Exc_Say_Urinated_F = "我尿出來了...",
+	UI_Exc_Say_Defecated_M = "我大在身上了...",
+	UI_Exc_Say_Defecated_F = "我大在身上了...",
+	
+	UI_Exc_UrinationMini = "膀胱 :   %1  %2 毫升",
+	UI_Exc_DefecationMini = "大腸 :   %1  %2%",
+	UI_Exc_InvTooltip_HasFeces = "糞臭味",
+	UI_Exc_InvTooltip_Feces = "堵塞的糞便: %1",
+	UI_Exc_InvTooltip_Urine = "尿味",
+	UI_Exc_InvTooltip_HasFecesRGB = "<RGB:0.7,0.3,0>糞臭味",
+	UI_Exc_InvTooltip_FecesRGB = "<RGB:0.7,0.3,0>堵塞的糞便: %1",
+	UI_Exc_InvTooltip_UrineRGB = "<RGB:1,1,0>尿味",
+	UI_Exc_StressChange = "壓力: %1",
+	
+	UI_Exc_BoredomChange = "無聊: %1",
+	UI_Exc_BoredomChangeP = "無聊: +%1",
+	UI_Exc_UnhappynessChange = "不快樂: %1",
+	UI_Exc_UnhappynessChangeP = "不快樂: +%1",
+	UI_Exc_FatigueChange = "疲勞: %1%",
+	UI_Exc_FatigueChangeP = "疲勞: +%1%",
+	UI_Exc_PagesChange = "+%1 張數",
+	
+	UI_Exc_Poisoning = "毒性物質",
+	UI_Exc_Diarrhea = "腹瀉",
+	UI_Exc_Diuretic = "利尿",
+	
+	UI_Exc_Seats = "座位", /* in vehicle */
+	UI_Exc_Room = "房間",
+	UI_Exc_YourBody = "你身上",
+	
+	/* OPTION SOUNDS */
+	
+	UI_Exc_Option_PooSoundTypes = "便便音效類型",
+	UI_Exc_Option_PooSoundTypes_Tooltip = "戶外並不是廁所. 戶外/廁所都有包含個人排便.",
+	UI_Exc_Option_PooSoundTypes_All = "全部",
+  UI_Exc_Option_PooSoundTypes_NoDefecateProcess = "無排便過程",
+  UI_Exc_Option_PooSoundTypes_NoFart = "不放屁",
+  UI_Exc_Option_PooSoundTypes_OnlyOutdoors = "只有戶外",
+  UI_Exc_Option_PooSoundTypes_OnlyToilet = "只有廁所",
+  UI_Exc_Option_PooSoundTypes_None = "無",
+  UI_Exc_Option_PooSoundTypes_NoneButPooSelf = "只有個人排便",
+  UI_Exc_Option_PooSoundTypes_NoneButClothes = "只有衣服",
+
+  UI_Exc_Option_PeeSoundTypes = "尿尿音效類型",
+	UI_Exc_Option_PeeSoundTypes_Tooltip = "戶外並不是廁所. 戶外/廁所都有包含個人排尿.",
+	UI_Exc_Option_PeeSoundTypes_All = "全部",
+	UI_Exc_Option_PeeSoundTypes_OnlyOutdoors = "只有戶外",
+	UI_Exc_Option_PeeSoundTypes_OnlyToilet = "只有廁所",
+	UI_Exc_Option_PeeSoundTypes_None = "無",
+	UI_Exc_Option_PeeSoundTypes_NoneButPeeSelf = "只有個人排尿",
+	UI_Exc_Option_PeeSoundTypes_NoneButZip = "只有 拉鍊/衣服",
+	
+	UI_Exc_Option_ExtractSound = "提取聲音",
+	UI_Exc_Option_FlushSound = "沖水聲",
+	
+	UI_Exc_Option_GrowlSound = "低吼聲",
+	UI_Exc_Option_GrowlSound_To	oltip = "根據疼痛程度有不同的聲音.",
+	UI_Exc_Option_GrowlSound_Always = "經常",
+	UI_Exc_Option_GrowlSound_Never = "從不",
+	UI_Exc_Option_GrowlSound_OnlyOnce = "只有一次",
+	UI_Exc_Option_GrowlSound_OnlyOnceOnEachStage = "每階段只有一次",
+	
+	/* OPTION MOODLES */
+	
+	UI_Exc_Option_StomachMoodle = "胃狀態小圖",
+	UI_Exc_Option_StomachMoodle_ShowAny = "顯示所有",
+  UI_Exc_Option_StomachMoodle_ShowOnlyRed = "只顯示紅狀態",
+  UI_Exc_Option_StomachMoodle_Hide = "隱藏",
+
+  UI_Exc_Option_ColonMoodle = "大腸狀態小圖",
+  UI_Exc_Option_ColonMoodle_ShowAny = "顯示所有",
+  UI_Exc_Option_ColonMoodle_NoSmallIntestine = "沒有小腸",
+  UI_Exc_Option_ColonMoodle_NoGreen = "只顯示紅狀態",
+  UI_Exc_Option_ColonMoodle_Hide = "隱藏",
+
+  UI_Exc_Option_UrineMoodle = "膀胱狀態小圖",
+  UI_Exc_Option_UrineMoodle_ShowAny = "顯示所有",
+  UI_Exc_Option_UrineMoodle_ShowOnlyRed = "只顯示紅狀態",
+  UI_Exc_Option_UrineMoodle_ShowOnlyPain = "只顯示痛苦",
+  UI_Exc_Option_UrineMoodle_Hide = "隱藏",
+
+  UI_Exc_Option_SmellMoodle = "聞狀態小圖",
+	UI_Exc_Option_NoAffectGameplay_Tooltip = "此選項不影響玩法.",
+	
+	/* REGEN OVERLAY */
+	UI_Exc_Option_Overlay = "生命恢復指示器",
+	UI_Exc_Option_Overlay_Tooltip = "指定是否查看由綠色狀態的胃引起的再生疊層. <br> 1) 在手錶的下方右上角,且始終可見. <br> 2) 始終可見,如果有胃部視窗則附著在胃部圖示上. <br> 3) 僅胃部有東西時顯示. <br> 4) 僅角色生病時顯示. <br> 5) 取消.",
+	UI_Exc_Option_Overlay_Tooltip2 = "6) 僅在健康面板上.",
+  UI_Exc_Option_Overlay_AlwaysOnTop = "始終可見",
+  UI_Exc_Option_Overlay_NearStomachIfPossible = "盡可能靠近胃圖示",
+  UI_Exc_Option_Overlay_NearStomachOnly = "僅靠近胃",
+  UI_Exc_Option_Overlay_OnlyIfSickVisible = "僅在生病時顯示",
+  UI_Exc_Option_Overlay_Off = "關",
+	UI_Exc_Option_Overlay_HealthPanel = "僅在健康面板",
+
+	/* COMPATIBILITY */
+	UI_MiniHealth_ExcShowClothes = "顯示涵蓋部分",
+	UI_MiniHealth_ExcShowClothesTooltip = "覆蓋部位是藍色的.<br>胸部(僅女性)和腹股溝未被遮蓋則是淺藍色",
+
+	UI_SimpleStatus_ExcHidden = "[隱藏]",
+
+
+	/* TRAITS */
+	UI_trait_ExcVoyeuristic = "偷窺癖",
+	UI_trait_VoyeuristicDesc = "從偷窺他人廁所時獲得快感.",
+
+
+
+
+}

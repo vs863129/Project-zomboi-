@@ -1,0 +1,5 @@
+IG_UI_CH = 
+{
+IGUI_Halo_SafetyDisengaged = "你已經脫離登入保護狀態，小心了！",
+IGUI_Halo_YouAreSafeFor = "你距離脫離登入保護狀態還有 %1 秒, 移動會加速脫離速度",
+}

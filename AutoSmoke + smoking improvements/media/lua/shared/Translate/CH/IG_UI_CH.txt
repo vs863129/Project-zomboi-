@@ -1,0 +1,10 @@
+IGUI_CH = {
+    IGUI_AutoSmoke_Say_NoFire_1 = "沒有%1，我怎麼抽煙？",
+    IGUI_AutoSmoke_Say_NoFire_2 = "沒有火就沒有煙",
+    IGUI_AutoSmoke_Say_NoFire_3 = "嗯？我肯定有%1的啊",
+    IGUI_AutoSmoke_Say_NoFire_Lighter = "打火機",
+    IGUI_AutoSmoke_Say_NoFire_Matches = "火柴",
+    IGUI_AutoSmoke_Say_NoCigarettes_1 = "沒有香煙，怎麼能開心？",
+    IGUI_AutoSmoke_Say_NoCigarettes_2 = "沒有香煙了..",
+    IGUI_AutoSmoke_Say_NoCigarettes_3 = "有人有煙嗎？",
+}

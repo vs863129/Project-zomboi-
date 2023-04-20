@@ -1,0 +1,43 @@
+Sandbox_CH = {
+	Sandbox_Excrementum = "排泄物",
+
+	Sandbox_Excrementum_StomachMultiplier = "胃時間倍數",
+	Sandbox_Excrementum_StomachMultiplier_tooltip = "食物被胃消化的時間.\n預設依據現實",
+	
+	Sandbox_Excrementum_ChymeMultiplier = "食糜倍數 (飢餓值)",
+	Sandbox_Excrementum_ChymeMultiplier_tooltip = "每10分鐘後,有多少食物會變成食糜並離開胃.",
+	
+	Sandbox_Excrementum_DefecateIntMinutes = "腸道時間(分鐘)",
+	Sandbox_Excrementum_DefecateIntMinutes_tooltip = "在遊戲中,通過腸道所需的時間.\n(在胃和大腸之間)",
+	
+	Sandbox_Excrementum_ColonMinutes = "大腸時間 (分鐘)",
+	Sandbox_Excrementum_ColonMinutes_tooltip = "必須經過多少時間,才能開始降低大腸閥值.",
+	
+	Sandbox_Excrementum_ColonBaseThreshold = "大腸閥值 (百分比)",
+	Sandbox_Excrementum_ColonBaseThreshold_tooltip = "決定排便慾望的大腸飽滿百分比.某些食物會改變這個閥值",
+	
+	Sandbox_Excrementum_UrinateIncreaseMultiplier = "尿液倍數",
+	Sandbox_Excrementum_UrinateIncreaseMultiplier_tooltip = "飲用水轉換為尿液的倍數.\n預設是 1:1,其中每10口渴值 = 100 毫升.\n也影響利尿效果.",
+	
+	Sandbox_Excrementum_UrinatePassiveMultiplier = "被動尿液倍數",
+	Sandbox_Excrementum_UrinatePassiveMultiplier_tooltip = "來自新成代謝被動產生的尿意倍數.\n默認情況下,所有30%的生成(如果沒有額外狀態或感冒等等狀態...).",
+
+	Sandbox_Excrementum_StomachVolume = "胃容量 (飢餓值)",
+	Sandbox_Excrementum_StomachVolume_tooltip = "保持綠色的胃狀態,可恢復健康.",
+
+	Sandbox_Excrementum_AdditionalStomachVolume = "額外胃容量",
+	Sandbox_Excrementum_AdditionalStomachVolume_tooltip = "胃可能會撐大.最大容量是胃基礎容量加上這個值.\n角色不會食用會超過最大容量的食物.",
+	
+	Sandbox_Excrementum_OverlayIsAllowed = "生命恢復指示器",
+	Sandbox_Excrementum_OverlayIsAllowed_tooltip = "允許客戶端使用生命恢復指示器.\n他們可將客戶端設置內的選項開啟/關閉,且可改變其設置",
+
+	Sandbox_Excrementum_EnabledStatusBars = "狀態欄",
+	Sandbox_Excrementum_EnabledStatusBars_tooltip = "允許客戶端使用狀態介面.\n他們可關閉/開啟它,切換欄,更改位置等等...",
+
+	Sandbox_Excrementum_Shame = "羞恥",
+	Sandbox_Excrementum_Shame_tooltip = "羞恥設置 (含多人).",
+	Sandbox_Excrementum_ShameLevels_option1 = "關閉",
+	Sandbox_Excrementum_ShameLevels_option2 = "自動檢測(身體紋理替換)",
+	Sandbox_Excrementum_ShameLevels_option3 = "始終啟用",
+	Sandbox_Excrementum_ShameLevels_option4 = "在神模式下也啟用",
+}

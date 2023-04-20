@@ -1,0 +1,6 @@
+Sandbox_EN = {
+	Sandbox_TheyKnew = "他們知道They knew",
+	Sandbox_TheyKnew_SpawnChance = "生成機率最大1000000",
+	Sandbox_TheyKnew_LootChance = "安瓿掉落率", 
+	Sandbox_TheyKnew_LootChanceZomboxycycline = "百分之幾掉落 Zomboxycycline Pills(預防藥物)",
+}

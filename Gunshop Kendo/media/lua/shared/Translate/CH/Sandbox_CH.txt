@@ -1,0 +1,166 @@
+Sandbox_CH = {
+    	Sandbox_GunshopKendo = "槍店 Kendo",
+	
+	Sandbox_ModSource22 = ".22LR 彈藥 來源Mod",
+    	Sandbox_ModSource22_tooltip = "轉換 本MOD的.22LR槍枝，來使用來自其他MOD的.22LR彈藥",
+	
+	Sandbox_ModSource22_option1 = "槍店 Kendo (預設)",
+	Sandbox_ModSource22_option2 = "Brita&Arsenal 系列",
+	Sandbox_ModSource22_option3 = "Vanilla Firearms Expansion",
+	Sandbox_ModSource22_option4 = "Firearms B41",
+	
+	Sandbox_UseResidentEvilNames = "使用惡靈古堡的名稱",
+    	Sandbox_UseResidentEvilNames_tooltip = "替換現實世界中的槍枝名稱為惡靈古堡遊戲中的名稱或調整非來自惡靈古堡的槍名 .",
+    
+    	Sandbox_NormalGunRarity = "一般槍枝 稀有度",
+    	Sandbox_NormalGunRarity_tooltip = "調整一般槍械的重生稀有度",
+	
+	Sandbox_NormalGunRarity_option1 = "關閉",
+	Sandbox_NormalGunRarity_option2 = "極稀有",
+	Sandbox_NormalGunRarity_option3 = "稀有",
+	Sandbox_NormalGunRarity_option4 = "常見",
+	Sandbox_NormalGunRarity_option5 = "豐富",
+	Sandbox_NormalGunRarity_option6 = "極豐富",
+    
+    	Sandbox_SpecialGunRarity = "特殊槍械 稀有度",
+    	Sandbox_SpecialGunRarity_tooltip = "調整在容器中或是來自[GSK - S.T.A.R.S.]特殊殭屍身上發現特殊槍械的機率",
+	
+	Sandbox_SpecialGunRarity_option1 = "關閉",
+	Sandbox_SpecialGunRarity_option2 = "極稀有",
+	Sandbox_SpecialGunRarity_option3 = "稀有",
+	Sandbox_SpecialGunRarity_option4 = "常見",
+	Sandbox_SpecialGunRarity_option5 = "豐富",
+	Sandbox_SpecialGunRarity_option6 = "極豐富",
+	
+    	Sandbox_GunshopKendoGuns = "槍店 Kendo 槍械名稱",
+    
+    	Sandbox_DefaultNames = "預設名稱選項",
+    	Sandbox_DefaultNames_tooltip = "下列槍械預設使用的名稱",
+	
+	Sandbox_DefaultNames_option1 = "真實名稱",
+	Sandbox_DefaultNames_option2 = "遊戲中名稱 / 暱稱",
+    
+    	Sandbox_M100P = "衝鋒槍",
+    	Sandbox_M100P_tooltip = "選擇顯示名稱 卡利科 M100P / 衝鋒槍",
+	
+	Sandbox_M100P_option1 = "預設",
+	Sandbox_M100P_option2 = "現實名稱 - 卡利科 M100P",
+	Sandbox_M100P_option3 = "遊戲中名稱 - 衝鋒槍",
+    
+    	Sandbox_SamuraiEdge = "Samurai Edge",
+    	Sandbox_SamuraiEdge_tooltip = "選擇顯示名稱 M92FS 客製化 / 武士之刃",
+	
+	Sandbox_SamuraiEdge_option1 = "預設",
+	Sandbox_SamuraiEdge_option2 = "現實名稱 - 貝瑞塔 M92FS 客製化",
+	Sandbox_SamuraiEdge_option3 = "遊戲中名稱 - 武士之刃",
+    
+    	Sandbox_Red9 = "Red 9",
+    	Sandbox_Red9_tooltip = "選擇顯示名稱 毛瑟 C96 / Red 9.",
+	
+	Sandbox_Red9_option1 = "預設",
+	Sandbox_Red9_option2 = "現實名稱 - 毛瑟 C96",
+	Sandbox_Red9_option3 = "遊戲中名稱 - Red 9",
+    
+    	Sandbox_SW_Bodyguard = "SLS 60",
+    	Sandbox_SW_Bodyguard_tooltip = "選擇顯示名稱 S&W 保鑣 / SLS 60.",
+	
+	Sandbox_SW_Bodyguard_option1 = "預設",
+	Sandbox_SW_Bodyguard_option2 = "現實名稱 - S&W 保鑣",
+	Sandbox_SW_Bodyguard_option3 = "遊戲中名稱 - SLS 60",
+    
+    	Sandbox_STIEagle = "STI Eagle 6.0",
+    	Sandbox_STIEagle_tooltip = "選擇顯示名稱 STI Edge / STI Eagle 6.0.",
+	
+	Sandbox_STIEagle_option1 = "預設",
+	Sandbox_STIEagle_option2 = "現實名稱 - STI Edge",
+	Sandbox_STIEagle_option3 = "遊戲中名稱 - STI Eagle 6.0",
+    
+    	Sandbox_Hardballer = "Killer 7",
+    	Sandbox_Hardballer_tooltip = "選擇顯示名稱 AMT Hardballer / Killer 7.",
+	
+	Sandbox_Hardballer_option1 = "預設",
+	Sandbox_Hardballer_option2 = "現實名稱 - Hardballer",
+	Sandbox_Hardballer_option3 = "遊戲中名稱 - Killer 7",
+    
+    	Sandbox_Silverballer = "Silverballer",
+    	Sandbox_Silverballer_tooltip = "選擇顯示名稱 AMT Hardballer S / Silverballer.",
+	
+	Sandbox_Silverballer_option1 = "預設",
+	Sandbox_Silverballer_option2 = "現實名稱 - AMT Hardballer S",
+	Sandbox_Silverballer_option3 = "遊戲中名稱 - Silverballer",
+    
+    	Sandbox_WesternCustomM37 = "Western Custom M37",
+    	Sandbox_WesternCustomM37_tooltip = "選擇顯示名稱 溫徹斯特 1892-S / 西部 客製化 M37",
+	
+	Sandbox_WesternCustomM37_option1 = "預設",
+	Sandbox_WesternCustomM37_option2 = "現實名稱 - 溫徹斯特 1892-S",
+	Sandbox_WesternCustomM37_option3 = "遊戲中名稱 - 西部 客製化 M37",
+    
+    	Sandbox_RemingtonModel95 = "Self Defense Gun",
+    	Sandbox_RemingtonModel95_tooltip = "選擇顯示名稱 Chiappa Derringer / 防身手槍",
+	
+	Sandbox_RemingtonModel95_option1 = "預設",
+	Sandbox_RemingtonModel95_option2 = "現實名稱 - Chiappa Derringer",
+	Sandbox_RemingtonModel95_option3 = "遊戲中名稱 - 防身手槍",
+    
+    	Sandbox_BenelliM3 = "Benelli M3",
+    	Sandbox_BenelliM3_tooltip = "選擇顯示名稱 伯奈利 M3 / M3 霰彈槍",
+	
+	Sandbox_BenelliM3_option1 = "預設",
+	Sandbox_BenelliM3_option2 = "現實名稱 - 伯奈利 M3",
+	Sandbox_BenelliM3_option3 = "遊戲中名稱 - M3 霰彈槍",
+    
+    	Sandbox_SpringfieldM1903 = "Springfield M1903",
+    	Sandbox_SpringfieldM1903_tooltip = "選擇顯示名稱 M1903 春田 / 手栓式步槍",
+	
+	Sandbox_SpringfieldM1903_option1 = "預設",
+	Sandbox_SpringfieldM1903_option2 = "現實名稱 - M1903 春田",
+	Sandbox_SpringfieldM1903_option3 = "遊戲中名稱 - 手栓式步槍",
+    
+    	Sandbox_MaresLeg = "Mare's Leg",
+    	Sandbox_MaresLeg_tooltip = "選擇顯示名稱 溫徹斯特 1892 / Mare's Leg.",
+	
+	Sandbox_MaresLeg_option1 = "預設",
+	Sandbox_MaresLeg_option2 = "現實名稱 - 溫徹斯特 1892",
+	Sandbox_MaresLeg_option3 = "暱稱 - Mare's Leg",
+    	Sandbox_GunshopKendo = "槍店 Kendo",
+    
+    	Sandbox_SpecialZombieRarity = "特殊殭屍稀有度",
+    	Sandbox_SpecialZombieRarity_tooltip = "調整攜帶了稀有物品的特殊殭屍的出現機率",
+	
+	Sandbox_SpecialZombieRarity_option1 = "非常稀有",
+	Sandbox_SpecialZombieRarity_option2 = "稀有",
+	Sandbox_SpecialZombieRarity_option3 = "常見",
+	Sandbox_SpecialZombieRarity_option4 = "豐富",
+	Sandbox_SpecialZombieRarity_option5 = "非常豐富",
+    	Sandbox_GunshopKendo = "槍店 Kendo",
+    
+    	Sandbox_ToolRarity = "複裝彈工具稀有度",
+    	Sandbox_ToolRarity_tooltip = "調整複裝彈工具的稀有度",
+	
+	Sandbox_ToolRarity_option1 = "非常稀有",
+	Sandbox_ToolRarity_option2 = "稀有",
+	Sandbox_ToolRarity_option3 = "常見",
+	Sandbox_ToolRarity_option4 = "豐富",
+	Sandbox_ToolRarity_option5 = "非常豐富",
+    
+    	Sandbox_GunpowderRarity = "火藥稀有度",
+    	Sandbox_GunpowderRarity_tooltip = "調整火藥A,B,C的稀有度",
+	
+	Sandbox_GunpowderRarity_option1 = "非常稀有",
+	Sandbox_GunpowderRarity_option2 = "稀有",
+	Sandbox_GunpowderRarity_option3 = "常見",
+	Sandbox_GunpowderRarity_option4 = "豐富",
+	Sandbox_GunpowderRarity_option5 = "非常豐富",
+    	Sandbox_GunshopKendo = "槍店 Kendo",
+    
+    	Sandbox_OutfitRarity = "服裝包稀有度",
+    	Sandbox_OutfitRarity_tooltip = "調整在容器中或[GSK - S.T.A.R.S.]的特殊殭屍上發現服裝包的機率",
+	
+	Sandbox_OutfitRarity_option1 = "關閉",
+	Sandbox_OutfitRarity_option2 = "非常稀有",
+	Sandbox_OutfitRarity_option3 = "稀有",
+	Sandbox_OutfitRarity_option4 = "常見",
+	Sandbox_OutfitRarity_option5 = "豐富",
+	Sandbox_OutfitRarity_option6 = "非常豐富",
+}

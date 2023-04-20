@@ -1,0 +1,338 @@
+SurvivalGuide_CH = {
+	SurvivalGuide_amentrie1title = "'彈藥製作指南手冊' #1",
+	SurvivalGuide_amentrie1txt = " <CENTRE> <SIZE:large> '彈藥製作指南手冊' <LINE> <SIZE:large> #1 - 介紹 <LINE> <IMAGECENTRE:AMGuide_1.png> <LINE> <SIZE:medium> 這個模組的新特性和機制。",
+	SurvivalGuide_amentrie1moreinfo = " <H1> 介紹  <BR> <TEXT> 這是彈藥製作指南手冊模組的學習手冊。 <LINE> 您將學習新的機制來擴展生存體驗。 <LINE> 您將在下面看到此模組帶來的改變和資訊列表。 <BR> <H1> " ..
+            "軍工技能 <BR> <TEXT> <IMAGE:media/ui/icon.png> 新的軍工技能。 <LINE> <IMAGE:media/ui/icon.png> 閱讀相關書籍後，可以獲得加成效果獲得的經驗值。 <BR> <IMAGECENTRE:AmArt1.png> <BR> <H1> "..
+			"軍工製作台 <BR> <TEXT> <IMAGE:media/ui/icon.png> 允許進行與槍支相關的不同動作的家具。 <BR> <IMAGECENTRE:AmRT1.png> <BR> <H1> "..
+            "拆卸彈藥  <BR> <TEXT> <IMAGE:media/ui/icon.png> 獲得用於製造子彈的主要材料的方法之一。 <BR> <IMAGECENTRE:AmDC1.png> <BR> <H1> "..
+            "鉛製品 <BR> <TEXT> <IMAGE:media/ui/icon.png> 使用必要的材料，您可以將鉛製成不同口徑的射彈。 <BR> <IMAGECENTRE:AmTP1.png> <BR> <H1> "..
+            "製造彈藥 <BR> <TEXT> <IMAGE:media/ui/icon.png> 你可以為你的槍支製作不同口徑的子彈。 <BR> <IMAGECENTRE:AmFM1.png> <BR> <H1> "..
+			"拆卸槍支 <BR> <TEXT> <IMAGE:media/ui/icon.png> 您將能夠拆卸槍支以獲得特定的武器零件，並能夠進行更好的維修。 <BR> <IMAGECENTRE:AmDArmasTitle.png> <BR> <H1> "..
+			"新型槍(AK-47) <BR> <TEXT> <IMAGE:media/ui/icon.png> 該模組添加了著名的 AK-47 及其相對應的彈藥和配件。 <BR> <IMAGECENTRE:AmAkTitle.png> <BR> <H1> ",
+	
+	SurvivalGuide_amentrie2title = "'彈藥製作指南手冊' #2",
+	SurvivalGuide_amentrie2txt = " <CENTRE> <SIZE:large> '彈藥製作指南手冊' <LINE> <SIZE:large> #2 - 軍工技能 <LINE> <IMAGECENTRE:AMGuide_2.png> <LINE> <SIZE:medium> 這個模組的新特性和機制。",
+	SurvivalGuide_amentrie2moreinfo = " <H1> 軍工技能 <BR> <TEXT> 這是軍工技能部分。 <BR> "..
+			"<H2> 如何提高軍工？ <BR> <TEXT> <IMAGE:media/ui/icon.png> 您可以通過建造和使用裝彈台來提升軍工技能，您也可以觀看有關此技能的 錄影帶。 <LINE> <IMAGE:media/ui/icon.png> 您可以閱讀軍工書籍來獲得高經驗值得加成。 <BR> <IMAGECENTRE:AmArt2.png> <BR> "..
+			"<H2> 是什麼原因影響了技能？ <BR> <TEXT> <IMAGE:media/ui/icon.png> 軍工等級越高，鉛彈和子彈的製造時間越短。 <LINE> <IMAGE:media/ui/icon.png> 這是控制所有彈藥製作的技能。 <LINE> <IMAGE:media/ui/icon.png> 提升軍工技能，您就可以製造更大口徑的子彈。 （閱讀它們各自的雜誌） <LINE> <IMAGECENTRE:AmArt3.png> <BR> ",
+	SurvivalGuide_amentrie3title = "'彈藥製作指南手冊' #3",
+	SurvivalGuide_amentrie3txt = " <CENTRE> <SIZE:large> '彈藥製作指南手冊' <LINE> <SIZE:large> #3 - 軍工製作台 <LINE> <IMAGECENTRE:AMGuide_3.png> <LINE> <SIZE:medium> 這個模組的新特性和機制。",
+	SurvivalGuide_amentrie3moreinfo = " <H1> 軍工製作台 <BR> <TEXT> 這是軍工製作台部分。 <BR> "..
+			"<H2> 描述 <BR> <TEXT> <IMAGE:media/ui/icon.png> 軍工製作台是用來拆裝、製造彈藥和拆解槍支的家具。 <BR> <IMAGECENTRE:AmBR1a.png> <BR> "..
+			"<H2> 製作 <BR> <TEXT> <IMAGE:media/ui/icon.png> 軍工製作台可以給彈藥專家來專業製作，也可以閱讀《裝彈台》雜誌，也有錄影帶教你如何製作。 <LINE> <IMAGE:media/ui/icon.png> 閱讀配方後，您可以使用上下文菜單訪問擴展的建構菜單，您將找到建構它的必要資料。 <BR> <IMAGECENTRE:AmBR1.png> <BR> "..
+			"<H2> 作業 <BR> <TEXT> <IMAGE:media/ui/icon.png> 建造完成後，如果擁有 0 級軍工，您將能夠研究其操作。 <LINE> <IMAGE:media/ui/icon.png> 在練習了必要的時間後，您會將軍工等級提高到 1 並解鎖其所有功能。 <BR> <IMAGECENTRE:AmBR2.png> <BR> "..
+			"<H2> 其他規格 <BR> <TEXT> <IMAGE:media/ui/icon.png> 軍工製作台可以像其他任何家具一樣被破壞，也可以拆除或移動。 <LINE> <IMAGE:media/ui/icon.png> 每個圖塊可容納 100 個。 <LINE> <IMAGE:media/ui/icon.png> 請記住，要與軍工製作台交互，您必須位於它旁邊。 <BR> <IMAGECENTRE:AmBR3.png> <BR> ",
+	
+	SurvivalGuide_amentrie4title = "'彈藥製作指南手冊' #4",
+	SurvivalGuide_amentrie4txt = " <CENTRE> <SIZE:large> '彈藥製作指南手冊' <LINE> <SIZE:large> #4 - 拆卸彈藥 <LINE> <IMAGECENTRE:AMGuide_4.png> <LINE> <SIZE:medium> 功能和機制。",
+	SurvivalGuide_amentrie4moreinfo = " <H1> 拆卸彈藥 <BR> <TEXT> 這是拆卸彈藥部分。 <BR> "..
+			"<H2> 描述 <BR> <TEXT> <IMAGE:media/ui/icon.png> 彈藥的拆卸是製造子彈的關鍵，因為拆卸時我們將獲得軍工經驗值，並獲得火藥、彈殼和鉛彈等材料。 <BR> <IMAGECENTRE:AmDM1.png> <BR> "..
+			"<H2> 作業 <BR> <TEXT> <IMAGE:media/ui/icon.png> 您可以使用基礎遊戲中的配方拆卸彈藥（但您只會獲得火藥，而不會獲得軍工經驗）。 <LINE> <IMAGE:media/ui/icon.png> 如果您使用軍工製作台，您將獲得用於製作任何類型彈藥的重要材料。 <BR> <IMAGECENTRE:AmDM2.png> <BR> "..
+			"<H2> 其他規格 <BR> <TEXT> <IMAGE:media/ui/icon.png> 要拆除彈藥，您不需要學習任何配方，軍工製作台已經有拆卸每顆子彈的工具。 <LINE> <IMAGE:media/ui/icon.png> 拆彈動作是自動的，你可以將子彈存放在軍工製作台上，系統會自動進行拆彈。 <LINE> <IMAGE:media/ui/icon.png> 請記住，在重新加載部分的配方助手中，您可以打包彈殼、火藥和鉛彈，以避免出現大量散落的物品，從而優化遊戲。 <BR> <IMAGECENTRE:AmDM3.png> <BR> ",
+	SurvivalGuide_amentrie5title = "'彈藥製作指南手冊' #5",
+	SurvivalGuide_amentrie5txt = " <CENTRE> <SIZE:large> MANUAL '彈藥製作指南手冊' <LINE> <SIZE:large> #5 - 鉛製品 <LINE> <IMAGECENTRE:AMGuide_5.png> <LINE> <SIZE:medium> 這個模組的新特性和機制。。",
+	SurvivalGuide_amentrie5moreinfo = " <H1> LEAD WORKS <BR> <TEXT> 這是鉛製品部分。 <BR> "..
+			"<H2> 描述 <BR> <TEXT> <IMAGE:media/ui/icon.png> 將鉛轉化為各種不同口徑的彈丸是一種非常有用的機制。 <LINE> <IMAGE:media/ui/icon.png> 鉛彈是製作子彈所必需的材料之一。 <BR> <IMAGECENTRE:AmPl1.png> <BR> "..
+			"<H2> 作業 <BR> <TEXT> <IMAGE:media/ui/icon.png> 目前，熔化鉛並製造彈丸的唯一方法是通過配方。 <LINE> <IMAGE:media/ui/icon.png> 它的功能正在與軍工製作台一起開發。 <BR> <IMAGECENTRE:AmPl2.png> <BR> "..
+			"<H2> 如何找到鉛？ <BR> <TEXT> <IMAGE:media/ui/icon.png> 鉛可以出現在工具店、殭屍中，你可以從拆卸子彈和破壞鉛管中得到很多。 <LINE> <IMAGE:media/ui/icon.png> 此外，如果彈藥機 與 Le Gourmet Revolution 模組相關聯，您將在覓食時通過金屬探測器找到鉛。 <BR> <IMAGECENTRE:AmPl3.png> <BR> "..
+			"<H2> 熔化鉛 <BR> <TEXT> <IMAGE:media/ui/icon.png> 您將需要學習如何使用鉛。 您可以通過閱讀所需的雜誌（第 3 期彈藥雜誌）或通過特質/專業來學習。 <LINE> <IMAGE:media/ui/icon.png> 你需要一個平底鍋、一個噴燈和一個焊接面罩來熔化它。 <LINE> <IMAGE:media/ui/icon.png> 您可以熔化不同口徑的鉛彈，然後用熔化的鉛製造另一種口徑的彈丸。 <BR> <IMAGECENTRE:AmPl4.png> <BR> "..
+			"<H2> 鉛彈製作 <BR> <TEXT> <IMAGE:media/ui/icon.png> 要製造鉛彈，您需要閱讀特定雜誌以瞭解您要製造的口徑。 <LINE> <IMAGE:media/ui/icon.png> 該雜誌還教授如何製作完整的子彈。 <LINE> <IMAGE:media/ui/icon.png> 您將需要一個帶有熔化鉛的平底鍋和一個將所需模具擰入其中的彈藥鉗（需要螺絲刀和兩個螺絲來固定）。 <LINE> <IMAGE:media/ui/icon.png> 您也可以卸下螺絲並放置另一個不同口徑的模具。 <LINE> <IMAGECENTRE:AmPl5.png> <BR> ",
+	SurvivalGuide_amentrie6title = "'彈藥製作指南手冊' #6",
+	SurvivalGuide_amentrie6txt = " <CENTRE> <SIZE:large> '彈藥製作指南手冊' <LINE> <SIZE:large> #6 - 製造彈藥 <LINE> <IMAGECENTRE:AMGuide_6.png> <LINE> <SIZE:medium> 這個模組的新特性和機制。",
+	SurvivalGuide_amentrie6moreinfo = " <H1> 製造彈藥 <BR> <TEXT> 這是製造彈藥部分。 <BR> "..
+			"<H2> 描述 <BR> <TEXT> <IMAGE:media/ui/icon.png> 這是這個模組的主要目標，能夠製作所有口徑的子彈。 <BR> <IMAGECENTRE:AmFC1.png> <BR> "..
+			"<H2> 作業 <BR> <TEXT> <IMAGE:media/ui/icon.png> 要製作彈藥，您必須閱讀“彈藥”雜誌或擁有彈藥專家職業。 通過右鍵單擊軍工製作台，您可以從上下文菜單中訪問它。 您將需要以下材料： <LINE> "..
+			"<IMAGE:AmFC2.png> <H2> 彈殼： <LINE> <TEXT> <IMAGE:media/ui/icon.png> 它們可以在殭屍、軍械庫和各種武器通常出現的地方找到。 此外，如果彈藥機 與 Le Gourmet Revolution 模組相關聯，您會在覓食時，使用金屬探測器來發現彈殼。 請記住，當射擊槍支時，彈殼也會掉到地上，如果您是彈藥專家，彈殼會直接出現在您的庫存中。 <LINE> "..
+			"<IMAGE:AmFC3.png> <H2> 火藥： <LINE> <TEXT> <IMAGE:media/ui/icon.png> 它們可以在軍械庫和武器通常出現的各種地方找到。 所需的火藥量將根據要製作的彈藥的口徑而有所不同。 <LINE> "..
+			"<IMAGE:AmFC4.png> <H2> 鉛彈： <LINE> <TEXT> <IMAGE:media/ui/icon.png> 它們可以在軍械庫和武器通常出現的各種地方找到。 您也可以製作它們（參見 鉛製品）此外，如果彈藥機 與 Le Gourmet Revolution mod 相關聯，您將在覓食時，使用金屬探測器來找到鉛彈。 <BR> "..
+			"<H2> 其他規格 <BR> <TEXT> <IMAGE:media/ui/icon.png> 您可以將所有必要的材料放入軍工製作台內，系統會檢測裡面的材料。 <LINE> <IMAGE:media/ui/icon.png> 如果您是一名彈藥專家，製作彈藥會減少無聊感，您將在更短的時間內完成這些動作。 <BR> ",
+	SurvivalGuide_amentrie7title = "'彈藥製作指南手冊' #7",
+	SurvivalGuide_amentrie7txt = " <CENTRE> <SIZE:large> '彈藥製作指南手冊' <LINE> <SIZE:large> #7 - 拆卸槍支 <LINE> <IMAGECENTRE:AMGuide_7.png> <LINE> <SIZE:medium> 這個模組的新特性和機制。",
+	SurvivalGuide_amentrie7moreinfo = " <H1> 拆卸槍支 <BR> <TEXT> 這是拆卸槍支部分。 <BR> "..
+			"<H2> 描述 <BR> <TEXT> <IMAGE:media/ui/icon.png> 首先，您必須知道如何拆解武器，為此您需要閱讀《武器雜誌》 #4。 <LINE> <IMAGECENTRE:AmDAF3.png> <BR> <IMAGE:media/ui/icon.png> 拆解槍械，獲取零件可以更好的進行維修，也可以直接組裝成完整的武器。 <BR> <IMAGECENTRE:AmDAF1.png> <BR> "..
+			"<H2> 作業 <BR> <TEXT> <IMAGE:media/ui/icon.png> 可以和裝彈台互動拆解槍支（不一定要完全壞掉），需要一定的軍工等級才能拆解。 <LINE> <IMAGE:media/ui/icon.png> 然後通過配方，你可以使用獲得的零件來修復你最喜歡的武器或者直接組裝一個新的。 <BR> <IMAGECENTRE:AmDAF2.png> <BR> ",
+	SurvivalGuide_amentrie8title = "'彈藥製作指南手冊' #8",
+	SurvivalGuide_amentrie8txt = " <CENTRE> <SIZE:large> '彈藥製作指南手冊' <LINE> <SIZE:large> #8 - 新槍 (AK-47) <LINE> <IMAGECENTRE:AMGuide_8.png> <LINE> <SIZE:medium> 這個模組的新特性和機制。",
+	SurvivalGuide_amentrie8moreinfo = " <H1> 新槍(AK-47) <BR> <TEXT> 這是新槍 (AK-47) 部分。 <BR> "..
+			"<H2> 功能 <BR> <TEXT> <IMAGE:media/ui/icon.png> 彈藥機添加了著名的 AK-47。 <LINE> <IMAGE:media/ui/icon.png> 使用 7.62 子彈。 <LINE> <IMAGE:media/ui/icon.png> 它的傷害高於M16。 <BR> <IMAGECENTRE:AmAk1.png> <BR> "..
+			"<H2> 配件 <BR> <TEXT> <IMAGE:media/ui/icon.png> 您可以附加各種配件，這將提高槍支的效能。 不要忘記在您的物品欄位中準備一把螺絲刀，以便能夠安裝配件。 <BR> <IMAGECENTRE:AmAk2.png> <BR> ",
+	SurvivalGuide_entrieray = "<H1> 短尾射線 <BR> <IMAGECENTRE:ray> <LINE>" ..
+            "<H1>描述<LINE> <TEXT> Potamotrygon brachyura 俗稱河鰩 是淡水魚Potamotrygon屬的一種 隸屬於鰩目 鰩科 生活在水生環境中溫暖的南美洲最大的長度在 200 厘米左右 重 208 公斤<BR> <H1> " ..
+            "<H1>禮儀 <LINE> <TEXT> 它棲息在河流和溪流的粉質或沙質底部 由於其神秘的顏色 很容易被忽視<LINE> <TEXT> 作為一種防禦方法 提供了這種魚尾巴後面有一根細而鋒利的脊椎 當有人不小心踩到它時 射線會弓起身體和尾巴 立即將它的刺深深地釘在不幸的腿的一些肌肉上 這會產生一個潰爛的傷口 一個癒合的叛逆者因此是一個令人討厭和恐懼的動物<BR> <H1>"..
+            "<H1>養殖<LINE> <TEXT>它主要以捕食的其他魚為食 採用潛行的技術 一動不動 半埋 等待一些獵物通過 會被突然襲擊<BR> <H1> " .. 
+			"<H1>圖像 <LINE>" ..
+			"<H1> <IMAGECENTRE:ray3> <LINE>" ..
+			"<H1> <IMAGECENTRE:ray4> <LINE>”..
+			"<H1> <IMAGECENTRE:ray5> <LINE>",
+	
+	SurvivalGuide_entriepacu = "<H1> PACU <BR> <IMAGECENTRE:pacu1> <LINE>" ..
+            "<H1>描述 <LINE> <TEXT> Piaractus mesopotamicus (gambitana, morocoto, cachama blanca, pirapitinga or pacu blanco) 是一種淡水魚 屬於 Serrasalminae 亞科 原產於巴拉圭和巴拉那河流域<LINE> 它體粗壯 卵圓形 側扁體長45厘米 重20公斤鱗片呈灰色或銀色 腹部為白色 胸呈金黃色兩側有黑色斑紋 鰭是黃色或橙色 帶有黑色邊框<BR> <H1> " ..
+            "<H1>禮儀<LINE> <TEXT>它們生活在大河的中段 遷徙到產卵溪流和礫石<LINE>在引進該物種的巴布亞新幾內亞 該物種被稱為"切球者” 正如該國的一些居民所說 2001 年 他們襲擊了幾名漁民 他們在睾丸受到嚴重咬傷後流血而死其他魚類、水生鳥類、兩棲動物和爬行動物（如凱門鱷或鱷魚）的種群被認為已經下降 攻擊幼小動物或幼崽 <BR> <H1> " ..
+            "<H1>養殖<LINE> <TEXT>是雜食性魚類 也以水果、植物、藻類和種子為食<LINE>它們有很強的嗅覺 可以幫助它們尋找食物 甚至可以聞到水果之前的味道掉進水里<BR> <H1> " .. 
+			"<H1>圖像 <LINE>" ..
+			"<H1> <IMAGECENTRE:pacu2> <LINE>" ..
+			"<H1> <IMAGECENTRE:pacu3> <LINE>" ..
+			"<H1> <IMAGECENTRE:pacu4> <LINE>",
+	SurvivalGuide_entriearapaima = "<H1> ARAPAIMA <BR> <IMAGECENTRE:arapaima2> <LINE>" ..
+            "<H1>描述 <LINE> <TEXT> 它是世界上第二大淡水魚 僅次於白鱘 (Huso huso)piraruku 一詞源自 tupi-gurani pyre 'fish'<LINE> 它生長體長可達3m 重達250kg（白鱘超過5m和600kg）它的身體很薄 頭部的腹外側緣比較圓 尾鰭和牙齒中多達18條射線2 到 2.5 排不規則齒<BR> <H1> " ..
+            "<H1>禮儀 <LINE> <TEXT> 它生活在亞馬遜河流域 在秘魯、厄瓜多爾、巴西、哥倫比亞、委內瑞拉、圭亞那、蘇里南和法屬圭亞那 也可以在馬德雷德迪奧斯 ( (在平原amazonica的一些高處）被埋在泥土中 頭部在外面（可能是從那裡呼吸的形式）<BR> <H1>"..
+            "<H1>養殖<LINE> <TEXT>他們的食物包括其他魚類 甚至包括鳥類在內的小型陸生動物 當他們落入水中甚至跳出水面時會捕捉到這些動物<BR> <H1>” .. 
+			"<H1>圖像 <LINE>" ..
+			"<H1> <IMAGECENTRE:arapaima1> <LINE>" ..
+			"<H1> <IMAGECENTRE:arapaima3> <LINE>" ..
+			"<H1> <IMAGECENTRE:arapaima4> <LINE>",
+	SurvivalGuide_entriepiraiba = "<H1> PIRAIBA <BR> <IMAGECENTRE:piraiba0> <LINE>" ..
+            "<H1>描述 <LINE> <TEXT> 被認為是亞馬遜河中最大的鯰魚<LINE> 身體呈圓柱形 背部呈灰色至銀色 白色雄性全長可達 360 厘米 200公斤重量<BR> <H1> " ..
+            "<H1>禮儀 <LINE> <TEXT> 它棲息在白色大河的河道 包括清澈和黑色水域的支流；在亞馬遜河口也很常見<LINE> 幼體在西米和中央河道該物種大部分時間在河流落水管中向上游遷移此外 這些遷移似乎與繁殖無關 因為收集的個體未呈現性腺成熟的高級階段<BR> < H1>"..
+            "<H1>養殖<LINE> <TEXT> 以魚（包括本種）、蛇、猴、狗、貓、鳥及各種能落水的動物為食<BR> <H1> " .. 
+			"<H1>圖像 <LINE>" ..
+			"<H1> <IMAGECENTRE:piraiba1> <LINE>" ..
+			"<H1> <IMAGECENTRE:piraiba2> <LINE>" ..
+			"<H1> <IMAGECENTRE:piraiba3> <LINE>",
+	SurvivalGuide_entrietarpon = "<H1> TARPON <BR> <IMAGECENTRE:tarpon1> <LINE>" ..
+            "<H1>描述 <LINE> <TEXT> 大型銀魚 身體呈梭形壓縮 描述的最大長度約為 2.2 m；嘴末端 斜或上 下顎突出 腹板位於兩鰓之間或下方下頜它們有一個背鰭 沒有刺 最後一個絲狀有13至21個半徑 胸鰭非常低 臀鰭有22至29個半徑<BR> <H1> " ..
+            "<H1>禮儀 <LINE> <TEXT> 雖然它們回到河流水域 但它們主要是海洋生物 分佈於熱帶和亞熱帶水域魚鰾緊靠頭骨 能夠通過以下方式耐受非常差的含氧水將空氣直接吸入像肺一樣的游泳鰾 這對它們在河流水域中穿梭時很有用<LINE>它們的大尺寸使它們受到運動釣魚者的歡迎<BR> <H1> " ..
+            "<H1>養殖 <LINE> <TEXT> 他們聚集在岸邊追捕淡水 追捕他們賴以生存的魚<BR> <H1> " .. 
+			"<H1>圖像 <LINE>" ..
+			"<H1> <IMAGECENTRE:tarpon4> <LINE>”..
+			"<H1> <IMAGECENTRE:tarpon2> <LINE>”..
+			"<H1> <IMAGECENTRE:tarpon3> <LINE>",
+	SurvivalGuide_entriebass = "<H1> BASS <BR> <IMAGECENTRE:bass3> <LINE>" ..
+            "<H1>描述 <LINE> <TEXT> 它是淡水的 其特徵是具有棘狀輻射狀背鰭和由一個凹口隔開的後柔韌帶該物種原產於北美從二十世紀開始 被引入在西班牙 它被認為是侵入性的 反過來也被引入世界其他地區它是一種非常緊湊的魚 但側面或多或少是片狀的綠色的鱗片有黑點它的成年大小是 30 到 50 厘米它是一種堅韌的肉食性魚類它以好鬥和貪婪構成了一種運動嘴很大體重不超過3公斤背鰭很長目前公認的比賽記錄是4 公斤 加的斯瓜達爾卡辛水庫中的魚<BR> <H1>"..
+            "<H1>禮儀 <LINE> <TEXT> 牠喜歡平靜的池塘或茂密水生植物的潟湖 從那裡捕食獵物 乾淨且最好是溫暖的水域由於其殖民潛力和對本地物種的嚴重威脅、棲息地或生態系統 該物種已被列入西班牙外來入侵物種目錄 該目錄已於 8 月 2 日由皇家法令 630/2013 批准 禁止在西班牙將其引入自然環境、擁有、運輸、交通和商業最初幾年是群居的 逐漸形成甚至非常多的群體三四歲達到性成熟雄性在底部挖一個30至90厘米的洞 吸引幾隻雌性產卵發生五月到七月之間<BR> <H1> " ..
+            "<H1>養殖<LINE> <TEXT>是肉食性的 食物包括水生昆蟲、蠕蟲、幼蟲和成年小魚和兩棲動物<BR> <H1> " .. 
+			"<H1>圖像 <LINE>" ..
+			"<H1> <IMAGECENTRE:bass2> <LINE>" ..
+			"<H1> <IMAGECENTRE:bass1> <LINE>" ..
+			"<H1> <IMAGECENTRE:bass4> <LINE>",
+	SurvivalGuide_entriecrappie = "<H1> 克拉皮 <BR> <IMAGECENTRE:crappie1> <LINE>" ..
+            "<H1>描述<LINE> <TEXT>是一種淡水魚 可以長到12英寸（30厘米）長 約4.5磅它們的顏色非常獨特 臉蓋和鰓上有深藍色和紫色 側面有深橄欖色帶 火紅的橙色腹部與黃色混合<LINE>這些魚在食物鏈中起著關鍵作用 是麝香、梭子魚、鱒魚、蒼鷺、馬丁費舍爾、水龜和水獺的獵物.<BR> <H1> " ..
+            "<H1>禮儀 <LINE> <TEXT> 原產於北美 生活在溪流、河流、湖泊和潟湖中它們常見於落基山脈以東<LINE>通常隱藏在老樹幹周圍和里面 其他水下結構它們可以生活在深水和水面上 並且經常來回移動<LINE>它們喜歡在藻類或漂浮植物之間以及樹蔭下尋找庇護所<BR> <H1> "..
+            "<H1>養殖<LINE> <TEXT>這些魚是雜食性的 吃任何能塞進嘴裡的東西它們主要以小型水生昆蟲和魚類為食<BR> <H1> " .. 
+			"<H1>圖像 <LINE>" ..
+			"<H1> <IMAGECENTRE:crappie2> <LINE>”..
+			"<H1> <IMAGECENTRE:crappie3> <LINE>" ..
+			"<H1> <IMAGECENTRE:crappie4> <LINE>",
+	SurvivalGuide_entriepanfish = "<H1> 七色羅非魚 <BR> <IMAGECENTRE:panfish1> <LINE>" ..
+            "<H1>描述<LINE> <TEXT> 是一種淡水魚 與羅非魚相似 只是它們可以長到40厘米左右 重約2公斤它們的顏色非常獨特 蓋面上有深藍色和紫色和鰓 側面有深橄欖綠色帶 較大的標本通常顏色較深. 它們通常被稱為 panfish 因為它最好用於在平底鍋中準備它們 <BR> <H1> " ..
+            "<H1>風俗<LINE> <TEXT>與羅非魚一樣 原產於北美洲 生活在溪流、河流、湖泊和池塘中它們也常見於落基山脈以東<LINE>一般都隱藏在老樹乾和其他水下結構的周圍和里面它們可以生活在深水中 也可以在水面上生活 並且經常來回移動<LINE>它們喜歡在藻類或漂浮的植物中以及樹蔭下尋找庇護所. <BR> <H1> " ..
+            "<H1>食物 <LINE> <TEXT> 這些魚也是雜食性的 只要能塞進嘴裡就什麼都吃它們主要以小型水生昆蟲和魚類為食<BR> <H1> " .. 
+			"<H1>圖像 <LINE>" ..
+			"<H1> <IMAGECENTRE:panfish2> <LINE>" ..
+			"<H1> <IMAGECENTRE:panfish3> <LINE>" ..
+			"<H1> <IMAGECENTRE:panfish4> <LINE>",
+	SurvivalGuide_entrieperch = "<H1> 黃色鱸魚 <BR> <IMAGECENTRE:perch3> <LINE>" ..
+            "<H1>描述 <LINE> <TEXT> 它們在形態上與歐洲鱸魚 ( Perca fluviatilis ) 密切相關然而 根據解剖學和遺傳差異 這兩種鱸魚被認為是不同的物種黃鱸魚的其他常見名稱包括大嘴鱸魚、鱸魚、湖鱸魚、浣熊鱸魚、環尾鱸魚、環鱸魚或條紋鱸魚雄性總長可達 50 厘米 體重可達 1,910 公斤<BR> <H1> " ..
+            美國伊利諾伊州和內布拉斯加州位於美國南卡羅來納州桑蒂河的大西洋南部排水渠 <BR> <H1> " ..
+            "<H1>攝食 <LINE> <TEXT> 在一歲之前 它以浮游動物為食 隨著它們的生長 它們會變成大型無脊椎動物 最後變成其他魚類黃色鱸魚有向後傾斜的小牙齒 覆蓋在下顎和鰓耙上捕撈小型中上層魚類它們的嘴位於末端 便於在底部採集在大型魚類中 消耗大型獵物（如底棲動物和有鰭魚）所獲得的淨能量超過了捕獲和消化的缺點<BR> <H1> " .. 
+			"<H1>圖像 <LINE>" ..
+			"<H1> <IMAGECENTRE:perch1> <LINE>" ..
+			"<H1> <IMAGECENTRE:perch2> <LINE>" ..
+			"<H1> <IMAGECENTRE:perch4> <LINE>",
+	SurvivalGuide_entriecatfish = "<H1> 鯰魚 <BR> <IMAGECENTRE:catfish1> <LINE>" ..
+            許多鯰魚有能力將這些刺向外引導balistidae使用刺將它們的身體鎖定在它們隱藏的裂縫或洞穴中 從而避免被迫離開它們<BR> <H1> "..
+            "<H1>Customs <LINE> <TEXT> 分佈於美國全境 大小河流、湖泊和水庫中生活在運河、河流和潟湖中它們是夜間活動的魚類 它們的捕食習慣根據一天中的時間而有所不同<BR> <H1> " ..
+            "<H1>飲食<LINE> <TEXT>它們是雜食動物它們小的時候以水生昆蟲為食 尤其是小螃蟹和其他無脊椎動物（沒有脊椎的動物）<LINE>當它們長大後 它們以水生昆蟲為食、蛤蜊、蝸牛、貽貝、螃蟹、水蛭、魚、陸生昆蟲（落入水中的陸生昆蟲）、蚯蚓、兩棲動物 偶爾還有小型鳥類或哺乳動物它們還吃一些水生植物、藻類和落入水中的種子水<BR> <H1> " .. 
+			"<H1>圖像 <LINE>" ..
+			"<H1> <IMAGECENTRE:catfish2> <LINE>”..
+			"<H1> <IMAGECENTRE:catfish3> <LINE>" ..
+			"<H1> <IMAGECENTRE:catfish4> <LINE>",
+	SurvivalGuide_entriepike = "<H1> LUCIO <BR> <IMAGECENTRE:pike1> <LINE>" ..
+            上面提到的最大尺寸通常只有女性才能達到 男性不會超過 90 厘米<BR> <H1> "..
+            "<H1>Customs <LINE> <TEXT> 梭子魚是一種堅固的棲息地魚類 喜歡在流水、湖泊和大池塘中靠近岸邊它更喜歡陰涼的海岸和其他隱藏的可能性 如原木、樹根、岩石、橋樑、植被它需要良好的水質才能茁壯成長 還需要淡水、穩定的水位、豐富的魚類、藻類和豐富的植被<BR> <H1> " ..
+            在兩隻動物淹死在那里之前 這隻鳥已經設法移動到旱地<BR> <H1> "..
+			"<H1>圖像 <LINE>" ..
+			"<H1> <IMAGECENTRE:pike2> <LINE>”..
+			"<H1> <IMAGECENTRE:pike3> <LINE>”..
+			"<H1> <IMAGECENTRE:pike4> <LINE>",
+	SurvivalGuide_entrietrout = "<H1> 鱒魚 <BR> <IMAGECENTRE:trout1> <LINE>" ..
+            "<H1>描述 <LINE> <TEXT> 在河流中呈棕色 背面較深 向兩側呈金棕色 在腹部呈黃白色調全身分佈有斑點: 上半部分呈綠色或棕色 側面混雜著用淺色圓圈包裹的紅點這是一種非常肥大的魚 曾見過重達 4 公斤的標本<LINE>是該種鱒魚是運動漁民的最愛 因為它生活在不太容易接近的環境中 有時很難用誘餌到達 此外 它還具有難以捉摸、不可預測、具有攻擊性和極其狡猾的特徵 這使得它很難被欺騙 將其捕獲配置為一個非常特殊的事件<BR> <H1> " ..
+            "<H1>Customs <LINE> <TEXT> 它原產於北美由於其殖民潛力並對本地物種、棲息地或生態系統構成嚴重威脅 該物種已被列入西班牙外來入侵物種目錄 經 8 月 2 日第 630/2013 號皇家法令批准 禁止在西班牙將其引入自然環境、擁有、運輸、交通和貿易<BR> <H1> " ..
+            已經表明 在卵黃囊完全吸收之後 會在水面上消耗昆蟲的空中階段<LINE> 在鱒魚中 與許多其他魚類一樣 在魚的一生中都會發生飲食變化因此 鱒魚幼魚主要食用與河床有關的獵物 隨著它們的生長 食物中更多的陸源獵物和魚類<BR> <H1> ".. 食物由較高比例的陸生獵物和魚類組成<BR> <H1> ".. 食物由較高比例的陸生獵物和魚類組成<BR> <H1> "..
+			"<H1>圖像 <LINE>" ..
+			"<H1> <IMAGECENTRE:trout2> <LINE>" ..
+			"<H1> <IMAGECENTRE:trout3> <LINE>”..
+			"<H1> <IMAGECENTRE:trout4> <LINE>",
+	SurvivalGuide_entriewalleye = "<H1> WALLEYE <BR> <IMAGECENTRE:walleye1> <LINE>" ..
+            sauger 的兩個背鰭和尾鰭標有獨特的黑點行 這些黑點在同一鰭上不存在或不明顯<LINE> Walleyes 長約 80 厘米（31 英寸） 重達 9 公斤（20 磅）記錄的最大尺寸為長 107 厘米（42 英寸） 重 13 公斤（29 磅）生長速度部分取決於它們繁殖的地方 南方種群通常增長得更快、更大一般來說 女性長得比男性大他們可以活幾十年；記錄的最高年齡為29歲然而 在嚴重剝削的人群中 很少發現超過五六歲的角膜白斑在備受推崇的北美 它的典型尺寸約為 30 至 50 厘米（12 至 20 英寸） 遠低於其潛在尺寸<BR> <H1> "..
+            "<H1>Customs <LINE> <TEXT> 水溫達到 7 或 10 度時 冰塊融化後 大眼魚就會活躍產卵後 雄性會大量進食但是 雌性會休息大約兩週 然後瘋狂地餵食這是漁民尋求最大收穫的最佳時機<BR> <H1> " ..
+            "<H1>餵食<LINE> <TEXT> 天生夜間採集水的顏色對這個人的攝食習慣有一定的影響許多湖泊的水都是深色的中午是釣魚的好時間這些水域適合角膜白斑<LINE>它們主要以其他魚類和甲殼類動物為食<BR><H1>".. 
+			"<H1>圖像 <LINE>" ..
+			"<H1> <IMAGECENTRE:walleye2> <LINE>" ..
+			"<H1> <IMAGECENTRE:walleye3> <LINE>" ..
+			"<H1> <IMAGECENTRE:walleye4> <LINE>",
+	SurvivalGuide_entriertrout = "<H1> 虹鱒魚 <BR> <IMAGECENTRE:rtrout1> <LINE>" ..
+            繁殖雄性不會像同屬的其他物種那樣在頭部或身體其他部位的形態上表現出明顯的變化；皮膚的顏色隨棲息地和大小而有很大差異；永久居住在河流中的顏色較深 類似於生育年齡的溯河 而居住在湖泊中的顏色較淺<BR> <H1> "..
+            "<H1>風俗<LINE> <TEXT>是亞熱帶至冷水區的溯河魚 生活在0-200米深度的海底附近海域 順流而上產卵<LINE > 最小的魚種是底棲魚種 而年長的幼魚則完全是遠洋魚種該物種的自然棲息地是夏季約 12°C 的淡水 可能起源於堪察加半島 尚不清楚 Anadromy 的出現是否是遺傳適應或僅僅是一種機會主義行為 似乎很清楚的是 該物種的任何種群都能夠在需要時隨時遷移到海洋 能夠適應所有類型的水域它在湖泊中生存得更好比在河流中電流<BR> <H1>"..
+            "<H1>食物 <LINE> <TEXT> 關於飲食 成年人是多面手 以無脊椎動物和小魚為食 而魚種以浮游動物為食<BR> <H1> " .. 
+			"<H1>圖像 <LINE>" ..
+			"<H1> <IMAGECENTRE:rtrout2> <LINE>" ..
+			"<H1> <IMAGECENTRE:rtrout3> <LINE>" ..
+			"<H1> <IMAGECENTRE:rtrout4> <LINE>",
+	SurvivalGuide_entriesalmon = "<H1> 三文魚 <BR> <IMAGECENTRE:salmon1> <LINE>" ..
+            它們失去了銀色的偽裝罩 變成紅棕色到綠色 有紅色到橙色的斑點 在雄性中很明顯相比之下 從河流（入海）下來的魚苗的側面只有不到十幾個藍紫色圓點 它們之間還有小紅點<LINE> 三文魚的營養價值很高 市場價值很高有時會用網捕捉 但最重要的是 它是在海岸附近的養魚場養殖的 在那裡獲得了 1.5 m 長的標本<BR> <H1> ".. 從河流（入海）下來的魚苗的側面有不到十幾個藍紫色圓點 它們之間有小紅點<LINE> 三文魚的營養價值很高 市場價值很高有時會用網捕捉 但最重要的是 它是在海岸附近的養魚場養殖的 在那裡獲得了 1.5 m 長的標本<BR> <H1> ".. 從河流（入海）下來的魚苗的側面有不到十幾個藍紫色圓點 它們之間有小紅點<LINE> 三文魚的營養價值很高 市場價值很高有時會用網捕捉 但最重要的是 它是在海岸附近的養魚場養殖的 在那裡獲得了 1.5 m 長的標本<BR> <H1> "..
+            "<H1>風俗<LINE> <TEXT>除了在捷克、瑞士、阿根廷、澳大利亞被人類引入外 在許多沐浴北大西洋和歐洲所有海岸的國家中都可以自然找到, 智利和新西蘭 <LINE> 它們是冷水溯河魚 生活在靠近海岸的海中 到了繁殖的時候就會上河 在河流的源頭產卵年輕時淡水 它們可以在河中度過長達六年的時間 然後下到大海 在那裡停留不到四年 直到它們達到繁殖年齡<BR> <H1> " ..
+            "<H1>攝食 <LINE> <TEXT> 河裡的魚苗主要以水生昆蟲、軟體動物和甲殼類動物為食 這是一個緩慢的生長階段成魚在海中以魷魚、蝦和魚為食 大型標本是大型海洋魚類的捕食者 這使它們在海洋階段生長非常迅速；沿河流繁殖的成魚在遷徙過程中不進食<BR> <H1> " . . 
+			"<H1>圖像 <LINE>" ..
+			"<H1> <IMAGECENTRE:salmon2> <LINE>”..
+			"<H1> <IMAGECENTRE:salmon3> <LINE>" ..
+			"<H1> <IMAGECENTRE:salmon4> <LINE>",
+	SurvivalGuide_entriepeje = "<H1> PEJERREY <BR> <IMAGECENTRE:peje1> <LINE>" ..
+            一些標本已達到 60 厘米長 20 厘米厚 重 3 公斤 然而 平均尺寸較小 40 厘米重 800 克其繁殖率高 肉質好 表明它是集約化和粗放型養殖的重要品種<BR> <H1> "..
+            它們具有附著在水生植物上的粘性細絲每個雌性產卵數万個（每公斤體重約 40,000 個）<BR> <H1> " ..
+            "<H1>攝食 <LINE> <TEXT> 它在食物上是機會主義的 吃的食物範圍很廣 在幼年時是浮游生物濾食者（浮游動物） 成年時食人魚<BR> <H1 > "..
+			"<H1>圖像 <LINE>" ..
+			"<H1> <IMAGECENTRE:peje2> <LINE>" ..
+			"<H1> <IMAGECENTRE:peje3> <LINE>" ..
+			"<H1> <IMAGECENTRE:peje4> <LINE>",
+	SurvivalGuide_entriecarp = "<H1> 鯉魚 <BR> <IMAGECENTRE:carp1> <LINE>" ..
+            "<H1>說明<LINE> <TEXT> 鯉魚體長可達1.2m 體重可達40kg 成年後通常為60-90cm 體重約9kg學校; 它對各種氣候條件有抵抗力有標本活到 65 年野生標本比國內標本更小 更扁平<LINE> 它具有獨特的封閉脊椎和鱗片長而瘦雄性的腹鰭比雌性長顏色和大小變化很大 特別是在國內標本中根據鱗片遵循的模式描述了三個亞種<BR> <H1> " ..
+            "<H1>風俗<LINE> <TEXT> 原產於歐亞溫帶地區的積水或緩慢流動的水體它是一種普遍存在的動物 易於養殖 具有變溫、極熱的特點. 它是一種非常有抵抗力的動物 能夠生活在溫度在 17 到 24°C 之間的鹹水中在許多引入它的地方 它被認為是對生態系統的威脅 因為它偏愛淺底 可作為多種動物的食物<BR> <H1> " ..
+            "<H1>食物 <LINE> <TEXT> 鯉魚是雜食性魚類它們以水生植物為食 但也喜歡在湖泊或河流的底部尋找昆蟲、甲殼類動物、浮游動物和底棲動物<BR> <H1> " . . 
+			"<H1>圖像 <LINE>" ..
+			"<H1> <IMAGECENTRE:carp2> <LINE>" ..
+			"<H1> <IMAGECENTRE:carp3> <LINE>" ..
+			"<H1> <IMAGECENTRE:carp4> <LINE>",
+	SurvivalGuide_entriesnakehead = "<H1> SNAKEHEAD <BR> <IMAGECENTRE:shead1> <LINE>" ..
+            "<H1>描述 <LINE> <TEXT> 巨型蛇頭魚 (Channa micropeltes) 是 Channidae 家族中體型最大的 能夠長到 6 英尺以上 體重超過 20 公斤與該物種相關的是它可以呼吸空氣 離開水3天它的肉很豐富 據說很有營養<LINE>幼魚呈紅色 兩個月後出現橙色和黑色的橫向條紋 成魚失去條紋和紅色 並且而是在他們的上半身形成了藍黑色和白色的圖案<BR> <H1> " ..
+            "<H1>海關<LINE> <TEXT>它能夠呼吸 因此可以在陸地上移動 儘管只在淤泥氾濫的地區<LINE>它廣泛分佈於東南亞的淡水和印度的一些地區在印度尼西亞和馬來西亞被稱為 Ikan toman Ikan 在兩種語言中都是魚在泰國 它被稱為 Pla Chado<LINE> 在西班牙 它是一種入侵物種 包含在皇家法令 630/2013 的附件中 共 2 8 月 規範了西班牙的外來入侵物種名錄和目錄<BR> <H1> " ..
+            "<H1>食物 <LINE> <TEXT> 它是一種廣譜捕食者 位於食物鏈的頂端 以魚類、兩棲動物甚至小型鳥類為食它被認為是群居的物種 幼體非常跟隨與其父級密切相關<BR> <H1> " .. 
+			"<H1>圖像 <LINE>" ..
+			"<H1> <IMAGECENTRE:shead2> <LINE>" ..
+			"<H1> <IMAGECENTRE:shead3> <LINE>" ..
+			"<H1> <IMAGECENTRE:shead4> <LINE>",
+	SurvivalGuide_entrietucunare = "<H1> TUCUNARE <BR> <IMAGECENTRE:tucunare4> <LINE>" ..
+            "<H1>描述 <LINE> <TEXT> 它有一個幾乎圓柱形的細長身體 逐漸向背鰭的起點壓縮 並覆蓋著大而厚的鱗片與身體相比 頭部很小尾鰭呈圓形 背鰭中分隔硬條和軟條的深凹口突出 長可超過75厘米 重達9公斤以上<LINE> Sample a金色 背部有三個大的垂直黑色條紋 一個在前額 一個在背部 一個明顯的黑色單眼 尾鰭底部帶有銀色光暈 腹側區域為白色 雖然這種設計可能會有所不同<BR> <H1> " ..
+            "<H1>風俗<LINE> <TEXT> 分佈於南美洲：亞馬遜河流域（秘魯、哥倫比亞和巴西）<LINE> tucunare 生活在一定深度的河流和湖泊中 水域平靜或平靜 在美國 它已在美國和其他地方被引入用於運動釣魚目的 它可能對本地動物群構成嚴重威脅 <LINE> 雌性選擇相當平坦的海岸線並產卵 4,000 到 10,000 個<BR> <H1 > "..
+            "<H1>餵食<LINE> <TEXT>它們只在白天進食 依靠其非凡的速度捕捉食物 基本上是其他魚類、昆蟲和兩棲動物<BR> <H1> " .. 
+			"<H1>圖像 <LINE>" ..
+			"<H1> <IMAGECENTRE:tucunare2> <LINE>" ..
+			"<H1> <IMAGECENTRE:tucunare3> <LINE>" ..
+			"<H1> <IMAGECENTRE:tucunare1> <LINE>",
+	SurvivalGuide_entriepati = "<H1> PATI <BR> <IMAGECENTRE:pati1> <LINE>" ..
+            "<H1>描述 <LINE> <TEXT> 鯰魚 (Luciopimelodus pati) 是南美一種長須的淡水鯰魚 棲息在拉普拉塔河盆地它被引入德克薩斯州的布蘭科河名字來源於瓜拉尼根pati的俗名 簡稱鯰魚<LINE>它是一種非常淺灰色的黑色斑點 嘴巴很大 頭部有些扁平有記錄的年齡可達12歲. 它們的長度可以超過 1 m它是捕獲量更大的物種之一<BR> <H1> " ..
+            "<H1>風俗<LINE> <TEXT>多見於水流適中的混濁深水可達1.20m這種魚在水族箱中很受歡迎<BR> <H1> " ..
+            "<H1>食物 <LINE> <TEXT> 他們以魚為食<LINE> 對於運動釣魚 他們用蠕蟲、鰻魚、大海鰱魚片和一些鯰魚捕撈<BR> <H1> " ..
+			"<H1>圖像 <LINE>" ..
+			"<H1> <IMAGECENTRE:pati2> <LINE>" ..
+			"<H1> <IMAGECENTRE:pati3> <LINE>" ..
+			"<H1> <IMAGECENTRE:pati4> <LINE>",
+	SurvivalGuide_entriepiranha = "<H1> 紅色食人魚 <BR> <IMAGECENTRE:piranha4> <LINE>" ..
+            下鰭用於穩定魚的平衡 與魚鰾一起還可以使食人魚幾乎一動不動地漂浮<LINE> 背鰭無刺 有 16-18 條鰭條臀鰭也無脊椎 有 27-30 條射線<LINE> 關於幼體的顏色 它們非常銀色 全身都有黑點隨著它們的生長 這些黑點會開始消失 腹部會呈現出強烈的紅色（因此 在盎格魯-撒克遜國家 他們被稱為紅肚） 銀色會變深 可能是綠色調 也可能是藍色 具體取決於每個食人魚 虹膜也會呈現深橙色<BR> <H1> ".. 與魚鰾一起 它們還可以使食人魚幾乎一動不動地漂浮<LINE> 背鰭無刺 有 16-18 條鰭條臀鰭也無脊椎 有 27-30 條射線<LINE> 關於幼體的顏色 它們非常銀色 全身都有黑點隨著它們的生長 這些黑點會開始消失 腹部會呈現出強烈的紅色（因此 在盎格魯-撒克遜國家 他們被稱為紅肚） 銀色會變深 可能是綠色調 也可能是藍色 具體取決於每個食人魚 虹膜也會呈現深橙色<BR> <H1> ".. 與魚鰾一起 它們還可以使食人魚幾乎一動不動地漂浮<LINE> 背鰭無刺 有 16-18 條鰭條臀鰭也無脊椎 有 27-30 條射線<LINE> 關於幼體的顏色 它們非常銀色 全身都有黑點隨著它們的生長 這些黑點會開始消失 腹部會呈現出強烈的紅色（因此 在盎格魯-撒克遜國家 他們被稱為紅肚） 銀色會變深 可能是綠色調 也可能是藍色 具體取決於每個食人魚 虹膜也會呈現深橙色<BR> <H1> ".. 也無脊椎 27-30射線<LINE> 關於幼體的顏色 它們非常銀色 全身都有黑點隨著它們的生長 這些黑點會開始消失 腹部會呈現出強烈的紅色（因此 在盎格魯-撒克遜國家 他們被稱為紅肚） 銀色會變深 可能是綠色調 也可能是藍色 具體取決於每個食人魚 虹膜也會呈現深橙色<BR> <H1> ".. 也無脊椎 27-30射線<LINE> 關於幼體的顏色 它們非常銀色 全身都有黑點隨著它們的生長 這些黑點會開始消失 腹部會呈現出強烈的紅色（因此 在盎格魯-撒克遜國家 他們被稱為紅肚） 銀色會變深 可能是綠色調 也可能是藍色 具體取決於每個食人魚 虹膜也會呈現深橙色<BR> <H1> ".. 紅色腹部） 銀色會變深 可能是綠色 也可能是藍色 具體取決於每個食人魚 虹膜也會呈現深橙色<BR> <H1> ".. 紅色腹部） 銀色會變深 可能是綠色 也可能是藍色 具體取決於每個食人魚 虹膜也會呈現深橙色<BR> <H1> "..
+            它們只會對 20°S 平行線以北的大型動物變得具有攻擊性 因為溫暖的海水刺激了它們的攻擊性和群居性 並且因為鱷魚和巨型水獺（或 arirai）自然而然地通過將palometas 和食人魚作為獵物來控制它們的種群 但是當短吻鱷和水獺幾乎滅絕（在 20 世紀和 21 世紀頭十年） 控制這些小型肉食性魚類的自然平衡消失了另一方面 在 21 世紀初發生的熱浪或夏季乾旱期間 它們所居住的河流的水位下降 當這些河流的水位下降時 它們的水變暖更多太陽輻射 
+            "<H1>食物 <LINE> <TEXT> 吃昆蟲、蠕蟲 通常佔其飲食的 90% 魚類任何生物受傷時都是機會主義的而且在河流低位的干旱時期 它們也會來攻擊通常在各種水池中降溫的牛<BR> <H1> " .. 
+			"<H1>圖像 <LINE>" ..
+			"<H1> <IMAGECENTRE:piranha2> <LINE>" ..
+			"<H1> <IMAGECENTRE:piranha3> <LINE>" ..
+			"<H1> <IMAGECENTRE:piranha1> <LINE>",
+	SurvivalGuide_entriepalometa = "<H1> PALOMETA <BR> <IMAGECENTRE:palometa4> <LINE>" ..
+            "<H1>描述<LINE> <TEXT> 鯰魚（Serrasalmus marginatus）是鯰形目魚科中的一種魚類與食人魚非常相似<LINE>雄性可達22 全長1厘米它被認為是巴拉那河流域的一種害蟲 漁民在捕獲它們時會殺死它們 因為其他物種害怕這些魚的近距離存在<BR> <H1> " ..
+            "<H1>Customs <LINE> <TEXT> 它生活在熱帶和亞熱帶氣候區它們分佈在南美洲：巴拉那、烏拉圭和巴拉圭河流域它們在學校中移動 更喜歡低水位地區一所學校 它們可以攻擊在河岸冒險的哺乳動物和囓齒動物 如果它們受傷了 它們幾乎不會攻擊人類 除非沒有其他獵物 或者水中有血<BR> <H1> " ..
+            "<H1>食物 <LINE> <TEXT> 像食人魚一樣 它們以魚、昆蟲和蠕蟲為食它們也是機會主義的 如果它們被困在沒有食物的水體中 很可能有任何動物進入扇區將被貪婪地攻擊<BR> <H1> " .. 
+			"<H1>圖像 <LINE>" ..
+			"<H1> <IMAGECENTRE:palometa2> <LINE>" ..
+			"<H1> <IMAGECENTRE:palometa3> <LINE>" ..
+			"<H1> <IMAGECENTRE:palometa1> <LINE>",
+	SurvivalGuide_entriepayara = "<H1> PAYARA <BR> <IMAGECENTRE:payara1> <LINE>" ..
+            "<H1>描述 <LINE> <TEXT> Payara 最顯著的特徵是從下顎突出的兩顆長尖牙這些尖牙可以長 4 到 6 英寸 因此獲得了"吸血魚”的綽號.” 在委內瑞拉也被稱為 Cachorras它們可以達到至少 65 厘米的長度雖然已經捕獲了更大的標本該物種的最高記錄重量為 39 磅<BR> <H1>"..
+            "<H1>Customs <LINE> <TEXT> 他們與 Tucunare 共享同一棲息地Payara 僅限於亞馬遜河及其支流 在 Tapajos 河口以上他們非常喜歡過氧化氫 因此他們通常它們可以在水中出現湍流（快速）的區域找到它們是非常難以捕捉的魚它們以極快的速度和力量游泳<BR> <H1> " ..
+            "<H1>食物 <LINE> <TEXT> Fierce Payara 吃的魚大多比自己小 但他們的大部分食物都是食人魚 它們用鋒利的牙齒刺穿<BR> <H1> " .. 
+			"<H1>圖像 <LINE>" ..
+			"<H1> <IMAGECENTRE:payara2> <LINE>" ..
+			"<H1> <IMAGECENTRE:payara3> <LINE>" ..
+			"<H1> <IMAGECENTRE:payara4> <LINE>",
+	SurvivalGuide_entriedorado = "<H1> DORADO <BR> <IMAGECENTRE:dorado1> <LINE>" ..
+            Yacyreta 大壩造成的生態破壞使情況更加惡化今天 它在阿根廷的捕撈受到控制 繁殖季節關閉 收集的魚塊的最小尺寸受到限制<LINE> 魚體呈鮭魚狀 結實 側面適度壓縮最大的登記標本長約 1.10 米 重 25 公斤頭大 可達全長的四分之一 大致呈圓錐形 前上斜嘴長到頭的一半左右 呈結實的圓錐形牙齒；眼睛很小 並且位於向後的位置鰓蓋大小適中 呈放射狀條紋<LINE> 腹部很長背鰭位於背部中部；脂肪幾乎不存在腹鰭切線放置在背鰭插入點的前面 而臀鰭靠近尾鰭 尾鰭略呈裂片狀 中線加長尾柄強壯有力 與其快速游泳的習性相稱它被大鱗片覆蓋 尾柄旁稍大 鰓蓋呈黃橙色 背部稍暗 反光呈綠色 腹部呈銀色或白色側面的每個鱗片都有一個小的深棕色斑點鰭是橙色的 有深紅色的邊緣；一個黑點環繞著尾射線的末端<BR> <H1> ".. 而肛門靠近尾端 尾端略呈裂片狀 正中射線細長尾柄強壯有力 與其快速游泳的習性相稱它被大鱗片覆蓋 尾柄旁稍大 鰓蓋呈黃橙色 背部稍暗 反光呈綠色 腹部呈銀色或白色側面的每個鱗片都有一個小的深棕色斑點鰭是橙色的 有深紅色的邊緣；一個黑點環繞著尾射線的末端<BR> <H1> ".. 而肛門靠近尾端 尾端略呈裂片狀 正中射線細長尾柄強壯有力 與其快速游泳的習性相稱它被大鱗片覆蓋 尾柄旁稍大 鰓蓋呈黃橙色 背部稍暗 反光呈綠色 腹部呈銀色或白色側面的每個鱗片都有一個小的深棕色斑點鰭是橙色的 有深紅色的邊緣；一個黑點環繞著尾射線的末端<BR> <H1> ".. 尾柄旁稍大 鰓蓋呈黃橙色 背部稍暗 反光呈綠色 腹部銀色或白色側面的每個鱗片都有一個小的深棕色斑點鰭是橙色的 有深紅色的邊緣；一個黑點環繞著尾射線的末端<BR> <H1> ".. 尾柄旁稍大 鰓蓋呈黃橙色 背部稍暗 反光呈綠色 腹部銀色或白色側面的每個鱗片都有一個小的深棕色斑點鰭是橙色的 有深紅色的邊緣；一個黑點環繞著尾射線的末端<BR> <H1> "..
+            其中經過一天的孵化孵化出長約5毫米的魚苗男性在第二年達到性成熟 女性在第三年達到性成熟<LINE> 他們可以達到 14 歲<BR> <H1> "..
+            "<H1>食物 <LINE> <TEXT> 它最喜歡的獵物尤其是大海鰱 (Prochilodus lineatus)它捕獲的其他物種是博格 (Leporinus obtusidens)、鯰魚 (Pimelodus spp., Parapimelodus valenciennesi) 和鯰魚 (Serrasalmus marginatus) 如以及甲殼綱的甲殼類動物未成熟的標本以原生生物為食 然後以甲殼類動物和昆蟲為食<BR> <H1> " .. 
+			"<H1>圖像 <LINE>" ..
+			"<H1> <IMAGECENTRE:dorado2> <LINE>" ..
+			"<H1> <IMAGECENTRE:dorado3> <LINE>" ..
+			"<H1> <IMAGECENTRE:dorado4> <LINE>",
+	SurvivalGuide_entrietararira = "<H1> TARARIRA <BR> <IMAGECENTRE:tararira1> <LINE>" ..
+            特別是在夜間 可以找到4公斤甚至更多重量的tarariras 顯示出真正驚人的力量<LINE> 它的釣魚運動吸引了無數的漁民 它作為天生的捕食者的品質以及它攻擊各種誘餌的暴力是真正的壯觀<BR> <H1> "..
+            穿過埋在泥濘的床或植被中的寒冷這個特點並沒有被釣魚愛好者忽視 因為這種捕食者在仲春（當它從它的蟄伏中出來時）又瘦又貪婪 仲夏它的體重增加但它的食慾下降 然後在初秋它表現出非常沉重並且非常貪婪 因為它本能地需要準備身體儲備再次冬眠<BR> <H1> ".. 由於他們本能地需要準備身體儲備再次冬眠<BR> <H1> ".. 由於他們本能地需要準備身體儲備再次冬眠<BR> <H1> "..
+            "<H1>食物 <LINE> <TEXT> 它的食物包括魚、兩棲動物、昆蟲、囓齒動物、鳥類和任何落入水中或游泳時產生足夠振動以激發其捕食本能的動物<BR> <H1> ".. 
+			"<H1>圖像 <LINE>" ..
+			"<H1> <IMAGECENTRE:tararira2> <LINE>" ..
+			"<H1> <IMAGECENTRE:tararira3> <LINE>" ..
+			"<H1> <IMAGECENTRE:tararira4> <LINE>",
+	SurvivalGuide_entriearowana = "<H1> ARAWANA <BR> <IMAGECENTRE:arowana1> <LINE>" ..
+            "<H1>描述<LINE> <TEXT>這種魚的鱗片比較大 身體較長 尾巴呈錐形 背鰭和臀鰭一直延伸到小尾鰭 幾乎融合在一起< LINE>最大可以長到90厘米 重約6公斤金龍魚有時被水族愛好者稱為龍魚 因為它們閃亮的盔甲般的鱗片和触須讓人想起亞洲民間傳說中對龍的描述<BR> < H1>"..
+            "<H1>風俗<LINE> <TEXT>這個物種也被稱為猴魚 因為它能夠跳出水面捕捉獵物它通常在水面附近游泳 等待潛在的獵物<BR> <H1> " ..
+            "<H1>食物<LINE> <TEXT> 通常在水面附近游動 等待潛在的獵物雖然樣本在它們的胃裡發現了鳥類、蝙蝠和蛇的殘骸 但它們的主要食物是甲殼類動物、昆蟲、漂浮在水面上的小魚和其他動物 因此它們的吊橋 作為嘴專門用於食物<BR> <H1>".. 
+			"<H1>圖像 <LINE>" ..
+			"<H1> <IMAGECENTRE:arowana2> <LINE>" ..
+			"<H1> <IMAGECENTRE:arowana3> <LINE>" ..
+			"<H1> <IMAGECENTRE:arowana4> <LINE>",
+	SurvivalGuide_entriesurubi = "<H1> SURUBI <BR> <IMAGECENTRE:suru1> <LINE>" ..
+            背部和背鰭和尾鰭點綴著紅褐色斑點雄性可達到約 175 厘米 體重可達 80 公斤 而雌性可達到 155 厘米 體重約 50 公斤女性從 3 歲開始可以生育 男性從 2 歲開始生育生命之年<BR> <H1> "..
+            "<H1>Customs <LINE> <TEXT> 畫中的 surubi 是一種貪婪的捕食者；它的體型使其能夠捕捉與其生活的大部分物種它通常在黃昏時分捕獵 為此它會遠離主要河床它通常棲息的河流 尋找水流較少的區域<LINE> 雖然它不是嚴格的遷徙物種 但它會定期向上游移動以抵消河流的影響並保持其地理位置；一般在春天 因此在夏季產卵之後 水流將卵和幼蟲拖到靠近產卵者幾個月前進行上升的地點的避難區<BR> <H1> " ..
+            "<H1>食物<LINE> <TEXT>據信它的大部分食物包括幼魚（Leporinus obtusidens）、銀鯡（Curimatorbis platanus）、鯡魚（Prochilodus platensis）和其他較小的鯰魚大小<BR > <H1> " ..
+			"<H1>圖像 <LINE>" ..
+			"<H1> <IMAGECENTRE:suru2> <LINE>" ..
+			"<H1> <IMAGECENTRE:suru3> <LINE>" ..
+			"<H1> <IMAGECENTRE:suru4> <LINE>",
+
+---------'LE GOURMET'美食家革命手冊 #1---------
+	SurvivalGuide_lgentrie1title = "'LE GOURMET'美食家革命手冊 #1",
+	SurvivalGuide_lgentrie1txt = " <CENTRE> <SIZE:large> 'LE GOURMET'美食家革命手冊 <LINE> <SIZE:large> #1 - 介紹 <LINE> <IMAGECENTRE:LeGourmet_1.png> <LINE> <SIZE:medium> 新特性和這個模組引入的機制",
+	SurvivalGuide_lgentrie1moreinfo = " <H1> 介紹 <BR> <TEXT> 歡迎閱讀"美食革命”模組學習手冊. <LINE> 您將學習擴展生存體驗的新機制. <LINE> 接下來,您將看到一系列這個模組帶來的變化和新聞. <BR> <H1> " ..
+            "農業 <BR> <TEXT> <IMAGE:media/ui/icon.png> 受 mod 'Farmoid(By Kurogo)' 啟發的種植園. <LINE> <IMAGE:media/ui/icon.png> 新種植園和樹木,需要 6 個月才能長大,一旦長大,它們將每月收穫一次 <LINE> <IMAGE:media/ui/icon.png> 通過閱讀種子包學習種植的新方法. <LINE> <IMAGE:media/ui/icon.png> 你在採集時會發現未知的種子. <LINE> <IMAGE:media/ui/icon.png> 照顧你的種植園的新噴霧劑. <LINE> <IMAGE:media/ui/icon.png> 1x 和 2x 格式的自定義紋理. <BR> <IMAGECENTRE:LGfarming1.png> <LINE> <IMAGECENTRE:LGfarming2.png> <LINE> <IMAGECENTRE:LGfarming3.png> <BR> <H1> "..
+            "釣魚 <BR> <TEXT> <IMAGE:media/ui/icon.png> 新魚和新返回系統(運動釣魚) <LINE> <IMAGE:media/ui/icon.png> 新誘餌和釣魚索具. <LINE> <IMAGE:media/ui/icon.png> 釣魚百科全書 <LINE> <IMAGE:media/ui/icon.png> 工具提示中有關誘餌的信息 <LINE> <IMAGE:media/ui/icon.png> 修改釣魚概率系統(主要取決於天氣)您可以通過單擊屏幕上的任意位置(當您在 外面時)查看當前天氣 <LINE> <IMAGE:media/ui/icon.png> 現在,你會用你的魚缸獲得新的獵物 <BR> <IMAGECENTRE:LGfishing1.png> <LINE> <IMAGECENTRE:LGfishing2.png> <LINE> <IMAGECENTRE:LGfishing3.png> <LINE> <IMAGECENTRE:LGfishing4.png> <BR> <H1> "..
+            "搜索 <BR> <TEXT> <IMAGE:media/ui/icon.png> 您可以通過以下類別尋找新物品：種子,金屬,採礦.例如,這將允許您找到 未知的種子或建築材料. <LINE> <IMAGE:media/ui/icon.png> 你可以手上拿著鏟子清理墓地裡的墳墓 <BR> <IMAGECENTRE:LGforaging1.png> <BR> <H1> "..
+            "陷阱 <BR> <TEXT> <IMAGE:media/ui/icon.png> 你可以找到一個新的陷阱（熊陷阱） 它可以讓你捕獲新的動物 <LINE> <IMAGE:media/ui/icon.png> 香草動物的新誘餌以及此 mod 引入的誘餌 <LINE> <IMAGE:media/ui/icon.png> 包含您可以狩獵的動物信息的狩獵文件 <BR> <CENTER> <IMAGECENTRE:LGtrapping1.png> <BR> <H1> "..
+            "烹飪 <BR> <TEXT> <IMAGE:media/ui/icon.png> 許多的新配方,可讓你製作原版無法製作的食物. <LINE> <IMAGE:media/ui/icon.png> 食物狀態資訊 (受到'Food Expiration Date'模組的啟發), 基於特質與等級加成. <LINE> <IMAGE:media/ui/icon.png> 你會從模組中獲得新的食物,如'More Edibles by Svarog'和'Rod's Home Pub by Rodjah'(這類食物的部分平衡已修改並更新). <LINE> <IMAGE:media/ui/icon.png> 烹飪達到10級,將會獲得'營養師'特質. <LINE> <IMAGE:media/ui/icon.png> 過去不會隨著時間流逝而腐爛的食物,而現在將會開始腐爛了,而且會正確地 顯示腐爛.(像是漢堡等等...) <LINE> <IMAGE:media/ui/icon.png> 新進化配方. <LINE> <IMAGE:media/ui/icon.png> 你會看到很多食物都重新平衡了,比如漿果現在會減少飢餓感. <BR> <IMAGECENTRE:LGcooking1.png> <LINE> <IMAGECENTRE:LGcooking2.png> <BR> <H1> "..
+			"狩獵 <BR> <TEXT> <IMAGE:media/ui/icon.png> 新的狩獵技能 <LINE> <IMAGE:media/ui/icon.png> 帶有雙筒望遠鏡和彈弓的新狩獵系統,這將允許你使用可以從大自然中找到的 材料捕獲小型獵物 <LINE> <IMAGE:media/ui/icon.png> 使用帶有瞄準具附件的步槍的新狩獵系統這將允許您獵殺大型動物但要小心 ！這會 <LINE> <IMAGE:media/ui/icon.png> 你可以利用獵物獲取營養價值高的食物,也可以製造皮革等材料 <LINE> <IMAGE:media/ui/icon.png> 你可以把沉重的獵物綁起來,讓它們更容易移動 <BR> <CENTER> <IMAGECENTRE:LGhunting1.png> <LINE> <IMAGECENTRE:LGhunting2.png> <LINE> <IMAGECENTRE:LGhunting3.png> <LINE> <IMAGECENTRE:LGhunting4.png> <BR> <H1> "..
+			"建造 <BR> <TEXT> <IMAGE:media/ui/icon.png> 允許構建新家具的新上下文菜單 <LINE> <IMAGE:media/ui/icon.png> 家具的配置方式相同作為香草家具,這意味著它們可以被殭屍摧毀它們可以 像香草一樣被收集、移動、旋轉和拆除 <LINE> <IMAGE:media/ui/icon.png> 你可以建造藤條牆（使用高級木框架）與多級建築系統、狩獵獎杯、起司發 酵台、制革機、皮革地毯等 <LINE> <IMAGE:media/ui/icon.png> 紋理配置為 1x 和 2x <BR> <CENTER> <IMAGECENTRE:LGbuilding1.png> <LINE> <IMAGECENTRE:LGbuilding2.png> <LINE> <IMAGECENTRE:LGbuilding3.png> <LINE> <IMAGECENTRE:LGbuilding4.png> <BR> <H1> ",
+	
+	SurvivalGuide_lgentrie2title = "'LE GOURMET'美食家革命手冊 #2",
+	SurvivalGuide_lgentrie2txt = " <CENTRE> <SIZE:large> 'LE GOURMET'美食家革命手冊 <LINE> <SIZE:large> #2 - 農業 <LINE> <IMAGECENTRE:LeGourmet_2.png> <LINE> <SIZE:medium> 特徵和機制.",
+	SurvivalGuide_lgentrie2moreinfo = " <H1> 農業 <BR> <TEXT> 歡迎來到農業部分 <BR> "..
+			"要種植果樹,您需要庫存中的特殊種子 <LINE> <IMAGECENTRE:pageLGf3.png> <LINE> "..
+			"<H2> 未知種子 <BR> <TEXT> <IMAGE:media/ui/icon.png> 你可以在採集或探索世界時找到未知的種子 <LINE> <IMAGE:media/ui/icon.png> 進入帳戶需要識別,請使用種子手冊 <LINE> <IMAGE:media/ui/icon.png> 您必須持有種子手冊,然後右鍵單擊未知種子,進而顯示選項並執行操作 <LINE> <IMAGECENTRE:pageLGf4.png> <LINE> <IMAGE:media/ui/icon.png> 從而得知種子可任意種類（普通或果樹種子). <BR> "..
+			"<H2> 肥料 <BR> <TEXT> <IMAGE:media/ui/icon.png> 此模組的新農業系統允許當種植園從生長期上升時,會失去一個施肥點（在 這種情況下已經施肥了）可以在裡面再次施肥 <BR> ",
+	SurvivalGuide_lgentrie3title = "'LE GOURMET'美食家革命手冊 #3",
+	SurvivalGuide_lgentrie3txt = " <CENTRE> <SIZE:large> 'LE GOURMET'美食家革命手冊 <LINE> <SIZE:large> #3 - 釣魚 <LINE> <IMAGECENTRE:LeGourmet_3.png> <LINE> <SIZE:medium> 特徵和機制.",
+	SurvivalGuide_lgentrie3moreinfo = " <H1> 釣魚 <BR> <TEXT> 歡迎來到釣魚區 <BR> "..
+			"<H2> 新系統 <BR> <TEXT> <IMAGE:media/ui/icon.png> 首先,您需要知道現在概率系統現在還取決於天氣 <LINE> <IMAGE:media/ui/icon.png> 生魚現在吃起來很危險 <BR> "..
+			"<H2> 查看天氣 <BR> <TEXT> <IMAGE:media/ui/icon.png> 如果你在外面點擊右鍵,會看到查看天氣的選項 <LINE> <IMAGE:media/ui/icon.png> 你可以透過點擊窗戶或門查看天氣,前提是他沒有被遮擋. <LINE> <IMAGE:media/ui/icon.png> 點擊之後,你會看到新的視窗,當他還懸停著時,該視窗會顯示信息.如果你閱讀 了適當的雜誌,則會在這顯示更多訊息. <LINE> <IMAGE:media/ui/icon.png> 如果你釣魚等級達到足夠水準時候,你將會看到關於當下天氣的是否適合釣魚. <LINE> <IMAGECENTRE:pageLGfishing1.png> <LINE> <IMAGE:media/ui/icon.png> 考慮到冬季會造成釣魚系統的負面影響. <BR> "..
+			"<H2> 誘餌中的信息<BR> <TEXT> <IMAGE:media/ui/icon.png> 你應該知道在基礎遊戲中他應該會失去功用.因此,如果您在舊遊戲中激活此 模組並且您擁有基礎遊戲中的一些裝備,您將無法使用它.....但請冷靜！！！你 將獲得更新且功能強大的誘餌 <LINE> <IMAGE:media/ui/icon.png> 將鼠標懸停在誘餌上會顯示一個工具提示,其中包含有關它可以釣魚的物種的 信息 <LINE> <IMAGE:media/ui/icon.png> 首先,您會看到問題當您閱讀釣魚百科全書時將識別這些符號 <LINE> <IMAGECENTRE:pageLGfishing2.png> <LINE> "..
+			"<H2> 釣魚線 <BR> <TEXT> <IMAGE:media/ui/icon.png> 如果你有漁夫專業或者你讀過合適的書 你可以製作特殊的釣魚線 <LINE> <IMAGE:media/ui/icon.png> 魚線可以釣到與誘餌不同的物種 <LINE> <IMAGE:media/ui/icon.png> 可以通過打開古董箱找到食譜（可以獲得通過不同的機制） <BR>"..
+			"<H2> 運動釣魚 <BR> <TEXT> <IMAGE:media/ui/icon.png> 如果你閱讀了《運動釣魚》一書,或是如果你有適當的特質,你將有可能釋放 你剛才捕獲到的魚 <LINE> <IMAGE:media/ui/icon.png> 要釋放一條魚,你需要與被點擊的水保持一格的距離,因此釋放一條魚的唯一 方法,移動至想要執行動作的海岸旁. <LINE> <IMAGECENTRE:pageLGfishing3.png> <LINE> <IMAGE:media/ui/icon.png> 如果這條魚不符合你的預期,且你釋放了他,你將會獲得一些釣魚經驗值(每 條魚會根據物種給予不同的經驗量). <LINE> <IMAGECENTRE:pageLGfishing4.png> <LINE> <IMAGE:media/ui/icon.png> 不要忘記提示工具,確保他被釋放的那一刻還活著,否則將無法獲得經驗. <LINE> <IMAGECENTRE:pageLGfishing5.png> <LINE> ",
+	
+	SurvivalGuide_lgentrie4title = "'LE GOURMET'美食家革命手冊 #4",
+	SurvivalGuide_lgentrie4txt = " <CENTRE> <SIZE:large> 'LE GOURMET'美食家革命手冊 <LINE> <SIZE:large> #4 - 搜索 <LINE> <IMAGECENTRE:LeGourmet_4.png> <LINE> <SIZE:medium> 特徵和機制.",
+	SurvivalGuide_lgentrie4moreinfo = " <H1> 搜索 <BR> <TEXT> 歡迎來到搜索部分 <LINE> <IMAGE:media/ui/icon.png> 使用LGR您可以找到未知的種子,建築材料,金屬和採礦等新對象. <BR> "..
+			"<H2> 如何採集金屬？ <BR> <TEXT> <IMAGE:media/ui/icon.png> 你必須找到金屬探測器且裝備在你手中.在搜索時,當金屬探測器會發出聲音時 ,表明找到了一個金屬物體 <LINE> <IMAGECENTRE:pageLGforaging3.png> <LINE> <IMAGE:media/ui/icon.png> 使用金屬探測器增加了找到金屬物體的可能性,因為它解鎖了一個新的內部類別 <LINE> <IMAGE:media/ui/icon.png> 確保金屬探測器有電池,否則您將找不到與新內部類別相關的金屬 <LINE> <IMAGE:media/ui/icon.png> 你還會發現生鏽的物體,別忘了用鹽酸清潔它們才能使用它們 <BR> "..
+			"<H2> 如何進行採集採礦？ <BR> <TEXT> <IMAGE:media/ui/icon.png> 在整個搜索過程中,您將能夠找到各種礦物.為了獲得這些所需的資源,有一把初 級鎬或裝備在你的主手上的鎬（由模組的採礦雜誌添加的詳細說明） <LINE> <IMAGECENTRE:pageLGforaging4.png> <LINE> <IMAGE:media/ui/icon.png> 考慮到這些礦物只會出現中到高水平的草料 <LINE> <IMAGE:media/ui/icon.png> 有了它們,您將能夠製作火藥、石膏和其他材料 <BR> "..
+			"<H2> 墳墓挖掘 <BR> <TEXT> <IMAGE:media/ui/icon.png> 你可以拿著裝備好的鏟子前往墓碑並右鍵單擊以執行該動作來掠奪墳墓 <LINE> <IMAGE:media/ui/icon.png> 連續多次執行該動作可以拉人物 <LINE> <IMAGECENTRE:pageLGforaging2.png> <BR> ",
+	SurvivalGuide_lgentrie5title = "'LE GOURMET'美食家革命手冊 #5",
+	SurvivalGuide_lgentrie5txt = " <CENTRE> <SIZE:large> 'LE GOURMET'美食家革命手冊 <LINE> <SIZE:large> #5 - 誘捕 <LINE> <IMAGECENTRE:LeGourmet_5.png> <LINE> <SIZE:medium> 特徵和機制.",
+	SurvivalGuide_lgentrie5moreinfo = " <H1> 誘捕 <BR> <TEXT> 歡迎來到誘捕部分 <LINE> <IMAGE:media/ui/icon.png> LGR改變了用陷阱捕獲的獵物的重量,並降低了相同 <LINE> <IMAGECENTRE:pageLGtrapping1.png> <BR> "..
+			"<H2> 新陷阱 <BR> <TEXT> <IMAGE:media/ui/icon.png> 熊陷阱可以讓你捕捉到更大的動物,你可以剝皮和剝皮來獲取食物,皮和其他以 前沒有的東西 <LINE> <IMAGE:media/ui/icon.png> 請記住!要執行某些操作,您必須通過雜誌或專業獲得足夠的知識 <LINE> <IMAGECENTRE:pageLGtrapping2.png> <BR> ",
+	SurvivalGuide_lgentrie6title = "'LE GOURMET'美食家革命手冊 #6",
+	SurvivalGuide_lgentrie6txt = " <CENTRE> <SIZE:large> 'LE GOURMET'美食家革命手冊 <LINE> <SIZE:large> #6 - 烹飪 <LINE> <IMAGECENTRE:LeGourmet_6.png> <LINE> <SIZE:medium> 特徵和機制.",
+	SurvivalGuide_lgentrie6moreinfo = " <H1> 烹飪 <BR> <TEXT> 歡迎來到烹飪部分 <LINE> <IMAGE:media/ui/icon.png> LGR 通過雜誌和特徵添加了各種新食譜 <LINE> <IMAGE:media/ui/icon.png> 你會發現你可以準備大部分以前無法製作的基礎遊戲食物 <BR> "..
+			"<H2> 奶酪準備 <BR> <TEXT> <IMAGE:media/ui/icon.png> 你需要知道如何製作起司發酵架和學習如何使用它.為此,使用'倖存者雜誌' 和 'Le Gourment'雜誌. <LINE> <IMAGE:media/ui/icon.png> 注意!!! 起司發酵架是可被殭屍摧毀的. <LINE> <IMAGECENTRE:pageLGcooking1.png> <LINE> <IMAGE:media/ui/icon.png> 起司可用於製作營養價值較高的菜餚,反過來還有其他用途,像是在陷阱中是具 良好吸引力的誘餌. <LINE> <IMAGE:media/ui/icon.png> 重要是,在準備起司時,必須持有裝有煮熟牛奶的鍋子才能在配方中使用. <LINE> <IMAGE:media/ui/icon.png> 將起司放入模具中後,你會看到他需要的發酵時間,為此,必須將其放置在起司發 酵架中,你會看到基於更多它的訊息. <LINE> <IMAGECENTRE:pageLGcooking2.png> <LINE> <IMAGE:media/ui/icon.png> 然後,你可以將其從模具中取出,進而獲得完成品. <BR> "..
+			"<H2> 碎肉 <BR> <TEXT> <IMAGE:media/ui/icon.png> 您可以找到手動或電動絞肉機它們被用作製作肉丸和漢堡包或熱狗的工具 （根據使用的肉類） <LINE> <IMAGECENTRE:pageLGcooking3.png> <BR> ",
+	SurvivalGuide_lgentrie7title = "'LE GOURMET'美食家革命手冊 #7",
+	SurvivalGuide_lgentrie7txt = " <CENTRE> <SIZE:large> 'LE GOURMET'美食家革命手冊 <LINE> <SIZE:large> #7 - 狩獵 <LINE> <IMAGECENTRE:LeGourmet_7.png> <LINE> <SIZE:medium> 特徵和機制.",
+	SurvivalGuide_lgentrie7moreinfo = " <H1> 狩獵 <BR> <TEXT> 歡迎來到狩獵部分 <BR> "..
+			"<H2> 新狩獵技能 <BR> <TEXT> <IMAGE:media/ui/icon.png> LGR 新增狩獵技能 <LINE> <IMAGE:media/ui/icon.png> 主要用於 <LINE> <IMAGECENTRE:pageLGhuntinga0.png> <LINE> <IMAGE:media/ui/icon.png> 你會發現狩獵書籍和 VHS 將獎勵 xp 乘數 <BR> "..
+			"<H2> 新系統 <BR> <TEXT> <IMAGE:media/ui/icon.png> LGR增加了兩種狩獵動物的方式 <LINE> <IMAGE:media/ui/icon.png> 搭配雙筒望遠鏡和彈弓狩獵. <LINE> <IMAGE:media/ui/icon.png> 用步槍打獵 <BR> "..
+			"<H2> 如何搭配望遠鏡和彈弓狩獵 <BR> <TEXT> <IMAGE:media/ui/icon.png> 首先,你必須知道如何使用此系統進行狩獵,你的物品欄需要有望遠鏡和彈弓(木 匠的或倖存者的)和彈藥(小石子). <LINE> <IMAGE:media/ui/icon.png> 你必須站在搜索區域中,然後右鍵該區域內的的一棵樹.前提是必須距離樹至少5 格,在太靠近的情況下不會顯示選項. <LINE> <IMAGECENTRE:pageLGhuntinga1.png> <LINE> <IMAGE:media/ui/icon.png> 然後再觀察樹時,會出現一個視窗,其中包含玩家發現的內容. <LINE> <IMAGECENTRE:pageLGhuntinga2.png> <LINE> <IMAGE:media/ui/icon.png> 如果你決定扔石頭,你會自動裝上手中的彈弓並且射擊(有彈藥情況下).如果擊 中目標,它將會掉落至地板上. <LINE> <IMAGECENTRE:pageLGhuntinga3.png> <BR> "..
+			"<H2> 如何使用步槍狩獵 <BR> <TEXT> <IMAGE:media/ui/icon.png> 要使用步槍狩獵,需要有MSR700步槍(VarmintRifle)或配備至少4倍鏡配件的 狩獵步槍. <LINE> <IMAGE:media/ui/icon.png> 你必須在100%的搜索區域(森林或森林深處),然後右鍵單擊該區域內的任一棵 樹,且至少距離樹8格,在太靠近的情況下不會顯示選項. <LINE> <IMAGECENTRE:pageLGhuntingb1.png> <LINE> <IMAGE:media/ui/icon.png> 然後會顯示一個視窗,顯示角色看到的內容. <LINE> <IMAGECENTRE:pageLGhuntingb2.png> <LINE> <IMAGE:media/ui/icon.png> 如果決定射擊,請確保武器有上膛,否則可能會失去獵物. <LINE> <IMAGE:media/ui/icon.png> 請注意射擊時,將會產生很大半徑的噪音. <LINE> <IMAGE:media/ui/icon.png> 如果你擊中目標,它會掉到地上 <LINE> <IMAGECENTRE:pageLGhuntingb3.png> <LINE> <IMAGE:media/ui/icon.png> 考慮到獵物在死亡時,都會發出聲音,此時殭屍會前往動物被獵殺的地方 <BR> "..
+			"<H2> 鹿哨子 <BR> <TEXT> <IMAGE:media/ui/icon.png> 它用於增加該區域找到鹿的機會. <LINE> <IMAGE:media/ui/icon.png> 你必須移動至搜索區域(森林或森林深處)並確保鹿哨子在物品欄中,且右鍵點擊 任意區域. <LINE> <IMAGECENTRE:pageLGhuntingc1.png> <LINE> <IMAGE:media/ui/icon.png> 使用呼叫後,你可以從要尋找的動物得到回應. <LINE> <IMAGECENTRE:pageLGhuntingc2.png> <LINE> <IMAGE:media/ui/icon.png> 如果動物被吸引,將會獲得狩獵經驗值,且獲得30分鐘的機率倍數(X2). <LINE> <IMAGE:media/ui/icon.png> 如果在這 30 分鐘內重複使用呼叫者 則乘數不會累積 <BR> "..
+			"<H2> 兩種系統的技術數據 <BR> <TEXT> <IMAGE:media/ui/icon.png> 望遠鏡發現動物的概率取決於狩獵等級.等級越高,發現獵物的概率越大.還要注 意,如果該區域的搜索率為 0% ,你將找不到任何東西. <LINE> <IMAGE:media/ui/icon.png> 步槍發現動物的概率取決於裝備的瞄準鏡.倍率越高越容易發現獵物. <LINE> <IMAGE:media/ui/icon.png> 如果你裝備了吉利服(褲子和身體),你將得到至少20%的機率發現動物. <LINE> <IMAGE:media/ui/icon.png> 當用任意系統擊中獵物時,該區域搜索率的百分比將會降低. <LINE> <IMAGE:media/ui/icon.png> 目標都可以根據角色的恐慌程度來降低 也就是說 如果你在射擊時感到害怕 那麼你擊中它的機會就會大大減少 <LINE> <IMAGE:media/ui/icon.png> 你可以通過發現目標來獲得狩獵經驗 <LINE> <IMAGE:media/ui/icon.png> 根據你是否擊中目標 你將獲得可變的xp值用於瞄準和狩獵 <LINE> <IMAGE:media/ui/icon.png> 任何體重超過50的獵物都可以用4根繩索綁起來,因此可以減輕其轉移的重量 <LINE> <IMAGE:media/ui/icon.png> 用皮帶拴住動物並不能防止它腐爛 <LINE> <IMAGECENTRE:pageLGhuntingb4.png> <BR> ",
+	SurvivalGuide_lgentrie8title = "'LE GOURMET'美食家革命手冊 #8",
+	SurvivalGuide_lgentrie8txt = " <CENTRE> <SIZE:large> 'LE GOURMET'美食家革命手冊 <LINE> <SIZE:large> #8 - 建築 <LINE> <IMAGECENTRE:LeGourmet_8.png> <LINE> <SIZE:medium> 特徵和機制.",
+	SurvivalGuide_lgentrie8moreinfo = " <H1> BUILDING <BR> <TEXT> 歡迎來到建築部分 <BR> "..
+			"<H2> 擴展建築 <BR> <TEXT> <IMAGE:media/ui/icon.png> 如果你的物品欄中有一把錘子,你會看到當你右鍵單擊時會出現一個額外的上 下文菜單稱為擴展建築 <LINE> <IMAGE:media/ui/icon.png> 你可以建造裝飾物以及牆壁,甚至可以用來獲取資源的物件 <LINE> <IMAGE:media/ui/icon.png> 下面是一個可以使用此 mod 構建的內容列表 <BR> "..
+			"<H2> 狩獵獎杯 <BR> <TEXT> <IMAGE:media/ui/icon.png> 它們是裝飾性的 除了裝飾你的家之外沒有其他用途 <LINE> <IMAGECENTRE:pageLGconstruction1.png> <BR> "..
+			"<H2> 起司發酵桌 <BR> <TEXT> <IMAGE:media/ui/icon.png> 是製作起司不可缺少的物件 <LINE> <IMAGE:media/ui/icon.png> 考慮到容器只接受特定項目 <LINE> <IMAGECENTRE:pageLGconstruction2.png> <BR> "..
+			"<H2> 乾燥藤條支撐棒 <BR> <TEXT> <IMAGE:media/ui/icon.png> 是乾燥甘蔗的必備物品（可以通過農業收穫 也可以通過採集找到它） <LINE> <IMAGE:media/ui/icon.png> 乾燥的藤條用於製作藤條牆 <LINE> <IMAGECENTRE:pageLGconstruction3.png> <BR> "..
+			"<H2> 高級框架和手杖構造 <BR> <TEXT> <IMAGE:media/ui/icon.png> 構建高級框架後,您可以右鍵單擊它們開始構建手杖牆 <LINE> <IMAGE:media/ui/icon.png> 它的建造是漸進式的,也就是說,你必須根據可用的材料一點一點地建造每一 面牆 <LINE> <IMAGECENTRE:pageLGconstruction4.png> <BR> " ..
+			"<H2> 製革架 <BR> <TEXT> <IMAGE:media/ui/icon.png> 它對於乾燥用狩獵系統獲得的皮革是必不可少的 <LINE> <IMAGE:media/ui/icon.png> 使用經過處理的皮革 您可以製作各種物品 例如動物地毯甚至一些特殊物品 <LINE> <IMAGECENTRE:pageLGconstruction5.png> <BR> "..
+			"<H2> 額外數據 <BR> <TEXT> <IMAGE:media/ui/icon.png> 家具的製作方式與基礎遊戲相同 因此它們可以移動、可移動、可破壞等 <LINE> <IMAGE:media/ui/icon.png> 有些容器只能允許特定的物品被轉移到例如 如果你想在製革機裡放一把刀 你將無法做到 因為它只接受動物皮 <BR> ",
+}

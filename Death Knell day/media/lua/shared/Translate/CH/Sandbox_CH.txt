@@ -1,0 +1,31 @@
+﻿Sandbox_CH = {
+
+
+
+    
+
+Sandbox_DKZombies_rate = "特殊殭屍比例",
+	
+Sandbox_DK_Zombies = "喪鐘之日殭屍設定",
+	
+Sandbox_DKZombies_enableskill = "啟用殭屍技能",
+	
+Sandbox_DKZombies_enableboss = "啟用 Boss級 殭屍",
+	
+Sandbox_DKZombies_dk_clim = "麥客（舔食者）生成權重",
+	
+Sandbox_DKZombies_dk_clim3 = "巨型麥客生成權重",
+	
+Sandbox_DKZombies_dk_scrm = "羞怯（尖叫殭屍）生成權重",
+	
+Sandbox_DKZombies_dk_yfat = "綠瘤（黃胖子）生成權重",
+	
+Sandbox_DKZombies_dk_wfat = "空殼（白胖子）生成權重",
+	
+Sandbox_DKZombies_dk_neverdie = "噪音（Boss）生成權重",
+	
+Sandbox_DKZombies_skeleton8 = "普通骷髏生成權重",
+	
+Sandbox_DKZombies_dk_worm = "水蛭生成權重",
+
+}

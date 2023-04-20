@@ -1,9 +1,0 @@
-﻿Tooltip_CH = {
-	
-	Tooltip_Craft Fuel Tanks = "建造儲油箱",
-	Tooltip_needrecipe = "需要的配方：",
-	Tooltip_craft_FuelTankDesc = "已可用於儲存燃料。",
-	Tooltip_ftalreadyknownrecipe = " (已經知道操作說明書)",
-	Tooltip_FuelMeter = "您可以用它來測量油箱中剩餘的汽油單位。",
-	Tooltip_FAmount = "剩餘汽油單位：",
-}

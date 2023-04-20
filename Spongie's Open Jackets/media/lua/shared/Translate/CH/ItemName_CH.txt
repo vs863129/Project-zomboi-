@@ -1,4 +1,8 @@
 ItemName_CH = {
+
+    ItemName_Base.HoodieUP_WhiteTINTOPEN = "連帽衫",
+    ItemName_Base.HoodieDOWN_WhiteTINTOPEN = "連帽衫",   
+    Base.Shirt_CamoDesertOPENROLLOPEN = "軍用沙漠迷彩夾克",
     ItemName_Base.JacketLong_DoctorOPEN = "醫療外套(開)",
     ItemName_Base.JacketLong_RandomOPEN = "皮夾克(開)",
     ItemName_Base.JacketLong_SantaOPEN = "聖誕老人夾克(開)",
@@ -37,7 +41,7 @@ ItemName_CH = {
     ItemName_Base.Boilersuit_PrisonerKhakiOPEN = "犯人連身服(開)",
     ItemName_Base.Boilersuit_YellowOPEN = "工作服(開)",
 
-	ItemName_Base.Jacket_BlackVest = "皮夾克",
+	  ItemName_Base.Jacket_BlackVest = "皮夾克",
     ItemName_Base.Jacket_LeatherBarrelDogsVest = "酒桶狗皮夾克",
     ItemName_Base.Jacket_LeatherIronRodentVest = "鋼鐵鼠皮夾克",
     ItemName_Base.Jacket_LeatherWildRacoonsVest = "浣熊皮夾克",

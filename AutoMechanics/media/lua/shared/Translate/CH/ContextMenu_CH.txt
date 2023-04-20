@@ -1,0 +1,4 @@
+ContextMenu_CH = {
+    ContextMenu_AutoMechanics = "練習機工",
+    ContextMenu_AutoMechanics_UninstallAll = "拆除所有零件",
+}

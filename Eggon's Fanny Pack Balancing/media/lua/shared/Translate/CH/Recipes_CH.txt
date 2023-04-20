@@ -1,0 +1,9 @@
+Recipes_CH = {
+
+	Recipe_Refresh_Fanny_Pack_Front = "刷新 腰包(前)" ,
+	Recipe_Refresh_Fanny_Pack_Back = "刷新 腰包(後)" ,
+	Recipe_Craft_Fanny_Pack = "製作腰包" ,
+	Recipe_Craft_Fanny_Pack_XL = "製作大腰包" ,
+	Recipe_Craft_Sports_Fanny_Pack = "製作運動腰包" ,
+
+}

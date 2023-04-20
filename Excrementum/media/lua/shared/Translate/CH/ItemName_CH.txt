@@ -1,0 +1,14 @@
+ItemName_CH = {
+	ItemName_Base.HumanFeces = "人類糞便",
+	ItemName_Base.HumanFeces1 = "人類糞便",
+	ItemName_Base.HumanFeces2 = "人類糞便",
+	ItemName_Base.HumanFeces3 = "人類糞便",
+	
+	ItemName_Base.PaintTinDefecate = "一桶糞便",
+	ItemName_Base.BucketFullDefecate = "一桶糞便",
+	ItemName_Base.BucketDefecatedDirty = "髒桶",
+	ItemName_Base.PaintTinDefecatedDirty = "髒桶",
+	
+	ItemName_Base.BathTowelDirty = "髒浴巾",
+	ItemName_Base.DishClothDirty = "髒抹布",
+}

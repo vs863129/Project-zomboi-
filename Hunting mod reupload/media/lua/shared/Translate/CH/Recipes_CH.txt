@@ -1,0 +1,26 @@
+Recipes_CH = {
+
+	Recipe_Track_Game = "追跡遊戲" ,
+	Recipe_Track_Large_Game = "追跡遊戲(大)" ,
+	Recipe_Butcher_Small_Animal = "屠宰小型動物" ,
+	Recipe_Butcher_Rabbit = "屠宰兔子" ,
+	Recipe_Butcher_Bird = "屠宰鳥" ,
+	Recipe_Butcher_Deer = "屠宰鹿" ,
+	Recipe_Butcher_Elk = "屠宰麋鹿" ,
+	Recipe_Butcher_Wild_Pig = "屠宰野豬" ,
+	Recipe_Butcher Bear = "屠宰熊" ,
+	Recipe_Hunt_Small_Game_with_Throwing_Spears = "投擲長矛狩獵小動物" ,
+	Recipe_Hunt_Deer_with_Throwing_Spears = "投擲長矛狩獵鹿" ,
+	Recipe_Hunt_Wild_Pigs_with_Throwing_Spears = "投擲長矛狩獵野豬" ,
+	Recipe_Hunt_Birds_with_Shotgun = "用霰彈槍狩獵鳥" ,
+	Recipe_Hunt_Wild_Pigs_with_Shotgun = "用霰彈槍狩獵野豬" ,
+	Recipe_Hunt_Bear_with_Shotgun = "用霰彈槍狩獵熊" ,
+	Recipe_Hunt_Small_Game_with_Varmint_Rifle = "用狩獵步槍狩獵小動物" ,
+	Recipe_Hunt_Birds_with_Varmint_Rifle = "用狩獵步槍狩獵鳥" ,
+	Recipe_Hunt_Deer_with_Rifle = "用步槍狩獵鹿" ,
+	Recipe_Hunt_Wild_Pigs_with_Rifle = "用步槍狩獵野豬" ,
+	Recipe_Hunt_Bear_with_Rifle = "用步槍狩獵熊" ,
+	Recipe_ = "" ,
+
+
+}

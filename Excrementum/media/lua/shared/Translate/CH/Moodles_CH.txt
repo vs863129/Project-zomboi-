@@ -1,0 +1,98 @@
+Moodles_CH = {
+
+	Moodles_exc-stomach_Good_lvl1 = "還餓著",
+	Moodles_exc-stomach_Good_desc_lvl1 = "需要點食物.",
+	Moodles_exc-stomach_Good_lvl2 = "小飽",
+	Moodles_exc-stomach_Good_desc_lvl2 = "沒有飢餓感.",
+	Moodles_exc-stomach_Good_lvl3 = "很撐",
+	Moodles_exc-stomach_Good_desc_lvl3 = "感覺很飽.",
+	Moodles_exc-stomach_Good_lvl4 = "幾乎滿了",
+	Moodles_exc-stomach_Good_desc_lvl4 = "沒胃口了.",
+
+	Moodles_exc-stomach_Bad_lvl1 = "飽腹",
+	Moodles_exc-stomach_Bad_desc_lvl1 = "沒有胃口,且有點痛.",
+	Moodles_exc-stomach_Bad_lvl2 = "吃多了",
+	Moodles_exc-stomach_Bad_desc_lvl2 = "吃了太多了,感到疼痛.",
+	Moodles_exc-stomach_Bad_lvl3 = "過多",
+	Moodles_exc-stomach_Bad_desc_lvl3 = "胃感覺快炸了.",
+	Moodles_exc-stomach_Bad_lvl4 = "滿到爆",
+	Moodles_exc-stomach_Bad_desc_lvl4 = "實在吃不下一口了.",	
+
+
+
+
+	Moodles_exc-stomach-w_Good_lvl1 = "還餓著",
+	Moodles_exc-stomach-w_Good_desc_lvl1 = "胃液有點少.",
+	Moodles_exc-stomach-w_Good_lvl2 = "少量水",
+	Moodles_exc-stomach-w_Good_desc_lvl2 = "少量的胃液.沒有飢餓感.",
+	Moodles_exc-stomach-w_Good_lvl3 = "有些水",
+	Moodles_exc-stomach-w_Good_desc_lvl3 = "感覺滿了.",
+	Moodles_exc-stomach-w_Good_lvl4 = "幾乎滿了",
+	Moodles_exc-stomach-w_Good_desc_lvl4 = "沒胃口了.",
+
+	Moodles_exc-stomach-w_Bad_lvl1 = "飽腹",
+	Moodles_exc-stomach-w_Bad_desc_lvl1 = "沒有胃口,且有點痛.",
+	Moodles_exc-stomach-w_Bad_lvl2 = "很多水",
+	Moodles_exc-stomach-w_Bad_desc_lvl2 = "喝太多液體.感到疼痛",
+	Moodles_exc-stomach-w_Bad_lvl3 = "胃被撐大了",
+	Moodles_exc-stomach-w_Bad_desc_lvl3 = "胃感覺快炸了.",
+	Moodles_exc-stomach-w_Bad_lvl4 = "滿到爆",
+	Moodles_exc-stomach-w_Bad_desc_lvl4 = "實在吃不下一口了.",	
+
+
+
+
+	Moodles_exc-colon_Good_lvl1 = "消化",
+	Moodles_exc-colon_Good_desc_lvl1 = "小腸正在消化食物.",
+
+	Moodles_exc-colon_Good_lvl3 = "有點便意",
+	Moodles_exc-colon_Good_desc_lvl3 = "似乎有點便意.",
+
+	Moodles_exc-colon_Bad_lvl1 = "強烈的便意",
+	Moodles_exc-colon_Bad_desc_lvl1 = "該上廁所了.",
+	Moodles_exc-colon_Bad_lvl2 = "難以承受",
+	Moodles_exc-colon_Bad_desc_lvl2 = "腸道充滿氣體,感到疼痛.",
+	Moodles_exc-colon_Bad_lvl3 = "無法承受",
+	Moodles_exc-colon_Bad_desc_lvl3 = "腸道感到被撐起,感到劇烈的疼痛.",
+	Moodles_exc-colon_Bad_lvl4 = "即將爆炸",
+	Moodles_exc-colon_Bad_desc_lvl4 = "地獄般的腸道痛.",	
+
+
+	Moodles_exc-urine_Good_lvl1 = "準備小便",
+	Moodles_exc-urine_Good_desc_lvl1 = "感覺膀胱裡有點尿.",
+
+	Moodles_exc-urine_Bad_lvl1 = "還可忍受",
+	Moodles_exc-urine_Bad_desc_lvl1 = "尿感覺想衝出來了.",
+
+	Moodles_exc-urine_Bad_lvl3 = "尿急了",
+	Moodles_exc-urine_Bad_desc_lvl3 = "感覺快要尿出來了.",
+	Moodles_exc-urine_Bad_lvl4 = "喔不!",
+	Moodles_exc-urine_Bad_desc_lvl4 = "快要尿失禁了!!.",	
+
+
+	Moodles_exc-smell_Bad_lvl1 = "臭!",
+	Moodles_exc-smell_Bad_desc_lvl1 = "噁心.",
+	Moodles_exc-smell_Bad_lvl2 = "很難聞",
+	Moodles_exc-smell_Bad_desc_lvl2 = "難聞的臭味.",
+	Moodles_exc-smell_Bad_lvl3 = "惡臭",
+	Moodles_exc-smell_Bad_desc_lvl3 = "強烈且難聞的臭味.",
+	Moodles_exc-smell_Bad_lvl4 = "極度惡臭",
+	Moodles_exc-smell_Bad_desc_lvl4 = "臭到快抓狂了.",
+	
+	
+	
+	Moodles_exc-shame_Good_lvl1 = "驚訝",
+	Moodles_exc-shame_Good_desc_lvl1 = "Wow!",
+	Moodles_exc-shame_Good_lvl2 = "呵呵",
+	Moodles_exc-shame_Good_desc_lvl2 = "我看了XD.",
+
+	Moodles_exc-shame_Bad_lvl1 = "尷尬", /* 第一次看到 */
+	Moodles_exc-shame_Bad_desc_lvl1 = "那畫面還存在你腦中.",
+	Moodles_exc-shame_Bad_lvl2 = "羞恥", /* First time action / second see */
+	Moodles_exc-shame_Bad_desc_lvl2 = "想到當時的情況.",
+	Moodles_exc-shame_Bad_lvl3 = "強烈羞恥", /*Second time */
+	Moodles_exc-shame_Bad_desc_lvl3 = "喚起了最近發生的記憶.",
+	Moodles_exc-shame_Bad_lvl4 = "受恥辱",  /* Third time, 4 ---> 2 */
+	Moodles_exc-shame_Bad_desc_lvl4 = "你是個恥辱.人們需要點時間才會忘記這件事.",
+	
+}

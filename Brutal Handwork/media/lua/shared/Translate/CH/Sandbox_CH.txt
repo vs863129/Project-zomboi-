@@ -2,7 +2,7 @@ Sandbox_CH = {
     Sandbox_BrutalHandwork = "Brutal Handwork",
 
     Sandbox_BrutalHandwork_DualWieldMelee = "雙持近戰武器時自動交插攻擊",
-    Sandbox_BrutalHandwork_DualWieldMelee_tooltip = "當玩家雙持近戰武器時自動在左右攻擊之間切換 <LINE> 禁用要求按下修改器進行副手攻擊",
+    Sandbox_BrutalHandwork_DualWieldMelee_tooltip = "當玩家雙持近戰武器時自動在左右攻擊之間切換 <LINE> '禁用'要求按下修改鍵進行副手攻擊",
 
     Sandbox_BrutalHandwork_EnableUnarmed = "啟用赤手攻擊",
     Sandbox_BrutalHandwork_EnableUnarmed_tooltip = "即使玩家手無寸鐵 他們也可以進行攻擊 默認情況下按住修改鍵才能出拳",

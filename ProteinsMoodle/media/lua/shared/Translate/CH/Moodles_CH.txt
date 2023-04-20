@@ -1,0 +1,20 @@
+Moodles_CH {
+    Moodles_Proteins_Good_lvl1 = "準備運動",
+    Moodles_Proteins_Good_desc_lvl1 = "在手邊保留一些蛋白質來源。",
+    Moodles_Proteins_Good_lvl2 = "準備運動",
+    Moodles_Proteins_Good_desc_lvl2 = "不過再來個雞蛋也行。",
+    Moodles_Proteins_Good_lvl3 = "準備運動",
+    Moodles_Proteins_Good_desc_lvl3 = "是時候鍛鍊力量了。",
+    Moodles_Proteins_Good_lvl4 = "準備運動",
+    Moodles_Proteins_Good_desc_lvl4 = "身體處於最佳狀態。不過不要再攝取更多的蛋白質",
+	
+    Moodles_Proteins_Bad_lvl1 = "蛋白質過量",
+    Moodles_Proteins_Bad_desc_lvl1 = "請緩下來，停止攝取富含蛋白質的食物。",
+    Moodles_Proteins_Bad_lvl2 = "低能量",
+    Moodles_Proteins_Bad_desc_lvl2 = "多攝取一點蛋白質",
+    Moodles_Proteins_Bad_lvl3 = "低能量",
+    Moodles_Proteins_Bad_desc_lvl3 = "攝取一些高蛋白的食物",
+    Moodles_Proteins_Bad_lvl4 = "低蛋白血症",
+    Moodles_Proteins_Bad_desc_lvl4 = "你知道什麼是蛋白質嗎？",
+    Moodles_Proteins_Value = "<br>%1 必須介於50到300之間",
+}

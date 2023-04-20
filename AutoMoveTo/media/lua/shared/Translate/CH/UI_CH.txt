@@ -1,0 +1,10 @@
+UI_CH = {
+    UI_optionscreen_binding_Move_To = "移動到",
+    UI_AutoMoveTo_Mode = "觸發選項",
+    UI_AutoMoveTo_Key = "按鍵綁定 > 玩家控制 > 移動到",
+    UI_AutoMoveTo_Click = "滑鼠左鍵點擊",
+    UI_AutoMoveTo_DoubleClick = "滑鼠左鍵點擊兩次",
+    UI_AutoMoveTo_Cursor = "光標顯示",
+    UI_AutoMoveTo_Cursor_None = "無",
+    UI_AutoMoveTo_Cursor_OnTarget = "在目標地點",
+}

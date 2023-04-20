@@ -1,6 +1,0 @@
-﻿Stash_CH = {
-
-    Stash_SCMMap1_Text1 = "西邊很遠.靠近化石.",
-	Stash_SCMMap2_Text1 = "我把西裝流在這裡",
-	Stash_SCMMap2_Text2 = "銀行搶劫案...",
-}

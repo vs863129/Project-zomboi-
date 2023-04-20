@@ -1,0 +1,5 @@
+Moodles_CH {
+    Moodles_ClothingHole_Good_lvl2 = "你的衣服上不再有洞了",
+    Moodles_ClothingHole_Bad_lvl2 = "你可以感受到空氣穿過你破洞的衣服",
+    Moodles_ClothingHole_Custom = "也許現在是時候處理你的%1個洞了.",
+}

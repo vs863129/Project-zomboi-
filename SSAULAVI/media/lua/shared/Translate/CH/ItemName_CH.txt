@@ -39,7 +39,6 @@ ItemName_CH = {
 	ItemName_Ssaulavi.StaffCrafted = "精緻的棍棒",		
 	ItemName_Ssaulavi.INaginata = "薙刀",		
 	ItemName_Ssaulavi.SMSpear = "自製金屬長矛",
-
 	ItemName_Ssaulavi.KajiyaMeishi = "史密斯卡",
 	ItemName_Ssaulavi.KajiyaChumoncho = "史密斯的訂單簿",
 	ItemName_Ssaulavi.KajiyaChumonsho = "史密斯的訂單",
@@ -66,6 +65,5 @@ ItemName_CH = {
 	ItemName_Ssaulavi.Tsujiura10 = "幸運字條",
 	ItemName_Ssaulavi.Tsujiura11 = "幸運字條",
 	ItemName_Ssaulavi.Tsujiura02 = "幸運字條",
-
 	ItemName_Ssaulavi.Otachi = "鐵尾",		
 }

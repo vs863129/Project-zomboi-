@@ -1,0 +1,19 @@
+ItemName_CH = {
+
+    ItemName_ISA.ISAMag1 = "新展望: 來自太陽的能量",
+
+
+    ItemName_ISA.SolarFailsafe = "故障保險觸發器",
+    ItemName_ISA.SolarPanelMounted = "落地式太陽能板",
+    ItemName_ISA.SolarPanelFlat = "屋瓦式太陽能板",
+    ItemName_ISA.SolarPanelWall = "掛壁式太陽能板",
+    ItemName_ISA.PowerBank = "蓄電池庫",
+    ItemName_ISA.SolarPanel = "太陽能板",
+    ItemName_ISA.ISAInverter = "逆變器",
+    ItemName_ISA.DeepCycleBattery = "200安培 電池",
+    ItemName_ISA.SuperBattery = "400安培 電池",
+    ItemName_ISA.DIYBattery = "自製電池",
+    ItemName_ISA.50AhBattery = "50安培 車用電池",
+    ItemName_ISA.75AhBattery = "75安培 車用電池",
+    ItemName_ISA.100AhBattery = "100安培 車用電池",
+}

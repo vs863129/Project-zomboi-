@@ -1,0 +1,4 @@
+Recipes_CH = {
+    Recipe_Make_Waystone = "製作 傳送石碑",
+
+}
