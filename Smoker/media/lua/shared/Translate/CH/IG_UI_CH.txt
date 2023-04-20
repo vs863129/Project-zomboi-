@@ -1,0 +1,16 @@
+IGUI_CH = {
+    IGUI_Empty = "空的...",
+    IGUI_One_cigarette = "一支香菸", 
+    IGUI_Two_cigarettes = "兩支香菸",
+    IGUI_There_is_some = "還剩一些...",
+    IGUI_Less_than_half = "不到一半。",
+    IGUI_Almost_half_a_pack = "接近半包...",
+    IGUI_More_than_a_half = "半包多!",
+    IGUI_Almost_a_complete_pack = "幾乎一整包!",
+    IGUI_Full_pack = "整整一包!",
+    IGUI_Refuel_Lighter = "需要給打火機灌油",
+    IGUI_ContextMenu_Cant_Action = "無法完成...將物品移至主物品欄內並再次右擊...",
+    IGUI_The_foil_burned_out = "箔條燒掉了...",
+    IGUI_MovingCigarettes = "把所有的香菸整合在包裡",
+    IGUI_Oh_Hand_Hot = "靠! 手! 燙!",
+}
