@@ -1,0 +1,3 @@
+Tooltip_CH = {
+    Tooltip_Pills_Nicorette = "緩解煙癮",
+}
