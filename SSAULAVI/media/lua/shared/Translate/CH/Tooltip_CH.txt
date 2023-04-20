@@ -21,4 +21,5 @@ Tooltip_SS_Bluntweapons = "-一把鈍器",
 	Tooltip_SS_Kiennodosu = "綽號瘋狗的指定幫派頭目喜歡的一把短刀<br>損壞率X2",
 	Tooltip_SS_Chunchunmaru = "據說是異界轉世者定製的喪服<br>最大傷害X2<br>耐久/2",
 	Tooltip_SS_Rekkimaru = "一把據說是由具有傑出精神力量的逃亡忍者設計和製造的劍<br>耐久X2<br>條件耐久X2",
+        Tooltip_SS_Nagakiba = "一把流浪獵人的劍,獵殺了一幫殘暴的入侵者.<br>-最大傷害x1.5",
 }
