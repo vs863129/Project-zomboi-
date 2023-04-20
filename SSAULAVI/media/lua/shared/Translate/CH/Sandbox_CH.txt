@@ -8,4 +8,7 @@ Sandbox_Ssaulavi_ToukenkanteishiChance_tooltip = "設置“刀刃”的生成稀
 Sandbox_Ssaulavi_MeikenkanteishiChance = "傳奇之刀刃鑑定師",
 Sandbox_Ssaulavi_MeikenkanteishiChance_tooltip = "設置“特別刀刃”的生成稀有值.這個設置是影響預設值 - 2500 / 1的分母值.<br> 這個設置的數值越低 生成率越高 : 數值越高 生成率越低.<br>只會適用於擁有“傳奇之刀刃鑑定師”特性的角色.",
 
+Sandbox_Ssaulavi_KajiyaMeishiLootChance = "史密斯卡的戰利品概率",
+Sandbox_Ssaulavi_KajiyaMeishiLootChance_tooltip = "設置鍛造時獲得必要物品的概率.<br>-該物品可從以"前倖存者"殭屍那裡獲得,並提供各種武器生產",
+
 }
