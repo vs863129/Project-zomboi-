@@ -8,5 +8,7 @@ Recipes_CH = {
     Recipe_Create_Staff = "製作精緻的棍棒",
 	Recipe_Craft_a_Salvaged_Metal Spear = "製作自製金屬長矛",
 	Recipe_Attach_Wakizashi_to_Spear = "製作薙刀",
-	Recipe_Reclaim_Wakizashi_from_Spear = "製作劦差",	
+	Recipe_Reclaim_Wakizashi_from_Spear = "製作劦差",
+	Recipe_Open_Fortune_Cookie = "打開幸運餅乾",	
+
 	}
