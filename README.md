@@ -135,6 +135,7 @@ FileName/media/lua/shared/Translate/CH/
 "+"的符號代表有新增該模組的新版的翻譯  
 [*受傷標示 Injury Indicator](https://steamcommunity.com/sharedfiles/filedetails/?id=2921642476)  (Github:a500197 ,Discord:Mark誌)    
 [+武士魂SSAULAVI](https://steamcommunity.com/sharedfiles/filedetails/?id=2887274097) (Github:nemo01642280 ,Discord:尼莫)  
+[煙癮者 Smoker](https://steamcommunity.com/sharedfiles/filedetails/?id=2026976958) (Github:nemo01642280 ,Discord:尼莫)  
 
 #### -搬運(待)-  
 
