@@ -73,4 +73,8 @@ UI_profdesc_Hikikomikenshi = "是你<br>一直生活在灰色的城市 但現在
 UI_prof_Kobudoka = "古典武術家",
 UI_profdesc_Kobudoka = "是位古典武術大師，主要用矛 , 槍 , 戟等長柄武器.",
 
+UI_trait_Romanha = "浪漫主義",
+UI_trait_Romanhadesc = "打仗的時候我會一展身手..(呵呵)<br>但我不是為我的國家而戰.<br>我是在為我愛的人冒著生命危險..阿哈..<br>開始時手持長劍.",
+
+
 }
