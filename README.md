@@ -15,4 +15,5 @@
 + A: 我自己有寫一套整合程式,只要正常的翻譯基本上不會出錯.
 
 # 發送至作者(從2023/05/04開始記錄)
+## 2023/05/07統計
 [可運作的自動販賣機 Working Vending Machines](https://steamcommunity.com/sharedfiles/filedetails/?id=2934155949) (Github:vs863129,Discord:文森)
