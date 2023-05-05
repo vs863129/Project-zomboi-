@@ -135,7 +135,7 @@ FileName/media/lua/shared/Translate/CH/
 
 ### -待整合至工作坊-  
 "+"的符號代表有新增該模組的新版的翻譯  
-
+[拆解優化(整理大師) Tidy Up Meister](https://steamcommunity.com/sharedfiles/filedetails/?id=2769706949&searchtext=Tidy+Up+Meister)  (Github:a500197 ,Discord:Mark誌)  
 
 #### -搬運(待)-  
 
