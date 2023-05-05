@@ -106,7 +106,7 @@ FileName/media/lua/shared/Translate/CH/
 [自動吸菸+吸菸改進 AutoSmoke + smoking improvements](https://steamcommunity.com/sharedfiles/filedetails/?id=2643751872)  (Github:a500197 ,Discord:Mark誌)    
 [自動縫紉 AutoSewing](https://steamcommunity.com/sharedfiles/filedetails/?id=2584991527&searchtext=)  (Github:a500197 ,Discord:Mark誌)    
 [*受傷標示 Injury Indicator](https://steamcommunity.com/sharedfiles/filedetails/?id=2921642476)  (Github:a500197 ,Discord:Mark誌)    
-[煙癮者 Smoker](https://steamcommunity.com/sharedfiles/filedetails/?id=2026976958) (Github:nemo01642280 ,Discord:尼莫)  
+[*煙癮者 Smoker](https://steamcommunity.com/sharedfiles/filedetails/?id=2026976958) (Github:nemo01642280 ,Discord:尼莫)  
 
 ### -搬運-
 [Minimal Display Bars](https://steamcommunity.com/sharedfiles/filedetails/?id=2004998206) (原模組翻譯搬運)  
