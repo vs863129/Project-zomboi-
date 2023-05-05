@@ -1,0 +1,4 @@
+ContextMenu_CH = {
+	ContextMenu_P4TidyUpMeister_ToDoReequip = "啟用重新裝備",
+	ContextMenu_P4TidyUpMeister_ToDoNotReequip = "停用重新裝備",
+}
