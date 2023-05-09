@@ -1,0 +1,163 @@
+﻿Recipe_CH = {
+    Recipe_ATADodgeRecipes = "達奇調校",
+    Recipe_ATABusRecipes = "巴士調校",
+    Recipe_ATAJeepRecipes = "Jaap調校",
+    Recipe_ATABMWe36Recipes = "BMW 36E調校",
+    Recipe_ATAVanDeRumbaRecipes = "DeRumba Van 調校",
+    Recipe_ATAMustangRecipes = "Fjord Mustard 調校",
+    Recipe_ATASamaraRecipes = "Chevalier Samara 調校",
+    Recipe_ATALutonRecipes = "MolksAgen Luton Van 調校",
+    Recipe_ATAPetyarbuiltRecipes = "Petyarbuilt 379 調校",
+    Recipe_ATADeLorianRecipes = "DMG DoLorean 調校",
+    Recipe_ATADeLorianBTTFRecipes = "時光機的祕訣",
+
+    Recipe_Cut_ATABullbar1Item = "切削保險桿",
+    Recipe_Cut_ATABullbar2Item = "切削保險桿",
+    Recipe_Cut_ATAFendersWideItem = "切削擋泥板",
+    Recipe_Cut_ATASkirtsSideItem = "切削側裙",
+    Recipe_Cut_ATASpoilerFrontItem = "切割前擾流板",
+    Recipe_Cut_ATASpoilerRear1Item = "切割後擾流板",
+    Recipe_Cut_ATASpoilerRear2Item = "切割後擾流板",
+
+/* transport_item.txt */
+    Recipe_Make_TransportCounter = "製作攜帶式流理檯,
+    Recipe_Make_TransportCupboard = "製作攜帶式櫥櫃",
+    Recipe_Make_TransportShelve = "製作攜帶式置物架",
+    Recipe_Make_a_compact_fridge = "製作緊湊型冰箱",
+    Recipe_Make_a_compact_stove = "製作緊湊型火爐",
+    Recipe_Make_a_compact_microwave = "製作緊湊型微波爐",
+    
+/* ATA */
+    Recipe_Make_ATAProtectionWheelsItem = "製作輪胎防護",
+    Recipe_Cut_ATAProtectionWheelsItem = "剪除輪胎防護",
+    Recipe_Basic_Tuning = "基礎調校",
+    
+    
+/************ Autotsar Motorclub ************/
+    Recipe_Make_ATAMotoBMWCustomMuffler = "BWM R80/7 - 製作改裝消音器",
+    
+    
+/************ Aquatsar Yacht Club ************/
+    Recipe_Extract_Tire_Tube = "取出內胎",
+    Recipe_Flatten_Tire_Tube = "將內胎洩氣",
+    Recipe_Inflate_Tire_Tube = "將內胎充氣",
+    Recipe_Powerboats_Mechanics = "動力船機制",
+    Recipe_Sailboats_Mechanics = "帆船機制",
+    Recipe_Performance_Boat_Mechanics = "競速艇機制",
+    Recipe_Swimming = "最棒的游泳技術",
+
+
+/************ Autotsar Tuning Atelier - Bus ************/
+    Recipe_Make_ATABusKengur1Item = "熊熊巴士 - 製作防護桿",
+    Recipe_Make_ATABusKengur2Item = "熊熊巴士 - 製作增強版防護桿",
+    Recipe_Make_ATABusKengur3Item = "熊熊巴士 - 製作尖刺犛",
+    Recipe_Make_ATABusRoofRack = "熊熊巴士 - 製作車頂籃",
+    Recipe_Make_ATABusProtectionDoorItem = "熊熊巴士 - 製作車門防護",
+    Recipe_Make_ATABusProtectionDoorRearItem = "熊熊巴士 - 製作後車門防護",
+    Recipe_Make_ATABusProtectionWheelsItem = "熊熊巴士 - 製作車輪防護",
+    Recipe_Make_ATABusProtectionWindowsFrontItem = "熊熊巴士 - 製作擋風玻璃防護",
+    Recipe_Make_ATABusProtectionWindowsRightItem = "熊熊巴士 - 製作右側車窗防護",
+    Recipe_Make_ATABusProtectionWindowsLeftItem = "熊熊巴士 - 製作左側車窗防護",
+    Recipe_Make_ATABusRoofBoxItem = "熊熊巴士 - 製作工具箱",
+    
+
+/************ Autotsar Tuning Atelier - Jaap Wrungel ************/
+    Recipe_Cut_ATAJeepBumper1Item = "吉普藍哥 - 切除保險桿",
+    Recipe_Cut_ATAJeepBumper2Item = "吉普藍哥 - 切除保險桿",
+    Recipe_Cut_ATAJeepBumper3Item = "吉普藍哥 - 切除保險桿",
+    Recipe_Cut_ATAJeepBumper4Item = "吉普藍哥 - 切除保險桿",
+    Recipe_Make_ATAJeepBumper4Item = "吉普藍哥 - 製作致命保險桿",
+    Recipe_Make_ATAJeepInteractiveTrunkRoofRackItem = "吉普藍哥 - 製作車頂籃",
+    Recipe_Cut_ATAJeepInteractiveTrunkRoofRackItem = "吉普藍哥 - 切除車頂籃",
+    Recipe_Make_ATAJeepInteractiveTrunkWheelRackItem = "吉普藍哥 - 製作行李箱備胎架",
+    Recipe_Cut_ATAJeepInteractiveTrunkWheelRackItem = "吉普藍哥 - 切除行李箱備胎架",
+    Recipe_Make_ATAJeepProtectionWindowItem = "吉普藍哥 - 製作車窗防護",
+    Recipe_Cut_ATAJeepProtectionWindowItem = "吉普藍哥 - 切除車窗防護",
+    Recipe_Make_ATAJeepProtectionWindowFrontItem = "吉普藍哥 - 製作擋風玻璃防護",
+    Recipe_Cut_ATAJeepProtectionWindowFrontItem = "吉普藍哥 - 切除擋風玻璃防護",
+    Recipe_Make_ATAJeepProtectionWindowRearItem = "吉普藍哥 - 製作後方車窗防護",
+    Recipe_Cut_ATAJeepProtectionWindowRearItem = "吉普藍哥 - 切除後方車窗防護",
+    Recipe_Make_ATAJeepRoofBaseItem = "吉普藍哥 - 製作剛果防滾籠",
+    Recipe_Cut_ATAJeepRoofBaseItem = "吉普藍哥 - 切除剛果防滾籠",
+
+    
+/************ Autotsar Tuning Atelier - Fjord Mustard ************/
+/************ Autotsar Tuning Atelier - Chevalier Samara ************/
+    Recipe_Cut_ATAMustangHoodItem = "野馬 - 切除引擎蓋",
+    Recipe_Cut_ATASamaraHoodItem = "薩馬拉 - 切除引擎蓋",
+
+
+/************ True Music ************/
+    Recipe_Dismantle_TCWalkman = "拆解音樂播放器",
+    Recipe_Dismantle_TruePlayers = "拆解音樂播放器",
+    
+    
+/************ Autotsar Tuning Atelier - Dadge Steals RT ************/
+    Recipe_Make_ATADodgeRoofRackItem = "達奇神偷 RT - 製作車頂籃",
+    Recipe_Cut_ATADodgeRoofRackItem = "達奇神偷 RT - 切除車頂籃",
+    Recipe_Make_ATADodgeWindowRackItem = "達奇神偷 RT - 製作後車窗籃架",
+    Recipe_Cut_ATADodgeWindowRackItem = "達奇神偷 RT - 切除後車窗籃架",
+    Recipe_Cut_ATADodgeBullbar1Item = "達奇神偷 RT - 切除防護桿",
+    Recipe_Cut_ATADodgeBullbar2Item = "達奇神偷 RT - 切除防護桿",
+    Recipe_Cut_ATADodgeBullbar3Item = "達奇神偷 RT - 切除防護桿",
+    Recipe_Make_ATADodgeBullbar2Item = "達奇神偷 RT - 製作防護桿",
+    Recipe_Make_ATADodgeBullbar3Item = "達奇神偷 RT - 製作防護桿",
+    Recipe_Make_ATADodgeProtectionWindowSideItem = "達奇神偷 RT - 製作側面車窗防護 ",
+    Recipe_Cut_ATADodgeProtectionWindowSideItem = "達奇神偷 RT - 切除側面車窗防護",
+    Recipe_Make_ATADodgeProtectionWindowFrontItem = "達奇神偷 RT - 製作擋風玻璃防護",
+    Recipe_Cut_ATADodgeProtectionWindowFrontItem = "達奇神偷 RT - 切除擋風玻璃防護",
+
+
+/************ Autotsar Tuning Atelier - Petyarbuilt 379 ************/
+    Recipe_Make_ATAPetyarbuiltProtectionSleeperItem = "Petyarbuilt 379 - 製作床舖防護",
+    Recipe_Cut_ATAPetyarbuiltProtectionSleeperItem = "Petyarbuilt 379 - 切除床舖防護",
+    Recipe_Make_ATAPetyarbuiltProtectionRearWheelsItem = "Petyarbuilt 379 - 製作後車輪防護",
+    Recipe_Cut_ATAPetyarbuiltProtectionRearWheelsItem = "Petyarbuilt 379 - 切除後車輪防護",
+    Recipe_Make_ATAPetyarbuiltProtectionGasTankItem = "Petyarbuilt 379 - 製作油箱防護",
+    Recipe_Cut_ATAPetyarbuiltProtectionGasTankItem = "Petyarbuilt 379 - 切除油箱防護",
+    Recipe_Make_ATAPetyarbuiltProtectionSideItem = "Petyarbuilt 379 - 製作側面防護",
+    Recipe_Cut_ATAPetyarbuiltProtectionSideItem = "Petyarbuilt 379 - 切除側面防護",
+    Recipe_Make_ATAPetyarbuiltProtectionSideFrontItem = "Petyarbuilt 379 - 製作正面防護",
+    Recipe_Cut_ATAPetyarbuiltProtectionSideFrontItem = "Petyarbuilt 379 - 切除正面防護",
+    Recipe_Make_ATAPetyarbuiltProtectionSideTopItem = "Petyarbuilt 379 - 製作車頂防護",
+    Recipe_Cut_ATAPetyarbuiltProtectionSideTopItem = "Petyarbuilt 379 - 切除車頂防護",
+    
+    
+/************ Autotsar Tuning Atelier - MolksAgen Luton Van ************/
+    Recipe_Make_ATALutonProtectionSideFrontItem = "MolksAgen Luton 廂型車 - 製作正面防護",
+    Recipe_Cut_ATALutonProtectionSideFrontItem = "MolksAgen Luton 廂型車 - 切除正面防護",
+    Recipe_Make_ATALutonProtectionHoodItem = "MolksAgen Luton 廂型車 - 製作引擎蓋防護",
+    Recipe_Cut_ATALutonProtectionHoodItem = "MolksAgen Luton 廂型車 - 切除引擎蓋防護",
+    Recipe_Make_ATALutonProtectionWindowFrontSideItem= "MolksAgen Luton 廂型車 - 製作側面車窗防護",
+    Recipe_Cut_ATALutonProtectionWindowFrontSideItem = "MolksAgen Luton 廂型車 - 切除側面車窗防護",
+    Recipe_Make_ATALutonProtectionWindowFrontItem = "MolksAgen Luton 廂型車 - 製作擋風玻璃防護",
+    Recipe_Cut_ATALutonProtectionWindowFrontItem = "MolksAgen Luton 廂型車 - 切除擋風玻璃防護",
+    Recipe_Make_ATALutonInteractiveTrunkRoofRackItem = "MolksAgen Luton 廂型車 - 製作車頂籃",
+    Recipe_Cut_ATALutonInteractiveTrunkRoofRackItem = "MolksAgen Luton 廂型車 - 切除車頂籃",
+    Recipe_Make_ATALutonLadderItem = "MolksAgen Luton 廂型車 - 製作爬梯",
+    Recipe_Cut_ATALutonLadderItem = "MolksAgen Luton 廂型車 - 切除爬梯",
+    
+    
+/************ Autotsar Tuning Atelier - DeRumba Van ************/
+    Recipe_Cut_ATAVanDeRumbaBullbar1Item = "迪魯巴廂型車 - 切除防護桿",
+    Recipe_Cut_ATAVanDeRumbaBullbar2Item = "迪魯巴廂型車 - 切除防護桿",
+    Recipe_Make_ATAVanDeRumbaBullbar2Item = "迪魯巴廂型車 - 製作防護桿",
+    Recipe_Cut_ATAVanDeRumbaBullbar3Item = "迪魯巴廂型車 - 切除防護桿上的犛",
+    Recipe_Make_ATAVanDeRumbaBullbar3Item = "迪魯巴廂型車 - 將防護桿焊上犛",
+    Recipe_Make_ATAVanDeRumbaProtectionHoodItem = "迪魯巴廂型車 - 製作引擎蓋防護",
+    Recipe_Cut_ATAVanDeRumbaProtectionHoodItem = "迪魯巴廂型車 - 切除引擎蓋防護",
+    Recipe_Make_ATAVanDeRumbaProtectionWindowFrontItem = "迪魯巴廂型車 - 製作擋風玻璃防護",
+    Recipe_Cut_ATAVanDeRumbaProtectionWindowFrontItem = "迪魯巴廂型車 - 切除擋風玻璃防護",
+    Recipe_Make_ATAVanDeRumbaProtectionWindowFrontSideItem= "迪魯巴廂型車 - 製作側面車窗防護",
+    Recipe_Cut_ATAVanDeRumbaProtectionWindowFrontSideItem = "迪魯巴廂型車 - 切除側面車窗防護",
+    Recipe_Make_ATAVanDeRumbaProtectionWindowRearItem = "迪魯巴廂型車 - 製作後車窗防護",
+    Recipe_Cut_ATAVanDeRumbaProtectionWindowRearItem = "迪魯巴廂型車 - 切除後車窗防護",
+    Recipe_Make_ATAVanDeRumbaInteractiveTrunkRoofRackItem = "迪魯巴廂型車 - 製作車頂籃",
+    Recipe_Cut_ATAVanDeRumbaInteractiveTrunkRoofRackItem = "迪魯巴廂型車 - 切除車頂籃",
+    Recipe_Make_ATAVanDeRumbaLadderItem = "迪魯巴廂型車 - 製作爬梯",
+    Recipe_Cut_ATAVanDeRumbaLadderItem = "迪魯巴廂型車 - 切除爬梯",
+    Recipe_Make_ATAVanDeRumbaRoofBaseItem = "迪魯巴廂型車 - 製作車頂支架",
+    Recipe_Cut_ATAVanDeRumbaRoofBaseItem = "迪魯巴廂型車 - 切除車頂支架",
+    Recipe_Make_ATAVanDeRumbRoofBoxItem = "迪魯巴廂型車 - 製作工具箱",
+    Recipe_Cut_ATAVanDeRumbRoofBoxItem = "迪魯巴廂型車 - 切除工具箱",
+}
