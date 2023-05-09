@@ -138,6 +138,7 @@ FileName/media/lua/shared/Translate/CH/
 "+"的符號代表有新增該模組的新版的翻譯  
 [拆解優化(整理大師) Tidy Up Meister](https://steamcommunity.com/sharedfiles/filedetails/?id=2769706949&searchtext=Tidy+Up+Meister)  (Github:a500197 ,Discord:Mark誌)  
 [*Tsar's 核心模組 Tsar's Common Library 2.0](https://steamcommunity.com/sharedfiles/filedetails/?id=2920735875)  (Github:kyo2002tw,Discord:cide2021)  
+[物品檢查 Item Checker](https://steamcommunity.com/sharedfiles/filedetails/?id=2852618661)  (Github:a500197 ,Discord:Mark誌)   
 
 #### -搬運(待)-  
 
