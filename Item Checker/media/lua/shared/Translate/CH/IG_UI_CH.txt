@@ -1,0 +1,4 @@
+IG_UI_CH = {
+    IGUI_Uncheck = "取消勾選",
+    IGUI_Check = "勾選",
+}
