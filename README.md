@@ -2,8 +2,8 @@
 預計為玩家製作成統一包,並且可在Steam工作坊下載    
 這裡只是留個紀錄:P 詳細自己去看工作坊
 # 其他模組的GITHUB
-如果原模組有架設Github,會將資料更改至連接並呈現至下方
-[反射性話語 Conditional-Speech](https://github.com/ChuckTheSheep/zomboid-cnd-speech/tree/master/Contents/mods/zomboid-cnd-speech/media/lua/shared/Translate/CH)
+如果原模組有架設Github,會將資料更改至連接並呈現至下方  
+[反射性話語 Conditional-Speech](https://github.com/ChuckTheSheep/zomboid-cnd-speech/tree/master/Contents/mods/zomboid-cnd-speech/media/lua/shared/Translate/CH)  
 [更詳細狀態介紹 BetterMoodlesDescriptions](https://github.com/xChillax/PZBetterMoodlesDescriptions/tree/main/CH)  
 [沉浸式太陽能 ImmersiveSolarArrays](https://github.com/radx5Blue/ImmersiveSolarArrays/tree/main/Contents/mods/ImmersiveSolarArrays/media/lua/shared/Translate/CH)   
 ---更多特質---  
