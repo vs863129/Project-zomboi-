@@ -142,6 +142,7 @@ FileName/media/lua/shared/Translate/CH/
 [物品檢查 Item Checker](https://steamcommunity.com/sharedfiles/filedetails/?id=2852618661)  (Github:a500197 ,Discord:Mark誌)   
 [*Sapph's 烹飪 Sapph's Cooking](https://steamcommunity.com/sharedfiles/filedetails/?id=2832136889)  (巴哈:冷沔泠-35P)    
 [+貨幣交易模組 Currency Trade Mod [B41]+](https://steamcommunity.com/workshop/filedetails/?id=2356682893)  (Github:kyo2002tw,Discord:cide2021)  
+[車輛回收 Vehicle Recycling](https://steamcommunity.com/sharedfiles/filedetails/?id=2289429759) (Github:vs863129,Discord:文森)  
 
 #### -搬運(待)-  
 
