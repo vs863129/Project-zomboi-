@@ -1,0 +1,5 @@
+Tooltip_CH = {
+    Tooltip_VehicleRecycling = "用炳烷拆解汽車或拖車,將會獲得金屬和電子材料. <LINE> 較高的金工技能,將可拆解出更多可用的回收物.",
+    Tooltip_VehicleRecycling_Uninstall = "拆解:",
+    Tooltip_VehicleRecycling_Passengers = "車上有乘客,無法拆解",
+}
