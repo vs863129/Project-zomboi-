@@ -107,7 +107,11 @@ FileName/media/lua/shared/Translate/CH/
 [自動縫紉 AutoSewing](https://steamcommunity.com/sharedfiles/filedetails/?id=2584991527&searchtext=)  (Github:a500197 ,Discord:Mark誌)    
 [*受傷標示 Injury Indicator](https://steamcommunity.com/sharedfiles/filedetails/?id=2921642476)  (Github:a500197 ,Discord:Mark誌)    
 [*煙癮者 Smoker](https://steamcommunity.com/sharedfiles/filedetails/?id=2026976958) (Github:nemo01642280 ,Discord:尼莫)  
-
+[拆解優化(整理大師) Tidy Up Meister](https://steamcommunity.com/sharedfiles/filedetails/?id=2769706949)  (Github:a500197 ,Discord:Mark誌)  
+[*Tsar's 核心模組 Tsar's Common Library v2.05](https://steamcommunity.com/sharedfiles/filedetails/?id=2392709985)  (Github:kyo2002tw,Discord:cide2021)  
+[物品檢查 Item Checker](https://steamcommunity.com/sharedfiles/filedetails/?id=2852618661)  (Github:a500197 ,Discord:Mark誌)   
+[*Sapph's 烹飪 Sapph's Cooking](https://steamcommunity.com/sharedfiles/filedetails/?id=2832136889)  (巴哈:冷沔泠-35P)    
+[車輛回收 Vehicle Recycling](https://steamcommunity.com/sharedfiles/filedetails/?id=2289429759) (Github:vs863129,Discord:文森)  
 ### -搬運-
 [Minimal Display Bars](https://steamcommunity.com/sharedfiles/filedetails/?id=2004998206) (原模組翻譯搬運)  
 [倖存者(NPC模組)二合一 Survivors 2 in 1](https://steamcommunity.com/sharedfiles/filedetails/?id=2680488822)  (原模組翻譯搬運)  
@@ -137,13 +141,6 @@ FileName/media/lua/shared/Translate/CH/
 
 ### -待整合至工作坊-  
 "+"的符號代表有新增該模組的新版的翻譯  
-[拆解優化(整理大師) Tidy Up Meister](https://steamcommunity.com/sharedfiles/filedetails/?id=2769706949)  (Github:a500197 ,Discord:Mark誌)  
-[*Tsar's 核心模組 Tsar's Common Library v2.05](https://steamcommunity.com/sharedfiles/filedetails/?id=2392709985)  (Github:kyo2002tw,Discord:cide2021)  
-[物品檢查 Item Checker](https://steamcommunity.com/sharedfiles/filedetails/?id=2852618661)  (Github:a500197 ,Discord:Mark誌)   
-[*Sapph's 烹飪 Sapph's Cooking](https://steamcommunity.com/sharedfiles/filedetails/?id=2832136889)  (巴哈:冷沔泠-35P)    
-[+貨幣交易模組 Currency Trade Mod [B41]+](https://steamcommunity.com/workshop/filedetails/?id=2356682893)  (Github:kyo2002tw,Discord:cide2021)  
-[車輛回收 Vehicle Recycling](https://steamcommunity.com/sharedfiles/filedetails/?id=2289429759) (Github:vs863129,Discord:文森)  
-
 #### -搬運(待)-  
 
 ## 連接(LINK)
