@@ -138,7 +138,7 @@ FileName/media/lua/shared/Translate/CH/
 ### -待整合至工作坊-  
 "+"的符號代表有新增該模組的新版的翻譯  
 [拆解優化(整理大師) Tidy Up Meister](https://steamcommunity.com/sharedfiles/filedetails/?id=2769706949)  (Github:a500197 ,Discord:Mark誌)  
-[*Tsar's 核心模組 Tsar's Common Library 2.0](https://steamcommunity.com/sharedfiles/filedetails/?id=2392709985)  (Github:kyo2002tw,Discord:cide2021)  
+[*Tsar's 核心模組 Tsar's Common Library v2.05](https://steamcommunity.com/sharedfiles/filedetails/?id=2392709985)  (Github:kyo2002tw,Discord:cide2021)  
 [物品檢查 Item Checker](https://steamcommunity.com/sharedfiles/filedetails/?id=2852618661)  (Github:a500197 ,Discord:Mark誌)   
 [*Sapph's 烹飪 Sapph's Cooking](https://steamcommunity.com/sharedfiles/filedetails/?id=2832136889)  (巴哈:冷沔泠-35P)    
 [+貨幣交易模組 Currency Trade Mod [B41]+](https://steamcommunity.com/workshop/filedetails/?id=2356682893)  (Github:kyo2002tw,Discord:cide2021)  
