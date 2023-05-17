@@ -15,6 +15,8 @@
 + A: 我自己有寫一套整合程式,只要正常的翻譯基本上不會出錯.
 
 # 發送至作者(從2023/05/04開始記錄)
+## 2023/05/21
+[Zombie Virus vaccine Update 41.78+ MP Hotfix](https://steamcommunity.com/sharedfiles/filedetails/?id=2765438437) (Github:vs863129,Discord:文森)  
 ## 2023/05/14
 [反射性話語 Conditional-Speech](https://steamcommunity.com/sharedfiles/filedetails/?id=2398253681)  (Github:kyo2002tw,Discord:cide2021)  
 ## 2023/05/07
