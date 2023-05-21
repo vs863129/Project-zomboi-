@@ -5,7 +5,8 @@
 如果原模組有架設Github,會將資料更改至連接並呈現至下方  
 [反射性話語 Conditional-Speech](https://github.com/ChuckTheSheep/zomboid-cnd-speech/tree/master/Contents/mods/zomboid-cnd-speech/media/lua/shared/Translate/CH)  
 [更詳細狀態介紹 BetterMoodlesDescriptions](https://github.com/xChillax/PZBetterMoodlesDescriptions/tree/main/CH)  
-[沉浸式太陽能 ImmersiveSolarArrays](https://github.com/radx5Blue/ImmersiveSolarArrays/tree/main/Contents/mods/ImmersiveSolarArrays/media/lua/shared/Translate/CH)   
+[沉浸式太陽能 ImmersiveSolarArrays](https://github.com/radx5Blue/ImmersiveSolarArrays/tree/main/Contents/mods/ImmersiveSolarArrays/media/lua/shared/Translate/CH)  
+[製作小幫手 Craft Helper Continued](https://github.com/lanceris/pz_crafthelper/tree/main/media/lua/shared/Translate/CH)   
 ---更多特質---  
 [更多特質 More Traits](https://github.com/hypnotoadtrance/MoreTraits/tree/master/Contents/mods/More%20Traits/media/lua/shared/Translate/CH)  
 [更多特質-動態 More Traits-Dynamic](https://github.com/hypnotoadtrance/MoreTraits/tree/master/Contents/mods/More%20Traits%20-%20Dynamic/media/lua/shared/Translate)  
@@ -17,6 +18,7 @@
 # 發送至作者(從2023/05/04開始記錄)
 ## 2023/05/21
 [Zombie Virus vaccine Update 41.78+ MP Hotfix](https://steamcommunity.com/sharedfiles/filedetails/?id=2765438437) (Github:vs863129,Discord:文森)  
+[製作小幫手 Craft Helper Continued](https://steamcommunity.com/sharedfiles/filedetails/?id=2787291513) (Github:vs863129,Discord:文森)  
 ## 2023/05/14
 [反射性話語 Conditional-Speech](https://steamcommunity.com/sharedfiles/filedetails/?id=2398253681)  (Github:kyo2002tw,Discord:cide2021)  
 ## 2023/05/07
