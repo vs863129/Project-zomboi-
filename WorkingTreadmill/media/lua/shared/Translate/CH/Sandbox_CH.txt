@@ -1,0 +1,6 @@
+﻿Sandbox_CH = {
+	Sandbox_FC4WorkingTreadmill = "跑步機",
+	Sandbox_FC4WorkingTreadmill_FitnessXPMultiply = "體格經驗加成",
+	Sandbox_FC4WorkingTreadmill_StrengthXPMultiply = "力量經驗加成",
+	Sandbox_FC4WorkingTreadmill_SprintingXPMultiply = "衝刺經驗加成",
+}
