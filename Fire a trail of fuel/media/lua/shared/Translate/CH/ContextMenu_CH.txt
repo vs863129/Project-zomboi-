@@ -1,0 +1,5 @@
+﻿ContextMenu_CH = {
+	ContextMenu_Firetrail = "火災蹤跡",
+	ContextMenu_Firetrail_create = "傾倒汽油，創建軌跡",
+	ContextMenu_Firetrail_ignite = "開始點火",
+}
