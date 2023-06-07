@@ -97,7 +97,6 @@ ItemName_CH = {
 
     ItemName_Base.223Clip = "雷明頓 700 彈匣",
     ItemName_Base.308Clip = "彈倉",
-    ItemName_Base.Magazine = "彈匣",
     ItemName_Base.9mmClip = "貝瑞塔 M9 彈匣",
     ItemName_Base.556Clip = "STANAG 彈匣",
     ItemName_Base.FN_FAL_Mag = "FN FAL 彈匣",
