@@ -1,0 +1,8 @@
+ContextMenu_CH = {
+ContextMenu_Holster_visibleStyle = "穿在外套外面",
+ContextMenu_Holster_visibleStyle1 = "穿在外套裡面",
+ContextMenu_Holster_visibleStyle2 = "不含皮帶佩戴",
+ContextMenu_HolsterDouble_visibleStyle = "穿在外套外面",
+ContextMenu_HolsterDouble_visibleStyle1 = "穿在外套裡面",
+ContextMenu_HolsterDouble_visibleStyle2 = "不含皮帶佩戴",
+}

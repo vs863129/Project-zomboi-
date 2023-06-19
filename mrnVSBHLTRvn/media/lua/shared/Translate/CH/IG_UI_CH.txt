@@ -1,0 +1,4 @@
+IG_UI_CH = {
+IGUI_HotbarAttachment_VISHOLleft = "左槍套",
+IGUI_HotbarAttachment_VISHOLright = "右槍套",
+}
