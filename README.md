@@ -147,7 +147,7 @@ FileName/media/lua/shared/Translate/CH/
 ### -待整合至工作坊-  
 "+"的符號代表有新增該模組的新版的翻譯  
 #### -搬運(待)-  
-
+[可視化皮套 Visible Holster](https://steamcommunity.com/sharedfiles/filedetails/?id=2901552077)  (Github:HerioJohnX,Discord:希利奧)  
 ## 連接(LINK)
 **[模組繁體中文包](https://steamcommunity.com/sharedfiles/filedetails/?id=2730159518)** 
 
