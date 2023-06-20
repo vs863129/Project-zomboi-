@@ -1,0 +1,13 @@
+IGUI_CH = {
+   	IGUI_Beard_Maxwell218 = "精簡鬍",
+   	IGUI_Hair_M_MegaMullet = "鯔魚頭",
+	IGUI_Hair_M_Aiteron = "艾特龍",
+	IGUI_Hair_M_Soulfilcher = "竊魂者",
+	IGUI_Hair_M_ObiWanCannoli = "歐比王肯諾比",
+	IGUI_Hair_F_Grunge01 = "頹廢搖滾",
+	IGUI_Hair_F_PonytailLong = "長馬尾",
+	IGUI_Hair_F_Merigold = "梅利葛德",
+	IGUI_Hair_F_ThrottleKitty = "頹廢",
+	IGUI_Hair_F_PonytailMedium = "中長馬尾",
+	IGUI_Hair_F_BRITA = "貝瑞塔",
+}
