@@ -1,4 +1,4 @@
-UI_EN = {
+UI_CH = {
     UI_RainWash_Multiplier = "倍數",
     UI_RainWash_Multiplier_Tooltip = "倍數越大，在雨中清洗身穿的衣物越快",
     UI_RainWash_Vehicle = "車輛",
