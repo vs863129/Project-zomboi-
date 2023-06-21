@@ -1,0 +1,17 @@
+ItemName_CH = {
+
+		ItemName_seifuku.Socks_KneeHighWhite = "及膝長襪(白)",
+		ItemName_seifuku.Socks_KneeHighBlack = "及膝長襪(黑)",
+		ItemName_seifuku.Socks_OverKneeWhite = "過膝長襪(白)",
+		ItemName_seifuku.Socks_OverKneeBlack = "過膝長襪(黑)",
+		ItemName_seifuku.FemaleUniform_SkirtBlackLong = "長校裙(黑)",
+		ItemName_seifuku.FemaleUniform_SkirtBlueLong = "長校裙(藍)",
+		ItemName_seifuku.FemaleUniform_SailorBlue = "長袖水手服",
+		ItemName_seifuku.FemaleUniform_SailorShortBlue = "水手服",
+		ItemName_seifuku.Tie_StringBlue = "繫帶",
+		ItemName_seifuku.Tie_StringBlueHi = "繫帶",
+		ItemName_seifuku.Tie_TrianglePink = "三角領帶(粉紅)",
+		ItemName_seifuku.Tie_TriangleBlue = "三角領帶(藍)",
+		ItemName_seifuku.Tie_TriangleYellow = "三角領帶(黃)",
+		
+}

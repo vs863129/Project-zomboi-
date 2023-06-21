@@ -1,0 +1,109 @@
+IG_UI_CH = { 
+
+	IGUI_Hair_F_DutchBraids = "荷蘭辮",
+	
+	IGUI_Hair_M_DutchBraids = "荷蘭辮",
+	
+    	IGUI_Hair_F_CroftHair = "卡芙特辮",
+   	IGUI_Hair_F_Jessica = "傑西卡",
+    	IGUI_Hair_F_SideBraid = "凱妮絲辮",
+    	IGUI_Hair_F_DoubleBraids = "星期三",
+    	IGUI_Hair_F_HairBun = "包子頭2",
+	
+	IGUI_Hair_F_HairBunBangs = "包子頭附劉海",
+	
+	IGUI_Hair_F_HairBunNoFringe = "包子頭無劉海",
+    	IGUI_Hair_F_ClippedHair = "維羅尼卡",
+    	IGUI_Hair_F_Rochefort = "羅什福爾",
+
+    	IGUI_Hair_F_AfroBun = "爆炸頭 (倦)",
+    	IGUI_Hair_M_AfroBun = "爆炸頭 (倦)",	
+    	IGUI_Hair_F_Afro = "爆炸頭",
+    	IGUI_Hair_M_Afro = "爆炸頭",
+	
+	IGUI_Hair_F_BraidedPonytail = "維京馬尾辮",
+	
+    	IGUI_Hair_F_CheerLeader = "啦啦隊",
+
+    	IGUI_Hair_M_CheerLeader = "啦啦隊",
+	
+	IGUI_Hair_F_Classy = "優雅",
+	
+    	IGUI_Hair_M_Classy = "優雅",		
+
+    	IGUI_Hair_M_Dreadlocks = "雷鬼頭",
+	
+    	IGUI_Hair_F_LowPonytail = "馬尾低垂",
+    	IGUI_Hair_F_TiedHalfDown = "公主頭",
+    	IGUI_Hair_F_Dreadlocks = "雷鬼頭",
+	
+	IGUI_Hair_F_HalfUpShaved = "包子頭上梳",
+	
+	IGUI_Hair_F_Undercut = "側分線上梳",
+	IGUI_Hair_F_UndercutCurly = "側分線上梳 (倦)",
+	
+	IGUI_Hair_F_Pigtails = "雙馬尾",
+	
+	IGUI_Hair_F_Sherry = "雪莉爾",
+	
+	IGUI_Hair_F_Yaki = "彌木",
+	
+	IGUI_Hair_F_YakiCurly = "彌木 (倦)",
+	
+	IGUI_Hair_F_YakiBehindEars = "彌木耳後",
+	
+	IGUI_Hair_F_YakiParted = "彌木遮耳",
+	
+	IGUI_Hair_F_LowPonytailNoFringe = "馬尾低垂無劉海",
+	
+	IGUI_Hair_F_LowPonytailBangs = "馬尾低垂劉海",
+
+    	IGUI_Hair_M_TiedHalfDown = "公主頭",
+	
+    	IGUI_Hair_M_SideBraid = "凱特尼斯辮",
+    	IGUI_Hair_M_CroftHair = "卡芙特辮",
+	
+    	IGUI_Hair_M_HalfUpShaved = "包子頭上梳",	
+	
+    	IGUI_Hair_M_Jessica = "傑西卡",
+	
+	IGUI_Hair_M_Rochefort = "羅什福爾",
+	IGUI_Hair_M_LowPonytail = "馬尾低垂",
+	
+	IGUI_Hair_M_DoubleBraids = "星期三",	
+	
+	IGUI_Hair_M_HairBun = "包子頭",	
+	
+	IGUI_Hair_M_HairBunBangs = "包子頭附劉海",
+	
+	IGUI_Hair_M_HairBunNoFringe = "包子頭無劉海",
+	
+	IGUI_Hair_M_ClippedHair = "維羅尼卡",
+	
+	IGUI_Hair_M_Undercut = "側分線上梳",
+	
+	IGUI_Hair_M_UndercutCurly = "側分線上梳 (倦)",
+	
+	IGUI_Hair_M_VeryLongParted = "長及腰",
+
+	IGUI_Hair_F_VeryLongParted = "長及腰",
+	
+	IGUI_Hair_M_Pigtails = "雙馬尾",
+		
+	IGUI_Hair_M_Sherry = "雪莉爾",
+
+	IGUI_Hair_M_Yaki = "彌木",
+	
+	IGUI_Hair_M_YakiCurly = "彌木 (倦)",
+	
+	IGUI_Hair_M_YakiBehindEars = "彌木耳後",
+	
+	IGUI_Hair_M_YakiParted = "馬尾低垂無劉海",
+	
+	IGUI_Hair_M_BraidedPonytail = "維京馬尾辮",
+	
+	IGUI_Hair_M_LowPonytailNoFringe = "馬尾低垂無劉海",
+	
+	IGUI_Hair_M_LowPonytailBangs = "馬尾低垂劉海",
+    
+}

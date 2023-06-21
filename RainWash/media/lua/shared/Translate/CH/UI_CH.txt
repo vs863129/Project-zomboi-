@@ -1,0 +1,8 @@
+UI_CH = {
+    UI_RainWash_Multiplier = "倍數",
+    UI_RainWash_Multiplier_Tooltip = "倍數越大，在雨中清洗身穿的衣物越快",
+    UI_RainWash_Vehicle = "車輛",
+    UI_RainWash_Vehicle_Tooltip = "只有你角色在內的車輛才會被清洗",
+    UI_RainWash_RecentVehicle = "上一輛使用的車輛",
+    UI_RainWash_RecentVehicle_Tooltip = "當你離開車輛後，該車輛也會被清洗",
+}
