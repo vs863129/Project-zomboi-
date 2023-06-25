@@ -16,6 +16,9 @@
 FileName/media/lua/shared/Translate/CH/  
 範例: 模組名稱為DebugMenu 則 DebugMenu/media/lua/shared/Translate/CH/  
 [範例檔案](https://github.com/vs863129/PZModTraditional/tree/%E7%AF%84%E4%BE%8B%E6%AA%94)  
+地圖路徑:FileName/media/lua/shared/Translate/CH/(地圖的資料夾名稱)
+包含裡面的title.txt和description.txt
+
 且檔案編碼記得是UTF-8，如有不同請告知!  
 
 ## 模組開發者(MOD Developer)  
@@ -116,6 +119,14 @@ FileName/media/lua/shared/Translate/CH/
 [可點燃的燃料路徑 Fire a trail of fuel](https://steamcommunity.com/sharedfiles/filedetails/?id=2940908294) (Github:kyo2002tw,Discord:cide2021)  
 [可運作的跑步機 Working Treadmill](https://steamcommunity.com/sharedfiles/filedetails/?id=2752895143) (Github:kyo2002tw,Discord:cide2021)  
 [*車輛維修改良模組 Vehicle Repair Overhaul](https://steamcommunity.com/sharedfiles/filedetails/?id=2757712197)  (部分修正,Github:vs863129,Discord:文森)  
+[可視化皮套 Visible Holster](https://steamcommunity.com/sharedfiles/filedetails/?id=2901552077)  (Github:HerioJohnX,Discord:希利奧) 
+
+### -地圖描述翻譯-
+[藍莓鎮 BlueBerry](https://steamcommunity.com/sharedfiles/filedetails/?id=2671890843) (Github:HerioJohnX,Discord:希利奧)  
+[查爾斯鎮 Chestown](https://steamcommunity.com/sharedfiles/filedetails/?id=2840889213) (Github:HerioJohnX,Discord:希利奧)  
+[綠葉鎮 Greenleaf](https://steamcommunity.com/sharedfiles/filedetails/?id=2778799110) (Github:HerioJohnX,Discord:希利奧)  
+[渡鴉港 RavenCreek](https://steamcommunity.com/sharedfiles/filedetails/?id=2196102849) (Github:HerioJohnX,Discord:希利奧)  
+[聖保羅之槌 St Paulo](https://steamcommunity.com/sharedfiles/filedetails/?id=2985730744) (Github:HerioJohnX,Discord:希利奧)  
 
 ### -搬運-
 [Minimal Display Bars](https://steamcommunity.com/sharedfiles/filedetails/?id=2004998206) (原模組翻譯搬運)  
@@ -145,8 +156,7 @@ FileName/media/lua/shared/Translate/CH/
 [反射性話語 Conditional-Speech](https://steamcommunity.com/sharedfiles/filedetails/?id=2398253681)  (Github:kyo2002tw,Discord:cide2021)  
 
 ### -待整合至工作坊-  
-"+"的符號代表有新增該模組的新版的翻譯  
-[可視化皮套 Visible Holster](https://steamcommunity.com/sharedfiles/filedetails/?id=2901552077)  (Github:HerioJohnX,Discord:希利奧)  
+"+"的符號代表有新增該模組的新版的翻譯   
 #### -搬運(待)-  
 
 ## 連接(LINK)
