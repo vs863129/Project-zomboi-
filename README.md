@@ -16,7 +16,7 @@
 FileName/media/lua/shared/Translate/CH/  
 範例: 模組名稱為DebugMenu 則 DebugMenu/media/lua/shared/Translate/CH/  
 [範例檔案](https://github.com/vs863129/PZModTraditional/tree/%E7%AF%84%E4%BE%8B%E6%AA%94)  
-地圖路徑:FileName/media/lua/shared/Translate/CH/(地圖的資料夾名稱)
+地圖路徑:FileName/media/lua/shared/Translate/CH/(地圖的資料夾名稱)  
 包含裡面的title.txt和description.txt
 
 且檔案編碼記得是UTF-8，如有不同請告知!  
