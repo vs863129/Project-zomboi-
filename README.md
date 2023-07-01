@@ -157,6 +157,8 @@ FileName/media/lua/shared/Translate/CH/
 
 ### -待整合至工作坊-  
 "+"的符號代表有新增該模組的新版的翻譯   
+[更好分類 - 更多樣分類 Better Sorting - Patch Smorgasbord](https://steamcommunity.com/sharedfiles/filedetails/?id=2869324238)	(Github:vs863129,Discord:文森)  
+[食品打包 Pantry Packing](https://steamcommunity.com/sharedfiles/filedetails/?id=2637692469)  (Github:nemo01642280 ,Discord:尼莫)  
 #### -搬運(待)-  
 
 ## 連接(LINK)

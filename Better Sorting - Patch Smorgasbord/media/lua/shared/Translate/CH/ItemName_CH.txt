@@ -1,0 +1,12 @@
+ItemName_CH = {
+    ItemName_DrivingSkill.DrivingSkill_BookDriving1 = "駕駛 第1集 - 入門",
+	ItemName_DrivingSkill.DrivingSkill_BookDriving2 = "駕駛 第2集 - 中級",
+	ItemName_DrivingSkill.DrivingSkill_BookDriving3 = "駕駛 第3集 - 進階",
+	ItemName_DrivingSkill.DrivingSkill_BookDriving4 = "駕駛 第4集 - 專家",
+	ItemName_DrivingSkill.DrivingSkill_BookDriving5 = "駕駛 第5集 - 大師",
+    ItemName_ScavengerSkill.ScavengerSkill_BookScavenging1 = "搜刮 第1集 - 入門",
+	ItemName_ScavengerSkill.ScavengerSkill_BookScavenging2 = "搜刮 第2集 - 中級",
+	ItemName_ScavengerSkill.ScavengerSkill_BookScavenging3 = "搜刮 第3集 - 進階",
+	ItemName_ScavengerSkill.ScavengerSkill_BookScavenging4 = "搜刮 第4集 - 專家",
+	ItemName_ScavengerSkill.ScavengerSkill_BookScavenging5 = "搜刮 第5集 - 大師",
+}
