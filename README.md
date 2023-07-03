@@ -120,6 +120,8 @@ FileName/media/lua/shared/Translate/CH/
 [可運作的跑步機 Working Treadmill](https://steamcommunity.com/sharedfiles/filedetails/?id=2752895143) (Github:kyo2002tw,Discord:cide2021)  
 [*車輛維修改良模組 Vehicle Repair Overhaul](https://steamcommunity.com/sharedfiles/filedetails/?id=2757712197)  (部分修正,Github:vs863129,Discord:文森)  
 [可視化皮套 Visible Holster](https://steamcommunity.com/sharedfiles/filedetails/?id=2901552077)  (Github:HerioJohnX,Discord:希利奧) 
+[更好分類 - 更多樣分類 Better Sorting - Patch Smorgasbord](https://steamcommunity.com/sharedfiles/filedetails/?id=2869324238)	(Github:vs863129,Discord:文森)  
+[食品打包 Pantry Packing](https://steamcommunity.com/sharedfiles/filedetails/?id=2637692469)  (Github:nemo01642280 ,Discord:尼莫)  
 
 ### -地圖描述翻譯-
 [藍莓鎮 BlueBerry](https://steamcommunity.com/sharedfiles/filedetails/?id=2671890843) (Github:HerioJohnX,Discord:希利奧)  
@@ -157,8 +159,7 @@ FileName/media/lua/shared/Translate/CH/
 
 ### -待整合至工作坊-  
 "+"的符號代表有新增該模組的新版的翻譯   
-[更好分類 - 更多樣分類 Better Sorting - Patch Smorgasbord](https://steamcommunity.com/sharedfiles/filedetails/?id=2869324238)	(Github:vs863129,Discord:文森)  
-[食品打包 Pantry Packing](https://steamcommunity.com/sharedfiles/filedetails/?id=2637692469)  (Github:nemo01642280 ,Discord:尼莫)  
+
 #### -搬運(待)-  
 
 ## 連接(LINK)
