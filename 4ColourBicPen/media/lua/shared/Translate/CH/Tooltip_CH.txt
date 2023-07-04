@@ -1,0 +1,4 @@
+Tooltip_CH = {
+	Tooltip_BicPen = "擁有四種顏色的原子筆。",
+	Tooltip_Map_NeedBicPen = "你需要一支四色原子筆。",
+}

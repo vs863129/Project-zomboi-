@@ -1,0 +1,4 @@
+ItemName_CH = {
+	DisplayName_Water_Pocket = "密封水袋",
+	DisplayName_Ice_Pocket = "冷凍包"
+}
