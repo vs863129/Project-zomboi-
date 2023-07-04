@@ -1,0 +1,14 @@
+Sandbox_CH = {
+    Sandbox_Coolbag = "保溫冷藏盒模組",
+    Sandbox_Coolbag_CoolingMode = "冷藏模式",
+    Sandbox_Coolbag_CoolingMode_tooltip = "太安寧和無聊只差一步之距。",
+    Sandbox_Coolbag_CoolingMode_option1 = "冷藏保溫盒需要定時更換冰凍袋 （一般",
+    Sandbox_Coolbag_CoolingMode_option2 = "冰凍袋會永遠為保溫盒供冷 （簡單模式）",
+    Sandbox_Coolbag_CoolingMode_option3 = "按照 Mod Option 的設置而決定 （預設）",
+    Sandbox_Coolbag_Tooltip = "工具提示",
+    Sandbox_Coolbag_Tooltip_tooltip = "取消勾選來移除冰凍 / 溶解時間字樣提示。",
+    Sandbox_Coolbag_FreezingTime = "冰凍時間",
+    Sandbox_Coolbag_FreezingTime_tooltip = "冰凍袋放進冰箱後需要多少小時完成冷凍 （預設：12小時） ",
+    Sandbox_Coolbag_MeltingTime = "溶解時間",
+    Sandbox_Coolbag_MeltingTime_tooltip = "冰凍袋能支撐多少小時才會完全溶解 （預設：24小時）",
+}

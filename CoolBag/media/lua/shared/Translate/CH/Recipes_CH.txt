@@ -1,0 +1,4 @@
+Recipes_CH = {
+	Recipe_Remove_Coldpacks = "移除冷凍包",
+	Recipe_Make_WaterPocket = "製作密封水袋"
+}
