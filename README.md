@@ -159,6 +159,10 @@ FileName/media/lua/shared/Translate/CH/
 
 ### -待整合至工作坊-  
 "+"的符號代表有新增該模組的新版的翻譯   
+[保鮮冷藏箱 CoolBag](https://steamcommunity.com/sharedfiles/filedetails/?id=2613596656)  (Github:HerioJohnX,Discord:希利奧)  
+[修飾職業與特質 Simple Overhaul: Traits and Occupations (SOTO)](https://steamcommunity.com/sharedfiles/filedetails/?id=2840805724)  (Github:HerioJohnX,Discord:希利奧)  
+[四色原子筆 4 Color Bic Pen.](https://steamcommunity.com/sharedfiles/filedetails/?id=2753894806)  (Github:HerioJohnX,Discord:希利奧)  
+[清理汙漬 Clean dirt](https://steamcommunity.com/sharedfiles/filedetails/?id=2711057211)
 
 #### -搬運(待)-  
 
