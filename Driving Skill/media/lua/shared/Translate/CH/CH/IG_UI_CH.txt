@@ -1,0 +1,4 @@
+IGUI_CH = {
+	IGUI_perks_Driving = "駕駛",
+	IGUI_perks_Miscellaneous = "雜項"
+}

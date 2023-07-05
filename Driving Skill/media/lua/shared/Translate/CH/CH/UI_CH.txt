@@ -1,0 +1,6 @@
+UI_CH = {
+	UI_trait_driver = "駕輕就熟",
+	UI_trait_driverdesc = "懂得如何抓穩方向盤。<br>+1駕駛",
+	UI_prof_cabdriver = "巴士司機",
+	UI_prof_cabdriverdesc = "把半輩子都花在了開車上。<br>+2駕駛<br>+2技工",
+}
