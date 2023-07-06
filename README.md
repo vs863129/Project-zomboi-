@@ -163,6 +163,7 @@ FileName/media/lua/shared/Translate/CH/
 [修飾職業與特質 Simple Overhaul: Traits and Occupations (SOTO)](https://steamcommunity.com/sharedfiles/filedetails/?id=2840805724)  (Github:HerioJohnX,Discord:希利奧)  
 [四色原子筆 4 Color Bic Pen.](https://steamcommunity.com/sharedfiles/filedetails/?id=2753894806)  (Github:HerioJohnX,Discord:希利奧)  
 [清理汙漬 Clean dirt](https://steamcommunity.com/sharedfiles/filedetails/?id=2711057211)  (Github:HerioJohnX,Discord:希利奧)  
+[駕駛技能 Driving Skill](https://steamcommunity.com/sharedfiles/filedetails/?id=2721945297)  (Github:nemo01642280 ,Discord:尼莫)  
 
 #### -搬運(待)-  
 
