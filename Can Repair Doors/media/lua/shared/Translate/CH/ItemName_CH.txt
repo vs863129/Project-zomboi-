@@ -1,0 +1,8 @@
+ItemName_CH = {
+
+ItemName_Base.DoorsRepairKitWood		= "修理工具組",
+ItemName_Base.DoorsRepairKitMetal		= "加固工具組",
+ItemName_Base.DoorsRepairKitEpoxy		= "快乾環氧樹脂",
+
+
+}

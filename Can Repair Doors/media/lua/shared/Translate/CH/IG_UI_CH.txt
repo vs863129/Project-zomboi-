@@ -1,0 +1,41 @@
+IG_UI_CH = {
+   
+IGUI_Item_DoorsRepairKitWood = "這個工具組可以用來修理門，修理的成效視乎你的木工技能。",
+IGUI_Item_DoorsRepairKitMetal = "這個工具組可以用來強化並加固門，加固的成效視乎你的木工技能。",
+IGUI_Item_DoorsRepairKitEpoxy = "這套快乾環氧樹脂工具組將用於修復受損的門, 但效果將會不理想, 建議用這個來製作修理工具組。",
+
+
+IGUI_CanRepairDoors_option = "修理門",
+
+IGUI_veryBadlyHealtDoor = "這沒法再撐下去了！",
+IGUI_BadlyHealtDoor = "這個受損得有點厲害！",
+IGUI_midleHealtDoor = "還能撐一陣子。",
+IGUI_maxHealtDoor = "狀態完美。",
+IGUI_damagedRenforcedHealtDoor = "已加固(受損)",
+IGUI_renforcedHealtDoor = "已加固",
+
+IGUI_CRD_Impossible_reinforce = "沒法再加固了！受損太嚴重了！",
+IGUI_CRD_Impossible_repair = "這門已經修理好了！",
+IGUI_CRD_Impossible_isFullReinforced = "這門已經加固完畢了！",
+
+IGUI_CRD_impossibleHealthRaised = "有錯誤發生，生命值已恢復...",
+
+IGUI_Info = "簡介",
+
+IGUI_repairDoorAdmin = "|修理門 (管理員)|",
+IGUI_reinforceDoorAdmin = "|加固門 (管理員)|",
+
+IGUI_CheckDoorMP = "檢查門的狀況",
+
+IGUI_RepairDoorWithKitEpoxy = "用樹脂工具修理門",
+IGUI_RepairDoorWithKitWood = "用工具組修理門",
+IGUI_RepairDoorWithKitMetal = "用工具組強化門",
+
+IGUI_RepairDoorWithKitEpoxyINFO = "任何人都懂得使用這種膠水, 技能的高低不具意義，可以直接使用。",
+IGUI_RepairDoorWithKitWoodINFO = "至少需要木工等級1, 它的成效將會視乎你的木工等級。",
+IGUI_RepairDoorWithKitMetalINFO = "至少需要木工等級2, 它的成效將會視乎你的木工等級。",
+
+IGUI_CarpSkillNiv2Required = "需要木工等級1",
+IGUI_CarpSkillNiv1Required = "需要木工等級2",
+
+    }
