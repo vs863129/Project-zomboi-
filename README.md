@@ -122,6 +122,14 @@ FileName/media/lua/shared/Translate/CH/
 [可視化皮套 Visible Holster](https://steamcommunity.com/sharedfiles/filedetails/?id=2901552077)  (Github:HerioJohnX,Discord:希利奧)   
 [更好分類-更多樣分類 Better Sorting - Patch Smorgasbord](https://steamcommunity.com/sharedfiles/filedetails/?id=2869324238)	(Github:vs863129,Discord:文森)    
 [食品打包 Pantry Packing](https://steamcommunity.com/sharedfiles/filedetails/?id=2637692469)  (Github:nemo01642280 ,Discord:尼莫)  
+[保鮮冷藏箱 CoolBag](https://steamcommunity.com/sharedfiles/filedetails/?id=2613596656)  (Github:HerioJohnX,Discord:希利奧)  
+[修飾職業與特質 Simple Overhaul: Traits and Occupations (SOTO)](https://steamcommunity.com/sharedfiles/filedetails/?id=2840805724)  (Github:HerioJohnX,Discord:希利奧)  
+[四色原子筆 4 Color Bic Pen.](https://steamcommunity.com/sharedfiles/filedetails/?id=2753894806)  (Github:HerioJohnX,Discord:希利奧)  
+[清理汙漬 Clean dirt](https://steamcommunity.com/sharedfiles/filedetails/?id=2711057211)  (Github:HerioJohnX,Discord:希利奧)  
+[駕駛技能 Driving Skill](https://steamcommunity.com/sharedfiles/filedetails/?id=2721945297)  (Github:nemo01642280 ,Discord:尼莫)  
+[可修復門 Can Repair Doors](https://steamcommunity.com/sharedfiles/filedetails/?id=2905027525)  (Github:HerioJohnX,Discord:希利奧)  
+[更多手套 More Gloves](https://steamcommunity.com/sharedfiles/filedetails/?id=2945060824)  (Github:HerioJohnX,Discord:希利奧)  
+[更多樣化精神特質 Neurodiverse Traits](https://steamcommunity.com/sharedfiles/filedetails/?id=2754581597)  (Github:HerioJohnX,Discord:希利奧)  
 
 ### -地圖描述翻譯-
 [藍莓鎮 BlueBerry](https://steamcommunity.com/sharedfiles/filedetails/?id=2671890843) (Github:HerioJohnX,Discord:希利奧)  
@@ -159,11 +167,6 @@ FileName/media/lua/shared/Translate/CH/
 
 ### -待整合至工作坊-  
 "+"的符號代表有新增該模組的新版的翻譯   
-[保鮮冷藏箱 CoolBag](https://steamcommunity.com/sharedfiles/filedetails/?id=2613596656)  (Github:HerioJohnX,Discord:希利奧)  
-[修飾職業與特質 Simple Overhaul: Traits and Occupations (SOTO)](https://steamcommunity.com/sharedfiles/filedetails/?id=2840805724)  (Github:HerioJohnX,Discord:希利奧)  
-[四色原子筆 4 Color Bic Pen.](https://steamcommunity.com/sharedfiles/filedetails/?id=2753894806)  (Github:HerioJohnX,Discord:希利奧)  
-[清理汙漬 Clean dirt](https://steamcommunity.com/sharedfiles/filedetails/?id=2711057211)  (Github:HerioJohnX,Discord:希利奧)  
-[駕駛技能 Driving Skill](https://steamcommunity.com/sharedfiles/filedetails/?id=2721945297)  (Github:nemo01642280 ,Discord:尼莫)  
 
 #### -搬運(待)-  
 
