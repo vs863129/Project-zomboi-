@@ -1,0 +1,3 @@
+IGUI_CH = {
+	IGUI_ItemCat_ClothArm = "服裝-手部",
+}

@@ -1,0 +1,3 @@
+Tooltip_CH = {
+    Tooltip_PillsAdderal = "消除過度活躍症帶來的影響，直到隔天 (00:00AM)。 建議在早上時分服用, 一盒有 20 顆藥丸。",
+}

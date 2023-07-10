@@ -1,0 +1,3 @@
+ItemName_CH = {
+ NeuroTraits.PillsAdderal = "過度活躍症抑制藥",
+}
