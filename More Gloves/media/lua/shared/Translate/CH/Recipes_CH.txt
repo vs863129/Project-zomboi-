@@ -1,0 +1,7 @@
+Recipes_CH = {
+        Recipe_Make_Cloth_Hand_Wrappings = "製作布料纏手帶",
+        Recipe_Make_Denim_Hand_Wrappings = "製作丹寧纏手帶",
+        Recipe_Make_Leather_Hand_Wrappings = "製作皮革纏手帶",
+        Recipe_Improve_to_Leather_Hand_Wrappings = "升級成皮革纏手帶"
+        Recipe_Cut_Leather_Gloves_into_Fingerless_Leather_Gloves, = "剪走皮革手套的手指部分",
+}
