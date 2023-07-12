@@ -1,0 +1,3 @@
+Items_CH = {
+    DisplayName_Empty_Lighter = "打火機(燃料耗盡)",
+}

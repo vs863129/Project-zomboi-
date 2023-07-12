@@ -1,0 +1,6 @@
+Sandbox_CH = {
+	Sandbox_ChangeSandboxOptions_Pause = "遊戲途中調整沙盒設定模組",
+	Sandbox_ChangeSandboxOptions_Pause_tooltip = "打開沙盒設定介面後，是否暫停遊戲？",
+	Sandbox_ChangeSandboxOptions_PauseLevels_option1 = "無影響",
+	Sandbox_ChangeSandboxOptions_PauseLevels_option2 = "自動暫停遊戲",
+}

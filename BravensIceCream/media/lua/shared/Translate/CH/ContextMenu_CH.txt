@@ -1,0 +1,3 @@
+ContextMenu_CH = {
+    ContextMenu_EvolvedRecipe_PrepareIceCreamMix = "製作冰淇淋糊",
+}

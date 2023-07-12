@@ -1,0 +1,6 @@
+IGUI_CH = {
+    IGUI_BenchPress= "舉重臥推架",
+    IGUI_BenchPress_Tooltip= "使用臥推架鍛煉力量",
+    IGUI_Treadmill= "跑步機",
+    IGUI_Treadmill_Tooltip= "在跑步機上鍛煉體質"
+}

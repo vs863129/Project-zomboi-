@@ -1,0 +1,5 @@
+ItemName_CH = {
+    ItemName_Base.IceCreamBowl = "一碗冰淇淋",
+	ItemName_Base.IceCreamMix = "冰淇淋糊",
+	ItemName_Base.ConeBatter = "甜筒麵糊",
+}
