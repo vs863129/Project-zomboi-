@@ -1,0 +1,9 @@
+Recipe_CH = {
+	
+	recipe_Make_Dragonball_Cluster = "集合所有龍珠",
+	Recipe_Turn_to_Page_0 = "翻到封面頁",
+	Recipe_Turn_to_Page_1 = "翻到第1頁",
+	Recipe_Turn_to_Page_2 = "翻到第2頁",
+	Recipe_Turn_to_Page_3 = "翻到第3頁",
+	Recipe_Turn_to_Page_4 = "翻到第4頁",
+}

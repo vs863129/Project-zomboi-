@@ -1,0 +1,3 @@
+ItemName_CH = {
+	ItemName_Base.BedfordMap = "貝德福德地圖",	
+}
