@@ -1,0 +1,6 @@
+Recipes_CH = {
+    Recipe_Make_Ice_Cream_Mix = "製作冰淇淋糊",
+    Recipe_Make_2_Bowls_of_Ice_Cream = "製作 2 碗冰淇淋",
+    Recipe_Prepare_Ice_Cream_Mix = "製作冰淇淋",
+    Recipe_Make_Cone_Batter = "製作甜筒麵糊",
+}

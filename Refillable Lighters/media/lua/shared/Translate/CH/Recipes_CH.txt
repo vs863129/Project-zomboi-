@@ -1,0 +1,3 @@
+Recipes_CH = {
+   Recipe_Refill_Empty_Lighter = "補充打火機燃料",
+}

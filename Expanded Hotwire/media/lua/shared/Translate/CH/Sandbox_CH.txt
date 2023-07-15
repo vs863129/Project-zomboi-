@@ -1,0 +1,25 @@
+Sandbox_CH = {
+	Sandbox_AllowHotwire = "允許短接發車",
+	Sandbox_AllowHotwireBurglar = "允許竊賊職業進行短接發車",
+  	Sandbox_HotwireElectricity = "進行短接要求的電工技能等級條件",
+ 	 Sandbox_HotwireMechanics = "進行短接要求的機工技能等級條件",
+	Sandbox_HotwireBaseDuration = "短接的基本所需時間",
+	Sandbox_HotwireElectricityScalar = "電工技能等級對短接發車速度上的影響力",
+	Sandbox_HotwireMechanicsScalar = "機工技能等級對短接發車速度上的影響力",
+
+  	Sandbox_AllowUnHotwire = "允許解除短接",
+  	Sandbox_UnHotwireElectricity = "解除短接要求的電工技能等級條件",
+ 	 Sandbox_UnHotwireMechanics = "解除短接要求的機工技能等級條件",
+	Sandbox_UnHotwireBaseDuration = "解除短接的基本所需時間",
+	Sandbox_UnHotwireElectricityScalar = "電工技能等級對解除短接速度上的影響力",
+	Sandbox_UnHotwireMechanicsScalar = "機工技能等級對解除短接速度上的影響力",
+
+	Sandbox_AllowKeyCrafting = "允許製作鑰匙",
+	Sandbox_KeyCraftingElectricity = "製作鑰匙要求的電工技能等級條件",
+  	Sandbox_KeyCraftingMechanics = "製作鑰匙要求的機工技能等級條件",
+	Sandbox_KeyCraftingMetalWelding = "製作鑰匙要求的金工技能等級條件",
+	Sandbox_KeyCraftingBaseDuration = "製作鑰匙的基本所需時間",
+	Sandbox_KeyCraftingElectricityScalar = "電工技能等級對製作鑰匙速度上的影響力",
+  	Sandbox_KeyCraftingMechanicsScalar = "機工技能等級對製作鑰匙速度上的影響力",
+	Sandbox_KeyCraftingMetalWeldingScalar = "金工技能等級對製作鑰匙速度上的影響力",
+}
