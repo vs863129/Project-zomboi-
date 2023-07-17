@@ -1,0 +1,15 @@
+Sandbox_CH = {
+Sandbox_Sanity_X = "理智機制",
+Sandbox_Sanity_X_EnabledZeroSanityDeath = "理智值致命",
+Sandbox_Sanity_X_EnabledZeroSanityDeath_tooltip = "當玩家角色的理智值為0時，會死亡",
+
+Sandbox_Sanity_X_EnabledLowSanityAmbient = "理智值過低影響",
+Sandbox_Sanity_X_EnabledLowSanityAmbient_tooltip = "當理智值低於20％時，玩家將每2分鐘實時經歷一次驚恐症發作。某些發作比其他發作短，但在發作期間，你無法睡覺而且變得較為脆弱。",
+
+Sandbox_Sanity_X_EnabledNightmares = "惡夢",
+Sandbox_Sanity_X_EnabledNightmares_tooltip = "帶著負面理智值入眠可能會導致惡夢和傷害玩家。",
+
+Sandbox_Sanity_X_EnabledReadingIncreasesSanity = "閱讀對理智的影響",
+Sandbox_Sanity_X_EnabledReadingIncreasesSanity_tooltip = "閱讀書籍可以增加理智值。"
+
+}

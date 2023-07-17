@@ -1,0 +1,9 @@
+IGUI_CH = {
+    IGUI_SS_TEXT_MUMBLE = "（喃喃自語）",
+    IGUI_SS_TEXT_ANGRYMUMBLE = "（憤怒地和自己爭論）",
+    IGUI_SS_TEXT_CRAZYLAUGH = "（瘋狂地笑）",
+    IGUI_SS_TEXT_VOICES = "（聽到不明聲音）",
+    IGUI_SS_TEXT_GETOUT = "滾出我的腦海呀！",
+    IGUI_SS_TEXT_GIGGLES = "（咯咯笑）",
+    IGUI_SS_TEXT_HARM = "（自殘）"
+}
