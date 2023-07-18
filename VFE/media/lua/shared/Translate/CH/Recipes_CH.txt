@@ -1,0 +1,25 @@
+Recipes_CH = {
+
+/*Actions*/
+Recipe_Fold_Stock = "摺疊槍托",
+Recipe_Unfold_Stock = "展開槍托",
+
+Recipe_Saw_Off_Shotgun_Stock = "削走M500霰彈槍的槍托", /*NEW-NEW*/
+Recipe_Saw_Off_Double_Barrel_Shotgun_Stock = "削走雙管霰彈槍的槍托",
+
+Recipe_Open_Box_of_7.62_Ammo = "盒裝 7.62 子彈",
+Recipe_Place_7.62_Ammo_in_Box = "將7.62子彈放入盒子", /*NEW-NEW*/
+
+Recipe_Open_Box of_.22_Ammo = "盒裝 .22 子彈", /*NEW-NEW*/
+Recipe_Place_.22_Ammo_in_Box = "將.22子彈放入盒子", /*NEW-NEW*/
+
+Recipe_Couple_5.56_Magazines = "包裝5.56彈匣",
+Recipe_Couple_7.62_Magazines = "包裝7.62彈匣",
+
+Recipe_Separate_5.56_Magazines = "拆開成束5.56彈匣",
+Recipe_Separate_7.62_Magazines = "拆開成束7.62彈匣",
+
+Recipe_Attach_M9_Bayonet_to_Spear = "將M9刺刀裝在矛上",
+Recipe_Reclaim_M9_Bayonet_from_Spear = "將M9刺刀從矛拆下",
+
+}

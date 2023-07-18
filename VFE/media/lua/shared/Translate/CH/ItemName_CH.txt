@@ -1,0 +1,151 @@
+ItemName_CH = {
+    /*Weapons*/
+
+	ItemName_Base.SpearBayonet = "刺刀長矛",
+
+	ItemName_Base.AK47 = "AK47 突擊步槍",
+    	ItemName_Base.AK47Unfolded = "AK47 突擊步槍-開托",	
+	ItemName_Base.AK47Folded = "AK47 突擊步槍-收托",
+
+	ItemName_Base.CAR15 = "CAR-15 突擊步槍-開托", /*NEW-NEW*/
+	ItemName_Base.CAR15Folded = "CAR-15 突擊步槍-收托",
+	ItemName_Base.CAR15D = "CAR-15 Delta 突擊步槍-開托", /*NEW-NEW*/
+	ItemName_Base.CAR15DFolded = "CAR-15 Delta 突擊步槍-收托",
+
+	ItemName_Base.M16Bayonet = "M9 刺刀",
+	ItemName_Base.AssaultRifleBayonet = "M16 突擊步槍-刺刀模式"
+
+	ItemName_Base.FALClassic = "FAL 突擊步槍-經典款",
+	ItemName_Base.FAL = "FAL 突擊步槍",
+	
+	ItemName_Base.SKS = "SKS 步槍",
+	ItemName_Base.SKSSpiker = "SKS 步槍",
+	ItemName_Base.SKSSpikerBayonet = "SKS 步槍-刺刀模式",
+	
+	ItemName_Base.Mini14 = "MINI-14 步槍",
+	ItemName_Base.Mini14Unfolded = "MINI-14 步槍",	
+	ItemName_Base.Mini14Folded = "MINI-14 步槍-摺疊",
+	
+	ItemName_Base.HuntingRifle = "R788 步槍",	
+	ItemName_Base.VarmintRifle = "R700 步槍",
+
+	ItemName_Base.AssaultRifleM1 = "M1 步槍",
+
+	ItemName_Base.SniperRifle = "M24 狙擊步槍",
+
+	ItemName_Base.MAC10Unfolded = "MAC10 衝鋒槍-開托",
+	ItemName_Base.MAC10Folded = "MAC10 衝鋒槍-收托",
+	
+	ItemName_Base.Spas12 = "SPAS-12 霰彈槍-開托",
+	ItemName_Base.Spas12Folded = "SPAS-12 霰彈槍-收托",
+
+	ItemName_Base.ShotgunSilent = "霰彈槍-附消音器",
+
+	ItemName_Base.Shotgun = "M500 霰彈槍",
+
+	ItemName_Base.ShotgunSawnoffNoStock = "削短的M500散彈槍-無托", /*NEW-NEW*/
+
+	ItemName_Base.Shotgun2 = "M590 霰彈槍",
+	
+	ItemName_Base.ShotgunSawnoff = "削短的M500霰彈槍",
+
+	ItemName_Base.ShotgunSemi = "R1187 霰彈槍",
+
+	ItemName_Base.ShotgunSemi2 = "R1187 霰彈槍",
+
+	ItemName_Base.DoubleBarrelShotgunSawnoffNoStock = "削短的雙管霰彈槍-無托",
+
+	ItemName_Base.DoubleBarrelShotgunSawnoff = "削短的雙管霰彈槍",
+	
+	ItemName_Base.Revolver_Short = "M10-5 左輪手槍",
+	
+	ItemName_Base.Revolver_Long = "M29 馬格南左輪手槍",
+	
+	ItemName_Base.Pistol3 = "DE 手槍",
+
+	ItemName_Base.P229 = "P229 手槍",
+	
+	ItemName_Base.Tec9 = "TEC9 手槍",
+
+	ItemName_Base.Glock = "G17 手槍", /*NEW-NEW*/
+
+	ItemName_Base.Glock18 = "G18 手槍",
+	
+	ItemName_Base.LeverRifle = "W1866 卡賓步槍",
+	
+	ItemName_Base.MP5 = "MP5 衝鋒槍",
+	ItemName_Base.MP5Folded = "MP5 衝鋒槍",
+	ItemName_Base.MP5Unfolded = "MP5 衝鋒槍-摺疊",
+	
+	ItemName_Base.1022 = "R1022 步槍", /*NEW-NEW*/
+
+	ItemName_Base.MP5SD = "MP5SD 衝鋒槍", /*NEW-NEW*/
+
+	/*GunCase*/
+
+	Base.VFEPistolCase1 = "手槍箱",
+	Base.VFEPistolCase2 = "手槍箱",
+	Base.VFEPistolCase3 = "手槍箱",
+
+	Base.VFEShotgunCase1 = "槍械箱",
+	Base.VFEShotgunCase2 = "槍械箱",
+	Base.VFEShotgunCase3 = "槍械箱",
+
+	Base.VFERifleCase1 = "槍械箱",
+	Base.VFERifleCase2 = "槍械箱",
+	Base.VFERifleCase3 = "槍械箱",
+	Base.VFERifleCase4 = "槍械箱",
+	Base.VFERifleCase5 = "槍械箱",
+	Base.VFERifleCase6 = "槍械箱",
+	Base.VFERifleCase7 = "槍械箱",
+	Base.VFERifleCase8 = "槍械箱",
+	Base.VFERifleCase9 = "槍械箱",
+	
+	/*Ammo*/	
+	ItemName_Base.762Box = "7.62 子彈盒",
+	ItemName_Base.762Bullets = "7.62 子彈",
+	
+	ItemName_Base.22Box = ".22 子彈盒",
+	ItemName_Base.22Bullets = ".22 子彈", /*EDITED*/
+	
+	/*Magazines*/
+	ItemName_Base.762Clip = "AK47 彈匣", /*EDITED*/
+	ItemName_Base.223Clip20 = "MINI-14 彈匣", /*EDITED*/
+	ItemName_Base.9mmClip20 = "TEC9 彈匣", /*EDITED*/
+	ItemName_Base.9mmClip30 = "MP5 彈匣", /*EDITED*/
+	ItemName_Base.22ClipRifle = "R1022 彈匣", /*EDITED*/
+	ItemName_Base.22ClipPistol = ".22 彈匣",
+	ItemName_Base.9mmClip13 = "P229 彈匣",
+	ItemName_Base.9mmClip = "M9 彈匣", /*NEW*/
+	ItemName_Base.45Clip32 = "M10 彈匣",
+	ItemName_Base.44Clip = "DE 彈匣", /*NEW*/
+	ItemName_Base.45Clip = "M1911 彈匣", /*NEW*/
+	ItemName_Base.308Clip = "MSR788 彈匣", /*NEW*/
+	ItemName_Base.556Clip = "M16 彈匣", /*NEW*/
+	ItemName_Base.M14Clip = "M14 彈匣", /*NEW*/
+	ItemName_Base.22ClipRifle = "R1022 彈匣", /*NEW-NEW*/
+	ItemName_Base.9mmClip17 = "G17 彈匣", /*NEW-NEW*/
+	ItemName_Base.FALClip = "FAL 彈匣",
+
+	ItemName_Base.Coupled556 = "成束5.56彈匣",
+	ItemName_Base.Coupled762 = "成束5.56彈匣",
+	
+	/*Attachments*/
+	ItemName_Base.OilFilterSuppressor = "油濾器消聲器",		
+	ItemName_Base.OilFilterSuppressor2 = "油濾器消聲器",
+	
+	ItemName_Base.OilFilter = "油濾器",
+	ItemName_Base.OilFilter2 = "油濾器",
+	
+	ItemName_Base.Bipod = "雙腳架",
+	
+	ItemName_Base.ShellHolder = "彈殼座",
+	
+	/*Items*/
+	ItemName_Base.CleaningKit = "槍械清潔套裝", /*NEW-NEW*/
+	ItemName_Base.FireKlean = "槍械潤滑油", /*NEW-NEW*/
+	}
+
+	
+
+	

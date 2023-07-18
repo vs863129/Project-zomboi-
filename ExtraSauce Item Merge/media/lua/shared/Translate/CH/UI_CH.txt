@@ -1,0 +1,6 @@
+UI_CH = {
+    UI_ESIM_MERGE = "合併",
+    UI_ESIM_MERGEALL = "合併全部",
+    UI_ESIM_LEAVEEMPTY = "清空",
+    UI_ESIM_FILLTHIS = "填滿這項物品",
+}

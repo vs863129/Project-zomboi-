@@ -1,0 +1,22 @@
+IGUI_CH = {
+
+	IGUI_FirearmRadial_FoldStock = "收起槍托",
+	IGUI_FirearmRadial_UnfoldStock = "展開槍托",
+	IGUI_FirearmRadial_UseBayonet = "切換至刺刀模式",
+	IGUI_FirearmRadial_UseRifle = "切換至射擊模式",
+	
+	IGUI_ContextMenu_MoveToInv = "裝備在手上或放在人物容器欄內",
+	
+	IGUI_ContextMenu_FoldStockArg = "收起 %1 個槍托",
+	IGUI_ContextMenu_UnfoldStockArg = "展開 %1 個槍托",
+	IGUI_ContextMenu_RestoreStock = "恢復槍托",
+	
+	IGUI_ContextMenu_AttackBayonet = "用刺刀攻擊",
+	IGUI_ContextMenu_AttackRifle = "用步槍攻擊",
+	IGUI_ContextMenu_RequiresBayonet = "需要 %1 在個人容器欄內",
+	
+	IGUI_ContextMenu_AddSling = "裝上槍帶",
+	IGUI_ContextMenu_AddSlingDescription = "減少重量",
+	IGUI_ContextMenu_AddSights = "裝上瞄準器",
+	IGUI_ContextMenu_AddSightsDescription = "增加瞄準速度",
+}

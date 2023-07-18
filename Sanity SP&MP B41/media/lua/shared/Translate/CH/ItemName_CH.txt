@@ -1,0 +1,4 @@
+ItemName_CH = {
+    ItemName_Base.Xanax = "阿普唑侖",
+    ItemName_Base.XanaxBottle = "阿普唑侖藥瓶"
+}

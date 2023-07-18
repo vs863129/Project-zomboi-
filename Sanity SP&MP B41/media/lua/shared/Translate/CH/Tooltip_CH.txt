@@ -1,0 +1,4 @@
+Tooltip_CH = {
+    Tooltip_Xans = "一種鎮靜劑，專門治療焦慮、恐慌和抑鬱症相關的症狀。",
+    Tooltip_XansBottle = "裝有10片阿普唑侖的瓶子。"
+}

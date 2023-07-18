@@ -1,0 +1,10 @@
+UI_CH = {
+    UI_trait_strongSanity = "精神強韌",
+    UI_trait_strongSanityDesc = "你的抗壓能力優秀，不容易陷入瘋狂。<br>理智值下降速度較為緩慢，恢復速度較快。",
+    UI_trait_weakSanity = "精神虛弱",
+    UI_trait_weakSanityDesc = "你時常在現實與虛擬之間徘徊。<br>理智值下降速度較快，恢復速度較慢。<br>但你不會對自己造成嚴重傷害。",
+    UI_trait_dislikesSmell = "惡臭敏感",
+    UI_trait_dislikesSmellDesc = "在惡臭環境中時，你的理智值會下降得更快。",
+    UI_trait_likesSmell = "惡臭忍耐",
+    UI_trait_likesSmellDesc = "在惡臭環境中時，你的理智值會下降得更慢。"
+}
