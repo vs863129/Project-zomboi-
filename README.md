@@ -172,6 +172,10 @@ FileName/media/lua/shared/Translate/CH/
 [布拉文的冰淇淋 BravensIceCream](https://steamcommunity.com/sharedfiles/filedetails/?id=2982620850) (Github:HerioJohnX,Discord:希利奧)  
 [打火機補充 Refillable Lighters](https://steamcommunity.com/sharedfiles/filedetails/?id=2780594299) (Github:HerioJohnX,Discord:希利奧)  
 [健身與鍛鍊優化 FWO Treadmill & BenchPress](https://steamcommunity.com/sharedfiles/filedetails/?id=2940354599) (Github:HerioJohnX,Discord:希利奧)  
+[原版槍械擴展 Vanilla Firearm Expansion](https://steamcommunity.com/sharedfiles/filedetails/?id=2667899942)  (Github:HerioJohnX,Discord:希利奧)  
+[崩潰理智情緒核心 SanityMoodleRocky](https://steamcommunity.com/sharedfiles/filedetails/?id=2884027700)  (Github:HerioJohnX,Discord:希利奧)  
+[崩潰理智情緒 Sanity SP&MP B41](https://steamcommunity.com/sharedfiles/filedetails/?id=2883974010)  (Github:HerioJohnX,Discord:希利奧)  
+[物品合併 ExtraSauce Item Merge](https://steamcommunity.com/sharedfiles/filedetails/?id=2593898609) (Github:HerioJohnX,Discord:希利奧)  
 #### -搬運(待)-  
 
 ## 連接(LINK)
