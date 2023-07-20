@@ -129,6 +129,15 @@ FileName/media/lua/shared/Translate/CH/
 [可修復門 Can Repair Doors](https://steamcommunity.com/sharedfiles/filedetails/?id=2905027525)  (Github:HerioJohnX,Discord:希利奧)  
 [更多手套 More Gloves](https://steamcommunity.com/sharedfiles/filedetails/?id=2945060824)  (Github:HerioJohnX,Discord:希利奧)  
 [更多樣化精神特質 Neurodiverse Traits](https://steamcommunity.com/sharedfiles/filedetails/?id=2754581597)  (Github:HerioJohnX,Discord:希利奧)  
+[接線擴展 Expanded Hotwire](https://steamcommunity.com/sharedfiles/filedetails/?id=2736032294) (Github:HerioJohnX,Discord:希利奧)  
+[單人遊玩內更改沙盒設置 Change Sandbox Options (by Star)](https://steamcommunity.com/sharedfiles/filedetails/?id=2894296454) (Github:HerioJohnX,Discord:希利奧)  
+[布拉文的冰淇淋 BravensIceCream](https://steamcommunity.com/sharedfiles/filedetails/?id=2982620850) (Github:HerioJohnX,Discord:希利奧)  
+[打火機補充 Refillable Lighters](https://steamcommunity.com/sharedfiles/filedetails/?id=2780594299) (Github:HerioJohnX,Discord:希利奧)  
+[健身與鍛鍊優化 FWO Treadmill & BenchPress](https://steamcommunity.com/sharedfiles/filedetails/?id=2940354599) (Github:HerioJohnX,Discord:希利奧)  
+[原版槍械擴展 Vanilla Firearm Expansion](https://steamcommunity.com/sharedfiles/filedetails/?id=2667899942)  (Github:HerioJohnX,Discord:希利奧)  
+[崩潰理智情緒核心 SanityMoodleRocky](https://steamcommunity.com/sharedfiles/filedetails/?id=2884027700)  (Github:HerioJohnX,Discord:希利奧)  
+[崩潰理智情緒 Sanity SP&MP B41](https://steamcommunity.com/sharedfiles/filedetails/?id=2883974010)  (Github:HerioJohnX,Discord:希利奧)  
+[物品合併 ExtraSauce Item Merge](https://steamcommunity.com/sharedfiles/filedetails/?id=2593898609) (Github:HerioJohnX,Discord:希利奧)  
 
 ### -地圖描述翻譯-
 [藍莓鎮 BlueBerry](https://steamcommunity.com/sharedfiles/filedetails/?id=2671890843) (Github:HerioJohnX,Discord:希利奧)  
@@ -166,15 +175,6 @@ FileName/media/lua/shared/Translate/CH/
 
 ### -待整合至工作坊-  
 "+"的符號代表有新增該模組的新版的翻譯   
-[接線擴展 Expanded Hotwire](https://steamcommunity.com/sharedfiles/filedetails/?id=2736032294) (Github:HerioJohnX,Discord:希利奧)  
-[單人遊玩內更改沙盒設置 Change Sandbox Options (by Star)](https://steamcommunity.com/sharedfiles/filedetails/?id=2894296454) (Github:HerioJohnX,Discord:希利奧)  
-[布拉文的冰淇淋 BravensIceCream](https://steamcommunity.com/sharedfiles/filedetails/?id=2982620850) (Github:HerioJohnX,Discord:希利奧)  
-[打火機補充 Refillable Lighters](https://steamcommunity.com/sharedfiles/filedetails/?id=2780594299) (Github:HerioJohnX,Discord:希利奧)  
-[健身與鍛鍊優化 FWO Treadmill & BenchPress](https://steamcommunity.com/sharedfiles/filedetails/?id=2940354599) (Github:HerioJohnX,Discord:希利奧)  
-[原版槍械擴展 Vanilla Firearm Expansion](https://steamcommunity.com/sharedfiles/filedetails/?id=2667899942)  (Github:HerioJohnX,Discord:希利奧)  
-[崩潰理智情緒核心 SanityMoodleRocky](https://steamcommunity.com/sharedfiles/filedetails/?id=2884027700)  (Github:HerioJohnX,Discord:希利奧)  
-[崩潰理智情緒 Sanity SP&MP B41](https://steamcommunity.com/sharedfiles/filedetails/?id=2883974010)  (Github:HerioJohnX,Discord:希利奧)  
-[物品合併 ExtraSauce Item Merge](https://steamcommunity.com/sharedfiles/filedetails/?id=2593898609) (Github:HerioJohnX,Discord:希利奧)  
 #### -搬運(待)-  
 
 ## 連接(LINK)
