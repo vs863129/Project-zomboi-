@@ -174,7 +174,9 @@ FileName/media/lua/shared/Translate/CH/
 [反射性話語 Conditional-Speech](https://steamcommunity.com/sharedfiles/filedetails/?id=2398253681)  (Github:kyo2002tw,Discord:cide2021)  
 
 ### -待整合至工作坊-  
-"+"的符號代表有新增該模組的新版的翻譯   
+"+"的符號代表有新增該模組的新版的翻譯或修正 
++[接線擴展 Expanded Hotwire](https://steamcommunity.com/sharedfiles/filedetails/?id=2736032294) (Github:HerioJohnX,Discord:希利奧)  
+[安全登入 Safe Login](https://steamcommunity.com/sharedfiles/filedetails/?id=2876897619) (Github:HerioJohnX,Discord:希利奧)  
 #### -搬運(待)-  
 
 ## 連接(LINK)
