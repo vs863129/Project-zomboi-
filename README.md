@@ -175,7 +175,7 @@ FileName/media/lua/shared/Translate/CH/
 
 ### -待整合至工作坊-  
 "+"的符號代表有新增該模組的新版的翻譯或修正  
-+[接線擴展 Expanded Hotwire](https://steamcommunity.com/sharedfiles/filedetails/?id=2736032294) (Github:HerioJohnX,Discord:希利奧)  
++[接線擴展 Expanded Hotwire](https://steamcommunity.com/sharedfiles/filedetails/?id=2736032294) (Github:HerioJohnX,Discord:希利奧)   
 [登入保護 Safe Login](https://steamcommunity.com/sharedfiles/filedetails/?id=2876897619) (Github:HerioJohnX,Discord:希利奧)  
 #### -搬運(待)-  
 
