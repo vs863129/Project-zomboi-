@@ -1,0 +1,8 @@
+Sandbox_CH = {
+	Sandbox_SafeLogin = "登入保護",
+
+	Sandbox_SafeLogin.InvisibilityDuration = "移動後的保護時間",
+	Sandbox_SafeLogin.InvisibilityDuration_tooltip = "當玩家移動角色，將提供多少保護時間",
+	Sandbox_SafeLogin.MaxStillTime = "靜止不動的保護時間",
+	Sandbox_SafeLogin.MaxStillTime_tooltip = "如果玩家靜止不動，將提供多少保護時間",
+}

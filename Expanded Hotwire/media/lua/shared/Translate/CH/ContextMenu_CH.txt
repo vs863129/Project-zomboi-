@@ -3,5 +3,5 @@ ContextMenu_CH = {
 	ContextMenu_VehicleUnHotwire = "解除短接",
 	ContextMenu_VehicleUnHotwireSkillEH = "你需要<br> ? 級電工技能和 ? 級機工技能<br>來進行解除短接。",
 	ContextMenu_VehicleKeyCrafting = "製作鑰匙",
-	ContextMenu_VehicleKeyCraftingSkill = "你需要<br> ? 級電工技能，? 級機工技能和 ? 級機工技能<br>來製作車鑰匙。",
+	ContextMenu_VehicleKeyCraftingSkill = "你需要<br> ? 級電工技能，? 級機工技能和 ? 級金工技能<br>來製作車鑰匙。",
 }
