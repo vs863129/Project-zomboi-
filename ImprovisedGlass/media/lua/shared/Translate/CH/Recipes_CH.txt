@@ -1,0 +1,46 @@
+Recipe_CH = {
+    /* Make Glass Recipes */
+    Recipe_IGPrepareGlassShards = "把碎玻璃放進烤盤裡",
+    Recipe_IGUnprepareGlassShards = "從烤盤裡取出碎玻璃",
+    Recipe_IGRemoveGlassPane = "提取玻璃板",
+
+    /* Smash Glass Recipes */
+    Recipe_IGSmashGlassJar = "砸碎玻璃",
+    Recipe_IGSmashGlassPane = "砸碎玻璃",
+    Recipe_IGSmashWindshield = "砸碎玻璃",
+    Recipe_IGSmashWindows = "砸碎玻璃",
+
+    /* Window Recipes */
+    Recipe_IGMakeWindow01 = "製作木窗",
+    Recipe_IGMakeWindow02 = "製作白色平鋪窗口",
+    Recipe_IGMakeWindow03 = "製作平鋪窗戶",
+    Recipe_IGMakeWindow04 = "製作白色窗戶",
+    Recipe_IGMakeWindow05 = "製作鋁合金窗户",
+    Recipe_IGMakeWindow06 = "製作滑動式窗户",
+
+    /* Window Disassembly Recipes */
+    Recipe_IGDisassembleWindow01 = "拆解木窗",
+    Recipe_IGDisassembleWindow02 = "拆解白色平鋪窗口",
+    Recipe_IGDisassembleWindow03 = "拆解平鋪窗戶",
+    Recipe_IGDisassembleWindow04 = "拆解白色窗戶",
+    Recipe_IGDisassembleWindow05 = "拆解铬合金窗户",
+    Recipe_IGDisassembleWindow06 = "拆解滑動式窗户",
+
+    /* Vehicle: Standard Recipes */
+    Recipe_IGWindshield1 ="製作普通車擋風玻璃",
+    Recipe_IGRearWindshield1 = "製作普通車後擋風玻璃",
+    Recipe_IGFrontWindow1 = "製作普通車前車窗",
+    Recipe_IGRearWindow1 = "製作普通車後車窗",
+
+    /* Vehicle: Heavy-Duty Recipes */
+    Recipe_IGWindshield2 ="製作重工車擋風玻璃",
+    Recipe_IGRearWindshield2 = "製作重工車後擋風玻璃",
+    Recipe_IGFrontWindow2 = "製作重工車前車窗",
+    Recipe_IGRearWindow2 = "製作重工車後車窗",
+
+    /* Vehicle: Sport Recipes */
+    Recipe_IGWindshield3 ="製作跑車擋風玻璃",
+    Recipe_IGRearWindshield3 ="製作跑車後擋風玻璃",
+    Recipe_IGFrontWindow3 = "製作跑車前車窗",
+    Recipe_IGRearWindow3 = "製作跑車後車窗",
+}
