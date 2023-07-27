@@ -1,0 +1,6 @@
+ContextMenu_CH = {
+
+    ContextMenu_RightThigh = "轉換成右邊",
+    ContextMenu_LeftThigh = "轉換成左邊",
+	
+}
