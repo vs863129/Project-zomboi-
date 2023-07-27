@@ -1,0 +1,99 @@
+ItemName_CH = {
+
+	ItemName_LY_Skillbooks.BookFitness1 = "體態 第 1 集 - 入門",
+	ItemName_LY_Skillbooks.BookFitness2 = "體態 第 2 集 - 中級",
+	ItemName_LY_Skillbooks.BookFitness3 = "體態 第 3 集 - 進階",
+	ItemName_LY_Skillbooks.BookFitness4 = "體態 第 4 集 - 專家",
+	ItemName_LY_Skillbooks.BookFitness5 = "體態 第 5 集 - 大師",
+	
+	ItemName_LY_Skillbooks.BookStrength1 = "力量 第 1 集 - 入門",
+	ItemName_LY_Skillbooks.BookStrength2 = "力量 第 2 集 - 中級",
+	ItemName_LY_Skillbooks.BookStrength3 = "力量 第 3 集 - 進階",
+	ItemName_LY_Skillbooks.BookStrength4 = "力量 第 4 集 - 專家",
+	ItemName_LY_Skillbooks.BookStrength5 = "力量 第 5 集 - 大師",
+
+	ItemName_LY_Skillbooks.BookSprinting1 = "衝刺 第 1 集 - 入門",
+	ItemName_LY_Skillbooks.BookSprinting2 = "衝刺 第 2 集 - 中級",
+	ItemName_LY_Skillbooks.BookSprinting3 = "衝刺 第 3 集 - 進階",
+	ItemName_LY_Skillbooks.BookSprinting4 = "衝刺 第 4 集 - 專家",
+	ItemName_LY_Skillbooks.BookSprinting5 = "衝刺 第 5 集 - 大師",
+	
+	ItemName_LY_Skillbooks.BookLightfooted1 = "輕巧 第 1 集 - 入門",
+	ItemName_LY_Skillbooks.BookLightfooted2 = "輕巧 第 2 集 - 中級",
+	ItemName_LY_Skillbooks.BookLightfooted3 = "輕巧 第 3 集 - 進階",
+	ItemName_LY_Skillbooks.BookLightfooted4 = "輕巧 第 4 集 - 專家",
+	ItemName_LY_Skillbooks.BookLightfooted5 = "輕巧 第 5 集 - 大師",
+
+	ItemName_LY_Skillbooks.BookNimble1 = "靈活 第 1 集 - 入門",
+	ItemName_LY_Skillbooks.BookNimble2 = "靈活 第 2 集 - 中級",
+	ItemName_LY_Skillbooks.BookNimble3 = "靈活 第 3 集 - 進階",
+	ItemName_LY_Skillbooks.BookNimble4 = "靈活 第 4 集 - 專家",
+	ItemName_LY_Skillbooks.BookNimble5 = "靈活 第 5 集 - 大師",
+
+	ItemName_LY_Skillbooks.BookSneaking1 = "潛行 第 1 集 - 入門",
+	ItemName_LY_Skillbooks.BookSneaking2 = "潛行 第 2 集 - 中級",
+	ItemName_LY_Skillbooks.BookSneaking3 = "潛行 第 3 集 - 進階",
+	ItemName_LY_Skillbooks.BookSneaking4 = "潛行 第 4 集 - 專家",
+	ItemName_LY_Skillbooks.BookSneaking5 = "潛行 第 5 集 - 大師",
+
+	ItemName_LY_Skillbooks.BookAxe1 = "斧頭 第 1 集 - 入門",
+	ItemName_LY_Skillbooks.BookAxe2 = "斧頭 第 2 集 - 中級",
+	ItemName_LY_Skillbooks.BookAxe3 = "斧頭 第 3 集 - 進階",
+	ItemName_LY_Skillbooks.BookAxe4 = "斧頭 第 4 集 - 專家",
+	ItemName_LY_Skillbooks.BookAxe5 = "斧頭 第 5 集 - 大師",
+	
+	ItemName_LY_Skillbooks.BookBlunt1 = "長鈍器 第 1 集 - 入門",
+	ItemName_LY_Skillbooks.BookBlunt2 = "長鈍器 第 2 集 - 中級",
+	ItemName_LY_Skillbooks.BookBlunt3 = "長鈍器 第 3 集 - 進階",
+	ItemName_LY_Skillbooks.BookBlunt4 = "長鈍器 第 4 集 - 專家",
+	ItemName_LY_Skillbooks.BookBlunt5 = "長鈍器 第 5 集 - 大師",
+
+	ItemName_LY_Skillbooks.BookSmallBlunt1 = "短鈍器 第 1 集 - 入門",
+	ItemName_LY_Skillbooks.BookSmallBlunt2 = "短鈍器 第 2 集 - 中級",
+	ItemName_LY_Skillbooks.BookSmallBlunt3 = "短鈍器 第 3 集 - 進階",
+	ItemName_LY_Skillbooks.BookSmallBlunt4 = "短鈍器 第 4 集 - 專家",
+	ItemName_LY_Skillbooks.BookSmallBlunt5 = "短鈍器 第 5 集 - 大師",
+
+	ItemName_LY_Skillbooks.BookLongBlade1 = "長刃器 第 1 集 - 入門",
+	ItemName_LY_Skillbooks.BookLongBlade2 = "長刃器 第 2 集 - 中級",
+	ItemName_LY_Skillbooks.BookLongBlade3 = "長刃器 第 3 集 - 進階",
+	ItemName_LY_Skillbooks.BookLongBlade4 = "長刃器 第 4 集 - 專家",
+	ItemName_LY_Skillbooks.BookLongBlade5 = "長刃器 第 5 集 - 大師",
+
+	ItemName_LY_Skillbooks.BookSmallBlade1 = "短刃器 第 1 集 - 入門",
+	ItemName_LY_Skillbooks.BookSmallBlade2 = "短刃器 第 2 集 - 中級",
+	ItemName_LY_Skillbooks.BookSmallBlade3 = "短刃器 第 3 集 - 進階",
+	ItemName_LY_Skillbooks.BookSmallBlade4 = "短刃器 第 4 集 - 專家",
+	ItemName_LY_Skillbooks.BookSmallBlade5 = "短刃器 第 5 集 - 大師",
+
+	ItemName_LY_Skillbooks.BookSpear1 = "長柄武器 第 1 集 - 入門",
+	ItemName_LY_Skillbooks.BookSpear2 = "長柄武器 第 2 集 - 中級",
+	ItemName_LY_Skillbooks.BookSpear3 = "長柄武器 第 3 集 - 進階",
+	ItemName_LY_Skillbooks.BookSpear4 = "長柄武器 第 4 集 - 專家",
+	ItemName_LY_Skillbooks.BookSpear5 = "長柄武器 第 5 集 - 大師",
+
+	ItemName_LY_Skillbooks.BookMaintenance1 = "保養 第 1 集 - 入門",
+	ItemName_LY_Skillbooks.BookMaintenance2 = "保養 第 2 集 - 中級",
+	ItemName_LY_Skillbooks.BookMaintenance3 = "保養 第 3 集 - 進階",
+	ItemName_LY_Skillbooks.BookMaintenance4 = "保養 第 4 集 - 專家",
+	ItemName_LY_Skillbooks.BookMaintenance5 = "保養 第 5 集 - 大師",
+
+	ItemName_LY_Skillbooks.BookAiming1 = "瞄準 第 1 集 - 入門",
+	ItemName_LY_Skillbooks.BookAiming2 = "瞄準 第 2 集 - 中級",
+	ItemName_LY_Skillbooks.BookAiming3 = "瞄準 第 3 集 - 進階",
+	ItemName_LY_Skillbooks.BookAiming4 = "瞄準 第 4 集 - 專家",
+	ItemName_LY_Skillbooks.BookAiming5 = "瞄準 第 5 集 - 大師",
+	
+	ItemName_LY_Skillbooks.BookReloading1 = "裝填子彈 第 1 集 - 入門",
+	ItemName_LY_Skillbooks.BookReloading2 = "裝填子彈 第 2 集 - 中級",
+	ItemName_LY_Skillbooks.BookReloading3 = "裝填子彈 第 3 集 - 進階",
+	ItemName_LY_Skillbooks.BookReloading4 = "裝填子彈 第 4 集 - 專家",
+	ItemName_LY_Skillbooks.BookReloading5 = "裝填子彈 第 5 集 - 大師",
+
+	ItemName_LY_Skillbooks.BookLockpicking1 = "撬鎖 第 1 集 - 入門",
+	ItemName_LY_Skillbooks.BookLockpicking2 = "撬鎖 第 2 集 - 中級",
+	ItemName_LY_Skillbooks.BookLockpicking3 = "撬鎖 第 3 集 - 進階",
+	ItemName_LY_Skillbooks.BookLockpicking4 = "撬鎖 第 4 集 - 專家",
+	ItemName_LY_Skillbooks.BookLockpicking5 = "撬鎖 第 5 集 - 大師",
+	
+}
