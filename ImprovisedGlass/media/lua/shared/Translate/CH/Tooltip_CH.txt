@@ -1,0 +1,3 @@
+Tooltip_CH = {
+    Tooltip_IGMagazineGlass = "此為製作任何玻璃製品的必要知識",
+}
