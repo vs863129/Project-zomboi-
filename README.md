@@ -138,6 +138,10 @@ FileName/media/lua/shared/Translate/CH/
 [崩潰理智情緒核心 SanityMoodleRocky](https://steamcommunity.com/sharedfiles/filedetails/?id=2884027700)  (Github:HerioJohnX,Discord:希利奧)  
 [崩潰理智情緒 Sanity SP&MP B41](https://steamcommunity.com/sharedfiles/filedetails/?id=2883974010)  (Github:HerioJohnX,Discord:希利奧)  
 [物品合併 ExtraSauce Item Merge](https://steamcommunity.com/sharedfiles/filedetails/?id=2593898609) (Github:HerioJohnX,Discord:希利奧)  
+[登入保護 Safe Login](https://steamcommunity.com/sharedfiles/filedetails/?id=2876897619) (Github:HerioJohnX,Discord:希利奧)  
+[臨時玻璃 Improvised Glass](https://steamcommunity.com/sharedfiles/filedetails/?id=2800412098) (Github:HerioJohnX,Discord:希利奧)  
+[更多技能書(LittleYoschi) LittleYoschi Skillbooks](https://steamcommunity.com/sharedfiles/filedetails/?id=2737726733) (Github:HerioJohnX,Discord:希利奧)  
+[戰術裝組合包Wasteland Canid's Tactical Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=3002822422) (Github:HerioJohnX,Discord:希利奧)  
 
 ### -地圖描述翻譯-
 [藍莓鎮 BlueBerry](https://steamcommunity.com/sharedfiles/filedetails/?id=2671890843) (Github:HerioJohnX,Discord:希利奧)  
@@ -175,11 +179,7 @@ FileName/media/lua/shared/Translate/CH/
 
 ### -待整合至工作坊-  
 "+"的符號代表有新增該模組的新版的翻譯或修正  
-+[接線擴展 Expanded Hotwire](https://steamcommunity.com/sharedfiles/filedetails/?id=2736032294) (Github:HerioJohnX,Discord:希利奧)   
-[登入保護 Safe Login](https://steamcommunity.com/sharedfiles/filedetails/?id=2876897619) (Github:HerioJohnX,Discord:希利奧)  
-[臨時玻璃 Improvised Glass]
-[更多技能書(LittleYoschi) LittleYoschi Skillbooks]
-[戰術裝組合包Wasteland Canid's Tactical Pack]
+
 #### -搬運(待)-  
 
 ## 連接(LINK)
