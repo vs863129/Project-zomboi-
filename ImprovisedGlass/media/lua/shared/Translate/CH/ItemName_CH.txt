@@ -1,0 +1,11 @@
+ItemName_CH = {
+    /* Glass Items */
+    ItemName_ImprovisedGlass.PanWithGlassShards = "装有碎玻璃的烤盤",
+    ItemName_ImprovisedGlass.PanWithGlassPane = "装有玻璃板的烤盤",
+    ItemName_ImprovisedGlass.GlassPane = "玻璃板"
+
+    /* Magazines */
+    ItemName_ImprovisedGlass.IGMagazineGlass = "熔煉雜誌 - 廚房是你的窯爐",
+    ItemName_ImprovisedGlass.IGMagazineWindow = "木工雜誌 - 窗戶的藝術",
+    ItemName_ImprovisedGlass.IGMagazineCars = "機工雜誌 - 車窗工藝",
+}

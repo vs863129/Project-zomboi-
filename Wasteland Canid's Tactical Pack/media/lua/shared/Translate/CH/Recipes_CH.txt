@@ -1,0 +1,30 @@
+Recipe_CH = {
+	
+	Recipe_Make_Random_Tac-Pack = "製作隨機顏色戰術腰包",
+	Recipe_Make_Black_Tac-Pack = "製作黑色戰術腰包",
+	Recipe_Make_Olive_Drab_Tac-Pack = "製作橄欖綠色戰術腰包",
+	Recipe_Make_Ranger_Green_Tac-Pack = "製作暗綠色戰術腰包",
+	Recipe_Make_Desert_Sand_Tac-Pack = "製作沙漠色戰術腰包",
+	Recipe_Make_Coyote_Brown_Tac-Pack = "製作土狼棕色戰術腰包",
+	Recipe_Make_Brown_Tac-Pack = "製作棕色色戰術腰包",
+    	Recipe_Make_Navy_Blue_Tac-Pack = "製作海軍藍色戰術腰包",
+	Recipe_Make_Forest_Green_Tac-Pack = "製作叢林綠色戰術腰包",
+	Recipe_Make_Military_Desert_Tac-Pack = "製作軍用沙漠迷彩戰術腰包",
+	Recipe_Make_Military_Green_Tac-Pack = "製作軍用迷彩戰術腰包",
+	Recipe_Make_Military_Urban_Tac-Pack = "製作軍用城市迷彩戰術腰包",
+	Recipe_Make_Medical_Tac-Pack = "製作醫療戰術腰包",
+
+	Recipe_Make_Random_Thigh_Holster = "製作隨機顏色大腿槍套",  
+	Recipe_Make_Black_Thigh_Holster = "製作黑色大腿槍套",
+	Recipe_Make_Olive_Drab_Thigh_Holster = "製作橄欖綠色大腿槍套",   
+	Recipe_Make_Ranger_Green_Thigh_Holster = "製作暗綠色大腿槍套",
+	Recipe_Make_Desert_Sand_Thigh_Holster = "製作沙漠色大腿槍套",
+	Recipe_Make_Coyote_Brown_Thigh_Holster = "製作土狼棕色大腿槍套",
+	Recipe_Make_Brown_Thigh_Holster = "製作棕色大腿槍套",
+	Recipe_Make_Navy_Blue_Thigh_Holster = "製作海軍藍色大腿槍套",
+	Recipe_Make_Forest_Green_Thigh_Holster = "製作叢林綠色大腿槍套",
+	Recipe_Make_Military_Desert_Thigh_Holster = "製作軍用沙漠迷彩大腿槍套",
+	Recipe_Make_Military_Green_Thigh_Holster = "製作軍用迷彩大腿槍套",
+	Recipe_Make_Military_Urban_Thigh_Holster = "製作軍用城市迷彩大腿槍套",
+   
+}
