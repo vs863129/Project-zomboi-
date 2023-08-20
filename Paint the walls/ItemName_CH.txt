@@ -1,0 +1,4 @@
+ItemName_CH ={
+	ItemName_PTW.PTW_blood_stain = "血漬",
+	ItemName_PTW.PTW_sweat_stain = "污漬",
+}
