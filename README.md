@@ -179,7 +179,7 @@ FileName/media/lua/shared/Translate/CH/
 
 ### -待整合至工作坊-  
 "+"的符號代表有新增該模組的新版的翻譯或修正  
-
+[Dynamic Mining 動態挖礦](https://steamcommunity.com/workshop/filedetails/?id=2963057869)  (GitHub:FluffyMorrison ,Discord:_)  
 #### -搬運(待)-  
 
 ## 連接(LINK)
