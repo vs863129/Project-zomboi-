@@ -1,3 +1,4 @@
 Tooltip_CH = {
     Tooltip_BookTitle_Music = "音樂",
+    Tooltip_BookTitle_Dancing = "舞蹈",
 }

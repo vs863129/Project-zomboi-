@@ -1,7 +1,13 @@
 ItemName_CH = {
-	ItemName_Lifestyle.BookMusic1 = "音樂 第 1 集 - 入門",
-	ItemName_Lifestyle.BookMusic2 = "音樂 第 2 集 - 中級",
-	ItemName_Lifestyle.BookMusic3 = "音樂 第 3 集 - 進階",
-	ItemName_Lifestyle.BookMusic4 = "音樂 第 4 集 - 專家",
-	ItemName_Lifestyle.BookMusic5 = "音樂 第 5 集 - 大師",
+	ItemName_Lifestyle.BookMusic1 = "樂理 第 1 集 - 入門",
+	ItemName_Lifestyle.BookMusic2 = "樂理 第 2 集 - 中級",
+	ItemName_Lifestyle.BookMusic3 = "樂理 第 3 集 - 進階",
+	ItemName_Lifestyle.BookMusic4 = "樂理 第 4 集 - 專家",
+	ItemName_Lifestyle.BookMusic5 = "樂理 第 5 集 - 大師",
+	ItemName_Lifestyle.LSMagazineEdition1 = "居家風格: 迪斯可特別版",
+	ItemName_Lifestyle.BookDancing1 = "舞蹈 第 1 集 - 入門",
+	ItemName_Lifestyle.BookDancing2 = "舞蹈 第 2 集 - 中級",
+	ItemName_Lifestyle.BookDancing3 = "舞蹈 第 3 集 - 進階",
+	ItemName_Lifestyle.BookDancing4 = "舞蹈 第 4 集 - 專家",
+	ItemName_Lifestyle.BookDancing5 = "舞蹈 第 5 集 - 大師",
 }

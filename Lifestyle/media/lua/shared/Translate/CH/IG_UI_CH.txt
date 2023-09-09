@@ -1,5 +1,17 @@
 IGUI_CH = {
 	IGUI_perks_Meditation = "冥想",
-	IGUI_perks_Music = "音樂",
-	IGUI_perks_Lifestyle = "生活方式",
+	IGUI_perks_Dancing = "舞蹈",
+	IGUI_perks_Music = "樂理",
+	IGUI_perks_Lifestyle = "生活風格",
+
+	IGUI_HaloNote_XP = "XP",
+	IGUI_HaloNote_XPBonus = "XP+",
+	IGUI_HaloNote_Stress = "壓力",
+	IGUI_HaloNote_Embarrassed = "尷尬",
+	IGUI_HaloNote_Boredom = "無趣",
+	IGUI_HaloNote_Happyness = "快樂",
+	IGUI_HaloNote_Unhappyness = "不快樂",
+	IGUI_HaloNote_Pain = "疼痛",
+	IGUI_HaloNote_Pain_BadPosture = "不良姿勢引發的疼痛",
+
 }
