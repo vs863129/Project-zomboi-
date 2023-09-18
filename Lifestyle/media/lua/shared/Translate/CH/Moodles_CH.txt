@@ -1,0 +1,62 @@
+Moodles_CH = {
+
+	Moodles_MindfulState_L1 = "正念",
+	Moodles_MindfulState_L1_desc = "你的思緒很清晰...",
+	Moodles_MindfulState_L2 = "較強正念",
+	Moodles_MindfulState_L2_desc = "不感到飢餓和疼痛...",
+	Moodles_MindfulState_L3 = "完美正念",
+	Moodles_MindfulState_L3_desc = "你的眼睛真正的打開了...",
+
+	Moodles_HomeSick_L1 = "輕微思鄉病",
+	Moodles_HomeSick_L1_desc = "懷念舒適的家.",
+	Moodles_HomeSick_L2 = "思鄉病",
+	Moodles_HomeSick_L2_desc = "渴望回到室內.",
+	Moodles_HomeSick_L3 = "嚴重思鄉病",
+	Moodles_HomeSick_L3_desc = "急需一個可躺下的地方.",
+	Moodles_HomeSick_L4 = "極嚴重思鄉病",
+	Moodles_HomeSick_L4_desc = "每個小時都是煎熬的.",
+
+	Moodles_AtHouse_L1 = "舒適的室內",
+	Moodles_AtHouse_L1_desc = "在室內待上了一段時間.感到世上無憂無慮了.",
+
+	Moodles_MusicGood_L1 = "好聽的曲調",
+	Moodles_MusicGood_L1_desc = "最近聽到一首好聽的曲調.",
+	Moodles_MusicGood_L2 = "好聽的音樂",
+	Moodles_MusicGood_L2_desc = "和諧的音樂讓你感到快樂.",
+	
+	Moodles_MusicBad_L1 = "平淡的音樂",
+	Moodles_MusicBad_L1_desc = "為什麼要聽這麼煩躁的音樂?",
+	Moodles_MusicBad_L2 = "可怕噪音",
+	Moodles_MusicBad_L2_desc = "啊啊!! 快讓他停止!",
+
+	Moodles_PartyGood_L1 = "放鬆的派對",
+	Moodles_PartyGood_L1_desc = "不錯也不差. 要是有更多人來這裡就好.",
+	Moodles_PartyGood_L2 = "精彩的派對",
+	Moodles_PartyGood_L2_desc = "就像沒有明天一樣放鬆自我吧.",
+	Moodles_PartyGood_L3 = "狂熱的派對",
+	Moodles_PartyGood_L3_desc = "Damn, 這將會是值得紀錄的時刻!",
+	
+	Moodles_PartyBad_L1 = "煩躁的派對",
+	Moodles_PartyBad_L1_desc = "真希望他們能在不那麼尷尬的地方.",
+	Moodles_PartyBad_L2 = "非常煩躁的派對",
+	Moodles_PartyBad_L2_desc = "感到壓力很大.",
+	Moodles_PartyBad_L3 = "極度煩躁的派對",
+	Moodles_PartyBad_L3_desc = "被迫的娛樂、毫無意義的交談以及我想逃離這裡.",
+
+	Moodles_DJAudience_L1 = "小團體",
+	Moodles_DJAudience_L1_desc = "為後世界末日的觀眾舞動吧",
+	Moodles_DJAudience_L2 = "大量觀眾",
+	Moodles_DJAudience_L2_desc = "音量加大,人群眾多-是時候該大放光彩了!",
+	Moodles_DJAudience_L3 = "大型團體",
+	Moodles_DJAudience_L3_desc = "為這次盛大派對注入狂熱的能量!",
+	
+	Moodles_Embarrassed_L1 = "有點尷尬",
+	Moodles_Embarrassed_L1_desc = "自己都感到尷尬了",
+	Moodles_Embarrassed_L2 = "尷尬",
+	Moodles_Embarrassed_L2_desc = "變得不快樂的風險",
+	Moodles_Embarrassed_L3 = "非常尷尬",
+	Moodles_Embarrassed_L3_desc = "變得不快樂的風險更高",
+	Moodles_Embarrassed_L4 = "極度尷尬",
+	Moodles_Embarrassed_L4_desc = "我真希望大地能吞噬我!",
+
+}

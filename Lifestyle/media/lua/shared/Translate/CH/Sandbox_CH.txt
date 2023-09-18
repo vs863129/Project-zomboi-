@@ -1,0 +1,59 @@
+Sandbox_CH = {
+
+	Sandbox_Lifestyle = "Lifestyle: Hobbies - 設置",
+
+	Sandbox_Divider_Music = "________________ 音樂 ________________",
+	Sandbox_Divider_Music_tooltip = "這是分隔線,沒有任何效果.",
+	Sandbox_Divider_Dancing = "________________ 跳舞 ________________",
+	Sandbox_Divider_Dancing_tooltip = "這是分隔線,沒有任何效果.",
+	Sandbox_Divider_Meditation = "_______________ 冥想 _______________",
+	Sandbox_Divider_Meditation_tooltip = "這是分隔線,沒有任何效果t.",
+	Sandbox_Divider_Debug = "__________________ Debug _________________",
+	Sandbox_Divider_Debug_tooltip = "這是分隔線,沒有任何效果.",
+	
+	Sandbox_DividerBox_A = "",
+
+	Sandbox_Music_StrengthMultiplier = "音樂強度",
+	Sandbox_Music_StrengthMultiplier_tooltip = "控制與音樂相關的活動強度. 較高的值可提高效果.",
+	Sandbox_Music_StrengthMultiplier_option1 = "低",
+	Sandbox_Music_StrengthMultiplier_option2 = "普通",
+	Sandbox_Music_StrengthMultiplier_option3 = "高",
+	Sandbox_Music_StrengthMultiplier_option4 = "強",
+
+	Sandbox_Dancing_StrengthMultiplier = "跳舞強度",
+	Sandbox_Dancing_StrengthMultiplier_tooltip = "控制舞蹈的強度. 較高的值可提高效果.",
+	Sandbox_Dancing_StrengthMultiplier_option1 = "低",
+	Sandbox_Dancing_StrengthMultiplier_option2 = "普通",
+	Sandbox_Dancing_StrengthMultiplier_option3 = "高",
+	Sandbox_Dancing_StrengthMultiplier_option4 = "強",
+
+	Sandbox_Meditation_StrengthMultiplier = "冥想強度",
+	Sandbox_Meditation_StrengthMultiplier_tooltip = "控制冥想的強度. 較高的值可提高效果.",
+	Sandbox_Meditation_StrengthMultiplier_option1 = "低",
+	Sandbox_Meditation_StrengthMultiplier_option2 = "普通",
+	Sandbox_Meditation_StrengthMultiplier_option3 = "高",
+	Sandbox_Meditation_StrengthMultiplier_option4 = "強",
+
+	Sandbox_Meditation_MindfulnessDuration = "冥想的正念持續時間",
+	Sandbox_Meditation_MindfulnessDuration_tooltip = "控制所有正念狀態的持續時間.",
+	Sandbox_Meditation_MindfulnessDuration_option1 = "短",
+	Sandbox_Meditation_MindfulnessDuration_option2 = "普通",
+	Sandbox_Meditation_MindfulnessDuration_option3 = "長",
+
+	Sandbox_Meditation_HealFactor = "冥想的完美正念癒合因子",
+	Sandbox_Meditation_HealFactor_tooltip = "在完美正念狀態期間，會觸發多少治療效果.<br>最終數值的決定,根據角色的整體健康狀態和遊戲時間設置.",
+
+	Sandbox_Meditation_EffectMultiplier = "冥想的正念強度影響",
+	Sandbox_Meditation_EffectMultiplier_tooltip = "控制正念狀態的獎勵有效性(壓力、疼痛、恐慌等等..).",
+	Sandbox_Meditation_EffectMultiplier_option1 = "弱",
+	Sandbox_Meditation_EffectMultiplier_option2 = "普通",
+	Sandbox_Meditation_EffectMultiplier_option3 = "強",
+
+	Sandbox_Debug_MoodlePriority = "Debug 反轉狀態 Y",
+	Sandbox_Debug_MoodlePriority_tooltip = "啟用此功能可以使其他的狀態，在Lifestyle的狀態之上.",
+	Sandbox_Debug_Expressions = "Debug 表達",
+	Sandbox_Debug_Expressions_tooltip = "在管理快捷選單中,啟用手動表達選項",
+	Sandbox_Debug_DanceAnim = "Debug 名稱顯示",
+	Sandbox_Debug_DanceAnim_tooltip = "啟用此選項後,動畫名稱會顯示在一些新動畫的上方",
+
+}

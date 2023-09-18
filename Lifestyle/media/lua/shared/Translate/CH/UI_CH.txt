@@ -1,6 +1,6 @@
 UI_CH = {
-    	UI_mainscreen_MusicUpdate = "Lifestyle Music 更新已安裝",
-	UI_mainscreen_DiscoUpdate = "Lifestyle Disco 更新已安裝",
+    	UI_mainscreen_MusicUpdate = "Lifestyle Music 額外內容已安裝",
+	UI_mainscreen_DiscoUpdate = "Lifestyle Disco 額外內容已安裝",
 
 	UI_DJBooth_Scratch = "刮擦唱片",
 	UI_DJBooth_Rewind = "倒帶",
@@ -8,8 +8,8 @@ UI_CH = {
 	UI_DJBooth_Impact = "影響",
 	UI_DJBooth_Crowd = "人群",
 	UI_DJBooth_War = "競爭",
-	UI_DJBooth_Synth = "合成器",
-	UI_DJBooth_Airhorn = "氣喇叭",
+	UI_DJBooth_Synth = "合成音",
+	UI_DJBooth_Airhorn = "喇叭",
 	UI_DJBooth_Sirens = "警報器",
 
 	UI_DJBooth_Volume = "音量控制",
@@ -30,40 +30,40 @@ UI_CH = {
 	UI_DJBooth_Loop1A = "鼓聲 A",
 	UI_DJBooth_Loop1B = "鼓聲 B",
 	UI_DJBooth_Loop1C = "鼓聲 C",
-	UI_DJBooth_Loop2A = "Dreamscape A",
-	UI_DJBooth_Loop2B = "Dreamscape B",
-	UI_DJBooth_Loop2C = "Dreamscape C",
-	UI_DJBooth_Loop2D = "Dreamscape D",
+	UI_DJBooth_Loop2A = "夢境 A",
+	UI_DJBooth_Loop2B = "夢境 B",
+	UI_DJBooth_Loop2C = "夢境 C",
+	UI_DJBooth_Loop2D = "夢境 D",
 	UI_DJBooth_Loop3A = "電音節拍 A",
 	UI_DJBooth_Loop3B = "電音節拍 B",
 	UI_DJBooth_Loop3C = "電音節拍 C",
 	UI_DJBooth_Loop3D = "電音節拍 D",
-	UI_DJBooth_Loop4A = "Lofi A",
-	UI_DJBooth_Loop4B = "Lofi B",
-	UI_DJBooth_Loop4C = "Lofi C",
-	UI_DJBooth_Loop4D = "Lofi D",
-	UI_DJBooth_ElecKickdrum = "電子Kick",
-	UI_DJBooth_Kickdrum = "Kick",
-	UI_DJBooth_SafariKick = "Safari Kick",
-	UI_DJBooth_ElecSnareDrum = "電子Snare",
-	UI_DJBooth_Snare = "Snare",
-	UI_DJBooth_Snap = "Snap",
-	UI_DJBooth_Clap = "拍掌",
-	UI_DJBooth_OpenHat = "Open Hat",
+	UI_DJBooth_Loop4A = "低傳真 A",
+	UI_DJBooth_Loop4B = "低傳真 B",
+	UI_DJBooth_Loop4C = "低傳真 C",
+	UI_DJBooth_Loop4D = "低傳真 D",
+	UI_DJBooth_ElecKickdrum = "電子踢鼓聲",
+	UI_DJBooth_Kickdrum = "踢鼓聲",
+	UI_DJBooth_SafariKick = "重低音踢鼓聲",
+	UI_DJBooth_ElecSnareDrum = "電子小鼓聲",
+	UI_DJBooth_Snare = "小鼓聲",
+	UI_DJBooth_Snap = "彈指音",
+	UI_DJBooth_Clap = "掌聲",
+	UI_DJBooth_OpenHat = "鈸聲",
 	
 	UI_DJBooth_Close = "關閉",
 
     UI_trait_couchpotato = "沙發馬鈴薯",
-    UI_trait_couchpotatodesc = "沙發馬鈴薯不太喜歡刺激,而是更喜歡放鬆和享受舒適. 他們需要點鼓勵才有動力從事體能類活動.<br><br>遊戲, 收音機和電視會更快地減少無聊,且表演技能將會獲得更多經驗值 <br>舒適會帶來更佳的獎勵,但也衰減得很快.<br>在待在室內中,不會太快感到無聊.<br>比大多數人還要快感到疲憊和睡得更久. <br>他們厭惡需要身體活動的運動項目,強行讓他們參加會更快感到無聊甚至不快樂.<br>與部分身體或紀律特質相衝."
+    UI_trait_couchpotatodesc = "沙發馬鈴薯不太喜歡刺激,而是更喜歡放鬆和享受舒適. 他們需要點鼓勵才有動力從事體能類活動.<br><br>遊戲, 收音機和電視會更快地減少無聊,且技術性節目將會獲得更多經驗值 <br>舒適會帶來更佳的獎勵,但也衰減得很快.<br>在待在室內中,不會太快感到無聊.<br>比大多數人還要快感到疲憊和睡得更久. <br>他們厭惡需要身體活動的運動項目,強行讓他們參加會更快感到無聊甚至不快樂.<br>與部分身體或紀律特質相衝."
 
     UI_trait_disciplined = "有紀律",
     UI_trait_disciplineddesc = "有紀律的人勤奮且專注,會不斷提升自我. 他們有著強大的意志力和決心, 使他們在戰鬥和具有挑戰的狀況下,能夠表現出色.<br><br>他們在練習冥想和武術下,感到更快樂.<br>他們從不在意電子娛樂,且表演技能中獲得較少的經驗值. <br>比多數人還要更地應對不舒服.<br>與身材不理想, 體態不佳, 肥胖, 體重過重和沙發馬鈴薯相衝."
 
 	UI_trait_virtuoso = "演奏家",
-    UI_trait_virtuosodesc = "演奏家本質上就是音樂家,具有演奏和作曲的天賦. 他們天生對於節奏與旋律有更快的理解力,且可以輕鬆的即興創作和更快適應不同音樂風格. 他們也是極具魅力的表演者, 用他們的音樂與表演技巧來吸引觀眾.<br><br>他們學音樂比任何人都快,且演奏音樂時,感到最快樂.<br>與音癡, 聽力較差和耳聾相衝."
+    UI_trait_virtuosodesc = "演奏家本質上就是音樂家,具有演奏和作曲的天賦. 他們天生對於節奏與旋律有更快的理解力,且可以輕鬆的即興創作和更快適應不同音樂風格. 他們也是極具魅力的表演者, 用他們的音樂與表演技巧來吸引觀眾.<br><br>他們學音樂比任何人都快,且演奏音樂時,感到最快樂.<br>與音盲, 聽力較差和耳聾相衝."
 
-	UI_trait_tonedeaf = "音癡",
-    UI_trait_tonedeafdesc = "音癡的人對於音樂敏感性較差. 他們很難區分音符和節奏,並且可能無法演奏曲調. 這說明了, 音樂對他們來說不是娛樂的首選.<br><br>他們討厭演奏樂器,且強行演奏會使他感到不快樂.<br>他們在演奏時,會學習更慢且更加頻繁地出錯.<br>與演奏家和耳聾相衝."
+	UI_trait_tonedeaf = "音盲",
+    UI_trait_tonedeafdesc = "音盲的人對於音樂敏感性較差. 他們很難區分音符和節奏,並且可能無法演奏曲調. 這說明了, 音樂對他們來說不是娛樂的首選.<br><br>他們討厭演奏樂器,且強行演奏會使他感到不快樂.<br>他們在演奏時,會學習更慢且更加頻繁地出錯.<br>與演奏家和耳聾相衝."
 
  	UI_trait_partyanimal = "派對狂",
     UI_trait_partyanimaldesc = "熱愛派對生活,隨時準備好跳入舞池光芒四射.<br>與耳聾和掃興衝突.",

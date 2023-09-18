@@ -1,0 +1,4 @@
+Recipes_CH {
+    Recipe_Craft_Standing_Disco_Ball = "製作 直立式迪斯可球",
+    Recipe_Assemble_DJ_Booth = "組裝 DJ台",
+}
