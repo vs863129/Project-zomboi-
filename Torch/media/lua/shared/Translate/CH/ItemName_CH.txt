@@ -1,0 +1,4 @@
+ItemName_CH = {
+	ItemName_Torch.Torchlit = "點燃的火把",
+	ItemName_Torch.Torchunlit = "未點燃的火把",
+}

@@ -1,0 +1,5 @@
+Recipes_CH {
+    Recipe_Create_a_torch = "製作火把",
+    Recipe_Add_new_sheet_to_torch = "為火把綁上床單/繩",
+    Recipe_Light_torch = "點燃火把",
+}
