@@ -180,6 +180,7 @@ FileName/media/lua/shared/Translate/CH/
 
 ### -待整合至工作坊-  
 "+"的符號代表有新增該模組的新版的翻譯或修正  
+[火把 Torch](https://steamcommunity.com/sharedfiles/filedetails/?id=1542069453) (Github:vs863129,Discord:文森)  
 #### -搬運(待)-  
 
 ## 連接(LINK)
