@@ -1,0 +1,34 @@
+ItemName_CH = {
+
+-- SpoonDynamicMining.txt--
+	ItemName_SpoonDM.SDMOreOne					= "您已勘探到礦石",
+	ItemName_SpoonDM.SDMOreTwo					= "不明巖層",
+	ItemName_SpoonDM.RockSalt					= "巖鹽",
+	ItemName_SpoonDM.CoalOre					= "煤",
+	ItemName_SpoonDM.SDMOreRockMine1			= "岩石堆",
+	ItemName_SpoonDM.SDMOreRockMine2			= "岩石堆",
+	ItemName_SpoonDM.SDMOreRockMine3			= "岩石堆",
+	ItemName_SpoonDM.SDMOreIronMine1			= "鐵礦",
+	ItemName_SpoonDM.SDMOreIronMine2			= "鐵礦",
+	ItemName_SpoonDM.SDMOreIronMine3			= "鐵礦",
+	ItemName_SpoonDM.SDMOreSaltMine1			= "鹽礦",
+	ItemName_SpoonDM.SDMOreSaltMine2			= "鹽礦",
+	ItemName_SpoonDM.SDMOreSaltMine3			= "鹽礦",
+	ItemName_SpoonDM.SDMOreAluminumMine1		= "鋁沉積物",
+	ItemName_SpoonDM.SDMOreAluminumMine2		= "鋁沉積物",
+	ItemName_SpoonDM.SDMOreAluminumMine3		= "鋁沉積物",
+	ItemName_SpoonDM.SDMOreCoalMine1			= "煤礦",
+	ItemName_SpoonDM.SDMOreCoalMine2			= "煤礦",
+	ItemName_SpoonDM.SDMOreCoalMine3			= "煤礦",
+	ItemName_SpoonDM.SDMOreSilverMine1			= "銀礦",
+	ItemName_SpoonDM.SDMOreSilverMine2			= "銀礦",
+	ItemName_SpoonDM.SDMOreSilverMine3			= "銀礦",
+	ItemName_SpoonDM.SDMOreGoldMine1			= "金礦",
+	ItemName_SpoonDM.SDMOreGoldMine2			= "金礦",
+	ItemName_SpoonDM.SDMOreGoldMine3			= "金礦",
+
+-- SpoonDynamicMiningPatches.txt --
+	ItemName_SpoonMetalworkStuff.GoldNugget		= "金塊",
+	ItemName_SpoonMetalworkStuff.SilverNugget	= "銀塊",
+
+}

@@ -1,0 +1,15 @@
+Recipes_CH = {
+
+-- SpoonDynamicMining.txt
+	Recipe_Investigate_the_rocks				= "調查岩石",
+	Recipe_Crush_rocks							= "粉碎岩石",
+	Recipe_Mine_Iron							= "鐵礦",
+	Recipe_Mine_Salt							= "鹽礦",
+	Recipe_Mine_Coal							= "煤礦",
+	Recipe_Mine_Aluminum						= "鋁沉積物",
+	Recipe_Mine_Silver							= "銀礦",
+	Recipe_Mine_Gold							= "金礦",
+	Recipe_Stomp_Rock_Salt_to_Salt				= "將岩鹽磨成鹽",
+	Recipe_Break_down_Coal_Ore_to_Charcoal		= "將煤礦石分解成木炭",
+
+}

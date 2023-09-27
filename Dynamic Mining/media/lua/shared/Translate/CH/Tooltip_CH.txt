@@ -1,0 +1,7 @@
+Tooltip_CH = {
+	-- Item tooltip
+	Tooltip_item_MineWarning = "警告 : 採礦會消耗耐力 口渴和飢餓感 並會感到疲勞 您還可能會受輕傷 請找個安全的地方休息 記得隨身攜帶一些食物/飲料 ",
+	Tooltip_item_SaltOre = "岩鹽可以碾碎成食鹽",
+	Tooltip_item_CoalOre = "煤炭可以分解成木炭 然後用來生火與添加燃料",
+	Tooltip_item_WhatIsThisOre = "您發現了一些岩石 請用鎬進一步調查 看看裡面是否有更有價值的礦石 還是只是普通岩石",
+}
