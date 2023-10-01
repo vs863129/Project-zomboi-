@@ -1,8 +1,8 @@
 Tooltip_CH = {
 	
-	Tooltip_item_MineWarning = "重要提示：挖掘有用的礦石會消耗耐力，引發口渴、飢餓和增加睡意。<br>建議附近有安全休息的地方，有食物和飲料。<br>此外，可能會受到輕微傷害。",
-	Tooltip_item_SaltOre = "可以粉碎岩鹽並在烹飪中使用。",
-	Tooltip_item_CoalOre = "可以碎裂煤礦並作為燃料準備使用。",
-	Tooltip_item_WhatIsThisOre = "你找到了一堆石頭。可以用鑿子敲下幾塊，看看是否有其他東西在裡面。",
+	Tooltip_item_MineWarning = "重要提示:挖掘礦石會消耗耐力,引發口渴/飢餓和增加睡意.<br>建議在安全的地方休息,記得準備點食物和水.<br>此外,可能會受到輕微傷害.",
+	Tooltip_item_SaltOre = "可以粉碎岩鹽並在烹飪中使用.",
+	Tooltip_item_CoalOre = "可以碎裂煤礦並作為燃料準備使用.",
+	Tooltip_item_WhatIsThisOre = "你找到了一堆石頭.可以用稿子敲幾下,看看是否有其他礦石在裡面.",
 
 }
