@@ -157,8 +157,9 @@ FileName/media/lua/shared/Translate/CH/
 [倖存者(NPC模組)二合一 Survivors 2 in 1](https://steamcommunity.com/sharedfiles/filedetails/?id=2680488822)  (原模組翻譯搬運)  
 [eris_food_expiry](https://steamcommunity.com/sharedfiles/filedetails/?id=1651019937)  (原模組翻譯搬運)  
 [傳送石 WayStone](https://steamcommunity.com/sharedfiles/filedetails/?id=2900928983)  (原模組翻譯搬運)  
-[更多建築 More Builds](https://steamcommunity.com/sharedfiles/filedetails/?id=515555911)  (Github:vs863129,Discord:文森)  
-
+[更多建築 More Builds](https://steamcommunity.com/sharedfiles/filedetails/?id=515555911)  (部分修正Github:vs863129,Discord:文森)  
+[Authentic Z-精簡版 Authentic Z - Lite](https://steamcommunity.com/sharedfiles/filedetails/?id=2335368829)  (原模組翻譯搬運)  
+[Authentic Z-更多背包 Authentic Z - Lite](https://steamcommunity.com/sharedfiles/filedetails/?id=2335368829)  (原模組翻譯搬運)  
 ### -僅提供給原作者-
 [更詳細狀態介紹 Clear description for Moodles](https://steamcommunity.com/sharedfiles/filedetails/?id=2763647806) (Github:Genshin804,Discord:Genshin)  
 [天氣預告 Weather Moodles](https://steamcommunity.com/sharedfiles/filedetails/?id=2920735875)  (Github:kyo2002tw,Discord:cide2021)  
