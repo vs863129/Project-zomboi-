@@ -83,5 +83,10 @@ IGUI_CH = {
 	IGUI_CraftCategory_Tailoring = "裁縫",
 	
 /* New*/	
-
+	IGUI_HotbarAttachment_HikingbagSleepingRoll = "睡袋槽位",
+	IGUI_HotbarAttachment_BigHikingbagSleepingRoll = "睡袋槽位",	
+	IGUI_HotbarAttachment_AlicepackSleepingRoll = "睡袋槽位",
+	
+/* New*/	
+	IGUI_AuthenticZ_Manage_Slots = "AuthenticZ 管理附件插槽",
 }

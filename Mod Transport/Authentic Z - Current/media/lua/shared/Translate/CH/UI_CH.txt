@@ -2,7 +2,7 @@
 UI_CH = {
 
 UI_ClothingType_AmmoStrap2 = "彈藥帶",
-
+ 
 UI_optionscreen_binding_Hotbar 6 = "快捷鍵6",
 UI_optionscreen_binding_Hotbar 7 = "快捷鍵7",
 UI_optionscreen_binding_Hotbar 8 = "快捷鍵8",

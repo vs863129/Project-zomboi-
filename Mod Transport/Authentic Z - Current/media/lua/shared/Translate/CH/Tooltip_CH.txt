@@ -14,8 +14,8 @@ Tooltip_CH = {
 	Tooltip_AttachAliceBackpackTier2 = "增加插槽：道具3，公仔，雨傘",
 	Tooltip_AttachAliceBackpackTier3 = "增加插槽：道具4，道具5，水瓶2，手電筒",
 	
-        Tooltip_AuthenticFlareGun = "一把12口徑的獵戶座信號槍",
-        Tooltip_AuthenticAndyBoard = "血跡斑斑的",
+    Tooltip_AuthenticFlareGun = "一把12口徑的獵戶座信號槍",
+    Tooltip_AuthenticAndyBoard = "血跡斑斑的",
 	Tooltip_PostalDude = "你願意在我的請願書上簽名嗎？",
 	Tooltip_Carabiner = "用於將物品掛在背包上",
 	Tooltip_Pills = "藥丸在這裡！",
@@ -53,7 +53,19 @@ Tooltip_CH = {
 	Tooltip_TV110Bag = "請先把所有物品都拿出來再操作.",
 	
 /* New */
-	
 	Tooltip_JPCane = "生命會自己找到出路.",		
-	Tooltip_TagillaHelmet = "UBEY",			
+	Tooltip_TagillaHelmet = "UBEY",		
+/* Update 5-07-22 */	
+	Tooltip_AZSleepingBag = "拆開並放置.",		
+	Tooltip_AZSleepingBag2 = "右鍵點擊睡覺.",
+	Tooltip_GlowStickPack = "打開即可獲得 3 個隨機螢光棒!",	
+	
+/* Update 6-25-22 */		
+	Tooltip_RotaryPhone  = "老兄!向你的艾麗西亞打個招呼!",
+	
+/* New */	
+	Tooltip_SizeXS  = "尺寸: S",	
+	Tooltip_SizeXL  = "尺寸: XL",	
+	Tooltip_Size2XL  = "尺寸: 2XL",	
+	Tooltip_Size3XL  = "尺寸: 3XL",		
 	}

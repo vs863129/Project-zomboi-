@@ -1,0 +1,53 @@
+ContextMenu_CH = {
+	ContextMenu_Loosen = "鬆開",
+	ContextMenu_Tighten = "收緊",
+	ContextMenu_TieOnWaist = "繫在腰部",
+	
+	ContextMenu_JacketOpen = "解開扣子",
+	ContextMenu_ClosedJacket = "繫上扣子",
+	
+	ContextMenu_VestBag = "作為背包使用",
+	ContextMenu_VestBullet = "作為防彈衣使用",
+	ContextMenu_VestRadio = "作為電台使用",
+	
+	ContextMenu_WearHead = "穿戴在頭部",
+	ContextMenu_WearNeck = "穿在脖子上",	
+
+	ContextMenu_AfroPick = "Afro 大髮型",	
+	ContextMenu_AfroPick2 = "Afro 小髮型",	
+
+	ContextMenu_HatsOnHats = "戴在帽子上,	
+	ContextMenu_WearNormally = "戴在頭上",	
+	
+	ContextMenu_TakeOffShoeCovers = "脫鞋套",	
+	ContextMenu_TakeOffShoeCoversAndMask = "脫鞋套和面具",	
+	ContextMenu_TakeOffMask = "脫面具",	
+	ContextMenu_WearNormally2 = "與鞋套和面具一起配戴",	
+
+	ContextMenu_TipHatBack = "帽檐向後",	
+	ContextMenu_TipHatForward = "帽檐向前",
+
+	/* New 6-25-22 */	
+
+	ContextMenu_PullVeilBack = "拉開面紗",	
+	ContextMenu_PullVeilForward = "蓋上面紗",	
+	ContextMenu_SwapSides = "更改至側面",	
+
+	/* Chainsaw */
+
+	ContextMenu_Start_Chainsaw = "啟動電鋸",
+	ContextMenu_Stop_Chainsaw = "關閉電鋸",
+	ContextMenu_Refuel_Chainsaw = "補充電鋸燃料",
+	ContextMenu_Unjam_Chainsaw = "排除電鋸故障",
+	ContextMenu_Chainsaw_Tree = "鋸樹",
+
+	/* Update 1-2-23 */		
+	
+    ContextMenu_WearHigher = "穿高點",
+    ContextMenu_WearLower = "穿低點",
+    ContextMenu_WearRight = "穿在右側",
+    ContextMenu_WearLeft = "穿在左側",	
+	
+	/* Update 3-3-23 */			
+    ContextMenu_WearSideways = "斜戴",	
+} 

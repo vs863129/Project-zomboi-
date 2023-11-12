@@ -12,7 +12,7 @@ Recipes_CH = {
 	Recipe_Draw_Hitlist_3 = "繪製擊殺清單3",
 	Recipe_Remove_Battery = "移除電池",
 	Recipe_Tie_Hoodie_Around_Waist = "把連帽衫繫在腰部",
-	
+	 
 	Recipe_Dismantle_Headphones = "拆解耳機",
 	Recipe_Install_Light_Mechanism = "安裝頭燈",
 	Recipe_Insert_Battery_into_Flashlight = "插入電池",
@@ -46,7 +46,7 @@ Recipes_CH = {
 	
 	Recipe_Upgrade_Evangelos_Backpack = "升級伊萬傑洛背包",	
 	Recipe_Upgrade_Hoffmans_Backpack = "升級霍夫曼背包",
-	Recipe_Upgrade_Walkers_Backpack = "升級沃爾克背包",
+	Recipe_Upgrade_Walkers_Backpack = "升級沃克背包",
 
 	/* New*/		
 	Recipe_Upgrade_Urban_Camo_Alicepack = "升級軍用背包",
@@ -59,4 +59,18 @@ Recipes_CH = {
 	Recipe_Revert_Attachable_Item = "轉為非掛件道具",
 	Recipe_Make_Backpack_Attachable_Item = "轉換成可掛道具",	
 	
+	Recipe_Open_Sleeping_Bag = "打開睡袋",
+	Recipe_Close_Sleeping_Bag = "關閉睡袋",	
+	/* 6-25-22 */
+	Recipe_Attach_Cigarette_to_Cigarette_Holder = "將香菸放在煙嘴上",		
+	Recipe_Wear_on_Neck = "掛在脖子上",		
+	Recipe_Open_Sealed_Medkit = "打開密封的醫療包",		
+	Recipe_Open_Pack_of_Glowsticks = "打開螢光棒包裝",		
+
+	Recipe_Tie_Apron_Around_Dress = "將圍裙繫在連身裙上",
+	
+	/* New */
+	Recipe_Upgrade_Moms_Backpack = "升級老媽的背包",
+	Recipe_Upgrade_Hollys_Backpack = "升級荷莉的背包",
+	Recipe_Upgrade_Evangelos_Backpack = "升級伊凡傑洛的背包",	
 	}

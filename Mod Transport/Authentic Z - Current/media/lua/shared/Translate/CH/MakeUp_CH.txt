@@ -9,5 +9,6 @@ MakeUp_CH = {
     MakeUpType_FullFaceMimeRed = "啞劇臉(紅)",
     MakeUpType_FullFacePennywise = "小丑回魂臉",
     MakeUpType_FullFaceShotgunFace = "槍疤臉",	
+	
 }
 
