@@ -1,0 +1,4 @@
+IG_UI_CH = {
+IGUI_HotbarAttachment_FrontBeltL = "左前腰帶",
+IGUI_HotbarAttachment_FrontBeltR = "右前腰帶",
+}
