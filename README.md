@@ -145,6 +145,8 @@ FileName/media/lua/shared/Translate/CH/
 [自殘/自殺模組 Paint the walls](https://steamcommunity.com/sharedfiles/filedetails/?id=2917366841) (Github:vs863129,Discord:文森)  
 [動態挖礦 Dynamic Mining ](https://steamcommunity.com/workshop/filedetails/?id=2963057869)  (GitHub:FluffyMorrison & nemo01642280,Discord:_ & 尼莫)  
 [火把 Torch](https://steamcommunity.com/sharedfiles/filedetails/?id=1542069453) (Github:vs863129,Discord:文森)  
+[更好的腰帶 Better Belts](https://steamcommunity.com/sharedfiles/filedetails/?id=2127583399) (Github:vs863129,Discord:文森)  
+
 ### -地圖描述翻譯-
 [藍莓鎮 BlueBerry](https://steamcommunity.com/sharedfiles/filedetails/?id=2671890843) (Github:HerioJohnX,Discord:希利奧)  
 [查爾斯鎮 Chestown](https://steamcommunity.com/sharedfiles/filedetails/?id=2840889213) (Github:HerioJohnX,Discord:希利奧)  
@@ -182,7 +184,7 @@ FileName/media/lua/shared/Translate/CH/
 
 ### -待整合至工作坊-  
 "+"的符號代表有新增該模組的新版的翻譯或修正  
-[更好的腰帶](https://steamcommunity.com/sharedfiles/filedetails/?id=2127583399) (Github:vs863129,Discord:文森)  
+
 #### -搬運(待)-  
 
 ## 連接(LINK)
