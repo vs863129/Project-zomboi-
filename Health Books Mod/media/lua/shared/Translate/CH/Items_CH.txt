@@ -1,0 +1,12 @@
+Items_EN = {
+   	DisplayName_FBM_Str_1                = "健力訓練 第 1 集 - 入門",
+	DisplayName_FBM_Str_2                = "健力訓練 第 2 集 - 中級",
+	DisplayName_FBM_Str_3                = "健力訓練 第 3 集 - 進階",
+	DisplayName_FBM_Str_4                = "健力訓練 第 4 集 - 專家",
+	DisplayName_FBM_Str_5                = "健力訓練 第 5 集 - 大師",
+	
+	DisplayName_FBM_Fit_1                = "體魄強健 第 1 集 - 入門",
+	DisplayName_FBM_Fit_2                = "體魄強健 第 2 集 - 中級",
+	DisplayName_FBM_Fit_3                = "體魄強健 第 3 集 - 進階",
+	DisplayName_FBM_Fit_4                = "體魄強健 第 4 集 - 專家",
+	DisplayName_FBM_Fit_5                = "體魄強健 第 5 集 - 大師",
