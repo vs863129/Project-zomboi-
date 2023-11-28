@@ -1,0 +1,21 @@
+Tooltip_CH = {
+Tooltip_SWSP_Axe = "斧頭",
+Tooltip_SWSP_LongBlade = "長刃器",
+Tooltip_SWSP_SmallBlade = "短刃器",
+Tooltip_SWSP_Blunt = "長鈍器",
+Tooltip_SWSP_SmallBlunt = "短鈍器",
+Tooltip_SWSP_Spear = "長柄武器",
+Tooltip_SWSP_Improvised = "臨時武器",
+Tooltip_SWSP_Firearm = "槍械",
+Tooltip_SWSP_Damage = "傷害: %s- %s (+%d%%)",
+Tooltip_SWSP_Range = "攻擊距離: %s - %s",
+Tooltip_SWSP_MaxHit = "最大可命中數: %d",
+Tooltip_SWSP_Crit = "暴擊率: %s%% (+%d%%), %sx",
+Tooltip_SWSP_Condition = "耐久度: %d/%d",
+Tooltip_SWSP_BreakChance = "損耗機率: 1/(%d + %d)",
+Tooltip_SWSP_TreeBreakChance = "伐木損耗機率: 1/%d",
+Tooltip_SWSP_GunAccuracy = "命中率: %d%% (+%d)%%",
+Tooltip_SWSP_GunRange = "射程: %s - %s (+%d%%)",
+Tooltip_SWSP_GunMisc = "瞄準時間/狀態時間/後座力 : %d/%d/%d"
+Tooltip_SWSP_GunNoise = "槍聲半徑/音量: %d/%d",
+}

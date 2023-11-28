@@ -1,0 +1,7 @@
+UI_CH = {
+UI_SWSP_Option_Improvised = "包含臨時武器 (筆, 鉛筆)",
+UI_SWSP_Option_WeaponType = "顯示武器種類",
+UI_SWSP_Option_MaxHit = "顯示最大可命中數",
+UI_SWSP_Option_Tree = "顯示伐木損耗機率",
+UI_SWSP_Option_TextColor = "文字顏色",
+}
