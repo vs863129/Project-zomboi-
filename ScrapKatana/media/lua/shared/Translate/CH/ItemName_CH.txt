@@ -1,0 +1,3 @@
+ItemName_CH = {
+    ItemName_ScrapKatana.ScrapKatana = "廢鐵武士刀",
+}
