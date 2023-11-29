@@ -1,0 +1,3 @@
+Recipes_CH = {
+    Recipe_Test_for_zombie_infection = "殭屍病源感染檢驗",
+}

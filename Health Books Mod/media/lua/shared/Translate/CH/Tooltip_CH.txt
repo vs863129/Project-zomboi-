@@ -1,0 +1,5 @@
+Tooltip_EN = {
+	-- Item tooltip
+	    Tooltip_BookTitle_Strength = "健力訓練指南"
+		Tooltip_BookTitle_Fitness = "體魄強健指南"
+}
