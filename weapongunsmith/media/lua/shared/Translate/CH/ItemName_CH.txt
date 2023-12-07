@@ -1,0 +1,9 @@
+ItemName_CH = {
+	ItemName_Base.WeaponTools = "槍械維修工具組",
+	ItemName_Base.WeaponPartsGeneric = "通用槍械零件",
+	ItemName_Base.WeaponPartsAuto = "自動步槍零件",
+	ItemName_Base.WeaponPartsRifle = "步槍零件",	
+	ItemName_Base.WeaponPartsShotgun = "霰彈槍零件",
+	ItemName_Base.WeaponPartsHandgun = "手槍零件",
+	ItemName_Base.WeaponPartsRevolver = "左輪零件",
+}

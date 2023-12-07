@@ -1,0 +1,12 @@
+Sandbox_CH = {
+	Sandbox_GSmith = "Gunsmith",
+
+	Sandbox_GSmith_XPMultiplierRepair = "修復時獲得經驗的倍率",
+	Sandbox_GSmith_XPMultiplierRepair_tooltip = "設定修復槍械時所得經驗的倍率<br>",
+	Sandbox_GSmith_XPMultiplierScrap = "拆解時獲得經驗的倍率",
+	Sandbox_GSmith_XPMultiplierScrap_tooltip = "設定拆解槍械時所得經驗的倍率<br>",
+	Sandbox_GSmith_XpBoostProfession = "特殊職業的經驗加成",
+	Sandbox_GSmith_XpBoostProfession_tooltip = "設定以下職業的額外經驗加成: 退伍軍人, 警察<br>",
+	Sandbox_GSmith_PartsMultiplier = "拆解可得的零件數量",
+	Sandbox_GSmith_PartsMultiplier_tooltip = "拆解可得的零件數量為槍支剩餘耐久度乘以此值, 以 1 為 100%, 0.5 即為 50%<br>範例:<br>此值為 0.5 時, 從 10/10 的槍械中將獲得 5 個零件.<br>此值為 0.3 時, 從 10/10 的槍械中將獲得約 3-4  個零件.",
+}
