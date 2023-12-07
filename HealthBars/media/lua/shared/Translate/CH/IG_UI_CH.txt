@@ -1,0 +1,3 @@
+IGUI_CH = {
+	IGUI_HealthBars_Save_Settings = "僅單人模式."
+}
