@@ -1,0 +1,8 @@
+IGUI_CH = {
+	IGUI_perks_Gunsmith = "槍械維修",
+	
+	IGUI_GSmith_RepairChance = "修復機率: ",
+	IGUI_GSmith_ScrapChance = "獲得零件機率: ",
+	IGUI_GSmith_Repair = "修復",
+	IGUI_GSmith_Scrap = "拆成零件",
+}
