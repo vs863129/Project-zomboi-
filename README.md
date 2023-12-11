@@ -146,6 +146,12 @@ FileName/media/lua/shared/Translate/CH/
 [動態挖礦 Dynamic Mining ](https://steamcommunity.com/workshop/filedetails/?id=2963057869)  (GitHub:FluffyMorrison & nemo01642280,Discord:_ & 尼莫)  
 [火把 Torch](https://steamcommunity.com/sharedfiles/filedetails/?id=1542069453) (Github:vs863129,Discord:文森)  
 [更好的腰帶 Better Belts](https://steamcommunity.com/sharedfiles/filedetails/?id=2127583399) (Github:vs863129,Discord:文森)  
+[感染檢測 Felkami's Infected](https://steamcommunity.com/sharedfiles/filedetails/?id=2521651100)  (Github:retsnimle,Discord:Roc Tseng)  
+[健身書籍 Regisky's Health Books Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=2612584219&searchtext=Health+Book)  (Github:retsnimle,Discord:Roc Tseng)  
+[廢鐵武士刀 Scrap Katana](https://steamcommunity.com/sharedfiles/filedetails/?id=3051622511&searchtext=ScrapKatana)  (Github:retsnimle,Discord:Roc Tseng)  
+[顯示武器狀態 Show Weapon Stats Plus](https://steamcommunity.com/sharedfiles/filedetails/?id=2883603166)  (Github:retsnimle,Discord:Roc Tseng)  
+[健康狀態條 Health Bar](https://steamcommunity.com/sharedfiles/filedetails/?id=1959288739) (Github:vs863129,Discord:文森)  
+[*槍械維修 WeaponGunSmith](https://steamcommunity.com/sharedfiles/filedetails/?id=3105394500)  (Github:retsnimle,Discord:Roc Tseng)  
 
 ### -地圖描述翻譯-
 [藍莓鎮 BlueBerry](https://steamcommunity.com/sharedfiles/filedetails/?id=2671890843) (Github:HerioJohnX,Discord:希利奧)  
@@ -184,11 +190,7 @@ FileName/media/lua/shared/Translate/CH/
 
 ### -待整合至工作坊-  
 "+"的符號代表有新增該模組的新版的翻譯或修正  
-[感染檢測 Felkami's Infected](https://steamcommunity.com/sharedfiles/filedetails/?id=2521651100)  (Github:retsnimle,Discord:Roc Tseng)  
-[健身書籍 Regisky's Health Books Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=2612584219&searchtext=Health+Book)  (Github:retsnimle,Discord:Roc Tseng)  
-[廢鐵武士刀 Scrap Katana](https://steamcommunity.com/sharedfiles/filedetails/?id=3051622511&searchtext=ScrapKatana)  (Github:retsnimle,Discord:Roc Tseng)  
-[顯示武器狀態 Show Weapon Stats Plus](https://steamcommunity.com/sharedfiles/filedetails/?id=2883603166)  (Github:retsnimle,Discord:Roc Tseng)  
-[健康狀態條 Health Bar](https://steamcommunity.com/sharedfiles/filedetails/?id=1959288739) (Github:vs863129,Discord:文森)  
+
 #### -搬運(待)-  
 
 ## 連接(LINK)
