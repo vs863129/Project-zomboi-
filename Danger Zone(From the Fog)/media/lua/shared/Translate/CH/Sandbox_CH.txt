@@ -1,0 +1,13 @@
+Sandbox_CH = {
+	Sandbox_DGFromTheFog = "DZ: 迷霧",
+
+	Sandbox_DGFromTheFog_SpawnRangeMin = "最小生成範圍",
+	Sandbox_DGFromTheFog_SpawnRangeMin_tooltip = "影響迷霧內的生成殭屍範圍最小值."
+	
+	Sandbox_DGFromTheFog_SpawnRangeMax = "最大生成範圍",
+	Sandbox_DGFromTheFog_SpawnRangeMax_tooltip = "影響迷霧內的生成殭屍範圍最大值."
+
+	Sandbox_DGFromTheFog_FogThickness = "迷霧需求的厚度",
+	Sandbox_DGFromTheFog_FogThickness_tooltip = "生成殭屍需要多少的厚度?"
+
+}
