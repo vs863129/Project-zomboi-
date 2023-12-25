@@ -152,6 +152,8 @@ FileName/media/lua/shared/Translate/CH/
 [顯示武器狀態 Show Weapon Stats Plus](https://steamcommunity.com/sharedfiles/filedetails/?id=2883603166)  (Github:retsnimle,Discord:Roc Tseng)  
 [健康狀態條 Health Bar](https://steamcommunity.com/sharedfiles/filedetails/?id=1959288739) (Github:vs863129,Discord:文森)  
 [*槍械維修 WeaponGunSmith](https://steamcommunity.com/sharedfiles/filedetails/?id=3105394500)  (Github:retsnimle,Discord:Roc Tseng)  
+[便攜式露營燈 Lantern](https://steamcommunity.com/sharedfiles/filedetails/?id=2744675505) (Github:vs863129,Discord:文森)  
+[危險區域(迷霧) Danger Zone(From the Fog)](https://steamcommunity.com/sharedfiles/filedetails/?id=2710367724) (Github:vs863129,Discord:文森)  
 
 ### -地圖描述翻譯-
 [藍莓鎮 BlueBerry](https://steamcommunity.com/sharedfiles/filedetails/?id=2671890843) (Github:HerioJohnX,Discord:希利奧)  
@@ -190,7 +192,7 @@ FileName/media/lua/shared/Translate/CH/
 
 ### -待整合至工作坊-  
 "+"的符號代表有新增該模組的新版的翻譯或修正  
-[危險區域(迷霧) Danger Zone(From the Fog)](https://steamcommunity.com/sharedfiles/filedetails/?id=2710367724) (Github:vs863129,Discord:文森)  
+
 #### -搬運(待)-  
 
 ## 連接(LINK)
