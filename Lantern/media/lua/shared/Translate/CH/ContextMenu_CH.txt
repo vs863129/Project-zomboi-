@@ -1,0 +1,4 @@
+ContextMenu_CH = {
+    ContextMenu_Insert_Battery = "插入電池",
+    ContextMenu_Add_Gasoline = "添加汽油",
+}

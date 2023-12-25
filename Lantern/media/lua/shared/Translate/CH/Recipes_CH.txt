@@ -1,0 +1,10 @@
+Recipes_CH = {
+    Recipe_Insert_Battery_into_Lantern = "插入電池",
+    Recipe_Refill_Gas_Lantern = "補充燃料",
+    Recipe_Remove_Lantern_Battery = "拆下電池",
+    Recipe_Craft_Lantern = "製作露營燈(電池)",
+    Recipe_Craft_Lantern = "製作露營燈(汽油)",
+    Recipe_Dismantle_Lantern = "拆解露營燈(電池)",
+    Recipe_Dismantle_Gas_Lantern = "拆解露營燈(汽油)",
+
+}

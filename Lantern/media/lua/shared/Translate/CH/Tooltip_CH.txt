@@ -1,0 +1,4 @@
+﻿Tooltip_CH = {
+    Tooltip_SL_Lantern = "電池供電的露營燈. 當露營燈耗盡時,需要重新補充電池."
+	Tooltip_SL_GasLantern = "燃油的露營燈. 當露營燈耗盡時,需要重新補充汽油."
+}
