@@ -192,6 +192,7 @@ FileName/media/lua/shared/Translate/CH/
 
 ### -待整合至工作坊-  
 "+"的符號代表有新增該模組的新版的翻譯或修正  
+[服飾介面化 PZ-ClothingUI - Clothing items grid view](https://steamcommunity.com/sharedfiles/filedetails/?id=2695471997) (Github:vs863129,Discord:文森)  
 
 #### -搬運(待)-  
 

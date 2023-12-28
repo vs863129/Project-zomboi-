@@ -1,0 +1,13 @@
+IGUI_CH = {
+   IGUI_CUI_Display_slot_label  = "顯示服飾欄標籤",
+   IGUI_CUI_Display_slot_label_tooltip = "顯示或隱藏服飾欄標籤.",
+   IGUI_CUI_Slot_label_margin = "服飾欄標籤間距",
+   IGUI_CUI_Slot_label_margin_tooltip = "標籤與欄位之間的距離,增加則往上位移.",
+   IGUI_CUI_Slot_horizontal_spacing = "服飾欄水平間隔",
+   IGUI_CUI_Slot_horizontal_spacing_tooltip = "欄位之間的水平間隔.",
+   IGUI_CUI_Slot_vertical_spacing = "服飾欄垂直間隔",
+   IGUI_CUI_Slot_vertical_spacing_tooltip = "欄位之間的垂直間隔.",
+   IGUI_CUI_Slot_button_size = "服飾欄尺寸",
+   IGUI_CUI_Slot_button_size_tooltip = "調整整體按鈕的尺寸"
+}
+
