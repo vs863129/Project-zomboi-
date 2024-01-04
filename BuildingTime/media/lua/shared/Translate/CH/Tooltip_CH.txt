@@ -1,0 +1,13 @@
+Tooltip_CH = {
+	-- Item tooltip
+    Tooltip_BookTitle_Masonry = "砌磚",
+
+	-- Crafting tooltip
+	Tooltip_craft_ConcreteFloorDesc = "基礎的混凝土製地板 ",
+	Tooltip_craft_BrickFenceDesc	= "提供有限的基地保護 ",
+	Tooltip_craft_BrickOvenDesc	= "用來燒製磚頭",
+	Tooltip_craft_DisplayCounterDesc	= "展示你的戰利品 ",
+
+	-- Item tooltip
+	Tooltip_item_HandTruck = "手持時無法戰鬥.<br>只攜帶大型物品.",
+}

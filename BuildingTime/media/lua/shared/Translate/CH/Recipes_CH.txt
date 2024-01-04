@@ -1,0 +1,9 @@
+Recipes_CH = {
+	Recipe_Make_Brick_Mold = "製作磚模具",
+	Recipe_Make_Brick_Kiln = "製作磚窯",
+	Recipe_Make_Bricks = "製作磚塊堆",
+	Recipe_Make_Bucket_of_Concrete = "製作桶裝混凝土",
+	Recipe_Make_Chisel = "製作鑿子",
+	Recipe_Put_Clay_in_Bag = "將黏土裝入袋中",
+	Recipe_Take_Clay_from_Bag = "取出黏土",
+}
