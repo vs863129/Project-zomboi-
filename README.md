@@ -154,6 +154,8 @@ FileName/media/lua/shared/Translate/CH/
 [*槍械維修 WeaponGunSmith](https://steamcommunity.com/sharedfiles/filedetails/?id=3105394500)  (Github:retsnimle,Discord:Roc Tseng)  
 [便攜式露營燈 Lantern](https://steamcommunity.com/sharedfiles/filedetails/?id=2744675505) (Github:vs863129,Discord:文森)  
 [危險區域(迷霧) Danger Zone(From the Fog)](https://steamcommunity.com/sharedfiles/filedetails/?id=2710367724) (Github:vs863129,Discord:文森)  
+[服飾介面化 PZ-ClothingUI - Clothing items grid view](https://steamcommunity.com/sharedfiles/filedetails/?id=2695471997) (Github:vs863129,Discord:文森)  
+[Soul Filcher的建築拓展 Soul Filcher's Building Time](https://steamcommunity.com/sharedfiles/filedetails/?id=2324586266) (Github:vs863129,Discord:文森)  
 
 ### -地圖描述翻譯-
 [藍莓鎮 BlueBerry](https://steamcommunity.com/sharedfiles/filedetails/?id=2671890843) (Github:HerioJohnX,Discord:希利奧)  
@@ -192,8 +194,7 @@ FileName/media/lua/shared/Translate/CH/
 
 ### -待整合至工作坊-  
 "+"的符號代表有新增該模組的新版的翻譯或修正  
-[服飾介面化 PZ-ClothingUI - Clothing items grid view](https://steamcommunity.com/sharedfiles/filedetails/?id=2695471997) (Github:vs863129,Discord:文森)  
-[Soul Filcher的建築拓展 Soul Filcher's Building Time](https://steamcommunity.com/sharedfiles/filedetails/?id=2324586266) (Github:vs863129,Discord:文森)  
+
 #### -搬運(待)-  
 
 ## 連接(LINK)
