@@ -1,4 +1,4 @@
 IGUI_CH = {
-    IGUI_VehicleRecycling_ConfirmDialog_Vehicle = "確定要拆解這台車輛?",
+    IGUI_VehicleRecycling_ConfirmDialog_Vehicle = "確定要拆解這台載具?",
     IGUI_VehicleRecycling_ConfirmDialog_Trailer = "確定要拆解這台拖車?",
 }

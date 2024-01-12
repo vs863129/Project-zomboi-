@@ -113,7 +113,7 @@ FileName/media/lua/shared/Translate/CH/
 [拆解優化(整理大師) Tidy Up Meister](https://steamcommunity.com/sharedfiles/filedetails/?id=2769706949)  (Github:a500197 ,Discord:Mark誌)  
 [*Tsar's 核心模組 Tsar's Common Library v2.05](https://steamcommunity.com/sharedfiles/filedetails/?id=2392709985)  (Github:kyo2002tw,Discord:cide2021)  
 [物品檢查 Item Checker](https://steamcommunity.com/sharedfiles/filedetails/?id=2852618661)  (Github:a500197 ,Discord:Mark誌)   
-[車輛回收 Vehicle Recycling](https://steamcommunity.com/sharedfiles/filedetails/?id=2289429759) (Github:vs863129,Discord:文森)  
+[車輛回收 Vehicle Recycling](https://steamcommunity.com/sharedfiles/filedetails/?id=2887190684) (Github:vs863129,Discord:文森)  
 [蒸氣發電機 Steam Powered Generator](https://steamcommunity.com/sharedfiles/filedetails/?id=2762648316) (Github:kyo2002tw,Discord:cide2021)  
 [可點燃的燃料路徑 Fire a trail of fuel](https://steamcommunity.com/sharedfiles/filedetails/?id=2940908294) (Github:kyo2002tw,Discord:cide2021)  
 [可運作的跑步機 Working Treadmill](https://steamcommunity.com/sharedfiles/filedetails/?id=2752895143) (Github:kyo2002tw,Discord:cide2021)  
@@ -194,7 +194,8 @@ FileName/media/lua/shared/Translate/CH/
 
 ### -待整合至工作坊-  
 "+"的符號代表有新增該模組的新版的翻譯或修正  
-
+[無線電台連接電源 Convert Radios to AC Power](https://steamcommunity.com/sharedfiles/filedetails/?id=2857191956) (Github:vs863129,Discord:文森)  
+[+載具回收 Vehicle Recycling](https://steamcommunity.com/sharedfiles/filedetails/?id=2887190684) (Github:vs863129,Discord:文森)  
 #### -搬運(待)-  
 
 ## 連接(LINK)

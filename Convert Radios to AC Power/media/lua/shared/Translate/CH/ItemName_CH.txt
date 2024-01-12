@@ -1,0 +1,7 @@
+ItemName_CH = {
+    ItemName_RadiosToAC.HamRadio1_AC = "尊榮科技無線電台(AC)",
+    ItemName_RadiosToAC.HamRadio2_AC = "美軍無線電台(AC)",
+    ItemName_RadiosToAC.HamRadioMakeShift_AC = "自製無線電台(AC)",
+    ItemName_RadiosToAC.RadioRed_AC = "尊榮科技收音機(AC)",
+    ItemName_RadiosToAC.RadioBlack_AC = "ValuTech 收音機(AC)",
+}

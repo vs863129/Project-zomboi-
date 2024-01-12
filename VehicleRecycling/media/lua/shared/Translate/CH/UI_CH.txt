@@ -1,7 +1,7 @@
 UI_CH = {
-    UI_VehicleRecycling_OverrideBurnt = "拆解燒毀的車輛",
-    UI_VehicleRecycling_OverrideSmashed = "拆解損壞的車輛",
-    UI_VehicleRecycling_Override_Tooltip = "覆蓋原版"拆解汽車殘骸"的動作",
-    UI_VehicleRecycling_DropJunk = "掉落容器中的物品",
-    UI_VehicleRecycling_DropJunk_Tooltip = "從車輛後備箱,雜物箱,座椅上掉落物品.",
+    UI_VehicleRecycling_OverrideBurnt = "拆解燒毀的載具",
+    UI_VehicleRecycling_OverrideSmashed = "拆解壞損的載具",
+    UI_VehicleRecycling_Override_Tooltip = "覆蓋原版 "拆解汽車殘骸" 的動作",
+    UI_VehicleRecycling_DropJunk = "將容器中的物品丟出",
+    UI_VehicleRecycling_DropJunk_Tooltip = "將載具的後車箱,雜物箱,座椅的物品丟出",
 }

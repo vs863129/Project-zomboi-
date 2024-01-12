@@ -1,0 +1,7 @@
+Recipes_CH = {
+    Recipe_Convert_Premium_Technologies_Ham_Radio_to_AC_Power = "轉換成交流電供電",
+    Recipe_Convert_US_ARMY_COMM._Ham_Radio_to_AC_Power = "轉換成交流電供電",
+    Recipe_Connect_Makeshift_Ham_Radio_to_AC_Power = "轉換成交流電供電",
+    Recipe_Convert_Premium_Technologies_Radio_to_AC_Power = "轉換成交流電供電",
+    Recipe_Convert_ValuTech_Radio_Radio_to_AC_Power = "轉換成交流電供電",
+}
