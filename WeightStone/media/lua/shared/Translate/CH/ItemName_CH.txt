@@ -1,0 +1,4 @@
+ItemName_CH = {
+	ItemName_Base.Necklace_WeightStone = "負重項鍊",
+	ItemName_Base.WeightStone = "負重石",
+}

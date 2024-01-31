@@ -1,0 +1,6 @@
+UI_CH = {
+
+UI_optionscreen_binding_HotkeyGPS = "GPS 快捷鍵",
+UI_optionscreen_binding_GPS_CheckBelt_key = "GPS 操作",
+
+}

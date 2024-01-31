@@ -1,0 +1,63 @@
+Sandbox_CH = {
+
+    Sandbox_itemGPS = "Item GPS",
+
+    Sandbox_itemGPSWorldMap = "小地圖顯示方式",
+    Sandbox_itemGPSWorldMap_tooltip = "0 = 地圖完全禁用 <br>1 = 僅使用GPS才顯示小地圖 <br>2 = 小地圖隨時可見(即便沒有GPS).<br>",
+
+    Sandbox_itemGPSnoFogOnMiniMap = "消除小地圖上的迷霧",
+    Sandbox_itemGPSnoFogOnMiniMap_tooltip = "啟用 = "迷霧"和未探索區域將被停用,未探索區域將不再出現.",
+
+    Sandbox_itemGPSIsometricViewOnMiniMapIsAllowed = "等距小地圖顯示",
+    Sandbox_itemGPSIsometricViewOnMiniMapIsAllowed_tooltip = "啟用 = 小地圖(GPS螢幕)啟用等距視角圖.",
+
+    Sandbox_itemGPSnoFogOnWorldMap = "消除世界地圖上的迷霧",
+    Sandbox_itemGPSnoFogOnWorldMap_tooltip = "啟用 = "迷霧"和未探索區域將被停用,未探索區域將不再出現.",
+
+    Sandbox_itemGPSRedMarkerOnMap = "地圖上的位置標示",
+    Sandbox_itemGPSRedMarkerOnMap_tooltip = "0 = 停用在地圖上的紅色標記 <br>1 = 僅在使用GPS時,顯示紅色標記 <br>2 = 永遠顯示紅色標記 (即便沒有GPS).<br>",
+
+    Sandbox_itemGPSCenterPlayerInaccuracyOnMap = "影響所在位置的精準",
+    Sandbox_itemGPSCenterPlayerInaccuracyOnMap_tooltip = "關閉 = 未持有GPS時,無法在地圖上評估位置,按下C鍵會縮小地圖.<br><br>啟用 = 未持有GPS時,透過按C鍵評估你的位置時,但會有不精準的位置.",
+
+    Sandbox_itemGPSCenterPlayerInaccuracyRadius = "所在位置偏差值",
+    Sandbox_itemGPSCenterPlayerInaccuracyRadius_tooltip = "如果 "影響玩家顯示位置" 的設置 = 啟用 : <br><br>在尚未持有GPS的時候,影響所在位置的偏差. <br>數值越大,按C鍵將會更加偏離所在位置.<br>",
+
+    Sandbox_itemGPSGpsDistributionMultiplier = "GPS 生成率",
+    Sandbox_itemGPSGpsDistributionMultiplier_tooltip = "0 = 不生成 <br>1 = 極罕見 <br>2 = 非常稀有 <br>3 = 稀有 <br>4 = 普通 <br>5 = 高 <br>6 = 非常高  <br><br>(需要重啟遊戲)<br>",
+
+    Sandbox_itemGPSCableDistributionMultiplier = "與GPS相關電線",
+    Sandbox_itemGPSCableDistributionMultiplier_tooltip = "0 = 不生成 <br>1 = 極罕見 <br>2 = 非常稀有 <br>3 = 稀有 <br>4 = 普通 <br>5 = 高 <br>6 = 非常高  <br><br>(需要重啟遊戲)<br>",
+
+    Sandbox_itemGPSG315Inaccuracy = "GPS-315的座標精準度",
+    Sandbox_itemGPSG315Inaccuracy_tooltip = "數值越大,座標與導航精準度越差,指示你地圖和小地圖上的紅色標記不受影響.<br>",
+
+    Sandbox_itemGPSG48Inaccuracy = "GPS-G48的座標精準度",
+    Sandbox_itemGPSG48Inaccuracy_tooltip = "數值越大,座標與導航精準度越差,指示你地圖和小地圖上的紅色標記不受影響.<br>",
+
+    Sandbox_itemGPSDAGRInaccuracy = "GPS-DAGR的座標精準度",
+    Sandbox_itemGPSDAGRInaccuracy_tooltip = "數值越大,座標與導航精準度越差,指示你地圖和小地圖上的紅色標記不受影響.<br>",
+
+    Sandbox_itemGPSH800Inaccuracy = "GPS-H800的座標精準度",
+    Sandbox_itemGPSH800Inaccuracy_tooltip = "數值越大,座標與導航精準度越差,指示你地圖和小地圖上的紅色標記不受影響.<br>",
+
+    Sandbox_itemGPSDZ2012Inaccuracy = "GPS-DZ2012的座標精準度",  
+    Sandbox_itemGPSDZ2012Inaccuracy_tooltip = "數值越大,座標與導航精準度越差,指示你地圖和小地圖上的紅色標記不受影響.<br>",
+
+    Sandbox_itemGPSUseBatteryMultiplier = "電池消耗",
+    Sandbox_itemGPSUseBatteryMultiplier_tooltip = "數值越大,GPS會更快消耗一定的電量,且GPS都有各自的基礎消耗量.<br>如果修改此數值,你可以不修改"充電速度",因為充電速度也是依據"電池消耗"速度作調整",
+
+    Sandbox_itemGPScanBeDestroyed = "可損壞GPS",
+    Sandbox_itemGPScanBeDestroyed_tooltip = "0 = 禁用 <br>1 = 如果你死了,GPS將會損壞 <br>2以上 = 影響GPS損壞機率,數值越高,GPS將更不容易損壞.<br>",
+    
+    Sandbox_itemGPSKeyKShunter = "快捷 k 調整",
+    Sandbox_itemGPSKeyKShunter_tooltip = "啟用 = 按住"K"鍵後,將會持續顯示腰帶上的GPS螢幕.<br>", 
+
+    Sandbox_itemGPSChargeBatteryMultiplier = "充電速度",
+    Sandbox_itemGPSChargeBatteryMultiplier_tooltip = "數值越大,GPS充電速度越快.<br>", 
+
+    Sandbox_itemGPSsyncMinimapFogToWorldMap = "將世界地圖的霧同步至小地圖",
+    Sandbox_itemGPSsyncMinimapFogToWorldMap_tooltip = "如果"消除小地圖上的迷霧"未啟用,開啟GPS時,世界地圖的霧氣將在小地圖上同步.<br>",
+
+    
+}

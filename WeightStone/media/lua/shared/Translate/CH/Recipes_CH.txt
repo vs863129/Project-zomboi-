@@ -1,0 +1,4 @@
+Recipes_CH {
+    Recipe_Craft_WeightStone = "製作負重石",
+    Recipe_Craft_Necklace_WeightStone = "負重項鍊",
+}

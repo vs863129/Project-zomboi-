@@ -195,6 +195,9 @@ FileName/media/lua/shared/Translate/CH/
 
 ### -待整合至工作坊-  
 "+"的符號代表有新增該模組的新版的翻譯或修正  
+[負重石 WeightStone](https://steamcommunity.com/sharedfiles/filedetails/?id=2903891091&searchtext=WeightStone) (Github:vs863129,Discord:文森)  
+[藥效顯示 Pill Duration](https://steamcommunity.com/sharedfiles/filedetails/?id=2920624796) (Steam: 菲娜燐)  
+[定位器 item GPS](https://steamcommunity.com/sharedfiles/filedetails/?id=2877484605) (Github:vs863129,Discord:文森)  
 
 #### -搬運(待)-  
 

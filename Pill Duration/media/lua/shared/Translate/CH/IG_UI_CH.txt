@@ -1,0 +1,10 @@
+IGUI_CH = {
+IGUI_PillInfoOpen = "藥物訊息",
+IGUI_PillInfoTitle = "藥物訊息",
+IGUI_NoneActiveInfo = "未選中要顯示訊息的藥物",
+IGUI_PillBeta = "乙型阻斷劑",
+IGUI_PillPain = "止痛藥",
+IGUI_PillDepr = "抑鬱藥",
+IGUI_PillSleep = "安眠藥",
+IGUI_Antibiotics = "抗生素",
+}

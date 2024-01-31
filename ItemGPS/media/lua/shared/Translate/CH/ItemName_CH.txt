@@ -1,0 +1,10 @@
+ItemName_CH = {
+
+ItemName_Base.GPScable 	= "GPS 電源線",
+ItemName_Base.GPSdayzDestroyed = "GPS-DZ2012(壞損)",
+ItemName_Base.GPS_315Destroyed = "GPS-315(壞損)",
+ItemName_Base.GPS_DAGRDestroyed = "GPS-DAGR(壞損)",
+ItemName_Base.GPS_H800Destroyed = "GPS-H800(壞損)",
+ItemName_Base.GPS_G48Destroyed = "GPS-G48(壞損)",
+
+}

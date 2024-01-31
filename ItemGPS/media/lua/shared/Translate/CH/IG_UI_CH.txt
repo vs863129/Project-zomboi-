@@ -1,0 +1,34 @@
+IG_UI_CH = {
+   
+IGUI_No_miniMap = "小地圖僅在GPS上顯示.",
+IGUI_No_Map_IG = "未啟用地圖功能.",
+IGUI_No_GPS_on = "需要可用的GPS.",
+
+IGUI_Plug = "插入GPS",
+IGUI_noPlugIfnoBat = "GPS 沒電了.",
+IGUI_noPlugIfnoCable = "<br>你會需要GPS電源線並插入車用點菸器來為GPS充電.<br>當GPS充電完成後,將會自動斷開連接.<br><br>GPS充電會影響車用電池.",
+IGUI_unPlug = "從GPS上拔除",
+IGUI_autoUnplugInfo = "<br>當GPS充滿電後,會自動拔除.<br><br>GPS充電會影響車用電池.",
+IGUI_Info = "資訊",
+
+
+IGUI_Item_GpsCable = "<br>這個是GPS的車用電源線,用來與汽車前排座位的點菸器連接.<br><br>還可以插入車內專屬的GPS (非攜帶), 只需將GPS及相關電線放入手套箱內即可. ",
+
+IGUI_noBattery = "電量不足!",
+
+IGUI_Item_itemGps_GPSdayz = "<br>這種GPS常被軍隊或少部分的警察使用,仍可供平民使用.<br><br>如果此GPS電量不足(少於1%),他將會因電源不足而自動關閉,需要在車上使用與他相關的電線充電. <br>但GPS的電量為0%時,將會無法充電,需要直接更換電池.<br><br>GPS充電的同時,也會消耗車子的電池.<br><br>右鍵點擊可進行設定畫面 (注意!是點擊螢幕背景,而不是顯示的數據).<br><br>可更改GPS畫面顯示切換按鍵 (如果Mod Options已安裝), 預設按鍵"K" : <br>- 按兩次可裝備/卸下GPS.<br>- 按一次可啟用/關閉GPS(若你手持著GPS).<br>- 按住可檢查GPS是否已裝在皮帶上.",
+
+IGUI_Item_itemGps_GPS_315 = "<br>此GPS常被公家機關使用.可供平民使用<br><br>如果此GPS電量不足(少於1%),他將會因電源不足而自動關閉,需要在車上使用與他相關的電線充電. <br>但GPS的電量為0%時,將會無法充電,需要直接更換電池.<br><br>GPS充電的同時,也會消耗車子的電池.<br><br>右鍵點擊可進行設定畫面 (注意!是點擊螢幕背景,而不是顯示的數據).<br><br>可更改GPS畫面顯示切換按鍵 (如果Mod Options已安裝), 預設按鍵"K" : <br>- 按兩次可裝備/卸下GPS.<br>- 按一次可啟用/關閉GPS(若你手持著GPS).<br>- 按住可檢查GPS是否已裝在皮帶上.",
+
+IGUI_Item_itemGps_GPS_DAGR = "<br>這個GPS軍隊專用,擁有精確的精準度.警察有相似款式,但較為簡單.禁止平民使用<br><br>如果此GPS電量不足(少於1%),他將會因電源不足而自動關閉,需要在車上使用與他相關的電線充電. <br>但GPS的電量為0%時,將會無法充電,需要直接更換電池.<br><br>GPS充電的同時,也會消耗車子的電池.<br><br>右鍵點擊可進行設定畫面 (注意!是點擊螢幕背景,而不是顯示的數據).<br><br>可更改GPS畫面顯示切換按鍵 (如果Mod Options已安裝), 預設按鍵"K" : <br>- 按兩次可裝備/卸下GPS.<br>- 按一次可啟用/關閉GPS(若你手持著GPS).<br>- 按住可檢查GPS是否已裝在皮帶上.",
+
+IGUI_Item_itemGps_GPS_G48 = "<br>這格GPS專為平民打造,旅行時候真的很有用.<br><br>如果此GPS電量不足(少於1%),他將會因電源不足而自動關閉,需要在車上使用與他相關的電線充電. <br>但GPS的電量為0%時,將會無法充電,需要直接更換電池.<br><br>GPS充電的同時,也會消耗車子的電池.<br><br>右鍵點擊可進行設定畫面 (注意!是點擊螢幕背景,而不是顯示的數據).<br><br>可更改GPS畫面顯示切換按鍵 (如果Mod Options已安裝), 預設按鍵"K" : <br>- 按兩次可裝備/卸下GPS.<br>- 按一次可啟用/關閉GPS(若你手持著GPS).<br>- 按住可檢查GPS是否已裝在皮帶上.",
+
+IGUI_itemGPSmod_On = "打開",
+
+IGUI_itemGPSmod_Off = "關閉",
+
+IGUI_Item_itemGpsCar = "<br>這種GPS主要用在公務車輛上,在平民車輛上較少見,只有部分品牌才有.<br><br>這種GPS只能在車內使用,請放入車內的手套箱並確認有相關的電線與足夠的車輛電池.<br><br>開啟GPS時,將會消耗車用電池.<br><br>右鍵點擊可進行設定畫面 (注意!是點擊螢幕背景,而不是顯示的數據).<br><br>可更改GPS畫面顯示切換按鍵 (如果Mod Options已安裝), 預設按鍵"K" : <br>- 按兩次可裝備/卸下GPS.<br>- 按一次可啟用/關閉GPS(若你手持著GPS).<br>- 按住可檢查GPS是否已裝在皮帶上.",
+
+IGUI_itemGPS_invalidChunk = "無效座標.",
+    }
