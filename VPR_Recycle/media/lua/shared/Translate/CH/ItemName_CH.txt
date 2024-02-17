@@ -1,0 +1,5 @@
+ItemName_CH = {
+	ItemName_Base.GlassMold = "玻璃模具",
+	ItemName_Base.GlassShard = "玻璃碎片",
+	ItemName_Base.GlassPane = "玻璃片",
+}

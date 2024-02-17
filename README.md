@@ -160,6 +160,8 @@ FileName/media/lua/shared/Translate/CH/
 [負重石 WeightStone](https://steamcommunity.com/sharedfiles/filedetails/?id=2903891091&searchtext=WeightStone) (Github:vs863129,Discord:文森)  
 [藥效顯示 Pill Duration](https://steamcommunity.com/sharedfiles/filedetails/?id=2920624796) (Steam: 菲娜燐)  
 [定位器 item GPS](https://steamcommunity.com/sharedfiles/filedetails/?id=2877484605) (Github:vs863129,Discord:文森)  
+[Viperel的回收再利用 Viperel's Recycling Center](https://steamcommunity.com/sharedfiles/filedetails/?id=2713055926) (Github:vs863129,Discord:文森)  
+[作家之路 The Way of the Writer](https://steamcommunity.com/sharedfiles/filedetails/?id=2844686547)  (Github:vs863129,Discord:文森)  
 
 ### -地圖描述翻譯-
 [藍莓鎮 BlueBerry](https://steamcommunity.com/sharedfiles/filedetails/?id=2671890843) (Github:HerioJohnX,Discord:希利奧)  
@@ -198,7 +200,6 @@ FileName/media/lua/shared/Translate/CH/
 
 ### -待整合至工作坊-  
 "+"的符號代表有新增該模組的新版的翻譯或修正  
-[Viperel的回收再利用 Viperel's Recycling Center](https://steamcommunity.com/sharedfiles/filedetails/?id=2713055926) (Github:vs863129,Discord:文森)  
 
 #### -搬運(待)-  
 
