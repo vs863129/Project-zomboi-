@@ -1,0 +1,15 @@
+Recipe_CH = {
+    Recipe_Combine_Red_and_Blue_pen_ = "組合成紅藍筆",
+    Recipe_Combine_Red_and_Black_pen_ = "組合成紅黑筆",
+    Recipe_Combine_Blue_and_Black_pen = "組合成藍黑筆",
+    Recipe_Combine_pens_ = "組合成三色筆",
+    Recipe_Combine_Pens_and_Pencil_with_Eraser = "組合成帶橡皮擦的四色筆",
+    Recipe_Combine_Pens_Combo_with_Pencil_ = "組合成成四色筆",
+    Recipe_Combine_Pencil_with_Eraser = "組合成帶有橡皮擦的鉛筆",
+    Recipe_Combine_Red_and_Blue_pen_combo_with_Black_pen_ = "組合成三色筆",
+    Recipe_Combine_Red_and_Black_Pen_combo_with_Blue_pen_ = "組合成三色筆",
+    Recipe_Combine_Blue_and_Black_Pen_combo_with_Red_pen_ = "組合成三色筆",
+    Recipe_Combine_Pens_and_Pencil_Combo_with_Eraser = "組合成帶橡皮擦的四色筆",
+    Recipe_Combine_Pens_Eraser_combo_with_Pencil_ = "組合成帶橡皮擦的三色筆",
+    Recipe_Make_Pencil_Case = "製作鉛筆盒",
+}

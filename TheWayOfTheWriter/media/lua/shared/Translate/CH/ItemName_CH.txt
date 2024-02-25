@@ -1,0 +1,11 @@
+ItemName_CH ={
+	ItemName_BicPen.Crayons = "蠟筆",
+	ItemName_BicPen.PensCombo = "三色筆",
+	ItemName_BicPen.PensPencilCombo = "四色筆",
+	ItemName_BicPen.PensPencilEraserCombo = "帶有橡皮擦的四色筆",
+	ItemName_BicPen.PencilEraserCombo = " 帶有橡皮擦的鉛筆",
+	ItemName_BicPen.RedBluePenCombo = "紅藍筆",
+	ItemName_BicPen.PensEraserCombo = "帶有橡皮擦的三色筆",
+	ItemName_BicPen.BlueBlackPenCombo = "藍黑鋼筆",
+	ItemName_BicPen.PencilCase = "鉛筆盒",
+}
