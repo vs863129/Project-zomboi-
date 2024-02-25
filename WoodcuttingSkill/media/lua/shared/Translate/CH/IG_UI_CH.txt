@@ -1,0 +1,6 @@
+IGUI_CH = {
+    IGUI_perks_Woodcutting = "伐木",
+    IGUI_trees = "樹",
+    IGUI_bushes = "灌木叢",
+
+}

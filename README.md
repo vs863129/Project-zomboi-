@@ -162,6 +162,7 @@ FileName/media/lua/shared/Translate/CH/
 [定位器 item GPS](https://steamcommunity.com/sharedfiles/filedetails/?id=2877484605) (Github:vs863129,Discord:文森)  
 [Viperel的回收再利用 Viperel's Recycling Center](https://steamcommunity.com/sharedfiles/filedetails/?id=2713055926) (Github:vs863129,Discord:文森)  
 [作家之路 The Way of the Writer](https://steamcommunity.com/sharedfiles/filedetails/?id=2844686547)  (Github:vs863129,Discord:文森)  
+[伐木技能 Woodcutting Skill](https://steamcommunity.com/sharedfiles/filedetails/?id=2944004910) (Github:vs863129,Discord:文森)  
 
 ### -地圖描述翻譯-
 [藍莓鎮 BlueBerry](https://steamcommunity.com/sharedfiles/filedetails/?id=2671890843) (Github:HerioJohnX,Discord:希利奧)  
