@@ -1,0 +1,15 @@
+Tooltip_CH = {
+	Tooltip_Zaexp = "類型: 昂貴物品",
+	Tooltip_Zawater = "你不能喝這個!",
+	Tooltip_Zaparts = "拆解此物品以獲得零件.",
+	Tooltip_Zaboxlarge = "類型: 大型包裹",
+	Tooltip_Zaboxmedium = "類型: 中型包裹",
+	Tooltip_Zaboxsmall = "類型: 小型包裹",
+	Tooltip_ZaVIP = "謝謝光臨!",
+	Tooltip_ZaScanner = "用掃描來出售您的物品！收藏物品可避免東西被售出",
+	Tooltip_Zafaco = "收集 10 張優惠卷即可兌換",
+	Tooltip_Za10g = "10G 票",
+	Tooltip_Za100g = "100G 票",
+	Tooltip_ZaID = "蒐集駕照即可用於販售",
+	Tooltip_Zadelete = "這個物品將在下格版本移除. 右鍵點擊已更新此物品",
+}
