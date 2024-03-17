@@ -25,9 +25,6 @@ ItemName_CH = {
 	ItemName_Base.Mini14 = "MINI-14 步槍",
 	ItemName_Base.Mini14Unfolded = "MINI-14 步槍",	
 	ItemName_Base.Mini14Folded = "MINI-14 步槍-摺疊",
-	
-	ItemName_Base.HuntingRifle = "R788 步槍",	
-	ItemName_Base.VarmintRifle = "R700 步槍",
 
 	ItemName_Base.AssaultRifleM1 = "M1 步槍",
 
@@ -41,27 +38,17 @@ ItemName_CH = {
 
 	ItemName_Base.ShotgunSilent = "霰彈槍-附消音器",
 
-	ItemName_Base.Shotgun = "M500 霰彈槍",
-
-	ItemName_Base.ShotgunSawnoffNoStock = "削短的M500散彈槍-無托", /*NEW-NEW*/
+	ItemName_Base.ShotgunSawnoffNoStock = "削短 JS-2000 散彈槍-無托", /*NEW-NEW*/
 
 	ItemName_Base.Shotgun2 = "M590 霰彈槍",
 	
-	ItemName_Base.ShotgunSawnoff = "削短的M500霰彈槍",
+	ItemName_Base.ShotgunSawnoff = "削短 JS-2000 散彈槍",
 
 	ItemName_Base.ShotgunSemi = "R1187 霰彈槍",
 
 	ItemName_Base.ShotgunSemi2 = "R1187 霰彈槍",
 
 	ItemName_Base.DoubleBarrelShotgunSawnoffNoStock = "削短的雙管霰彈槍-無托",
-
-	ItemName_Base.DoubleBarrelShotgunSawnoff = "削短的雙管霰彈槍",
-	
-	ItemName_Base.Revolver_Short = "M10-5 左輪手槍",
-	
-	ItemName_Base.Revolver_Long = "M29 馬格南左輪手槍",
-	
-	ItemName_Base.Pistol3 = "DE 手槍",
 
 	ItemName_Base.P229 = "P229 手槍",
 	
@@ -116,13 +103,7 @@ ItemName_CH = {
 	ItemName_Base.22ClipRifle = "R1022 彈匣", /*EDITED*/
 	ItemName_Base.22ClipPistol = ".22 彈匣",
 	ItemName_Base.9mmClip13 = "P229 彈匣",
-	ItemName_Base.9mmClip = "M9 彈匣", /*NEW*/
 	ItemName_Base.45Clip32 = "M10 彈匣",
-	ItemName_Base.44Clip = "DE 彈匣", /*NEW*/
-	ItemName_Base.45Clip = "M1911 彈匣", /*NEW*/
-	ItemName_Base.308Clip = "MSR788 彈匣", /*NEW*/
-	ItemName_Base.556Clip = "M16 彈匣", /*NEW*/
-	ItemName_Base.M14Clip = "M14 彈匣", /*NEW*/
 	ItemName_Base.22ClipRifle = "R1022 彈匣", /*NEW-NEW*/
 	ItemName_Base.9mmClip17 = "G17 彈匣", /*NEW-NEW*/
 	ItemName_Base.FALClip = "FAL 彈匣",
