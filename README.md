@@ -163,6 +163,9 @@ FileName/media/lua/shared/Translate/CH/
 [Viperel的回收再利用 Viperel's Recycling Center](https://steamcommunity.com/sharedfiles/filedetails/?id=2713055926) (Github:vs863129,Discord:文森)  
 [作家之路 The Way of the Writer](https://steamcommunity.com/sharedfiles/filedetails/?id=2844686547)  (Github:vs863129,Discord:文森)  
 [伐木技能 Woodcutting Skill](https://steamcommunity.com/sharedfiles/filedetails/?id=2944004910) (Github:vs863129,Discord:文森)  
+[MaD's 極佳的殭屍戰利品調整 MaD's Awesome Zombie Loot](https://steamcommunity.com/sharedfiles/filedetails/?id=2892563252) (Github:vs863129,Discord:文森)  
+[動態化搜尋模組 Dynamic Infinite Search Mode](https://steamcommunity.com/sharedfiles/filedetails/?id=2831046541) (Github:vs863129,Discord:文森)  
+[Methyl's 傢俱 (更大容量) Methyl's Furniture (Expanded capacity)](https://steamcommunity.com/sharedfiles/filedetails/?id=2814253005) (Github:vs863129,Discord:文森)  
 
 ### -地圖描述翻譯-
 [藍莓鎮 BlueBerry](https://steamcommunity.com/sharedfiles/filedetails/?id=2671890843) (Github:HerioJohnX,Discord:希利奧)  
@@ -202,9 +205,7 @@ FileName/media/lua/shared/Translate/CH/
 ### -待整合至工作坊-  
 "+"的符號代表有新增該模組的新版的翻譯或修正  
 
-[MaD's 極佳的殭屍戰利品調整 MaD's Awesome Zombie Loot](https://steamcommunity.com/sharedfiles/filedetails/?id=2892563252) (Github:vs863129,Discord:文森)  
-[動態化搜尋模組 Dynamic Infinite Search Mode](https://steamcommunity.com/sharedfiles/filedetails/?id=2831046541) (Github:vs863129,Discord:文森)  
-[Methyl's 傢俱 (更大容量) Methyl's Furniture (Expanded capacity)](https://steamcommunity.com/sharedfiles/filedetails/?id=2814253005) (Github:vs863129,Discord:文森)  
+
 #### -搬運(待)-  
 
 ## 連接(LINK)
