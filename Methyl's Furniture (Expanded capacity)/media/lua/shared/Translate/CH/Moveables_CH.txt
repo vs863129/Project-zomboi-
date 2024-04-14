@@ -1,0 +1,11 @@
+Moveables_CH = {
+
+	Box_MetalBox = "金屬箱",
+	Box_LMetalBox = "大型金屬箱",
+	Moroz_Claus = "大型冰箱",
+	M0roz_Cl4us = "冰箱",
+	Bin_DropOff = "壁掛式垃圾桶",
+	Counter_Corner = "櫃檯轉角",
+	Counter_Counter = "櫃檯",
+}
+

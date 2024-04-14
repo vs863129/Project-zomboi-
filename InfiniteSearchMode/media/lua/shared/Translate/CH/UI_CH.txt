@@ -1,0 +1,4 @@
+UI_CH = {
+    UI_trait_relentlessscavenger = "無情的拾荒者",
+    UI_trait_relentlessscavengerdesc="無論任何情況,始終保持著專注拾荒. <br> 在拾荒的同時,保持著對周圍環境的了解. <br> ( 沒有搜索中斷,也沒有疊加效果. )"
+}

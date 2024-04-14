@@ -1,0 +1,11 @@
+Recipes_CH = {
+
+	Recipe_Make_MetalBox = "製作金屬箱",
+	Recipe_Make_LargeMetalBox = "製作大型金屬箱",
+	Recipe_Make_BigFridge1/2 = "製作大型冰箱 1/2",
+	Recipe_Make_BigFridge2/2 = "製作大型冰箱 2/2",
+	Recipe_Make_Fr1dge = "製作冰箱",
+	Recipe_Make_TrashCan = "製作壁掛式垃圾桶",
+	Recipe_Make_CapacityCornerCounter = "製作櫃檯轉角",
+	Recipe_Make_CapacityCounter = "製作櫃檯",
+}

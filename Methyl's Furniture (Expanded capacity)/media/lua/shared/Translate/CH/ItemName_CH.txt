@@ -1,0 +1,11 @@
+ItemName_CH  = {
+
+	ItemName_Methyl.MetalBox = "金屬箱",
+	ItemName_Methyl.LargeMetalBox = "大型金屬箱",
+	ItemName_Methyl.BigFridge1/2 = "大型冰箱 1/2",
+	ItemName_Methyl.BigFridge2/2 = "大型冰箱 2/2",
+	ItemName_Methyl.Fr1dge = "冰箱",
+	ItemName_Methyl.TrashCan = "壁掛式垃圾桶",
+	ItemName_Methyl.CapacityCornerCounter = "櫃檯轉角",
+	ItemName_Methyl.CapacityCounter = "櫃檯",
+}
