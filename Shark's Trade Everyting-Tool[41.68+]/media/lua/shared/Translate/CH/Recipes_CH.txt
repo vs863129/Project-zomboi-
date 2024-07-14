@@ -1,0 +1,31 @@
+﻿Recipe_CH = {
+	Recipe_Trade_Nails_Box			=	"交換盒裝釘子",
+	Recipe_Trade_Screws_Box			=	"交換盒裝螺絲",
+
+	Recipe_Trade_Doorknob			=	"交換門把手",
+	Recipe_Trade_Door_Hinge			=	"交換門鉸鏈",
+	Recipe_Trade_Welding_Rods		=	"交換焊條",
+	Recipe_Trade_Wire			=	"交換鐵絲",
+	Recipe_Trade_Metal_Bar			=	"交換鐵棒",
+	Recipe_Trade_Metal_Pipe			=	"交換鐵管",
+	Recipe_Trade_Scrap_Metal		=	"交換廢金屬",
+	Recipe_Trade_Metal_Sheet		=	"交換金屬片",
+	Recipe_Trade_Propane_Tank		=	"交換瓦斯桶",
+	Recipe_Trade_Gas_Can			=	"交換汽油罐",
+
+	Recipe_Trade_Charcoal			=	"交換木炭",
+	Recipe_Trade_Box_Of_Jars		=	"交換盒裝玻璃罐",
+	Recipe_Trade_Twine			=	"交換捆繩",
+	Recipe_Trade_Battery			=	"交換電池",
+	Recipe_Trade_Sledgehammer		=	"交換大鎚",
+
+	Recipe_Trade_Fishing_Line		=	"交換釣魚線",
+	Recipe_Trade_Fishing_Tackle		=	"交換釣魚用具",
+	Recipe_Trade_Paperclip			=	"交換迴紋針",
+
+	Recipe_Trade_Gardening_Spray_Can	=	"交換園藝噴霧罐",
+	Recipe_Trade_NPK_Fertilizer		=	"交換氣磷鉀肥料",
+	Recipe_Trade_Glue			=	"交換膠水",
+	Recipe_Trade_Duct_Tape			=	"交換布膠帶",
+	Recipe_Trade_Wood_Glue			=	"交換木膠",
+}

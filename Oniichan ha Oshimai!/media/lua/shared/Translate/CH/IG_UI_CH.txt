@@ -1,0 +1,7 @@
+﻿IGUI_CH = {
+	
+    IGUI_TransgenderPotion = "我會想你的,我的小兄弟",
+	IGUI_InvalidCure = "我覺得...不太舒服...",
+	IGUI_zombieInfectionRemove = "希望這樣有用...",
+    
+}

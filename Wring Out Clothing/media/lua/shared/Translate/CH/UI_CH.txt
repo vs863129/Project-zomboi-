@@ -1,0 +1,5 @@
+UI_CH = {
+	UI_ContextMenu_WringClothing_Option = "擰乾衣服"
+	UI_ContextMenu_WringClothing_Tooltip = "擰掉衣服上的水"
+}
+

@@ -1,0 +1,42 @@
+Items_CH = {
+	DisplayName_Transgender_Potion(Drinkable) = "性轉藥(可服用)",
+	DisplayName_Empty_Transgender_Potion_Bottle = "空性轉藥",
+	
+	DisplayName_Transgender_Potion(Mahiro's_Classic_Outfit) = "性轉藥(真尋經典服裝)",
+	DisplayName_Laboratory_Tablet(Mihari's_Classic_Outfit) = "實驗室平板電腦(美波里經典服裝)",
+	
+	DisplayName_"A_HUGE_Progress_in_Human's_Gender..." = "人類基因學史上的第一步...",
+	DisplayName_"Nekotoufu_Gender_Technology(NGT)..." = "貓豆腐基因科技(NGT)...",
+	DisplayName_"Not_everyone_suit_for...Drug_Side_Effects..." = "不適合部分人...藥物副作用...",
+	DisplayName_"Unfit_Units'_DNA_Structure...Reformed..." = "不適者 DNA 結構...重组...",
+	DisplayName_"They_hunt_healthy_people...Eat_them..." = "他們將會狩獵健康人類...並吃掉他們...",
+	
+	DisplayName_Mihari's_Tablet = "美波里的平板電腦",
+	DisplayName_Mahiro's_Phone = "真尋的手機",
+	DisplayName_Account_Balance = "帳戶餘額",
+	DisplayName_Empty_Syringe = "空注射器",
+	DisplayName_Material_X = "X 藥物",
+	DisplayName_Material_Y = "Y 藥物",
+	DisplayName_Adaptive_Blood_Sample = "合適者血液樣本",
+	DisplayName_Blood_Sample = "血液樣本",
+	DisplayName_Unknown_Serum = "未知血清",
+	DisplayName_Mahiro's_Bank_Card = "真尋的銀行卡",
+	DisplayName_Mihari's_Bank_Card = "美波里的銀行卡",
+	
+	DisplayName_Mahiro's_Bag(Classic) = "真尋的小肩包(經典)",
+	DisplayName_Light_Weight_Mahiro's_Bag = "真尋的輕量小肩包",
+	DisplayName_Light_Weight_Mahiro's_Bag(Reduction_Upgraded) = "真尋的輕量小肩包(減重 +)",
+	DisplayName_Light_Weight_and_Comforting_Mahiro's_Bag = "真尋的輕量舒適性小肩包",
+	DisplayName_Light_Weight_and_Comforting_Mahiro's_Bag(Capacity_Upgraded_Level1), = "真尋的輕量舒適性小肩包(容量 +1)",
+	DisplayName_Light_Weight_and_Comforting_Mahiro's_Bag(Capacity_Upgraded_Level2), = "真尋的輕量舒適性小肩包(容量 +2)",
+	DisplayName_Big_Light_Weight_and_Comforting_Mahiro's_Bag, = "真尋的小肩包(完整)",
+	
+	DisplayName_Remington_970_Experimental = "雷明頓 970 試驗型",
+	DisplayName_13mm_Electromagnetic_Catridge = "13mm 電磁彈",
+	DisplayName_Box_of_13mm_Electromagnetic_Catridge = "盒裝 13mm 電磁彈",
+	DisplayName_Laboratory_Magnetization_Device = "實驗室磁化裝置",
+	DisplayName_Metal_Projectiles = "鋼珠",
+	DisplayName_Metal_Shells = "金屬外殼",
+	DisplayName_Magnetized_Metal_Shells = "磁化鋼珠",
+	DisplayName_Magnetized_Metal_Projectiles = "磁化金屬外殼",
+}

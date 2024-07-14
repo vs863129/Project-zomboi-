@@ -1,0 +1,6 @@
+UI_CH = {
+UI_trait_Neet = "家裡蹲",
+UI_traitdesc_Neet = "長期宅在家中, 導致身體素質低於常人. 性轉適應者. 開局自帶真尋的肩包.",
+UI_trait_Capable = "妹霸",
+UI_traitdesc_Capable = "你變得如此努力也是因為要引起哥哥注意. 你知道如何調製性轉藥. 開局有一把雷明頓 970 實驗型霰彈槍和一些彈藥",
+}

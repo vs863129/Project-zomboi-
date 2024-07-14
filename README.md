@@ -166,6 +166,12 @@ FileName/media/lua/shared/Translate/CH/
 [MaD's 極佳的殭屍戰利品調整 MaD's Awesome Zombie Loot](https://steamcommunity.com/sharedfiles/filedetails/?id=2892563252) (Github:vs863129,Discord:文森)  
 [動態化搜尋模組 Dynamic Infinite Search Mode](https://steamcommunity.com/sharedfiles/filedetails/?id=2831046541) (Github:vs863129,Discord:文森)  
 [Methyl's 傢俱 (更大容量) Methyl's Furniture (Expanded capacity)](https://steamcommunity.com/sharedfiles/filedetails/?id=2814253005) (Github:vs863129,Discord:文森)  
+[擰乾衣服 Wring Out Clothing](https://steamcommunity.com/sharedfiles/filedetails/?id=2696083206) (Github:vs863129,Discord:文森)  
+[Shark's 交換所有工具 Shark's Trade Everyting-Tool[41.68+]](https://steamcommunity.com/sharedfiles/filedetails/?id=2585566819) (Github:vs863129,Discord:文森)  
+[不當哥哥了! お兄ちゃんはおしまい!](https://steamcommunity.com/sharedfiles/filedetails/?id=2965689884) (Github:vs863129,Discord:文森)  
+[土匪 Bandits](https://steamcommunity.com/sharedfiles/filedetails/?id=3268487204) (Github:vs863129,Discord:文森)  
+[Shark's 可交易所有工具 Shark's Trade Everyting-Tool[41.68+]](https://steamcommunity.com/sharedfiles/filedetails/?id=2585566819) (Github:vs863129,Discord:文森)  
+[擰乾衣服 Wring Out Clothing](https://steamcommunity.com/sharedfiles/filedetails/?id=2696083206)
 
 ### -地圖描述翻譯-
 [藍莓鎮 BlueBerry](https://steamcommunity.com/sharedfiles/filedetails/?id=2671890843) (Github:HerioJohnX,Discord:希利奧)  
@@ -204,7 +210,6 @@ FileName/media/lua/shared/Translate/CH/
 
 ### -待整合至工作坊-  
 "+"的符號代表有新增該模組的新版的翻譯或修正  
-
 
 #### -搬運(待)-  
 

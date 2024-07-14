@@ -1,0 +1,34 @@
+Tooltip_CH = {
+	-- Item tooltip
+	Tooltip_TransgenderPotion = "緒山美波里在大學時期研製的實驗性藥物，目前已量產. 調製時, 需要用到大量精神性藥物. 未知的服用效果, 但並不會轉換性别.",
+	Tooltip_OyamaMahiroSuit = "真的是你自願喝下這瓶? 或者只是想逃避的藉口?",
+	Tooltip_OyamaMihariSuit = "這裡面除了實驗數據外,其餘的都是他哥哥的照片. 感覺美波里真的很喜歡她的哥哥.",
+	
+	Tooltip_OnimaiStory01 = "報紙內容 : 美波里的實驗非常成功, 現在男女之間沒有隔閡, 我們現在都是'人類'.",
+	Tooltip_OnimaiStory02 = "報紙內容 : 由於性轉藥的成功, 貓豆腐基因科技年利潤已高達100億美金! 甚至可以在各大醫院診所取得性轉藥",
+	Tooltip_OnimaiStory03 = "報紙內容 : 重要警告：性轉藥並非適合所有人! 服用後如有任何不適, 請立即就醫!",
+	Tooltip_OnimaiStory04 = "報紙內容 : 大部分'不適者'的 DNA 結構被重組成了一種特殊的型態, 或是簡單的被摧毀。貓豆腐基因科技仍未發表任何聲明。",
+	Tooltip_OnimaiStory05 = "報紙內容 : 本地區所有居民請注意! 封閉所有門窗, 儲備必要的生存物資, 遠離任何'不适者', 保護好自己.",
+	
+	Tooltip_MiharisTablet = "平板電腦鎖屏介面放著性轉前的哥哥照片, 並在左方條例了哥哥改造計畫的流程表.",
+	Tooltip_MahirosPhone = "手機裡面有著大量情色照片和影片, 難以想像真尋的生活.",
+	Tooltip_Balance = "這是你銀行戶頭的餘額, 也就是俗稱的電子貨幣.",
+	Tooltip_MaterialX = "研究 X 染色體的化學藥物.",
+	Tooltip_MaterialY = "研究 Y 染色體的化學藥物.",
+	Tooltip_AdaptiveBloodSample = "一些抽取出來的血液. 為什麼我會有喝掉它的想法?",
+	Tooltip_UnfitBloodSample = "一些抽取出來的血液. 為什麼我會有喝掉它的想法?",
+	Tooltip_UnknownSerum = "一管未知的血清. 警告：未知服用效果，可能會帶來致命傷或嚴重性併發症.",
+	Tooltip_MahirosCreditCard = "即便到了世界末日, 真尋的銀行卡仍舊所剩無幾.",
+	Tooltip_MiharisCreditCard = "這裡存放著美波里的研究資金, 似乎能用上.",
+	
+	Tooltip_MahiroSatchelOrigin = "真尋的小肩包, 尺寸與重量對於變身成女性的真尋來說剛剛好. (警告：升級前, 請先轉移背包內物品)",
+	Tooltip_MahiroSatchelWeightUpgraded = "塞了些棉花以減輕重量. 有些原理還是比較知道比較好. (警告：升級前, 請先轉移背包內物品)",
+	Tooltip_MahiroSatchelReductionUpgraded1 = "在肩帶處增加了額外的墊片, 背起來更加舒適了. (警告：升級前, 請先轉移背包內物品)",
+	Tooltip_MahiroSatchelReductionUpgraded2 = "在連接處替換成更堅固的金屬片, 使其更加紮實了. (警告：升級前, 請先轉移背包內物品)",
+	Tooltip_MahiroSatchelCapacityUpgraded1 = "在包内增加了小袋, 更方便作物品管理. (警告：升級前, 請先轉移背包內物品)",
+	Tooltip_MahiroSatchelCapacityUpgraded2 = "在肩包外增加了小袋, 可以裝更多東西了. (警告：升級前, 請先轉移背包內物品)",
+	Tooltip_MahiroSatchelCapacityUpgraded3 = "完整升级後的真尋小肩包. 歐尼醬還真是巧手呢! 真的越來越像女生了.",
+	
+	Tooltip_R970EXP = "美波里的秘密研究品。從雷明頓 870 霰彈槍改造而成, 將傳統火藥發射替換了成電磁彈發射. 當武器能量耗盡時, 可用電池充電.",
+	Tooltip_13mmEC = "內含 3 片高強度磁力碎片，被磁化鋼製外殼包覆著。雷明頓 970 試驗型霰彈槍專屬彈藥",
+}
