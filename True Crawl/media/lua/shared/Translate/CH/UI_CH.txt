@@ -1,0 +1,4 @@
+UI_CH = {
+    UI_optionscreen_binding_Crawl_Key = "普通爬行",
+	UI_optionscreen_binding_CrawlUnder_Key = "匍匐爬行",
+}

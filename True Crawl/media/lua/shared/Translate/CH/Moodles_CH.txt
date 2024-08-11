@@ -1,0 +1,7 @@
+Moodles_CH {
+    Moodles_stealthmode_lvl1 = "不顯眼",
+    Moodles_stealthmode_desc_lvl1 = "像個忍者一樣",
+	
+    Moodles_stealthmode_lvl2 = "顯眼的",
+    Moodles_stealthmode_desc_lvl2 = "像個移動標靶", 
+}

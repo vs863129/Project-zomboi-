@@ -1,0 +1,24 @@
+Sandbox_CH = {
+    Sandbox_ZombiesHearYourMicrophone = "殭屍聽得見你說話",
+
+    Sandbox_ZombiesHearYourMicrophone_respectEnableVOIP = "尊重 `VOIP` 設置",
+    Sandbox_ZombiesHearYourMicrophone_respectEnableVOIP_tooltip = "如果開啟此選項,模組將依據客戶端的個人設置. \n 如果關閉,遊戲將會持續偵測麥克風狀態,即便 VOIP 已關閉/未啟用",
+
+    Sandbox_ZombiesHearYourMicrophone_visualRadius = "可見範圍指示器"
+
+    Sandbox_ZombiesHearYourMicrophone_multiplier = "聲音半徑乘數",
+    Sandbox_ZombiesHearYourMicrophone_sneakReduce = "潛行減少的聲音百分比",
+
+    Sandbox_ZombiesHearYourMicrophone_skillsInfluence = "技能影響聲音範圍",
+    Sandbox_ZombiesHearYourMicrophone_skillsInfluence_option1 = "無影響",
+    Sandbox_ZombiesHearYourMicrophone_skillsInfluence_option2 = "僅潛行",
+    Sandbox_ZombiesHearYourMicrophone_skillsInfluence_option3 = "僅輕巧",
+    Sandbox_ZombiesHearYourMicrophone_skillsInfluence_option4 = "兩者都影響",
+
+    Sandbox_ZombiesHearYourMicrophone_traitsInfluence = "特質對聲音範圍的影響",
+    Sandbox_ZombiesHearYourMicrophone_traitsInfluence_tooltip = "負面: 引人注目, 笨拙. \n 正面: 不起眼, 優雅"
+    Sandbox_ZombiesHearYourMicrophone_traitsInfluence_option1 = "無影響",
+    Sandbox_ZombiesHearYourMicrophone_traitsInfluence_option2 = "僅負面",
+    Sandbox_ZombiesHearYourMicrophone_traitsInfluence_option3 = "僅正面",
+    Sandbox_ZombiesHearYourMicrophone_traitsInfluence_option4 = "兩者都影響",
+}

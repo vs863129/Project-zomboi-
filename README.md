@@ -170,8 +170,12 @@ FileName/media/lua/shared/Translate/CH/
 [Shark's 交換所有工具 Shark's Trade Everyting-Tool[41.68+]](https://steamcommunity.com/sharedfiles/filedetails/?id=2585566819) (Github:vs863129,Discord:文森)  
 [不當哥哥了! お兄ちゃんはおしまい!](https://steamcommunity.com/sharedfiles/filedetails/?id=2965689884) (Github:vs863129,Discord:文森)  
 [土匪 Bandits](https://steamcommunity.com/sharedfiles/filedetails/?id=3268487204) (Github:vs863129,Discord:文森)  
-[Shark's 可交易所有工具 Shark's Trade Everyting-Tool[41.68+]](https://steamcommunity.com/sharedfiles/filedetails/?id=2585566819) (Github:vs863129,Discord:文森)  
-[擰乾衣服 Wring Out Clothing](https://steamcommunity.com/sharedfiles/filedetails/?id=2696083206)
+[Shark's 可交易所有工具 Shark's Trade Everyting-Tool[41.68+]](https://steamcommunity.com/sharedfiles/filedetails/?id=2585566819) (Github:vs863129,Discord:文森)   
+[擰乾衣服 Wring Out Clothing](https://steamcommunity.com/sharedfiles/filedetails/?id=2696083206) (Github:vs863129,Discord:文森) 
+[弓之道 The Way of the Bow](https://steamcommunity.com/sharedfiles/filedetails/?id=2959142530) (Github:vs863129,Discord:文森)  
+[殭屍聽得見你說話 Zombies Hear Your Microphone](https://steamcommunity.com/sharedfiles/filedetails/?id=3004111200) (Github:vs863129,Discord:文森)  
+[顯示牆壁耐久度 Show Wall Health](https://steamcommunity.com/sharedfiles/filedetails/?id=3002666175) (Github:vs863129,Discord:文森)  
+[真實爬行 True Crawl](https://steamcommunity.com/workshop/filedetails/?id=3008448748) (Github:vs863129,Discord:文森) 
 
 ### -地圖描述翻譯-
 [藍莓鎮 BlueBerry](https://steamcommunity.com/sharedfiles/filedetails/?id=2671890843) (Github:HerioJohnX,Discord:希利奧)  

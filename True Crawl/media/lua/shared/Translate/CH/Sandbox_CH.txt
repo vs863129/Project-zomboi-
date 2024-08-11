@@ -1,0 +1,24 @@
+Sandbox_CH = {
+	Sandbox_TrueCrawl = "真實爬行",
+	Sandbox_TrueCrawl_ZombieRadius = "殭屍可見範圍",
+	Sandbox_TrueCrawl_ZombieRadius_tooltip = "該值決定玩家爬行時,對於殭屍的可見範圍. 1 (極短) 至 20 (極遠). 預設是 5 (普通範圍). 建議是保持在 5 - 10 之間,較為身臨其境的遊戲體驗.",
+
+	Sandbox_TrueCrawl_StealhModeEnable = "偷摸摸模式",
+	Sandbox_TrueCrawl_StealhModeEnable_tooltip = "開啟或關閉此模式, 關閉則使用原版的潛行模式. [預設 : 開].",
+
+	Sandbox_TrueCrawl_MoodleEnable = "隱身狀態圖標",
+	Sandbox_TrueCrawl_MoodleEnable_tooltip = "切換隱身狀態圖標(僅偷摸摸模式開啟中啟用) [預設 : 開]. ",
+
+	Sandbox_TrueCrawl_CrawlUnderVehiclesEnable = "爬過車底部",
+	Sandbox_TrueCrawl_CrawlUnderVehiclesEnable_tooltip = "切換可爬過車子底部的能力. (你應該正在爬行!) [預設 : 開, 預設按鍵 :  Shift]. ",
+	
+	Sandbox_TrueCrawl_RealisticEndurance = "真實耐力",
+	Sandbox_TrueCrawl_RealisticEndurance_tooltip = "切換真實耐力模式,此模式可限制爬行距離,來提高遊戲沉浸感. [預設 : 開]. ",
+
+	Sandbox_TrueCrawl_CancelCrawlWhenSpotted = "被發現時取消爬行",
+	Sandbox_TrueCrawl_CancelCrawlWhenSpotted_tooltip = "被殭屍發現時,自動取消爬行 [預設 : 關]. ",
+	
+	Sandbox_TrueCrawl_StealhModeServer = "啟用伺服器模式",
+	Sandbox_TrueCrawl_StealhModeServer_tooltip = "當你託管或專用伺服器時,才使用此選項. (避免錯誤問題). [預設 : 關]. ",
+}
+

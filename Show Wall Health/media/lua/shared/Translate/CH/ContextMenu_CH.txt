@@ -1,0 +1,22 @@
+ContextMenu_CH = {
+	ContextMenu_Kamer_ShowWallHealth_Check_Status = "檢查外觀",
+	ContextMenu_Kamer_ShowWallHealth_Check = "檢查 %1",
+	ContextMenu_Kamer_ShowWallHealth_Condition = "狀態",
+	ContextMenu_Kamer_ShowWallHealth_Health = "耐久度 %1/%2",
+
+	ContextMenu_Kamer_ShowWallHealth_ImmersiveHealth1		=	"幾乎要解體", 
+	ContextMenu_Kamer_ShowWallHealth_ImmersiveHealthLine1	=	"",
+
+	ContextMenu_Kamer_ShowWallHealth_ImmersiveHealth2		=	"嚴重壞損",
+	ContextMenu_Kamer_ShowWallHealth_ImmersiveHealthLine2	=	"",
+
+	ContextMenu_Kamer_ShowWallHealth_ImmersiveHealth3		=	"重度壞損",
+	ContextMenu_Kamer_ShowWallHealth_ImmersiveHealthLine3	=	"",
+
+	ContextMenu_Kamer_ShowWallHealth_ImmersiveHealth4		=	"中度壞損",
+	ContextMenu_Kamer_ShowWallHealth_ImmersiveHealthLine4	=	"",
+
+	ContextMenu_Kamer_ShowWallHealth_ImmersiveHealth5 		=	"輕度壞損",
+	ContextMenu_Kamer_ShowWallHealth_ImmersiveHealthLine5 	=	"",
+
+}

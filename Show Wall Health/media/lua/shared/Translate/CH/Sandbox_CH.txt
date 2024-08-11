@@ -1,0 +1,19 @@
+Sandbox_CH = {
+	Sandbox_Kamer_ShowWallHealth_Page = "顯示牆壁耐久度",
+
+	Sandbox_Kamer_ShowWallHealthSettings.visibility = "可見耐久度",
+	Sandbox_Kamer_ShowWallHealthSettings.visibility_option1 = "所有人",
+	Sandbox_Kamer_ShowWallHealthSettings.visibility_option2 = "僅管理員",
+	Sandbox_Kamer_ShowWallHealthSettings.visibility_option3 = "關閉",
+	Sandbox_Kamer_ShowWallHealthSettings.visibility_tooltip = "<H2><ORANGE>選擇可見模式 <CENTRE><TEXT><BR>所有人 - 都可以看到選項, <LINE>僅管理員 - 管理員/Debug模式才能看到選項, <LINE>關閉 - 沒有人可看到選項, <LINE>",
+	
+	Sandbox_Kamer_ShowWallHealthSettings.showIcons = "顯示圖標",
+	Sandbox_Kamer_ShowWallHealthSettings.showIcons_tooltip = "<H2><ORANGE>選擇時,將顯示"?"圖標",	
+	
+	Sandbox_Kamer_ShowWallHealthSettings.position = "位置",
+	Sandbox_Kamer_ShowWallHealthSettings.position_option1 = "最前",
+	Sandbox_Kamer_ShowWallHealthSettings.position_option2 = "最後",
+	Sandbox_Kamer_ShowWallHealthSettings.position_option3 = "在修復牆的上方",
+	Sandbox_Kamer_ShowWallHealthSettings.position_tooltip = "<H2><ORANGE>選擇選單的位置 <CENTRE><TEXT><BR>最前 - 列表第一位, <LINE>最後 - 列表最下方, <LINE>在修復牆的上方 - 如果"修復牆"模組未啟用時，則改為"最前" <LINE>",
+	
+}

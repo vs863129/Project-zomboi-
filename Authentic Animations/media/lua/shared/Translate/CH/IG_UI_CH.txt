@@ -1,4 +1,4 @@
-IGUI_EN = {
+IGUI_CH = {
     IGUI_Emote_Cube = "方塊",
     IGUI_Emote_Build = "建造",
 	IGUI_Emote_bentdouble = "摸膝喘氣",
