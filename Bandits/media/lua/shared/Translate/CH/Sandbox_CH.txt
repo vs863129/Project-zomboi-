@@ -2,13 +2,15 @@ Sandbox_CH = {
 
     /***** GENERAL *****/
     Sandbox_Bandits_General = "預設土匪"
-    Sandbox_Bandits.StrenghtModel = "每波天數的依據"
+    Sandbox_Bandits.StrenghtModel = "生成依據 [玩家時間]"
     Sandbox_Bandits.StrenghtModelTooltip = "影響土匪強度"
     Sandbox_Bandits.StrenghtModel_option1 = "角色生存時間"    
     Sandbox_Bandits.StrenghtModel_option2 = "世界時間"
     Sandbox_Bandits.StrenghtModel_option3 = "地圖區域"
 
     Sandbox_Bandits.Surrender = "土匪可能會投降"
+    Sandbox_Bandits.BleedOut = "受傷的土匪可能會流血致死"
+    Sandbox_Bandits.LimitedEndurance = "土匪有耐力限制"
     Sandbox_Bandits.RunAway = "土匪可能會逃跑"
     Sandbox_Bandits.DestroyDoor = "土匪可能會破壞門"
     Sandbox_Bandits.SmashWindow = "土匪可能會敲破窗戶"
@@ -16,13 +18,31 @@ Sandbox_CH = {
     Sandbox_Bandits.DestroyThumpable = "土匪可能會破壞玩家建設的建築"
     Sandbox_Bandits.Speak = "土匪會交流"
     Sandbox_Bandits.SneakAtNight = "土匪會在夜間潛行"
+    Sandbox_Bandits.CarryTorches = "土匪夜間攜帶手電筒機率"
     Sandbox_Bandits.ArrivalSoundLevel = "土匪進攻聲音"
     Sandbox_Bandits.ArrivalIcon = "土匪進攻圖標"
     Sandbox_Bandits.ArrivalWakeUp = "土匪攻擊會使玩家驚醒"
     Sandbox_Bandits.ArrivaPanic = "土匪襲擊時，會引發暫時性恐慌"
     Sandbox_Bandits.GunReflexMin = "武器最短瞄準時間 [ticks]"
     Sandbox_Bandits.GunReflexRand = "武器隨機最大額外瞄準時間 [ticks]"
+    Sandbox_Bandits.PistolRange = "土匪手槍最大距離 [方格]"
+    Sandbox_Bandits.RifleRange = "土匪步槍最大距離 [方格]"
+    
+    Sandbox_Bandits.HitModel = "玩家傷害模版"
+    Sandbox_Bandits.HitModelTooltip = "設置傷害計算方式"
+    Sandbox_Bandits.HitModel_option1 = "原版 (兼容性高)"    
+    Sandbox_Bandits.HitModel_option2 = "土匪模組"
+    
+    Sandbox_Bandits.OverallAccuracy = "土匪全域武器精準度"
+    Sandbox_Bandits.OverallAccuracyTooltip = "土匪使用所有類型武器的準度"
+    Sandbox_Bandits.OverallAccuracy_option1 = "敢死隊模式"    
+    Sandbox_Bandits.OverallAccuracy_option2 = "連個牆壁都打不中"
+    Sandbox_Bandits.OverallAccuracy_option3 = "臨時槍手"
+    Sandbox_Bandits.OverallAccuracy_option4 = "神槍手"
+    Sandbox_Bandits.OverallAccuracy_option5 = "雷射導引級忍者"
+
     Sandbox_Bandits.DefenderSpawnHourlyChance = "每小時機率生成土匪防禦者 [%]"
+    Sandbox_Bandits.BaseSpawnHourlyChance = "土匪 基地/營地每小時生成概率(如果區域允許話) [%]"
 
     /***** WAVES *****/
     Sandbox_Bandits = "土匪"
@@ -44,8 +64,18 @@ Sandbox_CH = {
     Sandbox_Bandits_Wave_16 = "土匪波數 16"
     
     Sandbox_Bandits.WaveEnabled = "啟用"
-
     Sandbox_Bandits.WaveEnabledTooltip = "每 10 分鐘遊戲時間的消耗百分比."
+
+
+    Sandbox_Bandits.FriendlyChance = "友好率 [%]"
+    Sandbox_Bandits.FriendlyChanceTooltip = "對玩家友好的土匪團隊機率"
+
+    Sandbox_Bandits.EnemyBehaviour = "敵人 AI 模板"
+    Sandbox_Bandits.EnemyBehaviourTooltip = "敵人的行為模板"
+    Sandbox_Bandits.EnemyBehaviour_option1 = "隨機"
+    Sandbox_Bandits.EnemyBehaviour_option2 = "激進"
+    Sandbox_Bandits.EnemyBehaviour_option3 = "流浪者"
+    Sandbox_Bandits.EnemyBehaviour_option4 = "護衛"
 
     Sandbox_Bandits.FirstDay = "開始日"
     Sandbox_Bandits.FirstDayTooltip = "波數開啟日"
@@ -54,16 +84,13 @@ Sandbox_CH = {
     Sandbox_Bandits.LastDayTooltip = "波數結束日"
 
     Sandbox_Bandits.SpawnDistance = "生成範圍"
-    Sandbox_Bandits.SpawnDistanceTooltip = "在距離玩家多遠的範圍內[squares]生成土匪"
+    Sandbox_Bandits.SpawnDistanceTooltip = "在距離玩家多遠的範圍內[方格]生成土匪"
 
     Sandbox_Bandits.SpawnHourlyChance = "每小時生成率 [%]"
     Sandbox_Bandits.SpawnHourlyChanceTooltip = "每一小時的波數出現率"
 
     Sandbox_Bandits.GroupSize = "團隊規模"
     Sandbox_Bandits.GroupSizeTooltip = "生成的土匪數量"
-
-    Sandbox_Bandits.IsFriendly = "友善的"
-    Sandbox_Bandits.IsFriendlyTooltip = "土匪對玩家友善嗎?"
 
     Sandbox_Bandits.GroupName = "團隊類型"
     Sandbox_Bandits.GroupNameTooltip = "團隊的性質"
