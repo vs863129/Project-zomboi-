@@ -1,0 +1,4 @@
+ContextMenu_CH= {
+	ContextMenu_TailoringWorkbench = "裁縫工作臺",
+	ContextMenu_WearIt = "穿戴",
+}

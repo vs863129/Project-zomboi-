@@ -1,0 +1,9 @@
+Sandbox_CH = {	
+	Sandbox_LegendCraft = "傳奇製作",
+	Sandbox_LCMWCustDamage = "自訂傷害比例 - 近戰",
+	Sandbox_LCMWCustDamage_tooltip = "每階製作的品質, 會增加的傷害(%)百分比"
+	Sandbox_LCMWLegDamage = "傳奇品質的傷害倍率 - 近戰",
+	Sandbox_LCMWLegDamage_tooltip = "傳奇與普通品質相比的傷害倍率."
+	Sandbox_LCMWDisableLegend = "讓傳奇武器可壞損",
+	Sandbox_LCMWDisableLegend_tooltip = "恢復傳奇品質武器的耐久度計算."
+	}

@@ -176,6 +176,8 @@ FileName/media/lua/shared/Translate/CH/
 [殭屍聽得見你說話 Zombies Hear Your Microphone](https://steamcommunity.com/sharedfiles/filedetails/?id=3004111200) (Github:vs863129,Discord:文森)  
 [顯示牆壁耐久度 Show Wall Health](https://steamcommunity.com/sharedfiles/filedetails/?id=3002666175) (Github:vs863129,Discord:文森)  
 [真實爬行 True Crawl](https://steamcommunity.com/workshop/filedetails/?id=3008448748) (Github:vs863129,Discord:文森) 
+[製作傳奇物品 - 近戰武器 Legend Craft - Melee Weapons](https://steamcommunity.com/sharedfiles/filedetails/?id=2814896298) (Github:vs863129,Discord:文森) 
+[Yaki的臨時衣物縫製 Yaki's Makeshift Clothing](https://steamcommunity.com/sharedfiles/filedetails/?id=2827080218) (Github:vs863129,Discord:文森) 
 
 ### -地圖描述翻譯-
 [藍莓鎮 BlueBerry](https://steamcommunity.com/sharedfiles/filedetails/?id=2671890843) (Github:HerioJohnX,Discord:希利奧)  

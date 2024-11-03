@@ -1,0 +1,3 @@
+Tooltip_CH= {
+	Tooltip_TailoringWorkbench_Description = "裁縫工作臺可以製作一堆衣服和護甲",
+}

@@ -1,0 +1,11 @@
+MakeUp_CH = {
+    MakeUpType_EyeScar = "眼部疤痕",
+    MakeUpType_LipsScar = "嘴唇疤痕",
+    MakeUpType_BrowScar = "眉間疤痕",
+    MakeUpType_ChestScar = "胸部疤痕",
+    MakeUpType_CheekBoneScar = "顴骨疤痕",
+    MakeUpType_NoseScar = "鼻子疤痕",
+    MakeUpType_BodyScars = "身體疤痕",
+    MakeUpType_Bandages = "繃帶",
+}
+

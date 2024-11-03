@@ -1,0 +1,12 @@
+IGUI_CH = {
+	IGUI_CraftCategory_LCAxes = "LC - 斧頭",
+	IGUI_CraftCategory_LCBlunt = "LC - 鈍器",
+	IGUI_CraftCategory_LCBlades = "LC - 刀刃",
+	IGUI_CraftCategory_LCSpears = "LC - 長矛",
+	IGUI_ItemCat_LCMW2 = "LC - 近戰 Lv. 2",
+	IGUI_ItemCat_LCMW3 = "LC - 近戰 Lv. 3",
+	IGUI_ItemCat_LCMW4 = "LC - 近戰 Lv. 4",
+	IGUI_ItemCat_LCMW5 = "LC - 近戰 Lv. 5",
+	IGUI_ItemCat_LCMWL = "LC - 近戰 傳奇"
+	IGUI_ItemCat_LCDC = "LC - 停用",
+	}

@@ -1,0 +1,3 @@
+ContextMenu_CH = {
+	ContextMenu_Repair_Legend = "修復傳奇物品",
+}
