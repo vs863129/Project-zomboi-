@@ -41,11 +41,11 @@ Recipes_CH = {
 	Recipe_Dye_Fabric_Brown = "染成棕色織物",
 	Recipe_Dye_Fabric_Grey = "染成灰色織物",
 	Recipe_Make_Junker_ShoulderPads = "製作重裝皮革護肩",
-	Recipe_Add_Skull_to_Junker_ShoulderPads = "添加骷髏至 重裝皮革護肩",
+	Recipe_Add_Skull_to_Junker_ShoulderPads = "添加骷髏至重裝皮革護肩",
 	Recipe_Make_Junker_Boots = "製作重裝皮革靴子",
 	Recipe_Make_Junker_Pants = "製作重裝皮革褲",
 	Recipe_Make_Junker_Belt = "製作重裝皮革腰帶",
-	Recipe_Add_Skull_to_Junker_Belt = "添加骷髏至 重裝皮革腰帶",
+	Recipe_Add_Skull_to_Junker_Belt = "添加骷髏至重裝皮革腰帶",
 	Recipe_Make_Junker_Chest_Plate = "製作重裝皮革胸甲",
 
 	Recipe_Make_Leather_Chest_Plate = "製作皮製胸甲",
