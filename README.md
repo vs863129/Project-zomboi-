@@ -178,7 +178,8 @@ FileName/media/lua/shared/Translate/CH/
 [真實爬行 True Crawl](https://steamcommunity.com/workshop/filedetails/?id=3008448748) (Github:vs863129,Discord:文森) 
 [製作傳奇物品 - 近戰武器 Legend Craft - Melee Weapons](https://steamcommunity.com/sharedfiles/filedetails/?id=2814896298) (Github:vs863129,Discord:文森) 
 [Yaki的臨時衣物縫製 Yaki's Makeshift Clothing](https://steamcommunity.com/sharedfiles/filedetails/?id=2827080218) (Github:vs863129,Discord:文森) 
-
+[加油站有瓦斯 Pumps Have Propane](https://steamcommunity.com/sharedfiles/filedetails/?id=2739570406) (Github:vs863129,Discord:文森) 
+[溫室建築組 Greenhouse Building Set](https://steamcommunity.com/sharedfiles/filedetails/?id=3035031408) (Github:vs863129,Discord:文森) 
 ### -地圖描述翻譯-
 [藍莓鎮 BlueBerry](https://steamcommunity.com/sharedfiles/filedetails/?id=2671890843) (Github:HerioJohnX,Discord:希利奧)  
 [查爾斯鎮 Chestown](https://steamcommunity.com/sharedfiles/filedetails/?id=2840889213) (Github:HerioJohnX,Discord:希利奧)  

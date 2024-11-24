@@ -1,0 +1,8 @@
+ContextMenu_CH = {
+	ContextMenu_TakePropaneFromPump = "填滿瓦斯桶",
+	ContextMenu_FillTorchFromPump = "填滿瓦斯噴槍",
+	ContextMenu_EmptyTorch = "空瓦斯噴槍",
+	ContextMenu_EmptyBBQTank = "空瓦斯桶",
+	ContextMenu_FillTruckFromPump = "從泵補充瓦斯卡車",
+	ContextMenu_FillLargeTankfromPump = "從泵補充大型瓦斯罐",
+}
