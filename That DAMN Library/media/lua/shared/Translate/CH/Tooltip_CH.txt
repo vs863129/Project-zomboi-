@@ -1,0 +1,44 @@
+Tooltip_CH = {
+
+	/* runFlat */
+
+	Tooltip_item_runFlatTire = "軍用及輪胎永遠不會爆胎,但狀況不佳時仍會失去摩擦力.",
+	Tooltip_item_oldrunFlatTire = "老輪胎將會更快廢棄.",
+
+	/* damnCraft */
+
+	Tooltip_item_damnSteelRim = "用於製作輪胎的基本輪圈類型.",
+	Tooltip_item_damnTireRubber = "橡膠輪胎用於輪胎製作.橡膠輪胎的狀況會影響製成輪胎的最終狀況.",
+	Tooltip_item_damnTireMount = "橡膠輪胎安裝座可節省存放橡膠輪胎的空間.",
+	Tooltip_item_damnGlassPane = "使用手術刀將玻璃板製作成車窗."
+	Tooltip_item_damnHandle = "把手用於製作車門."
+	Tooltip_item_damnHinge = "鉸鏈用於製作車門."
+	Tooltip_item_damnRubberStrip = "橡膠條用於製作擋風玻璃或是車門."
+	Tooltip_item_damnSeatFabric = "座椅布料用於製作車用座椅."
+	Tooltip_item_damnSeatFoam = "座椅泡棉用於製作車用座椅."
+	Tooltip_item_damnSeatFrame = "座椅框架用於製作車用座椅."
+
+	Tooltip_item_damnSchematicsBox = "車輛零件製作的原理圖",
+	Tooltip_item_damnWindowSchematics = "車窗製作的原理圖",
+	Tooltip_item_damnDoorSchematics = "車門製作的原理圖",
+	Tooltip_item_damnHoodSchematics = "車輛引擎蓋製作的原理圖",
+	Tooltip_item_damnTrunkLidSchematics = "車輛後車箱蓋製作的原理圖",
+	Tooltip_item_damnSeatSchematics = "車輛座椅製作的原理圖",
+	Tooltip_item_damnRimSchematics = "車輛輪圈製作的原理圖",
+	Tooltip_item_damnMufflerSchematics = "車輛消音器製作的原理圖",
+	Tooltip_item_damnBumperSchematics = "車輛保險桿製作的原理圖",
+    Tooltip_item_damnBodyworkSchematics = "車輛相關製作的原理圖",
+
+	Tooltip_item_damnTireRepairKit = "隨身攜帶的輪胎修補套組.",
+	Tooltip_item_damnTireRepairTools = "輪胎修補套組的主要工具,需要橡膠溶液和修補條來修補輪胎.",
+	Tooltip_item_damnTireRepairSolution = "三個輪胎修補套組之一,需要修理工具和修補條來修補輪胎.",
+	Tooltip_item_damnTireRepairStrips = "三個輪胎修補套組之一,需要修理工具和橡膠溶液來修補輪胎..",
+
+	Tooltip_item_damnPlasticWeldingKit = "隨身攜帶的塑膠零件修補工具套組.",
+	Tooltip_item_damnPlasticWeldingGun = "塑料焊接套件中的主要工具,需要電池和焊接釘.",
+	Tooltip_item_damnPlasticWeldingStaples = "兩個塑料焊接套件中的一個,需要電池供電的焊接槍進行塑料部件修補.",
+
+	/* USMIL */
+
+
+}

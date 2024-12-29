@@ -1,0 +1,8 @@
+IGUI_CH =
+{
+	IGUI_perks_Libations 			= "奠酒精通",
+	IGUI_perks_Brewing 				= "釀造中",
+	IGUI_CraftCategory_MoreBrews 	= "更多啤酒",
+	IGUI_ItemCat_MoreBrews 			= "更多啤酒",
+	IGUI_ItemCat_CraftBrewing 		= "釀造",
+}

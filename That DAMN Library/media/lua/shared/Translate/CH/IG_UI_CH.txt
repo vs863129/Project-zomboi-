@@ -1,0 +1,5 @@
+IG_UI_CH = {
+
+	IGUI_VehiclePartWindowBackLeft = "左後窗",
+	IGUI_VehiclePartWindowBackRight = "右後窗",
+}

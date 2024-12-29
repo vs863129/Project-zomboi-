@@ -1,0 +1,6 @@
+Sandbox_CH = {
+	Sandbox_DAMN_Options = "damnlib | 設置",
+	Sandbox_DAMN_AllowVanillaVehicleDismantling = "啟用原版車輛零件回收",
+    Sandbox_DAMN_AllowVanillaWorldItemDismantling = "啟用房屋窗戶和鏡子回收",
+    Sandbox_DAMN_Spawns = "KI5 | 預設生成點",
+}

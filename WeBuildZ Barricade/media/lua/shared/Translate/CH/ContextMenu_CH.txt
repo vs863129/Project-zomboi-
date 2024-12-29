@@ -1,0 +1,20 @@
+ContextMenu_CH = {
+    \*Barricades*\
+    ContextMenu_BarricadesDown = "矮路障",
+    ContextMenu_BarricadesUp = "高路障",
+    ContextMenu_Barricades1 = "路障 1",
+    ContextMenu_Barricades2 = "路障 2",
+    ContextMenu_Barricades3 = "路障 3",
+    ContextMenu_Barricades4 = "路障 4",
+    ContextMenu_Barricades5 = "路障 5",
+    ContextMenu_Barricades6 = "路障 6",
+    ContextMenu_Barricades7 = "路障 7",
+    ContextMenu_Barricades8 = "路障 8",
+    ContextMenu_BarricadesUp1 = "高路障 1",
+    ContextMenu_BarricadesUp2 = "高路障 2",
+    ContextMenu_BarricadesUp3 = "高路障 3",
+    ContextMenu_BarricadesUp4 = "高路障 4",
+
+    \*Tooltip*\
+    ContextMenu_Tooltip_Barricades = "路障",
+}

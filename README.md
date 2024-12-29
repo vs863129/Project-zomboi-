@@ -180,6 +180,10 @@ FileName/media/lua/shared/Translate/CH/
 [Yaki的臨時衣物縫製 Yaki's Makeshift Clothing](https://steamcommunity.com/sharedfiles/filedetails/?id=2827080218) (Github:vs863129,Discord:文森) 
 [加油站有瓦斯 Pumps Have Propane](https://steamcommunity.com/sharedfiles/filedetails/?id=2739570406) (Github:vs863129,Discord:文森) 
 [溫室建築組 Greenhouse Building Set](https://steamcommunity.com/sharedfiles/filedetails/?id=3035031408) (Github:vs863129,Discord:文森) 
+[路障模組 WeBuildZ: Barricade](https://steamcommunity.com/sharedfiles/filedetails/?id=2790397567) (Github:vs863129,Discord:文森) 
+[K15的底層庫 that DAMN Library](https://steamcommunity.com/sharedfiles/filedetails/?id=3171167894) (Github:vs863129,Discord:文森) 
+[更多啤酒與釀造 More Brews](https://steamcommunity.com/sharedfiles/filedetails/?id=2801575579) (Github:vs863129,Discord:文森) 
+
 ### -地圖描述翻譯-
 [藍莓鎮 BlueBerry](https://steamcommunity.com/sharedfiles/filedetails/?id=2671890843) (Github:HerioJohnX,Discord:希利奧)  
 [查爾斯鎮 Chestown](https://steamcommunity.com/sharedfiles/filedetails/?id=2840889213) (Github:HerioJohnX,Discord:希利奧)  

@@ -1,0 +1,4 @@
+UI_CH = {
+    UI_trait_brewer     = "釀酒師",
+    UI_trait_brewerinfo = "你了解一切關於釀酒的知識 - 初始獲得 +2 釀酒技能及製作瓶子,罐頭,瓶蓋時獲得更多釀酒經驗",
+}
